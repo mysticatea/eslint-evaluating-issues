@@ -38,7 +38,7 @@ function renderTableRow({
 }) {
     const championAvatar = renderAvatar(champion)
     const supporterAvatars = supporters.map(renderAvatar).join(" ")
-    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${numComments} | ${numUpvotes} |`
+    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${numUpvotes} | ${numComments} |`
 }
 
 /**
@@ -50,7 +50,7 @@ function renderTable(issues) {
     if (issues.length === 0) {
         return "Nothing."
     }
-    return `| # | Title | Champion | Supporters | 📣 | 👍 |
+    return `| # | Title | Champion | Supporters | 👍 | 📣 |
 |--:|:------|:---------|:-----------|---:|---:|
 ${issues
         .sort(compare)
@@ -67,12 +67,7 @@ Total: ${issues.length}`
  * @returns {number} The value to sort.
  */
 function compare(a, b) {
-    return (
-        b.supporters.length - a.supporters.length ||
-        b.numUpvotes - a.numUpvotes ||
-        b.numComments - a.numComments ||
-        b.id - a.id
-    )
+    return b.numUpvotes - a.numUpvotes || b.id - a.id
 }
 
 //------------------------------------------------------------------------------
@@ -87,6 +82,11 @@ ESLint needs a champion and three supporters from [the team](https://github.com/
 This page is a summary of feature issues.
 
 > This page will be updated every day by Travis CI.
+
+**Legend:**
+
+- The 👍 column is the number of upvotes which came from outside of the team. Each table is sorted by this column.
+- The 📣 column is the number of comments in the issue.
 
 ## Accepted (needs to update labels)
 
