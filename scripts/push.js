@@ -46,7 +46,7 @@ async function exec(command, ...args) {
 
     logger.info("Make a commit.")
     await exec("git", "add", ".")
-    await exec("git", "commit", "-m", "update issues")
+    await exec("git", "commit", "-m", '"update issues"')
 
     logger.info("Push the commit.")
     await exec(

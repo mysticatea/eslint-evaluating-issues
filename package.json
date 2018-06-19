@@ -15,7 +15,9 @@
     "fs-extra": "^6.0.1",
     "p-event": "^2.0.0"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "true"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mysticatea/eslint-evaluating-issues.git"
