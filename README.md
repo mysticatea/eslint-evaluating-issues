@@ -3,7 +3,7 @@
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
 This page is a summary of feature issues.
 
-> This page will be updated every day by Travis CI.
+This page will be updated every day by [Travis CI](https://travis-ci.com/mysticatea/eslint-evaluating-issues).
 
 **Legend:**
 
