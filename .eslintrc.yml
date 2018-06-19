@@ -1,0 +1,5 @@
+root: true
+extends:
+  - plugin:mysticatea/es2018
+rules:
+  camelcase: off
