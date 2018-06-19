@@ -87,7 +87,7 @@ const theTeam = new Set([
 ;(async () => {
     logger.info("Setup access token...")
     const ACCESS_TOKEN =
-        process.env.ACCESS_TOKEN ||
+        process.env.ATOKEN ||
         (await fs.readFile(".access-token", "utf8")).trim()
 
     octokit.authenticate({ type: "token", token: ACCESS_TOKEN })

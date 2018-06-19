@@ -33,7 +33,7 @@ async function exec(command, ...args) {
 //------------------------------------------------------------------------------
 
 ;(async () => {
-    const TOKEN = process.env.ATOKEN
+    const ACCESS_TOKEN = process.env.ATOKEN
 
     logger.info("Check if updates exist.")
     try {
@@ -52,7 +52,7 @@ async function exec(command, ...args) {
     await exec(
         "git",
         "push",
-        `https://mysticatea:${TOKEN}@github.com/mysticatea/eslint-evaluating-issues.git`,
+        `https://mysticatea:${ACCESS_TOKEN}@github.com/mysticatea/eslint-evaluating-issues.git`,
         "HEAD:master",
     )
 
