@@ -19,6 +19,36 @@ const octokit = new Octokit({
     },
 })
 
+const theTeam = new Set([
+    // TSC
+    "nzakas",
+    "ilyavolodin",
+    "btmills",
+    "gyandeeps",
+    "mysticatea",
+    "alberto",
+    "kaicataldo",
+    "not-an-aardvark",
+    "platinumazure",
+
+    // Committers
+    "lo1tuma",
+    "xjamundx",
+    "ianvs",
+    "michaelficarra",
+    "pedrottimark",
+    "markelog",
+    "mikesherov",
+    "hzoo",
+    "mdevils",
+    "zxqfox",
+    "vitorbal",
+    "JamesHenry",
+    "soda0289",
+    "Aladdin-ADD",
+    "VictorHom",
+])
+
 /**
  * Get items from a given data object.
  * @param {any} responseData The data object to get items.
@@ -55,35 +85,6 @@ async function pagenate(responsePromise) {
 // Main
 //------------------------------------------------------------------------------
 
-const theTeam = new Set([
-    // TSC
-    "nzakas",
-    "ilyavolodin",
-    "btmills",
-    "gyandeeps",
-    "mysticatea",
-    "alberto",
-    "kaicataldo",
-    "not-an-aardvark",
-    "platinumazure",
-
-    // Committers
-    "lo1tuma",
-    "xjamundx",
-    "ianvs",
-    "michaelficarra",
-    "pedrottimark",
-    "markelog",
-    "mikesherov",
-    "hzoo",
-    "mdevils",
-    "zxqfox",
-    "vitorbal",
-    "JamesHenry",
-    "soda0289",
-    "Aladdin-ADD",
-    "VictorHom",
-])
 ;(async () => {
     logger.info("Setup access token...")
     const ACCESS_TOKEN =
