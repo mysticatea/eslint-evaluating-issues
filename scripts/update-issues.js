@@ -119,17 +119,28 @@ async function pagenate(responsePromise) {
                 owner: "eslint",
                 repo: "eslint",
                 number: id,
-                content: "+1",
                 per_page: 100,
             }),
         )
-        const supporters = reactions
+        const upvoters = reactions
+            .filter(reaction => reaction.content === "+1")
             .map(reaction => reaction.user.login)
-            .filter(username => username !== champion && theTeam.has(username))
-        const numUpvotes = reactions
+        const downvoters = reactions
+            .filter(reaction => reaction.content === "-1")
             .map(reaction => reaction.user.login)
-            .filter(username => username !== champion && !theTeam.has(username))
-            .length
+
+        const supporters = upvoters.filter(
+            username => username !== champion && theTeam.has(username),
+        )
+        const against = downvoters.filter(
+            username => username !== champion && theTeam.has(username),
+        )
+        const numUpvotes = upvoters.filter(
+            username => username !== champion && !theTeam.has(username),
+        ).length
+        const numDownvotes = downvoters.filter(
+            username => username !== champion && !theTeam.has(username),
+        ).length
 
         issues.push({
             id,
@@ -138,8 +149,10 @@ async function pagenate(responsePromise) {
             labels,
             champion,
             supporters,
-            numComments,
+            against,
             numUpvotes,
+            numDownvotes,
+            numComments,
         })
     }
     logger.info(`${issues.length} issues were found.`)
