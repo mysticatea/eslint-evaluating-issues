@@ -13,6 +13,7 @@
     "eslint-plugin-mysticatea": "^5.0.0-beta.15",
     "fancy-log": "^1.3.2",
     "fs-extra": "^6.0.1",
+    "intl-relativeformat": "^2.1.0",
     "p-event": "^2.0.0"
   },
   "scripts": {

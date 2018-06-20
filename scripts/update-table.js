@@ -6,10 +6,13 @@
 
 const logger = require("fancy-log")
 const fs = require("fs-extra")
+const IntlRelativeFormat = require("intl-relativeformat")
 
 //------------------------------------------------------------------------------
 // Helpers
 //------------------------------------------------------------------------------
+
+const rf = new IntlRelativeFormat("en")
 
 /**
  * @typedef {Object} Issue
@@ -23,6 +26,7 @@ const fs = require("fs-extra")
  * @property {number} numUpvotes The number of +1 which came from out of the team.
  * @property {number} numDownvotes The number of -1 which came from out of the team.
  * @property {number} numComments The number of comments
+ * @property {string} lastUpdateTime The ISO 8601 string of the last update time.
  */
 
 /**
@@ -51,11 +55,16 @@ function renderTableRow({
     numUpvotes,
     numDownvotes,
     numComments,
+    lastUpdateTime,
 }) {
     const championAvatar = renderAvatar(champion)
     const supporterAvatars = supporters.map(renderAvatar).join(" ")
     const againstAvatars = against.map(renderAvatar).join(" ")
-    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${numDownvotes} | ${numComments} |`
+    const time = new Date(lastUpdateTime).toLocaleDateString()
+    const relativeTime = `<span title="${time}">${rf.format(
+        new Date(lastUpdateTime),
+    )}</span>`
+    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${numDownvotes} | ${numComments} | ${relativeTime} |`
 }
 
 /**
@@ -67,8 +76,8 @@ function renderTable(issues) {
     if (issues.length === 0) {
         return "Nothing."
     }
-    return `| # | Title | Champion | Supporters | Against | 👍 | 👎 | 📣 |
-|--:|:------|:---------|:-----------|:--------|---:|---:|---:|
+    return `| # | Title | Champion | Supporters | Against | 👍 | 👎 | 📣 | 🕒 |
+|--:|:------|:---------|:-----------|:--------|---:|---:|---:|:--:|
 ${issues
         .sort(compare)
         .map(renderTableRow)
@@ -109,6 +118,7 @@ This page is a summary of feature issues.
 
 - The 👍 column is the number of upvotes which came from outside of the team. Each table is sorted by this column.
 - The 📣 column is the number of comments in the issue.
+- The 🕒 column is the last update time.
 
 ## Accepted (needs to update labels)
 
