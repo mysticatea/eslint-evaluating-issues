@@ -46,9 +46,9 @@ function renderAvatar(username) {
  */
 function renderDateTime(createdTime) {
     const borderTime = addDays(createdTime, 21.5)
-    const icon = isAfter(new Date(), borderTime) ? "⌛" : "⏳"
+    const icon = isAfter(new Date(), borderTime) ? "⌛ " : ""
     const borderTimeText = borderTime.toISOString().slice(0, 10)
-    return `<span style="white-space:nowrap;">${icon} ${borderTimeText}</span>`
+    return `${icon}${borderTimeText}`
 }
 
 /**
