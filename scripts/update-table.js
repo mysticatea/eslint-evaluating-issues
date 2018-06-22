@@ -4,15 +4,14 @@
  */
 "use strict"
 
+const addDays = require("date-fns/add_days")
+const isAfter = require("date-fns/is_after")
 const logger = require("fancy-log")
 const fs = require("fs-extra")
-const IntlRelativeFormat = require("intl-relativeformat")
 
 //------------------------------------------------------------------------------
 // Helpers
 //------------------------------------------------------------------------------
-
-const rf = new IntlRelativeFormat("en")
 
 /**
  * @typedef {Object} Issue
@@ -26,7 +25,7 @@ const rf = new IntlRelativeFormat("en")
  * @property {number} numUpvotes The number of +1 which came from out of the team.
  * @property {number} numDownvotes The number of -1 which came from out of the team.
  * @property {number} numComments The number of comments
- * @property {string} lastUpdateTime The ISO 8601 string of the last update time.
+ * @property {string} createdTime The ISO 8601 string of the created time.
  */
 
 /**
@@ -38,6 +37,18 @@ function renderAvatar(username) {
     return username
         ? `<img alt="@${username}" src="https://github.com/${username}.png" width="32px" height="32px">`
         : ""
+}
+
+/**
+ * Render the border time.
+ * @param {Date} createdTime The created time.
+ * @returns {string} The text of the border time.
+ */
+function renderDateTime(createdTime) {
+    const borderTime = addDays(createdTime, 21.5)
+    const icon = isAfter(new Date(), borderTime) ? "⌛" : "⏳"
+    const borderTimeText = borderTime.toISOString().slice(0, 10)
+    return `<span style="white-space:nowrap;">${icon} ${borderTimeText}</span>`
 }
 
 /**
@@ -55,16 +66,13 @@ function renderTableRow({
     numUpvotes,
     numDownvotes,
     numComments,
-    lastUpdateTime,
+    createdTime,
 }) {
     const championAvatar = renderAvatar(champion)
     const supporterAvatars = supporters.map(renderAvatar).join(" ")
     const againstAvatars = against.map(renderAvatar).join(" ")
-    const time = new Date(lastUpdateTime).toLocaleDateString()
-    const relativeTime = `<span title="${time}">${rf.format(
-        new Date(lastUpdateTime),
-    )}</span>`
-    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${numDownvotes} | ${numComments} | ${relativeTime} |`
+    const time = renderDateTime(createdTime)
+    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${numDownvotes} | ${numComments} | ${time} |`
 }
 
 /**
@@ -76,8 +84,8 @@ function renderTable(issues) {
     if (issues.length === 0) {
         return "Nothing."
     }
-    return `| # | Title | Champion | Supporters | Against | 👍 | 👎 | 📣 | 🕒 |
-|--:|:------|:---------|:-----------|:--------|---:|---:|---:|:--:|
+    return `| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 ${issues
         .sort(compare)
         .map(renderTableRow)
@@ -118,7 +126,7 @@ This page is a summary of feature issues.
 
 - The 👍 column is the number of upvotes which came from outside of the team. Each table is sorted by this column.
 - The 📣 column is the number of comments in the issue.
-- The 🕒 column is the last update time.
+- The 🕙 column is the time to close the issue based on the [When to Close an Issue](https://eslint.org/docs/maintainer-guide/issues#when-to-close-an-issue) section.
 
 ## Accepted (needs to update labels)
 

@@ -108,7 +108,7 @@ async function pagenate(responsePromise) {
         const labels = issue.labels.map(label => label.name)
         const champion = issue.assignee && issue.assignee.login
         const numComments = issue.comments
-        const lastUpdateTime = issue.updated_at
+        const createdTime = issue.created_at
 
         if (!labels.includes("feature") && !labels.includes("enhancement")) {
             continue
@@ -154,7 +154,7 @@ async function pagenate(responsePromise) {
             numUpvotes,
             numDownvotes,
             numComments,
-            lastUpdateTime,
+            createdTime,
         })
     }
     logger.info(`${issues.length} issues were found.`)
