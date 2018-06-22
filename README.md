@@ -36,17 +36,18 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 20 | 0 | 16 | ⌛ 2017-09-30 |
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | 2 | 31 | ⌛ 2018-05-17 |
+| [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 6 | 2018-07-07 |
 | [#10321](https://github.com/eslint/eslint/issues/10321) | Option to ignore no-nested-ternary for daisy-chained ternaries only | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2018-05-28 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-02-11 |
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-01-03 |
 
-Total: 5
+Total: 6
 
 ## Needs a champion
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9940](https://github.com/eslint/eslint/issues/9940) | Globals configuration is unintuitive |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-02-26 |
+| [#9940](https://github.com/eslint/eslint/issues/9940) | Globals configuration is unintuitive |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-02-26 |
 | [#9511](https://github.com/eslint/eslint/issues/9511) | func-names: Allow unnamed generators (option) |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 12 | 0 | 5 | ⌛ 2017-11-15 |
 | [#6364](https://github.com/eslint/eslint/issues/6364) | How we can support other parsers better (babel-eslint, typescript) |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@soda0289" src="https://github.com/soda0289.png" width="32px" height="32px"> |  | 5 | 0 | 9 | ⌛ 2016-07-02 |
 | [#9947](https://github.com/eslint/eslint/issues/9947) | ESLint initializer uses double quotes even when single selected |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2018-02-27 |
@@ -124,7 +125,6 @@ Total: 4
 | [#9948](https://github.com/eslint/eslint/issues/9948) | Store information for files with lint warnings and errors in cache |  |  |  | 3 | 0 | 5 | ⌛ 2018-02-27 |
 | [#9787](https://github.com/eslint/eslint/issues/9787) | New rule: enforce async/await consistency |  |  |  | 3 | 0 | 16 | ⌛ 2018-01-19 |
 | [#4865](https://github.com/eslint/eslint/issues/4865) | Rule proposal: no-wildcard-import |  |  |  | 3 | 0 | 27 | ⌛ 2016-01-28 |
-| [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow |  |  |  | 2 | 0 | 5 | 2018-07-07 |
 | [#10413](https://github.com/eslint/eslint/issues/10413) | space-in-parens: a space after parenthesis after keyword |  |  |  | 2 | 0 | 1 | ⌛ 2018-06-19 |
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 2 | 0 | 5 | ⌛ 2017-12-27 |
@@ -179,5 +179,5 @@ Total: 4
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 66
+Total: 65
 
