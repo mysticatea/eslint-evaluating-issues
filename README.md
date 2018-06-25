@@ -48,7 +48,7 @@ Total: 5
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9940](https://github.com/eslint/eslint/issues/9940) | Globals configuration is unintuitive |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-02-26 |
-| [#9511](https://github.com/eslint/eslint/issues/9511) | func-names: Allow unnamed generators (option) |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 12 | 0 | 5 | ⌛ 2017-11-15 |
+| [#9511](https://github.com/eslint/eslint/issues/9511) | func-names: Allow unnamed generators (option) |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 13 | 0 | 5 | ⌛ 2017-11-15 |
 | [#6364](https://github.com/eslint/eslint/issues/6364) | How we can support other parsers better (babel-eslint, typescript) |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@soda0289" src="https://github.com/soda0289.png" width="32px" height="32px"> |  | 5 | 0 | 9 | ⌛ 2016-07-02 |
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-10-01 |
 
@@ -138,15 +138,17 @@ Total: 5
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
 | [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | 2018-07-14 |
-| [#10486](https://github.com/eslint/eslint/issues/10486) | no-extra-parens and no-mixed-operators conflict |  |  |  | 0 | 0 | 1 | 2018-07-09 |
+| [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 1 | 2018-07-13 |
+| [#10486](https://github.com/eslint/eslint/issues/10486) | no-extra-parens and no-mixed-operators conflict |  |  |  | 0 | 0 | 2 | 2018-07-09 |
 | [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 10 | 2018-07-04 |
 | [#10471](https://github.com/eslint/eslint/issues/10471) | move rule strict to category: "Best Practices" |  |  |  | 0 | 0 | 1 | 2018-07-04 |
 | [#10462](https://github.com/eslint/eslint/issues/10462) | require-await should allow no await if returning a promise and other items may return/throw prior |  |  |  | 0 | 0 | 1 | 2018-07-01 |
 | [#10454](https://github.com/eslint/eslint/issues/10454) | detect param aliasing with no-param-reassign { "props": true } |  |  |  | 0 | 0 | 1 | 2018-06-29 |
 | [#10447](https://github.com/eslint/eslint/issues/10447) | 'Prefer-Const' Multiple Variable Declaration Option |  |  |  | 0 | 0 | 5 | 2018-06-28 |
+| [#10435](https://github.com/eslint/eslint/issues/10435) | object-shorthand doesn't flag named functions |  |  |  | 0 | 0 | 9 | ⌛ 2018-06-24 |
 | [#10428](https://github.com/eslint/eslint/issues/10428) | New rule: no-restricted-exports |  |  |  | 0 | 0 | 5 | ⌛ 2018-06-22 |
-| [#10424](https://github.com/eslint/eslint/issues/10424) | Entire node highlighted because of endLine, endColumn inference |  |  |  | 0 | 0 | 1 | ⌛ 2018-06-21 |
 | [#10419](https://github.com/eslint/eslint/issues/10419) | Modify overrides to also override/add globals |  |  |  | 0 | 0 | 3 | ⌛ 2018-06-20 |
+| [#10418](https://github.com/eslint/eslint/issues/10418) | Indent - disallow multiline function call with no indent if some of arguments is single line |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-20 |
 | [#10417](https://github.com/eslint/eslint/issues/10417) | Indent - can not write multiline function call with indent if first arg is multiline |  |  |  | 0 | 0 | 6 | ⌛ 2018-06-20 |
 | [#10405](https://github.com/eslint/eslint/issues/10405) | Rule proposal: no-await-with-operators |  |  |  | 0 | 0 | 8 | ⌛ 2018-06-18 |
 | [#10385](https://github.com/eslint/eslint/issues/10385) | Add an "always"/"never" option for wrap-regex |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-11 |
@@ -181,5 +183,5 @@ Total: 5
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 67
+Total: 69
 
