@@ -47,12 +47,11 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9940](https://github.com/eslint/eslint/issues/9940) | Globals configuration is unintuitive |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 3 | 0 | 4 | ⌛ 2018-02-26 |
 | [#9511](https://github.com/eslint/eslint/issues/9511) | func-names: Allow unnamed generators (option) |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 13 | 0 | 5 | ⌛ 2017-11-15 |
 | [#6364](https://github.com/eslint/eslint/issues/6364) | How we can support other parsers better (babel-eslint, typescript) |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@soda0289" src="https://github.com/soda0289.png" width="32px" height="32px"> |  | 5 | 0 | 9 | ⌛ 2016-07-02 |
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-10-01 |
 
-Total: 4
+Total: 3
 
 ## Needs a champion and one more supporter
 
@@ -175,7 +174,7 @@ Total: 5
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-22 |
 | [#9976](https://github.com/eslint/eslint/issues/9976) | Match tester output to production behavior |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-09 |
 | [#9897](https://github.com/eslint/eslint/issues/9897) | Improve module resolution |  |  |  | 0 | 0 | 19 | ⌛ 2018-02-17 |
-| [#9887](https://github.com/eslint/eslint/issues/9887) | Change Request: Resolve LGPL dependency issue w/ Inquirer.js by updating package.json version to =>4.0.1 |  |  |  | 0 | 0 | 4 | ⌛ 2018-02-16 |
+| [#9887](https://github.com/eslint/eslint/issues/9887) | Change Request: Resolve LGPL dependency issue w/ Inquirer.js by updating package.json version to =>4.0.1 |  |  |  | 0 | 0 | 5 | ⌛ 2018-02-16 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 0 | 0 | 11 | ⌛ 2018-02-04 |
 | [#9793](https://github.com/eslint/eslint/issues/9793) | Spellchecking documentation in CI |  |  |  | 0 | 0 | 12 | ⌛ 2018-01-21 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-19 |
