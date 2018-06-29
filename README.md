@@ -137,13 +137,14 @@ Total: 5
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
+| [#10538](https://github.com/eslint/eslint/issues/10538) | Support d3-style member expression indentation |  |  |  | 0 | 0 | 1 | 2018-07-19 |
 | [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | 2018-07-14 |
-| [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 1 | 2018-07-13 |
+| [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 4 | 2018-07-13 |
 | [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 10 | 2018-07-04 |
 | [#10471](https://github.com/eslint/eslint/issues/10471) | move rule strict to category: "Best Practices" |  |  |  | 0 | 0 | 1 | 2018-07-04 |
 | [#10462](https://github.com/eslint/eslint/issues/10462) | require-await should allow no await if returning a promise and other items may return/throw prior |  |  |  | 0 | 0 | 1 | 2018-07-01 |
-| [#10454](https://github.com/eslint/eslint/issues/10454) | detect param aliasing with no-param-reassign { "props": true } |  |  |  | 0 | 0 | 1 | 2018-06-29 |
-| [#10447](https://github.com/eslint/eslint/issues/10447) | 'Prefer-Const' Multiple Variable Declaration Option |  |  |  | 0 | 0 | 5 | 2018-06-28 |
+| [#10454](https://github.com/eslint/eslint/issues/10454) | detect param aliasing with no-param-reassign { "props": true } |  |  |  | 0 | 0 | 1 | ⌛ 2018-06-29 |
+| [#10447](https://github.com/eslint/eslint/issues/10447) | 'Prefer-Const' Multiple Variable Declaration Option |  |  |  | 0 | 0 | 5 | ⌛ 2018-06-28 |
 | [#10435](https://github.com/eslint/eslint/issues/10435) | object-shorthand doesn't flag named functions |  |  |  | 0 | 0 | 9 | ⌛ 2018-06-24 |
 | [#10428](https://github.com/eslint/eslint/issues/10428) | New rule: no-restricted-exports |  |  |  | 0 | 0 | 5 | ⌛ 2018-06-22 |
 | [#10419](https://github.com/eslint/eslint/issues/10419) | Modify overrides to also override/add globals |  |  |  | 0 | 0 | 3 | ⌛ 2018-06-20 |
@@ -174,7 +175,6 @@ Total: 5
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-22 |
 | [#9976](https://github.com/eslint/eslint/issues/9976) | Match tester output to production behavior |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-09 |
 | [#9897](https://github.com/eslint/eslint/issues/9897) | Improve module resolution |  |  |  | 0 | 0 | 19 | ⌛ 2018-02-17 |
-| [#9887](https://github.com/eslint/eslint/issues/9887) | Change Request: Resolve LGPL dependency issue w/ Inquirer.js by updating package.json version to =>4.0.1 |  |  |  | 0 | 0 | 5 | ⌛ 2018-02-16 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 0 | 0 | 11 | ⌛ 2018-02-04 |
 | [#9793](https://github.com/eslint/eslint/issues/9793) | Spellchecking documentation in CI |  |  |  | 0 | 0 | 12 | ⌛ 2018-01-21 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-19 |
