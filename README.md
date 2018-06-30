@@ -137,7 +137,6 @@ Total: 5
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
-| [#10538](https://github.com/eslint/eslint/issues/10538) | Support d3-style member expression indentation |  |  |  | 0 | 0 | 1 | 2018-07-19 |
 | [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | 2018-07-14 |
 | [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 4 | 2018-07-13 |
 | [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 10 | 2018-07-04 |
@@ -182,5 +181,5 @@ Total: 5
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 68
+Total: 67
 
