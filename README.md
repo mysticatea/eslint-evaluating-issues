@@ -35,7 +35,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 20 | 0 | 16 | ⌛ 2017-09-30 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 21 | 0 | 16 | ⌛ 2017-09-30 |
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | 2 | 32 | ⌛ 2018-05-17 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 6 | 2018-07-07 |
 | [#10321](https://github.com/eslint/eslint/issues/10321) | Option to ignore no-nested-ternary for daisy-chained ternaries only | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2018-05-28 |
@@ -79,6 +79,7 @@ Total: 8
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#10298](https://github.com/eslint/eslint/issues/10298) | guard-for-in with throw statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-23 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 0 | ⌛ 2018-05-22 |
+| [#9977](https://github.com/eslint/eslint/issues/9977) | Warning for ignored files on linting |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2018-03-09 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-30 |
 | [#10522](https://github.com/eslint/eslint/issues/10522) | Semi-spacing additional behavior inside for statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-07-17 |
 | [#10360](https://github.com/eslint/eslint/issues/10360) | Disable return in valid-jsdoc rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-06-07 |
@@ -87,7 +88,7 @@ Total: 8
 | [#10015](https://github.com/eslint/eslint/issues/10015) | Allow 'no-lines' around comment before else/else-if for `lines-around-comment` |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-03-17 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 14
+Total: 15
 
 ## Needs consensus
 
@@ -132,17 +133,17 @@ Total: 5
 | [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  |  |  | 1 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10138](https://github.com/eslint/eslint/issues/10138) | Feature request: Option for changing the default indentation of conditional expression consequent/alternate nodes |  |  |  | 1 | 0 | 0 | ⌛ 2018-04-19 |
 | [#10130](https://github.com/eslint/eslint/issues/10130) | Add Rule: no-disconnected-chained-awaits |  |  |  | 1 | 0 | 8 | ⌛ 2018-04-17 |
-| [#9977](https://github.com/eslint/eslint/issues/9977) | Warning for ignored files on linting |  |  |  | 1 | 0 | 3 | ⌛ 2018-03-09 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
+| [#10553](https://github.com/eslint/eslint/issues/10553) | Request: Add "must have side-effects" as an option to "no-sequences" |  |  |  | 0 | 0 | 3 | 2018-07-25 |
 | [#10550](https://github.com/eslint/eslint/issues/10550) | Validate object literals |  |  |  | 0 | 0 | 5 | 2018-07-22 |
 | [#10548](https://github.com/eslint/eslint/issues/10548) | arrow-body-style: prefer body parens `(`  |  |  |  | 0 | 0 | 3 | 2018-07-22 |
 | [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | 2018-07-14 |
 | [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 4 | 2018-07-13 |
-| [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 10 | 2018-07-04 |
-| [#10471](https://github.com/eslint/eslint/issues/10471) | move rule strict to category: "Best Practices" |  |  |  | 0 | 0 | 1 | 2018-07-04 |
+| [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 14 | 2018-07-04 |
+| [#10471](https://github.com/eslint/eslint/issues/10471) | move rule strict to category: "Best Practices" |  |  |  | 0 | 0 | 1 | ⌛ 2018-07-04 |
 | [#10462](https://github.com/eslint/eslint/issues/10462) | require-await should allow no await if returning a promise and other items may return/throw prior |  |  |  | 0 | 0 | 1 | ⌛ 2018-07-01 |
 | [#10454](https://github.com/eslint/eslint/issues/10454) | detect param aliasing with no-param-reassign { "props": true } |  |  |  | 0 | 0 | 1 | ⌛ 2018-06-29 |
 | [#10447](https://github.com/eslint/eslint/issues/10447) | 'Prefer-Const' Multiple Variable Declaration Option |  |  |  | 0 | 0 | 5 | ⌛ 2018-06-28 |
