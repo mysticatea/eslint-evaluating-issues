@@ -25,23 +25,18 @@ Total: 3
 
 ## Needs two more supporters
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-01-03 |
-
-Total: 1
+Nothing.
 
 ## Needs three supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 21 | 0 | 16 | ⌛ 2017-09-30 |
-| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | 2 | 32 | ⌛ 2018-05-17 |
+| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | 2 | 34 | ⌛ 2018-05-17 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 6 | ⌛ 2018-07-07 |
-| [#10321](https://github.com/eslint/eslint/issues/10321) | Option to ignore no-nested-ternary for daisy-chained ternaries only | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2018-05-28 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-02-11 |
 
-Total: 5
+Total: 4
 
 ## Needs a champion
 
@@ -87,15 +82,16 @@ Total: 8
 | [#10318](https://github.com/eslint/eslint/issues/10318) | Fix should also indent comments the same as code |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-05-27 |
 | [#10315](https://github.com/eslint/eslint/issues/10315) | Warn about wrong Object.defineProperty usage |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-05-26 |
 | [#10015](https://github.com/eslint/eslint/issues/10015) | Allow 'no-lines' around comment before else/else-if for `lines-around-comment` |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-03-17 |
+| [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 16
+Total: 17
 
 ## Needs consensus
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 1 | 6 | ⌛ 2018-05-02 |
+| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
 
 Total: 1
 
@@ -105,11 +101,9 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-21 |
 | [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-07-13 |
-| [#10491](https://github.com/eslint/eslint/issues/10491) | New Rule: disallow parameter destructuring in Node-style callbacks |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 4 | 2018-07-10 |
 | [#10346](https://github.com/eslint/eslint/issues/10346) | Feature Request: "Enforce/Override Global Rule Severity" CLI Option |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 0 | 8 | ⌛ 2018-06-03 |
-| [#10120](https://github.com/eslint/eslint/issues/10120) | Invert “if” statement to reduce nesting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-04-14 |
 
-Total: 5
+Total: 3
 
 ## Looks inactive
 
