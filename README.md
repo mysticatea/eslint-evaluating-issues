@@ -25,18 +25,21 @@ Total: 3
 
 ## Needs two more supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#10405](https://github.com/eslint/eslint/issues/10405) | Rule proposal: no-await-with-operators | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 11 | ⌛ 2018-06-18 |
+
+Total: 1
 
 ## Needs three supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 21 | 0 | 16 | ⌛ 2017-09-30 |
-| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | 2 | 34 | ⌛ 2018-05-17 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 6 | ⌛ 2018-07-07 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-02-11 |
 
-Total: 4
+Total: 3
 
 ## Needs a champion
 
@@ -69,9 +72,10 @@ Total: 8
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9050](https://github.com/eslint/eslint/issues/9050) | Proposed rule change: no-unused-vars should consider a var "used" in JSDoc |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 26 | 2 | 23 | ⌛ 2017-08-21 |
 | [#9948](https://github.com/eslint/eslint/issues/9948) | Store information for files with lint warnings and errors in cache |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 7 | ⌛ 2018-02-27 |
+| [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 2 | 2018-07-13 |
 | [#10366](https://github.com/eslint/eslint/issues/10366) | Add --ci or --bail flag to stop linting on error |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 6 | ⌛ 2018-06-07 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
-| [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2018-07-13 |
+| [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#10298](https://github.com/eslint/eslint/issues/10298) | guard-for-in with throw statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-23 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 0 | ⌛ 2018-05-22 |
@@ -85,15 +89,16 @@ Total: 8
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 17
+Total: 18
 
 ## Needs consensus
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
+| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 3 | 40 | ⌛ 2018-05-17 |
+| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
 
-Total: 1
+Total: 2
 
 ## Looks opposed
 
@@ -109,7 +114,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 13 | 1 | 7 | ⌛ 2017-07-04 |
+| [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 14 | 1 | 7 | ⌛ 2017-07-04 |
 | [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 7 | 0 | 10 | ⌛ 2018-01-23 |
 | [#10000](https://github.com/eslint/eslint/issues/10000) | require-await: allow `async function` with `throw` or `return`? |  |  |  | 5 | 0 | 16 | ⌛ 2018-03-15 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-25 |
@@ -124,7 +129,6 @@ Total: 3
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 2 | 0 | 5 | ⌛ 2017-12-27 |
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | 2018-07-13 |
-| [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  |  |  | 1 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10138](https://github.com/eslint/eslint/issues/10138) | Feature request: Option for changing the default indentation of conditional expression consequent/alternate nodes |  |  |  | 1 | 0 | 0 | ⌛ 2018-04-19 |
 | [#10130](https://github.com/eslint/eslint/issues/10130) | Add Rule: no-disconnected-chained-awaits |  |  |  | 1 | 0 | 8 | ⌛ 2018-04-17 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
@@ -147,7 +151,6 @@ Total: 3
 | [#10419](https://github.com/eslint/eslint/issues/10419) | Modify overrides to also override/add globals |  |  |  | 0 | 0 | 3 | ⌛ 2018-06-20 |
 | [#10418](https://github.com/eslint/eslint/issues/10418) | Indent - disallow multiline function call with no indent if some of arguments is single line |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-20 |
 | [#10417](https://github.com/eslint/eslint/issues/10417) | Indent - can not write multiline function call with indent if first arg is multiline |  |  |  | 0 | 0 | 6 | ⌛ 2018-06-20 |
-| [#10405](https://github.com/eslint/eslint/issues/10405) | Rule proposal: no-await-with-operators |  |  |  | 0 | 0 | 8 | ⌛ 2018-06-18 |
 | [#10385](https://github.com/eslint/eslint/issues/10385) | Add an "always"/"never" option for wrap-regex |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-11 |
 | [#10380](https://github.com/eslint/eslint/issues/10380) | Rule proposal: one-export |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-09 |
 | [#10367](https://github.com/eslint/eslint/issues/10367) | Missing JSDoc for parameter in a class doc block |  |  |  | 0 | 0 | 1 | ⌛ 2018-06-07 |
@@ -179,5 +182,5 @@ Total: 3
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 69
+Total: 67
 
