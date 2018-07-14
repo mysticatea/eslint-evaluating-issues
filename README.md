@@ -57,12 +57,13 @@ Total: 4
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 2 | 0 | 15 | ⌛ 2018-06-02 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2018-07-08 |
 | [#8884](https://github.com/eslint/eslint/issues/8884) | padding-line-between-statements: support top-of-file STATEMENT(?)_TYPE  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2017-07-27 |
+| [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-04 |
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-05-30 |
 | [#10042](https://github.com/eslint/eslint/issues/10042) | New Rule Proposal: Warn against accessing a destructured property from object rest |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2018-03-23 |
 | [#9929](https://github.com/eslint/eslint/issues/9929) | Support the `default` JSON Schema keyword |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-02-25 |
 | [#9478](https://github.com/eslint/eslint/issues/9478) | discussion: replaced babelify with rollup/webpack |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2017-11-09 |
 
-Total: 8
+Total: 9
 
 ## Needs a champion and two more supporters
 
@@ -70,7 +71,7 @@ Total: 8
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9050](https://github.com/eslint/eslint/issues/9050) | Proposed rule change: no-unused-vars should consider a var "used" in JSDoc |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 26 | 2 | 23 | ⌛ 2017-08-21 |
 | [#9948](https://github.com/eslint/eslint/issues/9948) | Store information for files with lint warnings and errors in cache |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 8 | ⌛ 2018-02-27 |
-| [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 2 | 2018-07-13 |
+| [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 3 | ⌛ 2018-07-13 |
 | [#10366](https://github.com/eslint/eslint/issues/10366) | Add --ci or --bail flag to stop linting on error |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 6 | ⌛ 2018-06-07 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#9977](https://github.com/eslint/eslint/issues/9977) | Warning for ignored files on linting |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 2 | 0 | 7 | ⌛ 2018-03-09 |
@@ -93,7 +94,7 @@ Total: 18
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 3 | 40 | ⌛ 2018-05-17 |
+| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 3 | 41 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
 
 Total: 2
@@ -103,11 +104,12 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-21 |
+| [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-08-03 |
 | [#10591](https://github.com/eslint/eslint/issues/10591) | New rule: no-greater-than |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 1 | 1 | 2018-08-01 |
-| [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-07-13 |
+| [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-07-13 |
 | [#10346](https://github.com/eslint/eslint/issues/10346) | Feature Request: "Enforce/Override Global Rule Severity" CLI Option |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 0 | 8 | ⌛ 2018-06-03 |
 
-Total: 4
+Total: 5
 
 ## Looks inactive
 
@@ -139,7 +141,7 @@ Total: 4
 | [#10553](https://github.com/eslint/eslint/issues/10553) | Request: Add "must have side-effects" as an option to "no-sequences" |  |  |  | 0 | 0 | 3 | 2018-07-25 |
 | [#10550](https://github.com/eslint/eslint/issues/10550) | Validate object literals |  |  |  | 0 | 0 | 5 | 2018-07-22 |
 | [#10548](https://github.com/eslint/eslint/issues/10548) | arrow-body-style: prefer body parens `(`  |  |  |  | 0 | 0 | 3 | 2018-07-22 |
-| [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | 2018-07-14 |
+| [#10505](https://github.com/eslint/eslint/issues/10505) | incorrect array into object destructuring |  |  |  | 0 | 0 | 2 | ⌛ 2018-07-14 |
 | [#10496](https://github.com/eslint/eslint/issues/10496) | Indent "first" style should have a configurable indent level. |  |  |  | 0 | 0 | 4 | ⌛ 2018-07-13 |
 | [#10473](https://github.com/eslint/eslint/issues/10473) | Rule camelcase cannot detect between upper-camelcase and lower-camelcase when lint `property`. |  |  |  | 0 | 0 | 14 | ⌛ 2018-07-04 |
 | [#10471](https://github.com/eslint/eslint/issues/10471) | move rule strict to category: "Best Practices" |  |  |  | 0 | 0 | 1 | ⌛ 2018-07-04 |
