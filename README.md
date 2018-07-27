@@ -43,7 +43,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 9 | 0 | 5 | 2018-08-01 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 10 | 0 | 5 | 2018-08-01 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 15 | ⌛ 2018-06-02 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-07-08 |
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-10-01 |
@@ -135,7 +135,6 @@ Total: 5
 | [#10613](https://github.com/eslint/eslint/issues/10613) | Rule block-scoped-var fires if a variable is reused |  |  |  | 0 | 0 | 0 | 2018-08-08 |
 | [#10596](https://github.com/eslint/eslint/issues/10596) | Allow parentheses for the returns in ternary with no-extra-parens |  |  |  | 0 | 0 | 3 | 2018-08-02 |
 | [#10589](https://github.com/eslint/eslint/issues/10589) | `no-use-before-define` with arrow functions and the top-to-bottom/the stepdown rule Clean Code principle. |  |  |  | 0 | 0 | 5 | 2018-08-01 |
-| [#10575](https://github.com/eslint/eslint/issues/10575) | consider moving espree to eslint repo |  |  |  | 0 | 0 | 3 | 2018-07-29 |
 | [#10553](https://github.com/eslint/eslint/issues/10553) | Request: Add "must have side-effects" as an option to "no-sequences" |  |  |  | 0 | 0 | 3 | ⌛ 2018-07-25 |
 | [#10552](https://github.com/eslint/eslint/issues/10552) | Allow plugins to be passed in directly |  |  |  | 0 | 0 | 3 | ⌛ 2018-07-24 |
 | [#10550](https://github.com/eslint/eslint/issues/10550) | Validate object literals |  |  |  | 0 | 0 | 5 | ⌛ 2018-07-22 |
@@ -170,5 +169,5 @@ Total: 5
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 58
+Total: 57
 
