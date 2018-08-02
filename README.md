@@ -76,6 +76,7 @@ Total: 7
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-30 |
+| [#10712](https://github.com/eslint/eslint/issues/10712) | set cache defaults to true |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-23 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-13 |
 | [#10608](https://github.com/eslint/eslint/issues/10608) | no-fallthrough: intentional fall through comment placement |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-08-05 |
 | [#10522](https://github.com/eslint/eslint/issues/10522) | Semi-spacing additional behavior inside for statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-07-17 |
@@ -84,7 +85,7 @@ Total: 7
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 15
+Total: 16
 
 ## Needs consensus
 
@@ -100,12 +101,13 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-21 |
+| [#10715](https://github.com/eslint/eslint/issues/10715) | Make Sort Keys Fixable, the Return |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 4 | 2018-08-23 |
 | [#10637](https://github.com/eslint/eslint/issues/10637) | New Rule Request: Enforce strings in front of logged variables (string-with-logs) |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-08-11 |
 | [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | 2018-08-03 |
 | [#10591](https://github.com/eslint/eslint/issues/10591) | New rule: no-greater-than |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 3 | 3 | ⌛ 2018-08-01 |
 | [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-07-13 |
 
-Total: 5
+Total: 6
 
 ## Looks inactive
 
