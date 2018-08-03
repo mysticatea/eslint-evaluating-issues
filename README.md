@@ -44,7 +44,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 10 | 0 | 5 | ⌛ 2018-08-01 |
-| [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 15 | ⌛ 2018-06-02 |
+| [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 16 | ⌛ 2018-06-02 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-07-08 |
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-10-01 |
 
@@ -70,7 +70,6 @@ Total: 7
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9050](https://github.com/eslint/eslint/issues/9050) | Proposed rule change: no-unused-vars should consider a var "used" in JSDoc |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 28 | 2 | 23 | ⌛ 2017-08-21 |
 | [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 8 | 0 | 3 | ⌛ 2018-07-13 |
-| [#9977](https://github.com/eslint/eslint/issues/9977) | Warning for ignored files on linting |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 3 | 0 | 9 | ⌛ 2018-03-09 |
 | [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 2 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
@@ -85,7 +84,7 @@ Total: 7
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 16
+Total: 15
 
 ## Needs consensus
 
@@ -101,13 +100,12 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-21 |
-| [#10715](https://github.com/eslint/eslint/issues/10715) | Make Sort Keys Fixable, the Return |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 4 | 2018-08-23 |
 | [#10637](https://github.com/eslint/eslint/issues/10637) | New Rule Request: Enforce strings in front of logged variables (string-with-logs) |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-08-11 |
-| [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | 2018-08-03 |
+| [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | ⌛ 2018-08-03 |
 | [#10591](https://github.com/eslint/eslint/issues/10591) | New rule: no-greater-than |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 3 | 3 | ⌛ 2018-08-01 |
-| [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-07-13 |
+| [#10502](https://github.com/eslint/eslint/issues/10502) | Option to forbid trailing whitespace in multiline template strings  |  |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2018-07-13 |
 
-Total: 6
+Total: 5
 
 ## Looks inactive
 
@@ -132,14 +130,14 @@ Total: 6
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
 | [#10709](https://github.com/eslint/eslint/issues/10709) | Directly point to a configuration package from CLI |  |  |  | 0 | 0 | 0 | 2018-08-21 |
-| [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 0 | 2018-08-21 |
+| [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 3 | 2018-08-21 |
 | [#10705](https://github.com/eslint/eslint/issues/10705) | Custom formatting of existing rules |  |  |  | 0 | 0 | 2 | 2018-08-21 |
 | [#10703](https://github.com/eslint/eslint/issues/10703) | Curly pattern option |  |  |  | 0 | 0 | 2 | 2018-08-20 |
 | [#10700](https://github.com/eslint/eslint/issues/10700) | Add fixer for no-useless-escape |  |  |  | 0 | 0 | 3 | 2018-08-20 |
 | [#10673](https://github.com/eslint/eslint/issues/10673) | multiline-comment-style should ignore the comments at the start of a userscript if greasemonkey is true |  |  |  | 0 | 0 | 0 | 2018-08-16 |
 | [#10625](https://github.com/eslint/eslint/issues/10625) | Change default value of allowTernary for no-unused-expressions |  |  |  | 0 | 0 | 0 | 2018-08-10 |
 | [#10613](https://github.com/eslint/eslint/issues/10613) | Rule block-scoped-var fires if a variable is reused |  |  |  | 0 | 0 | 0 | 2018-08-08 |
-| [#10596](https://github.com/eslint/eslint/issues/10596) | Allow parentheses for the returns in ternary with no-extra-parens |  |  |  | 0 | 0 | 3 | 2018-08-02 |
+| [#10596](https://github.com/eslint/eslint/issues/10596) | Allow parentheses for the returns in ternary with no-extra-parens |  |  |  | 0 | 0 | 3 | ⌛ 2018-08-02 |
 | [#10589](https://github.com/eslint/eslint/issues/10589) | `no-use-before-define` with arrow functions and the top-to-bottom/the stepdown rule Clean Code principle. |  |  |  | 0 | 0 | 5 | ⌛ 2018-08-01 |
 | [#10553](https://github.com/eslint/eslint/issues/10553) | Request: Add "must have side-effects" as an option to "no-sequences" |  |  |  | 0 | 0 | 3 | ⌛ 2018-07-25 |
 | [#10552](https://github.com/eslint/eslint/issues/10552) | Allow plugins to be passed in directly |  |  |  | 0 | 0 | 3 | ⌛ 2018-07-24 |
@@ -165,6 +163,7 @@ Total: 6
 | [#10099](https://github.com/eslint/eslint/issues/10099) | Feature request: option to set non-zero exit code when autofixing |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-10 |
 | [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 0 | 0 | 5 | ⌛ 2018-04-01 |
 | [#10068](https://github.com/eslint/eslint/issues/10068) | proposal: Add disable-styling option when run init. |  |  |  | 0 | 0 | 0 | ⌛ 2018-03-28 |
+| [#10066](https://github.com/eslint/eslint/issues/10066) | no-implicit-globals doesn't obey /* exported */ declaration |  |  |  | 0 | 0 | 6 | ⌛ 2018-03-28 |
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-22 |
 | [#9991](https://github.com/eslint/eslint/issues/9991) | sort-imports should enforce consistent whitespace between imports |  |  |  | 0 | 0 | 4 | ⌛ 2018-03-13 |
 | [#9976](https://github.com/eslint/eslint/issues/9976) | Match tester output to production behavior |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-09 |
@@ -175,5 +174,5 @@ Total: 6
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 61
+Total: 62
 
