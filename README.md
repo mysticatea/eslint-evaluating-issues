@@ -57,7 +57,7 @@ Total: 4
 | [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 0 | 2018-08-12 |
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-30 |
 | [#8884](https://github.com/eslint/eslint/issues/8884) | padding-line-between-statements: support top-of-file STATEMENT(?)_TYPE  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2017-07-27 |
-| [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-04 |
+| [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-04 |
 | [#10297](https://github.com/eslint/eslint/issues/10297) | no-console with destructuring assignment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-05-23 |
 | [#9929](https://github.com/eslint/eslint/issues/9929) | Support the `default` JSON Schema keyword |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-02-25 |
 | [#9478](https://github.com/eslint/eslint/issues/9478) | discussion: replaced babelify with rollup/webpack |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2017-11-09 |
@@ -73,6 +73,7 @@ Total: 7
 | [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 2 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
+| [#10724](https://github.com/eslint/eslint/issues/10724) | no-dupe-keys - warn about non-static key names with similar AST |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2018-08-24 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-30 |
 | [#10712](https://github.com/eslint/eslint/issues/10712) | set cache defaults to true |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-23 |
@@ -84,7 +85,7 @@ Total: 7
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 15
+Total: 16
 
 ## Needs consensus
 
@@ -122,13 +123,15 @@ Total: 5
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 3 | 0 | 5 | ⌛ 2017-12-27 |
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 2 | 0 | 11 | ⌛ 2018-02-04 |
-| [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | 2018-08-04 |
+| [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-04 |
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | ⌛ 2018-07-13 |
 | [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 1 | 0 | 0 | ⌛ 2018-05-09 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
+| [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  |  |  | 0 | 0 | 0 | 2018-08-25 |
+| [#10726](https://github.com/eslint/eslint/issues/10726) | `quotes` with `allowEscape: true` doesn't catch `'"'"'` |  |  |  | 0 | 0 | 0 | 2018-08-25 |
 | [#10709](https://github.com/eslint/eslint/issues/10709) | Directly point to a configuration package from CLI |  |  |  | 0 | 0 | 0 | 2018-08-21 |
 | [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 3 | 2018-08-21 |
 | [#10705](https://github.com/eslint/eslint/issues/10705) | Custom formatting of existing rules |  |  |  | 0 | 0 | 2 | 2018-08-21 |
@@ -174,5 +177,5 @@ Total: 5
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 62
+Total: 64
 
