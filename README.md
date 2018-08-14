@@ -75,12 +75,12 @@ Total: 8
 | [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 2 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
+| [#10751](https://github.com/eslint/eslint/issues/10751) | Change no-magic-numbers to support default argument values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2018-08-31 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-30 |
-| [#10751](https://github.com/eslint/eslint/issues/10751) | Change no-magic-numbers to support default argument values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2018-08-31 |
 | [#10747](https://github.com/eslint/eslint/issues/10747) | New rule: character-whitelist to limit characters allowed |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-08-30 |
 | [#10712](https://github.com/eslint/eslint/issues/10712) | set cache defaults to true |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-23 |
-| [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-13 |
+| [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
 | [#10608](https://github.com/eslint/eslint/issues/10608) | no-fallthrough: intentional fall through comment placement |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-05 |
 | [#10522](https://github.com/eslint/eslint/issues/10522) | Semi-spacing additional behavior inside for statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-07-17 |
 | [#10318](https://github.com/eslint/eslint/issues/10318) | Fix should also indent comments the same as code |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-05-27 |
@@ -131,6 +131,7 @@ Total: 6
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-04 |
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | ⌛ 2018-07-13 |
 | [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 1 | 0 | 0 | ⌛ 2018-05-09 |
+| [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 1 | 0 | 6 | ⌛ 2018-04-01 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
@@ -173,7 +174,6 @@ Total: 6
 | [#10160](https://github.com/eslint/eslint/issues/10160) | Should no-irregular-whitespace skip template strings by default? |  |  |  | 0 | 0 | 4 | ⌛ 2018-04-22 |
 | [#10116](https://github.com/eslint/eslint/issues/10116) | [Feature request] Lint only certain lines in a file |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-12 |
 | [#10099](https://github.com/eslint/eslint/issues/10099) | Feature request: option to set non-zero exit code when autofixing |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-10 |
-| [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 0 | 0 | 5 | ⌛ 2018-04-01 |
 | [#10068](https://github.com/eslint/eslint/issues/10068) | proposal: Add disable-styling option when run init. |  |  |  | 0 | 0 | 0 | ⌛ 2018-03-28 |
 | [#10066](https://github.com/eslint/eslint/issues/10066) | no-implicit-globals doesn't obey /* exported */ declaration |  |  |  | 0 | 0 | 6 | ⌛ 2018-03-28 |
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-22 |
