@@ -43,7 +43,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 9 | 0 | 5 | ⌛ 2018-08-01 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 10 | 0 | 5 | ⌛ 2018-08-01 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 16 | ⌛ 2018-06-02 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 11 | ⌛ 2018-07-08 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-08-25 |
@@ -78,6 +78,7 @@ Total: 8
 | [#10751](https://github.com/eslint/eslint/issues/10751) | Change no-magic-numbers to support default argument values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2018-08-31 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-30 |
+| [#10761](https://github.com/eslint/eslint/issues/10761) | require-jsdoc not to throw 'Missing JSDoc comment' error when function has no parameters and any returns |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-09-04 |
 | [#10747](https://github.com/eslint/eslint/issues/10747) | New rule: character-whitelist to limit characters allowed |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-08-30 |
 | [#10712](https://github.com/eslint/eslint/issues/10712) | set cache defaults to true |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-23 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
@@ -88,7 +89,7 @@ Total: 8
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-03 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 17
+Total: 18
 
 ## Needs consensus
 
@@ -118,7 +119,7 @@ Total: 6
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 14 | 1 | 7 | ⌛ 2017-07-04 |
-| [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 11 | 0 | 10 | ⌛ 2018-01-23 |
+| [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 12 | 0 | 10 | ⌛ 2018-01-23 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-25 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
 | [#6732](https://github.com/eslint/eslint/issues/6732) | Local vs. Global installation |  |  |  | 5 | 0 | 21 | ⌛ 2016-08-12 |
@@ -136,6 +137,8 @@ Total: 6
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-03 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-21 |
+| [#10763](https://github.com/eslint/eslint/issues/10763) | Conflict between "padding-line-between-statements" and "lines-around-comment" |  |  |  | 0 | 0 | 0 | 2018-09-05 |
+| [#10762](https://github.com/eslint/eslint/issues/10762) | Rule proposal: no-typos |  |  |  | 0 | 0 | 0 | 2018-09-04 |
 | [#10755](https://github.com/eslint/eslint/issues/10755) | no-underscore-dangle should not enforce for prototype methods if enforceInMethodNames is false |  |  |  | 0 | 0 | 0 | 2018-09-02 |
 | [#10754](https://github.com/eslint/eslint/issues/10754) | Add ignoreJSX option to no-undef |  |  |  | 0 | 0 | 0 | 2018-09-01 |
 | [#10752](https://github.com/eslint/eslint/issues/10752) | Add option to consider variables magic numbers for no-magic-numbers |  |  |  | 0 | 0 | 1 | 2018-08-31 |
@@ -186,5 +189,5 @@ Total: 6
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-23 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-26 |
 
-Total: 68
+Total: 70
 
