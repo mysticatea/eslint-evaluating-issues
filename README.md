@@ -150,8 +150,8 @@ Total: 7
 | [#10709](https://github.com/eslint/eslint/issues/10709) | Directly point to a configuration package from CLI |  |  |  | 0 | 0 | 0 | 2018-08-21 |
 | [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 3 | 2018-08-20 |
 | [#10705](https://github.com/eslint/eslint/issues/10705) | Custom formatting of existing rules |  |  |  | 0 | 0 | 2 | 2018-08-20 |
-| [#10703](https://github.com/eslint/eslint/issues/10703) | Curly pattern option |  |  |  | 0 | 0 | 2 | 2018-08-20 |
-| [#10700](https://github.com/eslint/eslint/issues/10700) | Add fixer for no-useless-escape |  |  |  | 0 | 0 | 3 | 2018-08-20 |
+| [#10703](https://github.com/eslint/eslint/issues/10703) | Curly pattern option |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-20 |
+| [#10700](https://github.com/eslint/eslint/issues/10700) | Add fixer for no-useless-escape |  |  |  | 0 | 0 | 3 | ⌛ 2018-08-20 |
 | [#10673](https://github.com/eslint/eslint/issues/10673) | multiline-comment-style should ignore the comments at the start of a userscript if greasemonkey is true |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-15 |
 | [#10625](https://github.com/eslint/eslint/issues/10625) | Change default value of allowTernary for no-unused-expressions |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-09 |
 | [#10613](https://github.com/eslint/eslint/issues/10613) | Rule block-scoped-var fires if a variable is reused |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-07 |
