@@ -43,7 +43,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 11 | 0 | 15 | ⌛ 2018-07-31 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 11 | 0 | 16 | ⌛ 2018-07-31 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-08-25 |
@@ -79,6 +79,7 @@ Total: 8
 | [#10747](https://github.com/eslint/eslint/issues/10747) | New rule: character-whitelist to limit characters allowed |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2018-08-29 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-29 |
+| [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2018-09-11 |
 | [#10761](https://github.com/eslint/eslint/issues/10761) | require-jsdoc not to throw 'Missing JSDoc comment' error when function has no parameters and any returns |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-09-04 |
 | [#10712](https://github.com/eslint/eslint/issues/10712) | set cache defaults to true |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-08-22 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
@@ -89,7 +90,7 @@ Total: 8
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-02 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 18
+Total: 19
 
 ## Needs consensus
 
@@ -106,7 +107,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-20 |
-| [#10762](https://github.com/eslint/eslint/issues/10762) | Rule proposal: no-typos |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> | 1 | 1 | 0 | 2018-09-04 |
+| [#10762](https://github.com/eslint/eslint/issues/10762) | Rule proposal: no-typos |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 1 | 1 | 1 | 2018-09-04 |
 | [#10733](https://github.com/eslint/eslint/issues/10733) | Suggestion to accept stack access with no-unused-expressions |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 3 | 2018-08-26 |
 | [#10637](https://github.com/eslint/eslint/issues/10637) | New Rule Request: Enforce strings in front of logged variables (string-with-logs) |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-08-11 |
 | [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | ⌛ 2018-08-02 |
@@ -128,7 +129,7 @@ Total: 7
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 3 | 0 | 5 | ⌛ 2017-12-26 |
-| [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 2 | 0 | 2 | ⌛ 2018-08-15 |
+| [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 2 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 2 | 0 | 11 | ⌛ 2018-02-04 |
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-03 |
