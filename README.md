@@ -35,16 +35,17 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 22 | 0 | 16 | ⌛ 2017-09-29 |
+| [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 0 | 2018-10-02 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 2
+Total: 3
 
 ## Needs a champion
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 20 | 0 | 10 | ⌛ 2018-08-12 |
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 12 | 0 | 16 | ⌛ 2018-07-31 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 13 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-25 |
@@ -60,7 +61,7 @@ Total: 6
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-05-29 |
 | [#10297](https://github.com/eslint/eslint/issues/10297) | no-console with destructuring assignment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-23 |
 | [#8884](https://github.com/eslint/eslint/issues/8884) | padding-line-between-statements: support top-of-file STATEMENT(?)_TYPE  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2017-07-26 |
-| [#10787](https://github.com/eslint/eslint/issues/10787) | Allow regexp in id-blacklist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2018-09-12 |
+| [#10787](https://github.com/eslint/eslint/issues/10787) | Allow regexp in id-blacklist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-09-12 |
 | [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-03 |
 | [#9929](https://github.com/eslint/eslint/issues/9929) | Support the `default` JSON Schema keyword |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-02-24 |
 | [#9478](https://github.com/eslint/eslint/issues/9478) | discussion: replaced babelify with rollup/webpack |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2017-11-08 |
@@ -84,7 +85,7 @@ Total: 8
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-29 |
 | [#10823](https://github.com/eslint/eslint/issues/10823) | Custom parser hook for code path analysis |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2018-09-22 |
-| [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 10 | 2018-09-11 |
+| [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 10 | ⌛ 2018-09-11 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
 | [#10608](https://github.com/eslint/eslint/issues/10608) | no-fallthrough: intentional fall through comment placement |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-04 |
 | [#10522](https://github.com/eslint/eslint/issues/10522) | Semi-spacing additional behavior inside for statement |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-07-16 |
@@ -141,6 +142,7 @@ Total: 7
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-03 |
 | [#10589](https://github.com/eslint/eslint/issues/10589) | `no-use-before-define` with arrow functions and the top-to-bottom/the stepdown rule Clean Code principle. |  |  |  | 1 | 0 | 5 | ⌛ 2018-07-31 |
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | ⌛ 2018-07-12 |
+| [#10363](https://github.com/eslint/eslint/issues/10363) | [Rule Proposal] require-array-sort-compare |  |  |  | 1 | 1 | 2 | ⌛ 2018-06-07 |
 | [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 1 | 0 | 0 | ⌛ 2018-05-08 |
 | [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 1 | 0 | 6 | ⌛ 2018-04-01 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
@@ -149,7 +151,7 @@ Total: 7
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-20 |
 | [#10852](https://github.com/eslint/eslint/issues/10852) | Remove assumption that user has global install |  |  |  | 0 | 0 | 0 | 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | 2018-09-28 |
-| [#10836](https://github.com/eslint/eslint/issues/10836) | Add option to arrow-body-style to disallow braces for single-statement functions |  |  |  | 0 | 0 | 1 | 2018-09-27 |
+| [#10836](https://github.com/eslint/eslint/issues/10836) | Add option to arrow-body-style to disallow braces for single-statement functions |  |  |  | 0 | 0 | 10 | 2018-09-27 |
 | [#10834](https://github.com/eslint/eslint/issues/10834) | support subclassing RuleTester to override it/describe #10830 |  |  |  | 0 | 0 | 1 | 2018-09-26 |
 | [#10800](https://github.com/eslint/eslint/issues/10800) | Rule "one-var" with option "consecutive" should respect comments between declarations. |  |  |  | 0 | 0 | 2 | 2018-09-15 |
 | [#10793](https://github.com/eslint/eslint/issues/10793) | spaced-comment should control asterisk spacing and alignment in block comments |  |  |  | 0 | 0 | 1 | 2018-09-14 |
@@ -180,7 +182,6 @@ Total: 7
 | [#10418](https://github.com/eslint/eslint/issues/10418) | Indent - disallow multiline function call with no indent if some of arguments is single line |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-19 |
 | [#10417](https://github.com/eslint/eslint/issues/10417) | Indent - can not write multiline function call with indent if first arg is multiline |  |  |  | 0 | 0 | 6 | ⌛ 2018-06-19 |
 | [#10380](https://github.com/eslint/eslint/issues/10380) | Rule proposal: one-export |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-09 |
-| [#10363](https://github.com/eslint/eslint/issues/10363) | [Rule Proposal] require-array-sort-compare |  |  |  | 0 | 1 | 2 | ⌛ 2018-06-07 |
 | [#10352](https://github.com/eslint/eslint/issues/10352) | no-nested-ternary: Add option to traverse deeper than one level |  |  |  | 0 | 0 | 10 | ⌛ 2018-06-05 |
 | [#10340](https://github.com/eslint/eslint/issues/10340) | Initializer create configuration file with Unix line endings |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-01 |
 | [#10312](https://github.com/eslint/eslint/issues/10312) | [no-unsed-vars] : Add annotation to ignore exports |  |  |  | 0 | 0 | 0 | ⌛ 2018-05-25 |
