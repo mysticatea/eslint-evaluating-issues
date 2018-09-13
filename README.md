@@ -17,28 +17,29 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10323](https://github.com/eslint/eslint/issues/10323) | Add rule to enforce new line for every parameter in a multi-line function call | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-05-28 |
+| [#10323](https://github.com/eslint/eslint/issues/10323) | Add rule to enforce new line for every parameter in a multi-line function call | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-28 |
+| [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-10-02 |
 
-Total: 1
+Total: 2
 
 ## Needs two more supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 6 | ⌛ 2018-07-06 |
+| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 3 | 2018-10-03 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-08-09 |
 
-Total: 2
+Total: 3
 
 ## Needs three supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 22 | 0 | 16 | ⌛ 2017-09-29 |
-| [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 0 | 2018-10-02 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 3
+Total: 2
 
 ## Needs a champion
 
@@ -48,10 +49,12 @@ Total: 3
 | [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 13 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
+| [#10751](https://github.com/eslint/eslint/issues/10751) | Change no-magic-numbers to support default argument values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2018-08-30 |
+| [#9929](https://github.com/eslint/eslint/issues/9929) | Support the `default` JSON Schema keyword |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2018-02-24 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-25 |
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-09-30 |
 
-Total: 6
+Total: 8
 
 ## Needs a champion and one more supporter
 
@@ -63,10 +66,9 @@ Total: 6
 | [#8884](https://github.com/eslint/eslint/issues/8884) | padding-line-between-statements: support top-of-file STATEMENT(?)_TYPE  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2017-07-26 |
 | [#10787](https://github.com/eslint/eslint/issues/10787) | Allow regexp in id-blacklist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-09-12 |
 | [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-03 |
-| [#9929](https://github.com/eslint/eslint/issues/9929) | Support the `default` JSON Schema keyword |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2018-02-24 |
 | [#9478](https://github.com/eslint/eslint/issues/9478) | discussion: replaced babelify with rollup/webpack |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2017-11-08 |
 
-Total: 8
+Total: 7
 
 ## Needs a champion and two more supporters
 
@@ -79,8 +81,7 @@ Total: 8
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
 | [#10797](https://github.com/eslint/eslint/issues/10797) | Add ignoreJsxPlainText to max-len |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2018-09-14 |
-| [#10761](https://github.com/eslint/eslint/issues/10761) | require-jsdoc not to throw 'Missing JSDoc comment' error when function has no parameters and any returns |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-09-04 |
-| [#10751](https://github.com/eslint/eslint/issues/10751) | Change no-magic-numbers to support default argument values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-08-30 |
+| [#10761](https://github.com/eslint/eslint/issues/10761) | require-jsdoc not to throw 'Missing JSDoc comment' error when function has no parameters and any returns |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-09-04 |
 | [#10747](https://github.com/eslint/eslint/issues/10747) | New rule: character-whitelist to limit characters allowed |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-08-29 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-29 |
@@ -94,14 +95,14 @@ Total: 8
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-02 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 21
+Total: 20
 
 ## Needs consensus
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 3 | 41 | ⌛ 2018-05-17 |
-| [#10744](https://github.com/eslint/eslint/issues/10744) | no-script-url: add option to allow `javascript:void(0)` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 7 | ⌛ 2018-08-29 |
+| [#10744](https://github.com/eslint/eslint/issues/10744) | no-script-url: add option to allow `javascript:void(0)` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 8 | ⌛ 2018-08-29 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
 
 Total: 3
@@ -130,14 +131,14 @@ Total: 7
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-24 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
 | [#6732](https://github.com/eslint/eslint/issues/6732) | Local vs. Global installation |  |  |  | 5 | 0 | 21 | ⌛ 2016-08-11 |
+| [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
-| [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 3 | 0 | 5 | ⌛ 2017-12-26 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 2 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 2 | 0 | 11 | ⌛ 2018-02-04 |
-| [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | 2018-09-12 |
+| [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | ⌛ 2018-09-12 |
 | [#10754](https://github.com/eslint/eslint/issues/10754) | Add ignoreJSX option to no-undef |  |  |  | 1 | 0 | 0 | ⌛ 2018-08-31 |
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-03 |
 | [#10589](https://github.com/eslint/eslint/issues/10589) | `no-use-before-define` with arrow functions and the top-to-bottom/the stepdown rule Clean Code principle. |  |  |  | 1 | 0 | 5 | ⌛ 2018-07-31 |
@@ -159,7 +160,6 @@ Total: 7
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
 | [#10763](https://github.com/eslint/eslint/issues/10763) | Conflict between "padding-line-between-statements" and "lines-around-comment" |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-05 |
 | [#10755](https://github.com/eslint/eslint/issues/10755) | no-underscore-dangle should not enforce for prototype methods if enforceInMethodNames is false |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-01 |
-| [#10752](https://github.com/eslint/eslint/issues/10752) | Add option to consider variables magic numbers for no-magic-numbers |  |  |  | 0 | 0 | 1 | ⌛ 2018-08-30 |
 | [#10743](https://github.com/eslint/eslint/issues/10743) | prefer-destructuring - Option to skip when destructurable variables  count less than N |  |  |  | 0 | 0 | 8 | ⌛ 2018-08-29 |
 | [#10726](https://github.com/eslint/eslint/issues/10726) | `quotes` with `allowEscape: true` doesn't catch `'"'"'` |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-24 |
 | [#10723](https://github.com/eslint/eslint/issues/10723) | Proposal: skip certain functions for no-magic-numbers |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-23 |
@@ -205,5 +205,5 @@ Total: 7
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-22 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-25 |
 
-Total: 80
+Total: 79
 
