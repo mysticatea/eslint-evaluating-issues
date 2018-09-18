@@ -11,18 +11,20 @@ This page is a summary of feature issues.
 
 ## Accepted (needs to update labels)
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 6 | 2018-10-03 |
+
+Total: 1
 
 ## Needs one more supporter
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10503](https://github.com/eslint/eslint/issues/10503) | Allow exceptions to be added to camelcase | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 15 | 0 | 4 | ⌛ 2018-07-13 |
-| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 6 | 2018-10-03 |
 | [#10323](https://github.com/eslint/eslint/issues/10323) | Add rule to enforce new line for every parameter in a multi-line function call | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-28 |
 | [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-10-02 |
 
-Total: 4
+Total: 2
 
 ## Needs two more supporters
 
@@ -124,8 +126,8 @@ Total: 7
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 14 | 0 | 10 | ⌛ 2018-01-22 |
 | [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 14 | 1 | 7 | ⌛ 2017-07-03 |
-| [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 13 | 0 | 10 | ⌛ 2018-01-22 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-24 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
