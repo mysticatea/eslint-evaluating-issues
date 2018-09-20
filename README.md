@@ -13,7 +13,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 6 | 2018-10-03 |
+| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 7 | 2018-10-03 |
 
 Total: 1
 
@@ -65,11 +65,12 @@ Total: 6
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-05-29 |
 | [#10297](https://github.com/eslint/eslint/issues/10297) | no-console with destructuring assignment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-05-23 |
 | [#8884](https://github.com/eslint/eslint/issues/8884) | padding-line-between-statements: support top-of-file STATEMENT(?)_TYPE  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2017-07-26 |
+| [#10873](https://github.com/eslint/eslint/issues/10873) | Remove non-recommended rules from recommended config |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2018-10-10 |
 | [#10787](https://github.com/eslint/eslint/issues/10787) | Allow regexp in id-blacklist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2018-09-12 |
 | [#10605](https://github.com/eslint/eslint/issues/10605) | Add option to disallow CONSTANT_CASE in `camelcase` rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-03 |
 | [#9478](https://github.com/eslint/eslint/issues/9478) | discussion: replaced babelify with rollup/webpack |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2017-11-08 |
 
-Total: 7
+Total: 8
 
 ## Needs a champion and two more supporters
 
@@ -128,7 +129,7 @@ Total: 7
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 14 | 0 | 10 | ⌛ 2018-01-22 |
-| [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 14 | 1 | 7 | ⌛ 2017-07-03 |
+| [#8715](https://github.com/eslint/eslint/issues/8715) | Indent option for JSX component props/attributes |  |  |  | 14 | 2 | 7 | ⌛ 2017-07-03 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-24 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
@@ -140,6 +141,7 @@ Total: 7
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 2 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10125](https://github.com/eslint/eslint/issues/10125) | Declaring shareable configs and plugins in package.json is unreliable |  |  |  | 2 | 0 | 0 | ⌛ 2018-04-15 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 2 | 0 | 11 | ⌛ 2018-02-04 |
+| [#10858](https://github.com/eslint/eslint/issues/10858) | Rule Proposal: guard-clause |  |  |  | 1 | 0 | 0 | 2018-10-05 |
 | [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | ⌛ 2018-09-12 |
 | [#10754](https://github.com/eslint/eslint/issues/10754) | Add ignoreJSX option to no-undef |  |  |  | 1 | 0 | 0 | ⌛ 2018-08-31 |
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 15 | ⌛ 2018-08-03 |
@@ -153,7 +155,6 @@ Total: 7
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-20 |
 | [#10859](https://github.com/eslint/eslint/issues/10859) | Allow "consistent" option for newline-per-chained-call |  |  |  | 0 | 0 | 0 | 2018-10-05 |
-| [#10858](https://github.com/eslint/eslint/issues/10858) | Rule Proposal: guard-clause |  |  |  | 0 | 0 | 0 | 2018-10-05 |
 | [#10856](https://github.com/eslint/eslint/issues/10856) | no-unmodified-loop-condition throwing for objects that mutate and condition using comparison operators |  |  |  | 0 | 0 | 1 | 2018-10-03 |
 | [#10852](https://github.com/eslint/eslint/issues/10852) | Remove assumption that user has global install |  |  |  | 0 | 0 | 0 | 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | 2018-09-28 |
