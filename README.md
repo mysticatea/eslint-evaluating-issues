@@ -49,7 +49,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 20 | 0 | 18 | ⌛ 2018-08-12 |
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 14 | 0 | 17 | ⌛ 2018-07-31 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 15 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-25 |
@@ -114,8 +114,8 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#7489](https://github.com/eslint/eslint/issues/7489) | Rule proposal: `space-ops` |  |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 12 | 0 | 10 | ⌛ 2016-11-20 |
 | [#10762](https://github.com/eslint/eslint/issues/10762) | Rule proposal: no-typos |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 1 | 2 | 2 | ⌛ 2018-09-04 |
+| [#10879](https://github.com/eslint/eslint/issues/10879) | New rule: No unnecessary regex global flags |  |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> | 0 | 1 | 0 | 2018-10-11 |
 | [#10733](https://github.com/eslint/eslint/issues/10733) | Suggestion to accept stack access with no-unused-expressions |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-08-26 |
 | [#10637](https://github.com/eslint/eslint/issues/10637) | New Rule Request: Enforce strings in front of logged variables (string-with-logs) |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2018-08-11 |
 | [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | ⌛ 2018-08-02 |
@@ -133,7 +133,6 @@ Total: 7
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-24 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
-| [#6732](https://github.com/eslint/eslint/issues/6732) | Local vs. Global installation |  |  |  | 5 | 0 | 21 | ⌛ 2016-08-11 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
@@ -212,5 +211,5 @@ Total: 7
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-22 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-25 |
 
-Total: 83
+Total: 82
 
