@@ -13,7 +13,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 7 | 2018-10-03 |
+| [#10855](https://github.com/eslint/eslint/issues/10855) | Additional option for --fix | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 8 | 2018-10-03 |
 
 Total: 1
 
@@ -48,12 +48,12 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-09-30 |
 | [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 20 | 0 | 18 | ⌛ 2018-08-12 |
 | [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 15 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-25 |
-| [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-09-30 |
 
 Total: 6
 
@@ -81,12 +81,13 @@ Total: 8
 | [#10798](https://github.com/eslint/eslint/issues/10798) | Add no-useless-interpolation |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 3 | ⌛ 2018-09-14 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2018-05-22 |
+| [#10885](https://github.com/eslint/eslint/issues/10885) | Rule proposal: no-unused-assign |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 0 | 2018-10-13 |
 | [#10797](https://github.com/eslint/eslint/issues/10797) | Add ignoreJsxPlainText to max-len |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-09-14 |
 | [#10761](https://github.com/eslint/eslint/issues/10761) | require-jsdoc not to throw 'Missing JSDoc comment' error when function has no parameters and any returns |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-09-04 |
 | [#10747](https://github.com/eslint/eslint/issues/10747) | New rule: character-whitelist to limit characters allowed |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-08-29 |
 | [#10398](https://github.com/eslint/eslint/issues/10398) | Add ignoreDefaultParamAssign option to space-infix-ops |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-06-15 |
 | [#9699](https://github.com/eslint/eslint/issues/9699) | Rule Proposal: `key-linebreak` enforce linebreaks after object key |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2017-12-29 |
-| [#10823](https://github.com/eslint/eslint/issues/10823) | Custom parser hook for code path analysis |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2018-09-22 |
+| [#10823](https://github.com/eslint/eslint/issues/10823) | Custom parser hook for code path analysis |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2018-09-22 |
 | [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 10 | ⌛ 2018-09-11 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
 | [#10608](https://github.com/eslint/eslint/issues/10608) | no-fallthrough: intentional fall through comment placement |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-04 |
@@ -97,7 +98,7 @@ Total: 8
 | [#9716](https://github.com/eslint/eslint/issues/9716) | [Change request] valid-jsdoc's matchDescription should support multiple regular expressions and different error messages for each. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-01-02 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
 
-Total: 20
+Total: 21
 
 ## Needs consensus
 
@@ -133,6 +134,7 @@ Total: 7
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 5 | 0 | 24 | ⌛ 2017-10-24 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
+| [#10848](https://github.com/eslint/eslint/issues/10848) | camelcase rule false report with optional chaining property |  |  |  | 4 | 0 | 3 | 2018-10-01 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
@@ -211,5 +213,5 @@ Total: 7
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-22 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-25 |
 
-Total: 82
+Total: 83
 
