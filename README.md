@@ -18,7 +18,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10323](https://github.com/eslint/eslint/issues/10323) | Add rule to enforce new line for every parameter in a multi-line function call | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-05-28 |
-| [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2018-10-02 |
+| [#10853](https://github.com/eslint/eslint/issues/10853) | Enhance padding-line-between-statements with "iife" statement type | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-10-02 |
 
 Total: 2
 
@@ -74,7 +74,7 @@ Total: 8
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9050](https://github.com/eslint/eslint/issues/9050) | Proposed rule change: no-unused-vars should consider a var "used" in JSDoc |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 30 | 2 | 31 | ⌛ 2017-08-21 |
+| [#9050](https://github.com/eslint/eslint/issues/9050) | Proposed rule change: no-unused-vars should consider a var "used" in JSDoc |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 31 | 2 | 31 | ⌛ 2017-08-21 |
 | [#10434](https://github.com/eslint/eslint/issues/10434) | Rule proposal: prefer-optional-catch-binding |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> |  | 4 | 0 | 5 | ⌛ 2018-06-23 |
 | [#10798](https://github.com/eslint/eslint/issues/10798) | Add no-useless-interpolation |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 3 | ⌛ 2018-09-14 |
 | [#10350](https://github.com/eslint/eslint/issues/10350) | Add `consistent` option to `comma-dangle` |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-06-04 |
@@ -135,10 +135,10 @@ Total: 8
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
-| [#10896](https://github.com/eslint/eslint/issues/10896) | Exposing full tree of configuration files used during linting |  |  |  | 3 | 0 | 4 | 2018-10-17 |
+| [#10896](https://github.com/eslint/eslint/issues/10896) | Exposing full tree of configuration files used during linting |  |  |  | 3 | 0 | 6 | 2018-10-17 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
+| [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 3 | 0 | 11 | ⌛ 2018-02-04 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 2 | 0 | 3 | ⌛ 2018-08-15 |
-| [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 2 | 0 | 11 | ⌛ 2018-02-04 |
 | [#10858](https://github.com/eslint/eslint/issues/10858) | Rule Proposal: guard-clause |  |  |  | 1 | 0 | 0 | 2018-10-05 |
 | [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | ⌛ 2018-09-12 |
 | [#10754](https://github.com/eslint/eslint/issues/10754) | Add ignoreJSX option to no-undef |  |  |  | 1 | 0 | 0 | ⌛ 2018-08-31 |
@@ -152,11 +152,13 @@ Total: 8
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
 | [#9188](https://github.com/eslint/eslint/issues/9188) | Do not require modules with shareable config to be named eslint-config-* |  |  |  | 1 | 0 | 8 | ⌛ 2017-09-20 |
+| [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 0 | 2018-10-24 |
+| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 0 | 0 | 0 | 2018-10-23 |
 | [#10859](https://github.com/eslint/eslint/issues/10859) | Allow "consistent" option for newline-per-chained-call |  |  |  | 0 | 0 | 0 | 2018-10-05 |
-| [#10856](https://github.com/eslint/eslint/issues/10856) | no-unmodified-loop-condition throwing for objects that mutate and condition using comparison operators |  |  |  | 0 | 0 | 1 | 2018-10-03 |
+| [#10856](https://github.com/eslint/eslint/issues/10856) | no-unmodified-loop-condition throwing for objects that mutate and condition using comparison operators |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-03 |
 | [#10852](https://github.com/eslint/eslint/issues/10852) | Remove assumption that user has global install |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | ⌛ 2018-09-28 |
-| [#10836](https://github.com/eslint/eslint/issues/10836) | Add option to arrow-body-style to disallow braces for single-statement functions |  |  |  | 0 | 0 | 10 | ⌛ 2018-09-27 |
+| [#10836](https://github.com/eslint/eslint/issues/10836) | Add option to arrow-body-style to disallow braces for single-statement functions |  |  |  | 0 | 1 | 20 | ⌛ 2018-09-27 |
 | [#10834](https://github.com/eslint/eslint/issues/10834) | support subclassing RuleTester to override it/describe #10830 |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-26 |
 | [#10800](https://github.com/eslint/eslint/issues/10800) | Rule "one-var" with option "consecutive" should respect comments between declarations. |  |  |  | 0 | 0 | 2 | ⌛ 2018-09-15 |
 | [#10793](https://github.com/eslint/eslint/issues/10793) | spaced-comment should control asterisk spacing and alignment in block comments |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-14 |
@@ -210,5 +212,5 @@ Total: 8
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-22 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-25 |
 
-Total: 83
+Total: 85
 
