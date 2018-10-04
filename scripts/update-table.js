@@ -109,14 +109,51 @@ function compare(a, b) {
     )
 }
 
+/**
+ * Check whether a given issue is older than 21 days.
+ * @param {Issue} issue The issue to check.
+ * @returns {boolean} `true` if the issue is old.
+ */
+function isOld(issue) {
+    const created = Date.parse(issue.createdTime)
+    const days = (Date.now() - created) / (24 * 60 * 60 * 1000)
+    return days > 21.5
+}
+
 //------------------------------------------------------------------------------
 // Main
 //------------------------------------------------------------------------------
 
 ;(async () => {
     const issues = await fs.readJson("issues.json")
-    const niceIssues = issues.filter(i => i.against.length === 0)
-    const toughIssues = issues.filter(i => i.against.length > 0)
+    const zeroIssues = issues.filter(
+        i => !i.champion && i.supporters.length === 0 && i.against.length === 0,
+    )
+    const coreIssues = issues.filter(
+        i =>
+            (i.labels.includes("core") || i.labels.includes("cli")) &&
+            !zeroIssues.includes(i),
+    )
+    const champIssues = issues.filter(
+        i =>
+            i.champion &&
+            i.against.length === 0 &&
+            !zeroIssues.includes(i) &&
+            !coreIssues.includes(i),
+    )
+    const niceIssues = issues.filter(
+        i =>
+            !i.champion &&
+            i.against.length === 0 &&
+            !zeroIssues.includes(i) &&
+            !coreIssues.includes(i),
+    )
+    const toughIssues = issues.filter(
+        i =>
+            i.against.length > 0 &&
+            !zeroIssues.includes(i) &&
+            !coreIssues.includes(i),
+    )
     const content = `# ESLint Features in Evaluating [![Build Status](https://travis-ci.com/mysticatea/eslint-evaluating-issues.svg?branch=master)](https://travis-ci.com/mysticatea/eslint-evaluating-issues)
 
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
@@ -130,35 +167,43 @@ This page is a summary of feature issues.
 
 ## Accepted (needs to update labels)
 
-${renderTable(niceIssues.filter(i => i.champion && i.supporters.length >= 3))}
+${renderTable(champIssues.filter(i => i.supporters.length >= 3))}
 
 ## Needs one more supporter
 
-${renderTable(niceIssues.filter(i => i.champion && i.supporters.length === 2))}
+${renderTable(champIssues.filter(i => i.supporters.length === 2))}
 
 ## Needs two more supporters
 
-${renderTable(niceIssues.filter(i => i.champion && i.supporters.length === 1))}
+${renderTable(champIssues.filter(i => i.supporters.length === 1))}
 
 ## Needs three supporters
 
-${renderTable(niceIssues.filter(i => i.champion && i.supporters.length === 0))}
+${renderTable(champIssues.filter(i => i.supporters.length === 0))}
 
 ## Needs a champion
 
-${renderTable(niceIssues.filter(i => !i.champion && i.supporters.length >= 3))}
+${renderTable(niceIssues.filter(i => i.supporters.length >= 3))}
 
 ## Needs a champion and one more supporter
 
-${renderTable(niceIssues.filter(i => !i.champion && i.supporters.length === 2))}
+${renderTable(niceIssues.filter(i => i.supporters.length === 2))}
 
 ## Needs a champion and two more supporters
 
-${renderTable(niceIssues.filter(i => !i.champion && i.supporters.length === 1))}
+${renderTable(niceIssues.filter(i => i.supporters.length === 1))}
+
+## Needs interest
+
+${renderTable(zeroIssues.filter(i => !isOld(i)))}
 
 ## Needs consensus
 
 ${renderTable(toughIssues.filter(i => i.champion || i.supporters.length >= 1))}
+
+## Needs approval in a TSC meeting
+
+${renderTable(coreIssues)}
 
 ## Looks opposed
 
@@ -168,7 +213,7 @@ ${renderTable(
 
 ## Looks inactive
 
-${renderTable(niceIssues.filter(i => !i.champion && i.supporters.length === 0))}
+${renderTable(zeroIssues.filter(isOld))}
 
 `
 
