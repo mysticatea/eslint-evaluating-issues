@@ -3,6 +3,10 @@
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
 This page is a summary of feature issues.
 
+**Last updated:**
+
+- 2018-10-04 10:34 (UTC)
+
 **Legend:**
 
 - The 👍 column is the number of upvotes which came from outside of the team. Each table is sorted by this column.
