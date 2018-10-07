@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-06 12:50 (UTC)
+- 2018-10-07 12:50 (UTC)
 
 **Legend:**
 
@@ -96,10 +96,11 @@ Total: 14
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10896](https://github.com/eslint/eslint/issues/10896) | Exposing full tree of configuration files used during linting |  |  |  | 3 | 0 | 7 | 2018-10-17 |
 | [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 1 | 0 | 0 | 2018-10-23 |
+| [#10933](https://github.com/eslint/eslint/issues/10933) | Disable next line should disable the next effective line |  |  |  | 0 | 0 | 1 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
