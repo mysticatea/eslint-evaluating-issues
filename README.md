@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-13 12:53 (UTC)
+- 2018-10-14 12:54 (UTC)
 
 **Legend:**
 
@@ -40,16 +40,17 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 22 | 0 | 17 | ⌛ 2017-09-29 |
 | [#10721](https://github.com/eslint/eslint/issues/10721) | Add "multiline-const", "multiline-let" and "multiline-var" STATEMENT_TYPEs to padding-line-between-statements rule | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 5 | 0 | 1 | ⌛ 2018-08-23 |
+| [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 3
+Total: 4
 
 ## Needs a champion
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10484](https://github.com/eslint/eslint/issues/10484) | Add the possibility to ignore some constructors in no-new |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 11 | ⌛ 2018-07-07 |
-| [#10885](https://github.com/eslint/eslint/issues/10885) | Rule proposal: no-unused-assign |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 4 | 2018-10-13 |
+| [#10885](https://github.com/eslint/eslint/issues/10885) | Rule proposal: no-unused-assign |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 4 | ⌛ 2018-10-13 |
 | [#10729](https://github.com/eslint/eslint/issues/10729) | strict rule report smaller loc range |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2018-08-25 |
 
 Total: 3
@@ -96,11 +97,13 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 1 | 0 | 0 | 2018-10-23 |
+| [#10978](https://github.com/eslint/eslint/issues/10978) | It's 2018, but async functions is syntax error |  |  |  | 0 | 1 | 1 | 2018-11-03 |
+| [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 0 | 0 | 2 | 2018-11-03 |
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
 
-Total: 4
+Total: 6
 
 ## Needs consensus
 
