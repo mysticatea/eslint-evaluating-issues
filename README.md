@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-16 12:55 (UTC)
+- 2018-10-17 12:55 (UTC)
 
 **Legend:**
 
@@ -98,11 +98,11 @@ Total: 16
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 1 | 0 | 0 | 2018-10-23 |
+| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 2 | 2018-10-23 |
 | [#10978](https://github.com/eslint/eslint/issues/10978) | It's 2018, but async functions is syntax error |  |  |  | 0 | 1 | 1 | 2018-11-03 |
 | [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 0 | 0 | 2 | 2018-11-03 |
 | [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 2 | 2018-11-01 |
-| [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 3 | 2018-10-29 |
+| [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 5 | 2018-10-29 |
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
@@ -125,7 +125,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9271](https://github.com/eslint/eslint/issues/9271) | Location of `version` property is inconsistent between core APIs |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-09-30 |
-| [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 25 | 0 | 18 | ⌛ 2018-08-12 |
+| [#10643](https://github.com/eslint/eslint/issues/10643) | Proposal for loading plugins relative to the configs that depend on them |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 26 | 0 | 18 | ⌛ 2018-08-12 |
 | [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 17 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 16 | ⌛ 2018-06-01 |
 | [#10873](https://github.com/eslint/eslint/issues/10873) | Remove non-recommended rules from recommended config |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-10-10 |
@@ -201,7 +201,7 @@ Total: 6
 | [#10726](https://github.com/eslint/eslint/issues/10726) | `quotes` with `allowEscape: true` doesn't catch `'"'"'` |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-24 |
 | [#10723](https://github.com/eslint/eslint/issues/10723) | Proposal: skip certain functions for no-magic-numbers |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-23 |
 | [#10709](https://github.com/eslint/eslint/issues/10709) | Directly point to a configuration package from CLI |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-21 |
-| [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 3 | ⌛ 2018-08-20 |
+| [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 4 | ⌛ 2018-08-20 |
 | [#10705](https://github.com/eslint/eslint/issues/10705) | Custom formatting of existing rules |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-20 |
 | [#10703](https://github.com/eslint/eslint/issues/10703) | Curly pattern option |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-20 |
 | [#10700](https://github.com/eslint/eslint/issues/10700) | Add fixer for no-useless-escape |  |  |  | 0 | 0 | 3 | ⌛ 2018-08-20 |
