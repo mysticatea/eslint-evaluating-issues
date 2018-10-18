@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-17 12:55 (UTC)
+- 2018-10-18 12:57 (UTC)
 
 **Legend:**
 
@@ -99,8 +99,7 @@ Total: 16
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 2 | 2018-10-23 |
-| [#10978](https://github.com/eslint/eslint/issues/10978) | It's 2018, but async functions is syntax error |  |  |  | 0 | 1 | 1 | 2018-11-03 |
-| [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 0 | 0 | 2 | 2018-11-03 |
+| [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 1 | 0 | 2 | 2018-11-03 |
 | [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 2 | 2018-11-01 |
 | [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 5 | 2018-10-29 |
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
@@ -108,7 +107,7 @@ Total: 16
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
 | [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | 2018-10-22 |
 
-Total: 9
+Total: 8
 
 ## Needs consensus
 
@@ -134,10 +133,11 @@ Total: 3
 | [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-09-11 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
 | [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
+| [#10978](https://github.com/eslint/eslint/issues/10978) | It's 2018, but async functions is syntax error |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 1 | 1 | 2018-11-03 |
 | [#10891](https://github.com/eslint/eslint/issues/10891) | Allow setting ignorePatterns in eslintrc |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-10-15 |
 | [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | ⌛ 2018-08-02 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
@@ -162,12 +162,12 @@ Total: 6
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 6 | 0 | 24 | ⌛ 2017-10-24 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 5 | 0 | 13 | ⌛ 2018-02-04 |
 | [#8978](https://github.com/eslint/eslint/issues/8978) | Indent Rule - Possible to add LogicalExpression for multi-line conditions? |  |  |  | 5 | 0 | 5 | ⌛ 2017-08-11 |
-| [#10848](https://github.com/eslint/eslint/issues/10848) | camelcase rule false report with optional chaining property |  |  |  | 4 | 0 | 3 | ⌛ 2018-10-01 |
 | [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 3 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
+| [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 2 | 0 | 0 | ⌛ 2018-05-08 |
 | [#10858](https://github.com/eslint/eslint/issues/10858) | Rule Proposal: guard-clause |  |  |  | 1 | 0 | 0 | ⌛ 2018-10-05 |
 | [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | ⌛ 2018-09-12 |
 | [#10754](https://github.com/eslint/eslint/issues/10754) | Add ignoreJSX option to no-undef |  |  |  | 1 | 0 | 0 | ⌛ 2018-08-31 |
@@ -175,7 +175,6 @@ Total: 6
 | [#10589](https://github.com/eslint/eslint/issues/10589) | `no-use-before-define` with arrow functions and the top-to-bottom/the stepdown rule Clean Code principle. |  |  |  | 1 | 0 | 5 | ⌛ 2018-07-31 |
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | ⌛ 2018-07-12 |
 | [#10363](https://github.com/eslint/eslint/issues/10363) | [Rule Proposal] require-array-sort-compare |  |  |  | 1 | 1 | 2 | ⌛ 2018-06-07 |
-| [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 1 | 0 | 0 | ⌛ 2018-05-08 |
 | [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 1 | 0 | 6 | ⌛ 2018-04-01 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
@@ -233,7 +232,6 @@ Total: 6
 | [#10068](https://github.com/eslint/eslint/issues/10068) | proposal: Add disable-styling option when run init. |  |  |  | 0 | 0 | 0 | ⌛ 2018-03-28 |
 | [#10066](https://github.com/eslint/eslint/issues/10066) | no-implicit-globals doesn't obey /* exported */ declaration |  |  |  | 0 | 0 | 6 | ⌛ 2018-03-28 |
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-21 |
-| [#9991](https://github.com/eslint/eslint/issues/9991) | sort-imports should enforce consistent whitespace between imports |  |  |  | 0 | 0 | 4 | ⌛ 2018-03-12 |
 | [#9976](https://github.com/eslint/eslint/issues/9976) | Match tester output to production behavior |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-08 |
 | [#9897](https://github.com/eslint/eslint/issues/9897) | Improve module resolution |  |  |  | 0 | 0 | 19 | ⌛ 2018-02-16 |
 | [#9793](https://github.com/eslint/eslint/issues/9793) | Spellchecking documentation in CI |  |  |  | 0 | 0 | 16 | ⌛ 2018-01-20 |
@@ -242,5 +240,5 @@ Total: 6
 | [#9059](https://github.com/eslint/eslint/issues/9059) | CR - max-len: {ignoreRegExpLiterals: true} is too permissive |  |  |  | 0 | 0 | 10 | ⌛ 2017-08-22 |
 | [#8877](https://github.com/eslint/eslint/issues/8877) | [no-confusing-arrow]: new line, and multiple parameters should be allowed |  |  |  | 0 | 0 | 5 | ⌛ 2017-07-25 |
 
-Total: 85
+Total: 83
 
