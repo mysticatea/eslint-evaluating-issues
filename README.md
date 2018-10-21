@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-20 12:56 (UTC)
+- 2018-10-21 12:57 (UTC)
 
 **Legend:**
 
@@ -181,7 +181,7 @@ Total: 6
 | [#10847](https://github.com/eslint/eslint/issues/10847) | Disable un-await-ed Promises in async functions |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | ⌛ 2018-09-28 |
 | [#10834](https://github.com/eslint/eslint/issues/10834) | support subclassing RuleTester to override it/describe #10830 |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-26 |
-| [#10829](https://github.com/eslint/eslint/issues/10829) | require-await rule should allow async keyword for function returning the result of an async function |  |  |  | 0 | 0 | 3 | ⌛ 2018-09-24 |
+| [#10829](https://github.com/eslint/eslint/issues/10829) | require-await rule should allow async keyword for function returning the result of an async function |  |  |  | 0 | 0 | 5 | ⌛ 2018-09-24 |
 | [#10805](https://github.com/eslint/eslint/issues/10805) | Simplifying the configuration of plugins that replace ESLint's built-in rules |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-17 |
 | [#10800](https://github.com/eslint/eslint/issues/10800) | Rule "one-var" with option "consecutive" should respect comments between declarations. |  |  |  | 0 | 0 | 2 | ⌛ 2018-09-15 |
 | [#10793](https://github.com/eslint/eslint/issues/10793) | spaced-comment should control asterisk spacing and alignment in block comments |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-14 |
