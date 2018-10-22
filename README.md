@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-21 12:57 (UTC)
+- 2018-10-22 12:57 (UTC)
 
 **Legend:**
 
@@ -101,7 +101,7 @@ Total: 16
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
-| [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | 2018-10-22 |
+| [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | ⌛ 2018-10-22 |
 
 Total: 9
 
