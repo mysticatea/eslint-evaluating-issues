@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-22 12:57 (UTC)
+- 2018-10-23 12:57 (UTC)
 
 **Legend:**
 
@@ -36,10 +36,11 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 22 | 0 | 17 | ⌛ 2017-09-29 |
 | [#10721](https://github.com/eslint/eslint/issues/10721) | Add "multiline-const", "multiline-let" and "multiline-var" STATEMENT_TYPEs to padding-line-between-statements rule | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 6 | 0 | 1 | ⌛ 2018-08-23 |
+| [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 4 | 0 | 6 | ⌛ 2017-07-15 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 4
+Total: 5
 
 ## Needs a champion
 
@@ -93,17 +94,18 @@ Total: 16
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 2 | 2018-10-23 |
+| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 2 | ⌛ 2018-10-23 |
 | [#10996](https://github.com/eslint/eslint/issues/10996) | "ignore-this" option for "prefer-destructuring" |  |  |  | 1 | 0 | 0 | 2018-11-09 |
 | [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 1 | 0 | 2 | 2018-11-03 |
+| [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 4 | 2018-11-12 |
+| [#11003](https://github.com/eslint/eslint/issues/11003) | allow relative and absolute globs |  |  |  | 0 | 0 | 1 | 2018-11-12 |
 | [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 2 | 2018-11-01 |
 | [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 6 | 2018-10-29 |
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | 2018-10-24 |
-| [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | ⌛ 2018-10-22 |
 
-Total: 9
+Total: 10
 
 ## Needs consensus
 
@@ -128,7 +130,7 @@ Total: 3
 | [#10823](https://github.com/eslint/eslint/issues/10823) | Custom parser hook for code path analysis |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-09-22 |
 | [#10781](https://github.com/eslint/eslint/issues/10781) | Expose cache class and allow to inject it |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-09-11 |
 | [#10654](https://github.com/eslint/eslint/issues/10654) | Keep track of the AST nodes associated with each code path segment |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2018-08-13 |
-| [#9507](https://github.com/eslint/eslint/issues/9507) | output eslint version more than error output |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2017-11-14 |
+| [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#10978](https://github.com/eslint/eslint/issues/10978) | It's 2018, but async functions is syntax error |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 2 | 2 | 2018-11-03 |
 | [#10891](https://github.com/eslint/eslint/issues/10891) | Allow setting ignorePatterns in eslintrc |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2018-10-15 |
 | [#10602](https://github.com/eslint/eslint/issues/10602) | Feature: Collect Metrics for most common rule setting |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 0 | 6 | ⌛ 2018-08-02 |
@@ -156,9 +158,7 @@ Total: 6
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | ⌛ 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 6 | 0 | 24 | ⌛ 2017-10-24 |
 | [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 5 | 0 | 13 | ⌛ 2018-02-04 |
-| [#9687](https://github.com/eslint/eslint/issues/9687) | False negatives with sourceType: module and ecmaVersion <= 5 |  |  |  | 4 | 0 | 6 | ⌛ 2017-12-26 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
-| [#8793](https://github.com/eslint/eslint/issues/8793) | In Docs, "Configuration Based on Glob Patterns" should specify it's a v4.1 feature. Fails silently on earlier versions. |  |  |  | 4 | 0 | 5 | ⌛ 2017-07-15 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 3 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
 | [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 2 | 0 | 0 | ⌛ 2018-05-08 |
@@ -175,13 +175,14 @@ Total: 6
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
+| [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | ⌛ 2018-10-22 |
 | [#10859](https://github.com/eslint/eslint/issues/10859) | Allow "consistent" option for newline-per-chained-call |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-05 |
 | [#10856](https://github.com/eslint/eslint/issues/10856) | no-unmodified-loop-condition throwing for objects that mutate and condition using comparison operators |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-03 |
 | [#10852](https://github.com/eslint/eslint/issues/10852) | Remove assumption that user has global install |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-01 |
 | [#10847](https://github.com/eslint/eslint/issues/10847) | Disable un-await-ed Promises in async functions |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | ⌛ 2018-09-28 |
 | [#10834](https://github.com/eslint/eslint/issues/10834) | support subclassing RuleTester to override it/describe #10830 |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-26 |
-| [#10829](https://github.com/eslint/eslint/issues/10829) | require-await rule should allow async keyword for function returning the result of an async function |  |  |  | 0 | 0 | 5 | ⌛ 2018-09-24 |
+| [#10829](https://github.com/eslint/eslint/issues/10829) | require-await rule should allow async keyword for function returning the result of an async function |  |  |  | 0 | 0 | 6 | ⌛ 2018-09-24 |
 | [#10805](https://github.com/eslint/eslint/issues/10805) | Simplifying the configuration of plugins that replace ESLint's built-in rules |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-17 |
 | [#10800](https://github.com/eslint/eslint/issues/10800) | Rule "one-var" with option "consecutive" should respect comments between declarations. |  |  |  | 0 | 0 | 2 | ⌛ 2018-09-15 |
 | [#10793](https://github.com/eslint/eslint/issues/10793) | spaced-comment should control asterisk spacing and alignment in block comments |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-14 |
@@ -230,5 +231,5 @@ Total: 6
 | [#9793](https://github.com/eslint/eslint/issues/9793) | Spellchecking documentation in CI |  |  |  | 0 | 0 | 16 | ⌛ 2018-01-20 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-18 |
 
-Total: 77
+Total: 76
 
