@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-24 12:58 (UTC)
+- 2018-10-25 12:59 (UTC)
 
 **Legend:**
 
@@ -95,15 +95,14 @@ Total: 16
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10996](https://github.com/eslint/eslint/issues/10996) | "ignore-this" option for "prefer-destructuring" |  |  |  | 1 | 0 | 0 | 2018-11-09 |
 | [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 1 | 0 | 2 | 2018-11-03 |
-| [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 5 | 2018-11-12 |
+| [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 6 | 2018-11-12 |
 | [#11003](https://github.com/eslint/eslint/issues/11003) | allow relative and absolute globs |  |  |  | 0 | 0 | 1 | 2018-11-12 |
 | [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 2 | 2018-11-01 |
 | [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 6 | 2018-10-29 |
 | [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
 | [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | 2018-10-27 |
-| [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-24 |
 
-Total: 9
+Total: 8
 
 ## Needs consensus
 
@@ -151,10 +150,8 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9794](https://github.com/eslint/eslint/issues/9794) | "eslint --ignore-path" should accept multiple file paths |  |  |  | 16 | 0 | 10 | ⌛ 2018-01-22 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 6 | 0 | 2 | ⌛ 2018-09-24 |
 | [#9383](https://github.com/eslint/eslint/issues/9383) | Proposal: "first" option for `indent/MemberExpression` |  |  |  | 6 | 0 | 24 | ⌛ 2017-10-24 |
-| [#9844](https://github.com/eslint/eslint/issues/9844) | New Feature Proposal - Auto-Gen Todo List |  |  |  | 5 | 0 | 13 | ⌛ 2018-02-04 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 3 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
@@ -169,10 +166,10 @@ Total: 6
 | [#10499](https://github.com/eslint/eslint/issues/10499) | Stricter prefer-const |  |  |  | 1 | 0 | 2 | ⌛ 2018-07-12 |
 | [#10363](https://github.com/eslint/eslint/issues/10363) | [Rule Proposal] require-array-sort-compare |  |  |  | 1 | 1 | 2 | ⌛ 2018-06-07 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 1 | 0 | 2 | ⌛ 2018-05-17 |
-| [#10081](https://github.com/eslint/eslint/issues/10081) | no-constant-condition: new option to allow explicit true/false |  |  |  | 1 | 0 | 6 | ⌛ 2018-04-01 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
+| [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-24 |
 | [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | ⌛ 2018-10-22 |
 | [#10859](https://github.com/eslint/eslint/issues/10859) | Allow "consistent" option for newline-per-chained-call |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-05 |
 | [#10856](https://github.com/eslint/eslint/issues/10856) | no-unmodified-loop-condition throwing for objects that mutate and condition using comparison operators |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-03 |
@@ -221,13 +218,10 @@ Total: 6
 | [#10160](https://github.com/eslint/eslint/issues/10160) | Should no-irregular-whitespace skip template strings by default? |  |  |  | 0 | 0 | 4 | ⌛ 2018-04-22 |
 | [#10116](https://github.com/eslint/eslint/issues/10116) | [Feature request] Lint only certain lines in a file |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-11 |
 | [#10099](https://github.com/eslint/eslint/issues/10099) | Feature request: option to set non-zero exit code when autofixing |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-09 |
-| [#10068](https://github.com/eslint/eslint/issues/10068) | proposal: Add disable-styling option when run init. |  |  |  | 0 | 0 | 0 | ⌛ 2018-03-28 |
 | [#10066](https://github.com/eslint/eslint/issues/10066) | no-implicit-globals doesn't obey /* exported */ declaration |  |  |  | 0 | 0 | 6 | ⌛ 2018-03-28 |
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-21 |
-| [#9976](https://github.com/eslint/eslint/issues/9976) | Match tester output to production behavior |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-08 |
 | [#9897](https://github.com/eslint/eslint/issues/9897) | Improve module resolution |  |  |  | 0 | 0 | 19 | ⌛ 2018-02-16 |
-| [#9793](https://github.com/eslint/eslint/issues/9793) | Spellchecking documentation in CI |  |  |  | 0 | 0 | 16 | ⌛ 2018-01-20 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-18 |
 
-Total: 77
+Total: 72
 
