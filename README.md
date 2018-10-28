@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-10-27 13:00 (UTC)
+- 2018-10-28 13:01 (UTC)
 
 **Legend:**
 
@@ -36,7 +36,7 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 22 | 0 | 17 | ⌛ 2017-09-29 |
 | [#10721](https://github.com/eslint/eslint/issues/10721) | Add "multiline-const", "multiline-let" and "multiline-var" STATEMENT_TYPEs to padding-line-between-statements rule | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 6 | 0 | 1 | ⌛ 2018-08-23 |
-| [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | 2018-11-03 |
+| [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
 Total: 4
@@ -93,16 +93,16 @@ Total: 16
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10996](https://github.com/eslint/eslint/issues/10996) | "ignore-this" option for "prefer-destructuring" |  |  |  | 1 | 0 | 0 | 2018-11-09 |
-| [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 1 | 0 | 2 | 2018-11-03 |
+| [#10996](https://github.com/eslint/eslint/issues/10996) | "ignore-this" option for "prefer-destructuring" |  |  |  | 1 | 0 | 2 | 2018-11-09 |
+| [#10976](https://github.com/eslint/eslint/issues/10976) | Rename no-warning-comments to no-comments and make it fixable |  |  |  | 1 | 0 | 3 | 2018-11-03 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | 2018-11-16 |
-| [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 8 | 2018-11-12 |
+| [#11019](https://github.com/eslint/eslint/issues/11019) | Extract sort-imports member sorting into a separate rule |  |  |  | 0 | 0 | 2 | 2018-11-15 |
+| [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 11 | 2018-11-12 |
 | [#11003](https://github.com/eslint/eslint/issues/11003) | allow relative and absolute globs |  |  |  | 0 | 0 | 1 | 2018-11-12 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 |  |  |  | 0 | 0 | 23 | 2018-11-05 |
-| [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 2 | 2018-11-01 |
-| [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 6 | 2018-10-29 |
-| [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | 2018-10-28 |
-| [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-27 |
+| [#10957](https://github.com/eslint/eslint/issues/10957) | Additional option for skipping auto fixable rules |  |  |  | 0 | 0 | 3 | 2018-11-01 |
+| [#10942](https://github.com/eslint/eslint/issues/10942) | Feature Request: Ability to configure different indenting on template literals |  |  |  | 0 | 0 | 7 | 2018-10-29 |
+| [#10932](https://github.com/eslint/eslint/issues/10932) | Erroneous indentation warning in template literals contents |  |  |  | 0 | 0 | 10 | ⌛ 2018-10-28 |
 
 Total: 10
 
@@ -156,7 +156,7 @@ Total: 6
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 3 | 0 | 3 | ⌛ 2018-08-15 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
-| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 2 | ⌛ 2018-10-23 |
+| [#10910](https://github.com/eslint/eslint/issues/10910) | Change proposal: Allow exceptions for require-jsdoc |  |  |  | 2 | 0 | 3 | ⌛ 2018-10-23 |
 | [#10237](https://github.com/eslint/eslint/issues/10237) | Interested in a max-destructure-depth rule in core? |  |  |  | 2 | 0 | 0 | ⌛ 2018-05-08 |
 | [#10858](https://github.com/eslint/eslint/issues/10858) | Rule Proposal: guard-clause |  |  |  | 1 | 0 | 0 | ⌛ 2018-10-05 |
 | [#10790](https://github.com/eslint/eslint/issues/10790) | eslint + babel-eslint + ArrowFunctionExpression as class method = inaccurate getJSDocComment |  |  |  | 1 | 0 | 4 | ⌛ 2018-09-12 |
@@ -170,6 +170,7 @@ Total: 6
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
+| [#10927](https://github.com/eslint/eslint/issues/10927) | Invalid type in config parameter "plugins" (eslintrc.json) generates a stacktrace |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-27 |
 | [#10914](https://github.com/eslint/eslint/issues/10914) | eol-last change: ignore embedded environments |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-24 |
 | [#10906](https://github.com/eslint/eslint/issues/10906) | Add third, no-op option accepted in places where only "always" and "never" are accepted |  |  |  | 0 | 0 | 4 | ⌛ 2018-10-22 |
 | [#10859](https://github.com/eslint/eslint/issues/10859) | Allow "consistent" option for newline-per-chained-call |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-05 |
@@ -188,7 +189,7 @@ Total: 6
 | [#10763](https://github.com/eslint/eslint/issues/10763) | Conflict between "padding-line-between-statements" and "lines-around-comment" |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-05 |
 | [#10755](https://github.com/eslint/eslint/issues/10755) | no-underscore-dangle should not enforce for prototype methods if enforceInMethodNames is false |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-01 |
 | [#10742](https://github.com/eslint/eslint/issues/10742) | Report transitively unused variables for `no-unused-vars`. |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-28 |
-| [#10726](https://github.com/eslint/eslint/issues/10726) | `quotes` with `allowEscape: true` doesn't catch `'"'"'` |  |  |  | 0 | 0 | 2 | ⌛ 2018-08-24 |
+| [#10726](https://github.com/eslint/eslint/issues/10726) | `quotes` with `allowEscape: true` doesn't catch `'"'"'` |  |  |  | 0 | 0 | 3 | ⌛ 2018-08-24 |
 | [#10723](https://github.com/eslint/eslint/issues/10723) | Proposal: skip certain functions for no-magic-numbers |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-23 |
 | [#10709](https://github.com/eslint/eslint/issues/10709) | Directly point to a configuration package from CLI |  |  |  | 0 | 0 | 0 | ⌛ 2018-08-21 |
 | [#10707](https://github.com/eslint/eslint/issues/10707) | Add an optional --console-format flag so that you can save to file / log different errors |  |  |  | 0 | 0 | 4 | ⌛ 2018-08-20 |
@@ -224,5 +225,5 @@ Total: 6
 | [#9897](https://github.com/eslint/eslint/issues/9897) | Improve module resolution |  |  |  | 0 | 0 | 19 | ⌛ 2018-02-16 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-18 |
 
-Total: 72
+Total: 73
 
