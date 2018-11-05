@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-11-04 13:02 (UTC)
+- 2018-11-05 13:03 (UTC)
 
 **Legend:**
 
@@ -101,7 +101,7 @@ Total: 15
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | 2018-11-16 |
 | [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 12 | 2018-11-12 |
 | [#11003](https://github.com/eslint/eslint/issues/11003) | allow relative and absolute globs |  |  |  | 0 | 0 | 1 | 2018-11-12 |
-| [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 |  |  |  | 0 | 0 | 23 | 2018-11-05 |
+| [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 |  |  |  | 0 | 0 | 23 | ⌛ 2018-11-05 |
 
 Total: 9
 
