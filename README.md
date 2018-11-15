@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-11-14 13:07 (UTC)
+- 2018-11-15 13:08 (UTC)
 
 **Legend:**
 
@@ -15,15 +15,15 @@ This page is a summary of feature issues.
 
 ## Accepted (needs to update labels)
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#10721](https://github.com/eslint/eslint/issues/10721) | Add "multiline-const", "multiline-let" and "multiline-var" STATEMENT_TYPEs to padding-line-between-statements rule | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 6 | 0 | 17 | ⌛ 2018-08-23 |
+
+Total: 1
 
 ## Needs one more supporter
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10721](https://github.com/eslint/eslint/issues/10721) | Add "multiline-const", "multiline-let" and "multiline-var" STATEMENT_TYPEs to padding-line-between-statements rule | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 6 | 0 | 13 | ⌛ 2018-08-23 |
-
-Total: 1
+Nothing.
 
 ## Needs two more supporters
 
@@ -98,13 +98,11 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11035](https://github.com/eslint/eslint/issues/11035) | Better support for multiple processors |  |  |  | 2 | 0 | 8 | 2018-11-20 |
-| [#11029](https://github.com/eslint/eslint/issues/11029) | baseConfig does not allow for passing of baseConfig filename |  |  |  | 1 | 0 | 8 | 2018-11-18 |
 | [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | 2018-12-03 |
-| [#11061](https://github.com/eslint/eslint/issues/11061) | New rule: `use-tag` to enforce which outside variables can go into closures (depending on @use) |  |  |  | 0 | 0 | 2 | 2018-11-28 |
 | [#11031](https://github.com/eslint/eslint/issues/11031) | handle-callback-err shouldn't trigger when `arguments` is used |  |  |  | 0 | 0 | 4 | 2018-11-19 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | 2018-11-16 |
 
-Total: 6
+Total: 4
 
 ## Needs consensus
 
@@ -225,7 +223,7 @@ Total: 6
 | [#10232](https://github.com/eslint/eslint/issues/10232) | Feature request: line padding for array and object literals, like block-padding rule. |  |  |  | 0 | 0 | 4 | ⌛ 2018-05-08 |
 | [#10202](https://github.com/eslint/eslint/issues/10202) | Fallback to no prefix when searching for eslint-config modules |  |  |  | 0 | 0 | 5 | ⌛ 2018-05-02 |
 | [#10160](https://github.com/eslint/eslint/issues/10160) | Should no-irregular-whitespace skip template strings by default? |  |  |  | 0 | 0 | 4 | ⌛ 2018-04-22 |
-| [#10116](https://github.com/eslint/eslint/issues/10116) | [Feature request] Lint only certain lines in a file |  |  |  | 0 | 0 | 4 | ⌛ 2018-04-11 |
+| [#10116](https://github.com/eslint/eslint/issues/10116) | [Feature request] Lint only certain lines in a file |  |  |  | 0 | 0 | 6 | ⌛ 2018-04-11 |
 | [#10099](https://github.com/eslint/eslint/issues/10099) | Feature request: option to set non-zero exit code when autofixing |  |  |  | 0 | 0 | 3 | ⌛ 2018-04-09 |
 | [#10066](https://github.com/eslint/eslint/issues/10066) | no-implicit-globals doesn't obey /* exported */ declaration |  |  |  | 0 | 0 | 6 | ⌛ 2018-03-28 |
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-21 |
