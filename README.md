@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-11-16 13:08 (UTC)
+- 2018-11-17 13:09 (UTC)
 
 **Legend:**
 
@@ -94,9 +94,9 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11035](https://github.com/eslint/eslint/issues/11035) | Better support for multiple processors |  |  |  | 2 | 0 | 8 | 2018-11-20 |
+| [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
 | [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | 2018-12-03 |
 | [#11031](https://github.com/eslint/eslint/issues/11031) | handle-callback-err shouldn't trigger when `arguments` is used |  |  |  | 0 | 0 | 4 | 2018-11-19 |
-| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | ⌛ 2018-11-16 |
 
 Total: 4
 
@@ -164,7 +164,8 @@ Total: 6
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 1 | 0 | 2 | ⌛ 2018-05-17 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
-| [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 16 | ⌛ 2017-09-22 |
+| [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 18 | ⌛ 2017-09-22 |
+| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | ⌛ 2018-11-16 |
 | [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 12 | ⌛ 2018-11-12 |
 | [#11003](https://github.com/eslint/eslint/issues/11003) | allow relative and absolute globs |  |  |  | 0 | 0 | 1 | ⌛ 2018-11-12 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 |  |  |  | 0 | 0 | 23 | ⌛ 2018-11-05 |
@@ -225,5 +226,5 @@ Total: 6
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-21 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-18 |
 
-Total: 79
+Total: 80
 
