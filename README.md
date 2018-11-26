@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-11-25 13:14 (UTC)
+- 2018-11-26 13:15 (UTC)
 
 **Legend:**
 
@@ -93,13 +93,14 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | 2018-12-16 |
 | [#11118](https://github.com/eslint/eslint/issues/11118) | Rule option proposal: indent { ParensAfterFunctionIdentifierAndNewline } |  |  |  | 0 | 0 | 0 | 2018-12-14 |
 | [#11109](https://github.com/eslint/eslint/issues/11109) | no-extra-parens fires a warning after a documented type cast |  |  |  | 0 | 0 | 0 | 2018-12-12 |
 | [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 0 | 2018-12-10 |
 | [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
 | [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | 2018-12-03 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
