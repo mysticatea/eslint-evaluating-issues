@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-03 13:19 (UTC)
+- 2018-12-04 13:19 (UTC)
 
 **Legend:**
 
@@ -93,16 +93,15 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11135](https://github.com/eslint/eslint/issues/11135) | Provide config access to processors |  |  |  | 1 | 0 | 2 | 2018-12-19 |
-| [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 2 | 2018-12-24 |
+| [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 3 | 2018-12-24 |
 | [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | 2018-12-21 |
 | [#11131](https://github.com/eslint/eslint/issues/11131) | object-curly-newline support object extraction in function parameters |  |  |  | 0 | 0 | 1 | 2018-12-18 |
 | [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | 2018-12-16 |
 | [#11118](https://github.com/eslint/eslint/issues/11118) | Rule option proposal: indent { ParensAfterFunctionIdentifierAndNewline } |  |  |  | 0 | 0 | 0 | 2018-12-14 |
 | [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 7 | 2018-12-10 |
 | [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
-| [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | ⌛ 2018-12-03 |
 
-Total: 9
+Total: 8
 
 ## Needs consensus
 
@@ -168,6 +167,7 @@ Total: 6
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 25 | ⌛ 2017-09-22 |
+| [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | ⌛ 2018-12-03 |
 | [#11031](https://github.com/eslint/eslint/issues/11031) | handle-callback-err shouldn't trigger when `arguments` is used |  |  |  | 0 | 0 | 4 | ⌛ 2018-11-19 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | ⌛ 2018-11-16 |
 | [#11005](https://github.com/eslint/eslint/issues/11005) | add --list-target-files option |  |  |  | 0 | 0 | 12 | ⌛ 2018-11-12 |
@@ -219,7 +219,7 @@ Total: 6
 | [#10340](https://github.com/eslint/eslint/issues/10340) | Initializer create configuration file with Unix line endings |  |  |  | 0 | 0 | 0 | ⌛ 2018-06-01 |
 | [#10312](https://github.com/eslint/eslint/issues/10312) | [no-unsed-vars] : Add annotation to ignore exports |  |  |  | 0 | 0 | 0 | ⌛ 2018-05-25 |
 | [#10250](https://github.com/eslint/eslint/issues/10250) | Introduce "ignoreForSingleProperty" value for prefer-destructuring |  |  |  | 0 | 0 | 10 | ⌛ 2018-05-13 |
-| [#10243](https://github.com/eslint/eslint/issues/10243) | Disallowing use of the Object() constructor without `new` |  |  |  | 0 | 0 | 3 | ⌛ 2018-05-11 |
+| [#10243](https://github.com/eslint/eslint/issues/10243) | Disallowing use of the Object() constructor without `new` |  |  |  | 0 | 0 | 2 | ⌛ 2018-05-11 |
 | [#10232](https://github.com/eslint/eslint/issues/10232) | Feature request: line padding for array and object literals, like block-padding rule. |  |  |  | 0 | 0 | 4 | ⌛ 2018-05-08 |
 | [#10202](https://github.com/eslint/eslint/issues/10202) | Fallback to no prefix when searching for eslint-config modules |  |  |  | 0 | 0 | 5 | ⌛ 2018-05-02 |
 | [#10160](https://github.com/eslint/eslint/issues/10160) | Should no-irregular-whitespace skip template strings by default? |  |  |  | 0 | 0 | 4 | ⌛ 2018-04-22 |
@@ -229,5 +229,5 @@ Total: 6
 | [#10034](https://github.com/eslint/eslint/issues/10034) | Add an option for "new-parens" to require having no parenthesis on new |  |  |  | 0 | 0 | 2 | ⌛ 2018-03-21 |
 | [#9783](https://github.com/eslint/eslint/issues/9783) | Symlinks to ignored files should be ignored |  |  |  | 0 | 0 | 10 | ⌛ 2018-01-18 |
 
-Total: 79
+Total: 80
 
