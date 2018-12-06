@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-05 13:20 (UTC)
+- 2018-12-06 13:21 (UTC)
 
 **Legend:**
 
@@ -55,7 +55,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11019](https://github.com/eslint/eslint/issues/11019) | Add sort-imports member sorting into a separate option |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 4 | ⌛ 2018-11-15 |
+| [#11019](https://github.com/eslint/eslint/issues/11019) | Add sort-imports member sorting into a separate option |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 5 | ⌛ 2018-11-15 |
 | [#10724](https://github.com/eslint/eslint/issues/10724) | no-dupe-keys - warn about non-static key names with similar AST |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 4 | ⌛ 2018-08-24 |
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-05-29 |
 | [#10849](https://github.com/eslint/eslint/issues/10849) | Ban return foo in Array.forEach / (Iterable Object).forEach |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-10-01 |
@@ -98,7 +98,7 @@ Total: 13
 | [#11131](https://github.com/eslint/eslint/issues/11131) | object-curly-newline support object extraction in function parameters |  |  |  | 0 | 0 | 1 | 2018-12-18 |
 | [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | 2018-12-16 |
 | [#11118](https://github.com/eslint/eslint/issues/11118) | Rule option proposal: indent { ParensAfterFunctionIdentifierAndNewline } |  |  |  | 0 | 0 | 0 | 2018-12-14 |
-| [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 7 | 2018-12-10 |
+| [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 8 | 2018-12-10 |
 | [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
 
 Total: 8
