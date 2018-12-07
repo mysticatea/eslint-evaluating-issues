@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-06 13:21 (UTC)
+- 2018-12-07 13:20 (UTC)
 
 **Legend:**
 
@@ -55,7 +55,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11019](https://github.com/eslint/eslint/issues/11019) | Add sort-imports member sorting into a separate option |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 5 | ⌛ 2018-11-15 |
+| [#11019](https://github.com/eslint/eslint/issues/11019) | Add sort-imports member sorting into a separate option |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 7 | ⌛ 2018-11-15 |
 | [#10724](https://github.com/eslint/eslint/issues/10724) | no-dupe-keys - warn about non-static key names with similar AST |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 4 | ⌛ 2018-08-24 |
 | [#10328](https://github.com/eslint/eslint/issues/10328) | Add rule to check that parameters with defaults declared last |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 2 | 0 | 2 | ⌛ 2018-05-29 |
 | [#10849](https://github.com/eslint/eslint/issues/10849) | Ban return foo in Array.forEach / (Iterable Object).forEach |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-10-01 |
@@ -93,6 +93,7 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11135](https://github.com/eslint/eslint/issues/11135) | Provide config access to processors |  |  |  | 1 | 0 | 2 | 2018-12-19 |
+| [#11166](https://github.com/eslint/eslint/issues/11166) | Export default indetation |  |  |  | 0 | 0 | 2 | 2018-12-27 |
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | 2018-12-24 |
 | [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | 2018-12-21 |
 | [#11131](https://github.com/eslint/eslint/issues/11131) | object-curly-newline support object extraction in function parameters |  |  |  | 0 | 0 | 1 | 2018-12-18 |
@@ -101,7 +102,7 @@ Total: 13
 | [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 8 | 2018-12-10 |
 | [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
 
-Total: 8
+Total: 9
 
 ## Needs consensus
 
@@ -148,7 +149,7 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 7 | 0 | 2 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config |  |  |  | 8 | 0 | 2 | ⌛ 2018-09-24 |
 | [#10674](https://github.com/eslint/eslint/issues/10674) | Object property styling, multiline properties |  |  |  | 4 | 0 | 3 | ⌛ 2018-08-15 |
 | [#9109](https://github.com/eslint/eslint/issues/9109) | Every single ECMAScript edition should have an "env" option |  |  |  | 4 | 0 | 35 | ⌛ 2017-09-04 |
 | [#10198](https://github.com/eslint/eslint/issues/10198) | Customize `no-await-in-loop` to allow `while` |  |  |  | 3 | 0 | 1 | ⌛ 2018-04-30 |
