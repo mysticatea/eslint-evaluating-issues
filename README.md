@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-07 13:20 (UTC)
+- 2018-12-08 13:21 (UTC)
 
 **Legend:**
 
@@ -93,6 +93,7 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11135](https://github.com/eslint/eslint/issues/11135) | Provide config access to processors |  |  |  | 1 | 0 | 2 | 2018-12-19 |
+| [#11169](https://github.com/eslint/eslint/issues/11169) | Update doc on `no-unused-expressions` |  |  |  | 0 | 0 | 0 | 2018-12-28 |
 | [#11166](https://github.com/eslint/eslint/issues/11166) | Export default indetation |  |  |  | 0 | 0 | 2 | 2018-12-27 |
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | 2018-12-24 |
 | [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | 2018-12-21 |
@@ -100,7 +101,6 @@ Total: 13
 | [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | 2018-12-16 |
 | [#11118](https://github.com/eslint/eslint/issues/11118) | Rule option proposal: indent { ParensAfterFunctionIdentifierAndNewline } |  |  |  | 0 | 0 | 0 | 2018-12-14 |
 | [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 8 | 2018-12-10 |
-| [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | 2018-12-07 |
 
 Total: 9
 
@@ -118,9 +118,9 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 3 | 0 | 19 | ⌛ 2018-06-01 |
 | [#11035](https://github.com/eslint/eslint/issues/11035) | Better support for multiple processors | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 2 | 0 | 13 | ⌛ 2018-11-20 |
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 18 | 0 | 17 | ⌛ 2018-07-31 |
-| [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 3 | 0 | 18 | ⌛ 2018-06-01 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 19 | 0 | 17 | ⌛ 2018-07-31 |
 | [#10873](https://github.com/eslint/eslint/issues/10873) | Remove non-recommended rules from recommended config |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2018-10-10 |
 | [#10289](https://github.com/eslint/eslint/issues/10289) | Proposal: expose ConfigValidator or something like as a public API. |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 1 | ⌛ 2018-05-22 |
 | [#10823](https://github.com/eslint/eslint/issues/10823) | Custom parser hook for code path analysis |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2018-09-22 |
@@ -166,8 +166,9 @@ Total: 6
 | [#10363](https://github.com/eslint/eslint/issues/10363) | [Rule Proposal] require-array-sort-compare |  |  |  | 1 | 1 | 2 | ⌛ 2018-06-07 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 1 | 0 | 2 | ⌛ 2018-05-17 |
 | [#9913](https://github.com/eslint/eslint/issues/9913) | no-negated-condition and if/else statements with three or more branches |  |  |  | 1 | 0 | 2 | ⌛ 2018-02-21 |
-| [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 24 | ⌛ 2018-02-02 |
+| [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 25 | ⌛ 2018-02-02 |
 | [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 25 | ⌛ 2017-09-22 |
+| [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | ⌛ 2018-12-07 |
 | [#11078](https://github.com/eslint/eslint/issues/11078) | Add object destructuring support for sort-vars |  |  |  | 0 | 0 | 2 | ⌛ 2018-12-03 |
 | [#11031](https://github.com/eslint/eslint/issues/11031) | handle-callback-err shouldn't trigger when `arguments` is used |  |  |  | 0 | 0 | 4 | ⌛ 2018-11-19 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node |  |  |  | 0 | 0 | 2 | ⌛ 2018-11-16 |
@@ -185,7 +186,6 @@ Total: 6
 | [#10852](https://github.com/eslint/eslint/issues/10852) | Remove assumption that user has global install |  |  |  | 0 | 0 | 0 | ⌛ 2018-10-01 |
 | [#10847](https://github.com/eslint/eslint/issues/10847) | Disable un-await-ed Promises in async functions |  |  |  | 0 | 0 | 1 | ⌛ 2018-10-01 |
 | [#10840](https://github.com/eslint/eslint/issues/10840) | consistent-return for async functions |  |  |  | 0 | 0 | 4 | ⌛ 2018-09-28 |
-| [#10834](https://github.com/eslint/eslint/issues/10834) | support subclassing RuleTester to override it/describe #10830 |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-26 |
 | [#10805](https://github.com/eslint/eslint/issues/10805) | Simplifying the configuration of plugins that replace ESLint's built-in rules |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-17 |
 | [#10800](https://github.com/eslint/eslint/issues/10800) | Rule "one-var" with option "consecutive" should respect comments between declarations. |  |  |  | 0 | 0 | 2 | ⌛ 2018-09-15 |
 | [#10793](https://github.com/eslint/eslint/issues/10793) | spaced-comment should control asterisk spacing and alignment in block comments |  |  |  | 0 | 0 | 1 | ⌛ 2018-09-14 |
