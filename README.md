@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-15 13:25 (UTC)
+- 2018-12-16 13:25 (UTC)
 
 **Legend:**
 
@@ -74,7 +74,7 @@ Total: 3
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | 2018-12-24 |
 | [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | 2018-12-21 |
 | [#11131](https://github.com/eslint/eslint/issues/11131) | object-curly-newline support object extraction in function parameters |  |  |  | 0 | 0 | 1 | 2018-12-18 |
-| [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | 2018-12-16 |
+| [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | ⌛ 2018-12-16 |
 
 Total: 8
 
@@ -115,7 +115,6 @@ Nothing.
 | [#11090](https://github.com/eslint/eslint/issues/11090) | no-plusplus option to allow use in beackets |  |  |  | 0 | 0 | 2 | ⌛ 2018-12-07 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
 | [#10243](https://github.com/eslint/eslint/issues/10243) | Disallowing use of the Object() constructor without `new` |  |  |  | 0 | 0 | 2 | ⌛ 2018-05-11 |
-| [#10116](https://github.com/eslint/eslint/issues/10116) | [Feature request] Lint only certain lines in a file |  |  |  | 0 | 0 | 6 | ⌛ 2018-04-11 |
 
-Total: 9
+Total: 8
 
