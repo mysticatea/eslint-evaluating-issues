@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-21 13:28 (UTC)
+- 2018-12-22 13:29 (UTC)
 
 **Legend:**
 
@@ -71,9 +71,8 @@ Total: 3
 | [#11176](https://github.com/eslint/eslint/issues/11176) | Adding end-position in reports |  |  |  | 0 | 0 | 4 | 2018-12-31 |
 | [#11172](https://github.com/eslint/eslint/issues/11172) | no-tabs: allow tabs inside strings |  |  |  | 0 | 0 | 1 | 2018-12-29 |
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | 2018-12-24 |
-| [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | 2018-12-21 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -106,7 +105,7 @@ Nothing.
 | [#11135](https://github.com/eslint/eslint/issues/11135) | Provide config access to processors |  |  |  | 1 | 0 | 2 | ⌛ 2018-12-19 |
 | [#10606](https://github.com/eslint/eslint/issues/10606) | Make CLIEngine and supporting functions async via Promises |  |  |  | 1 | 0 | 21 | ⌛ 2018-08-03 |
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 1 | 0 | 25 | ⌛ 2018-02-02 |
-| [#9192](https://github.com/eslint/eslint/issues/9192) | Extending rule options in derived configs? |  |  |  | 1 | 0 | 25 | ⌛ 2017-09-22 |
+| [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | ⌛ 2018-12-21 |
 | [#11131](https://github.com/eslint/eslint/issues/11131) | object-curly-newline support object extraction in function parameters |  |  |  | 0 | 0 | 1 | ⌛ 2018-12-18 |
 | [#11123](https://github.com/eslint/eslint/issues/11123) | Add an option to no-extra-parens for conditional extending of literal object |  |  |  | 0 | 0 | 0 | ⌛ 2018-12-16 |
 | [#11118](https://github.com/eslint/eslint/issues/11118) | Rule option proposal: indent { ParensAfterFunctionIdentifierAndNewline } |  |  |  | 0 | 0 | 0 | ⌛ 2018-12-14 |
