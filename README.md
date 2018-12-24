@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-23 13:29 (UTC)
+- 2018-12-24 13:30 (UTC)
 
 **Legend:**
 
@@ -55,7 +55,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11142](https://github.com/eslint/eslint/issues/11142) | id-length ignore destructured object properties |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2018-12-20 |
 | [#11200](https://github.com/eslint/eslint/issues/11200) | no-duplicate-destructuring |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-01-09 |
-| [#11178](https://github.com/eslint/eslint/issues/11178) | Rule option proposal: multi-case for padding-line-between-statements |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2018-12-31 |
+| [#11178](https://github.com/eslint/eslint/issues/11178) | Rule option proposal: multi-case for padding-line-between-statements |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2018-12-31 |
 | [#11134](https://github.com/eslint/eslint/issues/11134) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@Aladdin-ADD" src="https://github.com/Aladdin-ADD.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 
 Total: 4
@@ -66,7 +66,7 @@ Total: 4
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11176](https://github.com/eslint/eslint/issues/11176) | Adding end-position in reports |  |  |  | 0 | 0 | 4 | 2018-12-31 |
 | [#11172](https://github.com/eslint/eslint/issues/11172) | no-tabs: allow tabs inside strings |  |  |  | 0 | 0 | 1 | 2018-12-29 |
-| [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | 2018-12-24 |
+| [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 0 | 0 | 4 | ⌛ 2018-12-24 |
 
 Total: 3
 
