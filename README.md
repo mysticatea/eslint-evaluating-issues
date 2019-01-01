@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2018-12-31 13:34 (UTC)
+- 2019-01-01 13:35 (UTC)
 
 **Legend:**
 
@@ -62,10 +62,9 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11219](https://github.com/eslint/eslint/issues/11219) | Feature Request: How output stats can tell us eslint has fixed something or nothing |  |  |  | 0 | 0 | 1 | 2019-01-18 |
 | [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 2 | 2019-01-15 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
@@ -84,7 +83,7 @@ Total: 2
 | [#11035](https://github.com/eslint/eslint/issues/11035) | Better support for multiple processors | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 2 | 0 | 13 | ⌛ 2018-11-20 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | ⌛ 2018-11-16 |
-| [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-01-19 |
+| [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-01-19 |
 
 Total: 5
 
@@ -98,7 +97,6 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9841](https://github.com/eslint/eslint/issues/9841) | Expose rule URLs to formatters |  |  |  | 2 | 0 | 25 | ⌛ 2018-02-02 |
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 1 | 0 | 5 | ⌛ 2018-12-24 |
-| [#11135](https://github.com/eslint/eslint/issues/11135) | Provide config access to processors |  |  |  | 1 | 0 | 2 | ⌛ 2018-12-19 |
 | [#11176](https://github.com/eslint/eslint/issues/11176) | Adding end-position in reports |  |  |  | 0 | 0 | 4 | ⌛ 2018-12-31 |
 | [#11172](https://github.com/eslint/eslint/issues/11172) | no-tabs: allow tabs inside strings |  |  |  | 0 | 0 | 1 | ⌛ 2018-12-29 |
 | [#11144](https://github.com/eslint/eslint/issues/11144) | External imports in monorepo |  |  |  | 0 | 0 | 0 | ⌛ 2018-12-21 |
@@ -106,5 +104,5 @@ Nothing.
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
 | [#10243](https://github.com/eslint/eslint/issues/10243) | Disallowing use of the Object() constructor without `new` |  |  |  | 0 | 0 | 2 | ⌛ 2018-05-11 |
 
-Total: 9
+Total: 8
 
