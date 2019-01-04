@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-03 13:36 (UTC)
+- 2019-01-04 13:37 (UTC)
 
 **Legend:**
 
@@ -62,9 +62,10 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 4 | 2019-01-15 |
+| [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 0 | 2019-01-24 |
+| [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 5 | 2019-01-15 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
@@ -99,9 +100,7 @@ Nothing.
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 1 | 0 | 5 | ⌛ 2018-12-24 |
 | [#11176](https://github.com/eslint/eslint/issues/11176) | Adding end-position in reports |  |  |  | 0 | 0 | 4 | ⌛ 2018-12-31 |
 | [#11172](https://github.com/eslint/eslint/issues/11172) | no-tabs: allow tabs inside strings |  |  |  | 0 | 0 | 1 | ⌛ 2018-12-29 |
-| [#11105](https://github.com/eslint/eslint/issues/11105) | Update --init behavior |  |  |  | 0 | 0 | 8 | ⌛ 2018-12-10 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
-| [#10243](https://github.com/eslint/eslint/issues/10243) | Disallowing use of the Object() constructor without `new` |  |  |  | 0 | 0 | 2 | ⌛ 2018-05-11 |
 
-Total: 7
+Total: 5
 
