@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-04 13:37 (UTC)
+- 2019-01-05 13:38 (UTC)
 
 **Legend:**
 
@@ -62,10 +62,11 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11217](https://github.com/eslint/eslint/issues/11217) | Request to add allowSingleLineArrow flag for brace-style |  |  |  | 4 | 0 | 4 | 2019-01-18 |
 | [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 0 | 2019-01-24 |
 | [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 5 | 2019-01-15 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
