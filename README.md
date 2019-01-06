@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-05 13:38 (UTC)
+- 2019-01-06 13:38 (UTC)
 
 **Legend:**
 
