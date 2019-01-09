@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-08 13:39 (UTC)
+- 2019-01-09 13:39 (UTC)
 
 **Legend:**
 
@@ -53,7 +53,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11200](https://github.com/eslint/eslint/issues/11200) | no-duplicate-destructuring |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-01-09 |
+| [#11200](https://github.com/eslint/eslint/issues/11200) | no-duplicate-destructuring |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-01-09 |
 | [#11178](https://github.com/eslint/eslint/issues/11178) | Rule option proposal: multi-case for padding-line-between-statements |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2018-12-31 |
 
 Total: 2
