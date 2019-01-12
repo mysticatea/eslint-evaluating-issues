@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-11 13:41 (UTC)
+- 2019-01-12 13:42 (UTC)
 
 **Legend:**
 
@@ -63,7 +63,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11217](https://github.com/eslint/eslint/issues/11217) | Request to add allowSingleLineArrow flag for brace-style |  |  |  | 4 | 0 | 4 | 2019-01-18 |
-| [#11255](https://github.com/eslint/eslint/issues/11255) | Add output formatter support for SARIF |  |  |  | 0 | 0 | 2 | 2019-01-30 |
+| [#11255](https://github.com/eslint/eslint/issues/11255) | Add output formatter support for SARIF |  |  |  | 0 | 0 | 6 | 2019-01-30 |
 | [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | 2019-01-28 |
 | [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | 2019-01-24 |
 | [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 5 | 2019-01-15 |
@@ -89,14 +89,15 @@ Total: 2
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | ⌛ 2018-11-16 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-01-19 |
 | [#11218](https://github.com/eslint/eslint/issues/11218) | Make the CLIEngine `cwd` option available to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 1 | 2019-01-18 |
+| [#11267](https://github.com/eslint/eslint/issues/11267) | Change the no-console rule value in eslint:recommended |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-02-01 |
 
-Total: 6
+Total: 7
 
 ## Looks opposed
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11244](https://github.com/eslint/eslint/issues/11244) | Exception for capitalized-comments if first word matches method parameter |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 1 | 2019-01-27 |
+| [#11244](https://github.com/eslint/eslint/issues/11244) | Exception for capitalized-comments if first word matches method parameter |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-01-27 |
 
 Total: 1
 
