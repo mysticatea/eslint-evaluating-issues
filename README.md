@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-24 13:46 (UTC)
+- 2019-01-25 13:47 (UTC)
 
 **Legend:**
 
@@ -65,9 +65,8 @@ Total: 1
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | 2019-02-07 |
 | [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | 2019-02-04 |
 | [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | 2019-01-28 |
-| [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | 2019-01-24 |
 
-Total: 4
+Total: 3
 
 ## Needs consensus
 
@@ -107,9 +106,10 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11217](https://github.com/eslint/eslint/issues/11217) | Request to add allowSingleLineArrow flag for brace-style |  |  |  | 4 | 0 | 4 | ⌛ 2019-01-18 |
 | [#11151](https://github.com/eslint/eslint/issues/11151) | Make prefer-destructuring fixable |  |  |  | 2 | 0 | 5 | ⌛ 2018-12-24 |
+| [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-24 |
 | [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 5 | ⌛ 2019-01-15 |
 | [#11197](https://github.com/eslint/eslint/issues/11197) | Add exceptions to no-unexpected-multiline rule |  |  |  | 0 | 0 | 2 | ⌛ 2019-01-06 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
 
-Total: 5
+Total: 6
 
