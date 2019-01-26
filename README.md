@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-25 13:47 (UTC)
+- 2019-01-26 13:48 (UTC)
 
 **Legend:**
 
@@ -62,11 +62,12 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | 2019-02-07 |
 | [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | 2019-02-04 |
 | [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | 2019-01-28 |
 
-Total: 3
+Total: 4
 
 ## Needs consensus
 
