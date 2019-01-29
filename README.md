@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-28 13:49 (UTC)
+- 2019-01-29 13:50 (UTC)
 
 **Legend:**
 
@@ -55,21 +55,23 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-02-18 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-02-03 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 2 | 2019-02-18 |
+| [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 3 | 2019-02-18 |
+| [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | 2019-02-18 |
 | [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
+| [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | 2019-02-13 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | 2019-02-07 |
 | [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | 2019-02-04 |
-| [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-28 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
@@ -108,10 +110,11 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11217](https://github.com/eslint/eslint/issues/11217) | Request to add allowSingleLineArrow flag for brace-style |  |  |  | 4 | 0 | 4 | ⌛ 2019-01-18 |
+| [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-28 |
 | [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-24 |
 | [#11207](https://github.com/eslint/eslint/issues/11207) | Overrides should support AST selectors for whitelisting nodes from specific rules |  |  |  | 0 | 0 | 5 | ⌛ 2019-01-15 |
 | [#11197](https://github.com/eslint/eslint/issues/11197) | Add exceptions to no-unexpected-multiline rule |  |  |  | 0 | 0 | 2 | ⌛ 2019-01-06 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
 
-Total: 5
+Total: 6
 
