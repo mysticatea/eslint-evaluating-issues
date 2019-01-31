@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-30 13:49 (UTC)
+- 2019-01-31 13:50 (UTC)
 
 **Legend:**
 
@@ -55,7 +55,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-02-18 |
+| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-02-18 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-02-03 |
 
 Total: 2
