@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-01-31 13:50 (UTC)
+- 2019-02-01 13:50 (UTC)
 
 **Legend:**
 
@@ -25,7 +25,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 8 | ⌛ 2018-07-06 |
+| [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 9 | ⌛ 2018-07-06 |
 | [#11279](https://github.com/eslint/eslint/issues/11279) | Rule proposal: Disallow number literals that lose precision | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 0 | 2019-02-06 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-08-09 |
 
@@ -65,7 +65,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11325](https://github.com/eslint/eslint/issues/11325) | [Feature request] maxLen auto fix |  |  |  | 0 | 1 | 7 | 2019-02-18 |
-| [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 3 | 2019-02-18 |
+| [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | 2019-02-18 |
 | [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | 2019-02-18 |
 | [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
 | [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | 2019-02-13 |
@@ -88,7 +88,6 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 3 | 0 | 19 | ⌛ 2018-06-01 |
-| [#10873](https://github.com/eslint/eslint/issues/10873) | Remove non-recommended rules from recommended config | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 2 | 0 | 3 | ⌛ 2018-10-10 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 11 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | ⌛ 2018-11-16 |
@@ -96,7 +95,7 @@ Total: 2
 | [#11218](https://github.com/eslint/eslint/issues/11218) | Make the CLIEngine `cwd` option available to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 1 | ⌛ 2019-01-18 |
 | [#11267](https://github.com/eslint/eslint/issues/11267) | Change the no-console rule value in eslint:recommended |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-02-01 |
 
-Total: 8
+Total: 7
 
 ## Looks opposed
 
