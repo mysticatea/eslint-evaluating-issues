@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-04 13:51 (UTC)
+- 2019-02-05 13:52 (UTC)
 
 **Legend:**
 
@@ -64,7 +64,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 1 | 0 | 0 | 2019-02-22 |
-| [#11349](https://github.com/eslint/eslint/issues/11349) | Suggestion: false positive of `no-invalid-this` rule on event handlers |  |  |  | 0 | 0 | 7 | 2019-02-25 |
+| [#11349](https://github.com/eslint/eslint/issues/11349) | Suggestion: false positive of `no-invalid-this` rule on event handlers |  |  |  | 0 | 0 | 11 | 2019-02-25 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11343](https://github.com/eslint/eslint/issues/11343) | `no-plusplus` rule errors with valid JS code, requires more code as workaround |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | 2019-02-18 |
@@ -72,9 +72,8 @@ Total: 2
 | [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
 | [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | 2019-02-13 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | 2019-02-07 |
-| [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | 2019-02-04 |
 
-Total: 10
+Total: 9
 
 ## Needs consensus
 
@@ -111,7 +110,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11217](https://github.com/eslint/eslint/issues/11217) | Request to add allowSingleLineArrow flag for brace-style |  |  |  | 4 | 0 | 4 | ⌛ 2019-01-18 |
+| [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | ⌛ 2019-02-04 |
 | [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-28 |
 | [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-24 |
 | [#11197](https://github.com/eslint/eslint/issues/11197) | Add exceptions to no-unexpected-multiline rule |  |  |  | 0 | 0 | 2 | ⌛ 2019-01-06 |
