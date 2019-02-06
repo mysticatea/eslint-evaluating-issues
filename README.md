@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-05 13:52 (UTC)
+- 2019-02-06 13:53 (UTC)
 
 **Legend:**
 
@@ -35,7 +35,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 28 | 0 | 17 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 29 | 0 | 18 | ⌛ 2017-09-29 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
@@ -54,7 +54,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 5 | 2019-02-18 |
+| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 0 | 5 | 2019-02-18 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-02-03 |
 
 Total: 2
@@ -91,7 +91,7 @@ Total: 2
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 3 | 0 | 19 | ⌛ 2018-06-01 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 11 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
-| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | ⌛ 2018-11-16 |
+| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-11-16 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-01-19 |
 | [#11218](https://github.com/eslint/eslint/issues/11218) | Make the CLIEngine `cwd` option available to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 1 | ⌛ 2019-01-18 |
 | [#11267](https://github.com/eslint/eslint/issues/11267) | Change the no-console rule value in eslint:recommended |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-02-01 |
@@ -114,7 +114,7 @@ Total: 1
 | [#11246](https://github.com/eslint/eslint/issues/11246) | typeof typeof (variable) yields a String anyway |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-28 |
 | [#11235](https://github.com/eslint/eslint/issues/11235) | Remove autoconfig from --init |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-24 |
 | [#11197](https://github.com/eslint/eslint/issues/11197) | Add exceptions to no-unexpected-multiline rule |  |  |  | 0 | 0 | 2 | ⌛ 2019-01-06 |
-| [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 0 | ⌛ 2018-09-06 |
+| [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 3 | ⌛ 2018-09-06 |
 
 Total: 5
 
