@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-06 13:53 (UTC)
+- 2019-02-07 13:53 (UTC)
 
 **Legend:**
 
@@ -26,7 +26,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
-| [#11279](https://github.com/eslint/eslint/issues/11279) | Rule proposal: Disallow number literals that lose precision | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 0 | 2019-02-06 |
+| [#11279](https://github.com/eslint/eslint/issues/11279) | Rule proposal: Disallow number literals that lose precision | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2019-02-06 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-08-09 |
 
 Total: 3
@@ -36,11 +36,12 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 29 | 0 | 18 | ⌛ 2017-09-29 |
+| [#11361](https://github.com/eslint/eslint/issues/11361) | New: enforce default param be the last | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 1 | 0 | 0 | 2019-02-28 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 4
+Total: 5
 
 ## Needs a champion
 
@@ -64,6 +65,9 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 1 | 0 | 0 | 2019-02-22 |
+| [#11362](https://github.com/eslint/eslint/issues/11362) | JSON formatter "source" attribute should focus on relevant lines |  |  |  | 0 | 0 | 0 | 2019-02-28 |
+| [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | 2019-02-27 |
+| [#11359](https://github.com/eslint/eslint/issues/11359) | Change "readable" to "readonly" and "writeable" to "writable" in new globals configuration |  |  |  | 0 | 0 | 6 | 2019-02-27 |
 | [#11349](https://github.com/eslint/eslint/issues/11349) | Suggestion: false positive of `no-invalid-this` rule on event handlers |  |  |  | 0 | 0 | 11 | 2019-02-25 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11343](https://github.com/eslint/eslint/issues/11343) | `no-plusplus` rule errors with valid JS code, requires more code as workaround |  |  |  | 0 | 0 | 0 | 2019-02-22 |
@@ -73,7 +77,7 @@ Total: 2
 | [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | 2019-02-13 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | 2019-02-07 |
 
-Total: 9
+Total: 12
 
 ## Needs consensus
 
