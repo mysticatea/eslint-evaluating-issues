@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-08 13:53 (UTC)
+- 2019-02-09 13:53 (UTC)
 
 **Legend:**
 
@@ -55,7 +55,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 0 | 5 | 2019-02-18 |
+| [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | 0 | 5 | 2019-02-18 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-02-03 |
 
 Total: 2
@@ -65,10 +65,8 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 1 | 0 | 0 | 2019-02-22 |
-| [#11362](https://github.com/eslint/eslint/issues/11362) | JSON formatter "source" attribute should focus on relevant lines |  |  |  | 0 | 0 | 9 | 2019-02-28 |
 | [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | 2019-02-27 |
-| [#11359](https://github.com/eslint/eslint/issues/11359) | Change "readable" to "readonly" and "writeable" to "writable" in new globals configuration |  |  |  | 0 | 0 | 6 | 2019-02-27 |
-| [#11349](https://github.com/eslint/eslint/issues/11349) | Suggestion: false positive of `no-invalid-this` rule on event handlers |  |  |  | 0 | 0 | 11 | 2019-02-25 |
+| [#11359](https://github.com/eslint/eslint/issues/11359) | Change "readable" to "readonly" and "writeable" to "writable" in new globals configuration |  |  |  | 0 | 0 | 8 | 2019-02-27 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11343](https://github.com/eslint/eslint/issues/11343) | `no-plusplus` rule errors with valid JS code, requires more code as workaround |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | 2019-02-18 |
@@ -76,7 +74,7 @@ Total: 2
 | [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
 | [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | 2019-02-13 |
 
-Total: 11
+Total: 9
 
 ## Needs consensus
 
