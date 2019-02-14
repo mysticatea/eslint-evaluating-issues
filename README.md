@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-13 13:55 (UTC)
+- 2019-02-14 13:56 (UTC)
 
 **Legend:**
 
@@ -39,7 +39,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 30 | 0 | 18 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 30 | 0 | 19 | ⌛ 2017-09-29 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | 2019-03-03 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
@@ -53,11 +53,7 @@ Nothing.
 
 ## Needs a champion and one more supporter
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11381](https://github.com/eslint/eslint/issues/11381) | Rule proposal: Use named capture groups for regex |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 4 | 0 | 2 | 2019-03-05 |
-
-Total: 1
+Nothing.
 
 ## Needs a champion and two more supporters
 
@@ -79,10 +75,8 @@ Total: 4
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | 2019-02-18 |
 | [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | 2019-02-18 |
-| [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | 2019-02-13 |
-| [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | ⌛ 2019-02-13 |
 
-Total: 7
+Total: 5
 
 ## Needs consensus
 
@@ -101,7 +95,7 @@ Total: 2
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 11 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11370](https://github.com/eslint/eslint/issues/11370) | Proposal: no-redeclare reports /*globals foo*/ comments if it's redeclaration | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | 2019-03-02 |
-| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2018-11-16 |
+| [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2018-11-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-01-19 |
 | [#11267](https://github.com/eslint/eslint/issues/11267) | Change the no-console rule value in eslint:recommended |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-02-01 |
@@ -116,10 +110,12 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11310](https://github.com/eslint/eslint/issues/11310) | comma-dangle for dynamic import |  |  |  | 0 | 0 | 3 | ⌛ 2019-02-13 |
+| [#11309](https://github.com/eslint/eslint/issues/11309) | no-empty-pattern should allow on rest |  |  |  | 0 | 0 | 2 | ⌛ 2019-02-13 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 2 | ⌛ 2019-02-07 |
 | [#11273](https://github.com/eslint/eslint/issues/11273) | Expose a rules dictionary keyed by ruleId to formatters |  |  |  | 0 | 0 | 2 | ⌛ 2019-02-04 |
 | [#11197](https://github.com/eslint/eslint/issues/11197) | Add exceptions to no-unexpected-multiline rule |  |  |  | 0 | 0 | 2 | ⌛ 2019-01-06 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 3 | ⌛ 2018-09-06 |
 
-Total: 4
+Total: 6
 
