@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-14 13:56 (UTC)
+- 2019-02-15 13:56 (UTC)
 
 **Legend:**
 
@@ -31,9 +31,10 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
 | [#11279](https://github.com/eslint/eslint/issues/11279) | Rule proposal: Disallow number literals that lose precision | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2019-02-06 |
+| [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-02-03 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-08-09 |
 
-Total: 3
+Total: 4
 
 ## Needs three supporters
 
@@ -62,9 +63,8 @@ Nothing.
 | [#11320](https://github.com/eslint/eslint/issues/11320) | Chained call expressions are not indented. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | 0 | 5 | 2019-02-18 |
 | [#11382](https://github.com/eslint/eslint/issues/11382) | Rule proposal: Use regex Unicode property escapes |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 0 | 2019-03-05 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-03-04 |
-| [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-02-03 |
 
-Total: 4
+Total: 3
 
 ## Needs interest
 
@@ -83,7 +83,7 @@ Total: 5
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 4 | 42 | ⌛ 2018-05-17 |
-| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 8 | ⌛ 2018-05-02 |
+| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 9 | ⌛ 2018-05-02 |
 
 Total: 2
 
