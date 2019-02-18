@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-17 13:57 (UTC)
+- 2019-02-18 13:58 (UTC)
 
 **Legend:**
 
@@ -72,13 +72,14 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 1 | 0 | 0 | 2019-02-22 |
+| [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 0 | 0 | 8 | 2019-03-09 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | 2019-03-05 |
 | [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | 2019-02-27 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | 2019-02-18 |
-| [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | 2019-02-18 |
+| [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | ⌛ 2019-02-18 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
@@ -96,10 +97,10 @@ Total: 2
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 3 | 0 | 19 | ⌛ 2018-06-01 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 11 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
-| [#11370](https://github.com/eslint/eslint/issues/11370) | Proposal: no-redeclare reports /*globals foo*/ comments if it's redeclaration | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | 2019-03-02 |
+| [#11370](https://github.com/eslint/eslint/issues/11370) | Proposal: no-redeclare reports /*globals foo*/ comments if it's redeclaration | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | 2019-03-02 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 9 | ⌛ 2018-11-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
-| [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-01-19 |
+| [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-01-19 |
 | [#11267](https://github.com/eslint/eslint/issues/11267) | Change the no-console rule value in eslint:recommended |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-02-01 |
 
 Total: 8
