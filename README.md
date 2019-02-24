@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-23 14:00 (UTC)
+- 2019-02-24 14:01 (UTC)
 
 **Legend:**
 
@@ -22,9 +22,8 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11405](https://github.com/eslint/eslint/issues/11405) | Proposal: change no-redeclare default behavior | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-03-09 |
-| [#11361](https://github.com/eslint/eslint/issues/11361) | New: enforce default param be the last | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2019-02-28 |
 
-Total: 2
+Total: 1
 
 ## Needs two more supporters
 
