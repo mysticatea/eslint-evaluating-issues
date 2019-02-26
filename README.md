@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-25 14:01 (UTC)
+- 2019-02-26 14:02 (UTC)
 
 **Legend:**
 
@@ -30,22 +30,22 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
+| [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-03-03 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-02-03 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2018-08-09 |
 
-Total: 3
+Total: 4
 
 ## Needs three supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 33 | 0 | 20 | ⌛ 2017-09-29 |
-| [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | 2019-03-03 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 5
+Total: 4
 
 ## Needs a champion
 
@@ -73,12 +73,14 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 0 | 2 | 2019-03-14 |
+| [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | 2019-03-15 |
+| [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 0 | 3 | 2019-03-14 |
+| [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | 2019-03-11 |
 | [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 0 | 0 | 8 | 2019-03-09 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | 2019-03-05 |
 | [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | 2019-02-27 |
 
-Total: 4
+Total: 6
 
 ## Needs consensus
 
@@ -112,7 +114,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 1 | 0 | 0 | ⌛ 2019-02-22 |
+| [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 2 | 0 | 1 | ⌛ 2019-02-22 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | ⌛ 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | ⌛ 2019-02-18 |
 | [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | ⌛ 2019-02-18 |
