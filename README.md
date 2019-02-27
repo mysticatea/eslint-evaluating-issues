@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-26 14:02 (UTC)
+- 2019-02-27 14:03 (UTC)
 
 **Legend:**
 
@@ -74,7 +74,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | 2019-03-15 |
-| [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 0 | 3 | 2019-03-14 |
+| [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | 2019-03-14 |
 | [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | 2019-03-11 |
 | [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 0 | 0 | 8 | 2019-03-09 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | 2019-03-05 |
@@ -101,7 +101,7 @@ Total: 2
 | [#11370](https://github.com/eslint/eslint/issues/11370) | Proposal: no-redeclare reports /*globals foo*/ comments if it's redeclaration | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | 2019-03-02 |
 | [#11022](https://github.com/eslint/eslint/issues/11022) | Decide how to manage support for minor versions of Node | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  |  | 0 | 0 | 9 | ⌛ 2018-11-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
-| [#11419](https://github.com/eslint/eslint/issues/11419) | Enable ES2015 parsing/globals by default |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@gyandeeps" src="https://github.com/gyandeeps.png" width="32px" height="32px"> |  | 1 | 0 | 3 | 2019-03-13 |
+| [#11419](https://github.com/eslint/eslint/issues/11419) | Enable ES2015 parsing/globals by default |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@gyandeeps" src="https://github.com/gyandeeps.png" width="32px" height="32px"> |  | 2 | 0 | 3 | 2019-03-13 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-01-19 |
 
 Total: 8
