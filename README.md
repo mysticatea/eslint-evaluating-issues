@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-02-27 14:03 (UTC)
+- 2019-02-28 14:04 (UTC)
 
 **Legend:**
 
@@ -73,12 +73,12 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
 | [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | 2019-03-15 |
 | [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | 2019-03-14 |
 | [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | 2019-03-11 |
 | [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 0 | 0 | 8 | 2019-03-09 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | 2019-03-05 |
-| [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | 2019-02-27 |
 
 Total: 6
 
@@ -115,6 +115,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 2 | 0 | 1 | ⌛ 2019-02-22 |
+| [#11360](https://github.com/eslint/eslint/issues/11360) | Add option to func-name-matching to allow names to include namespace prefixes |  |  |  | 0 | 0 | 1 | ⌛ 2019-02-27 |
 | [#11347](https://github.com/eslint/eslint/issues/11347) | Request: "fix" action for the "global-require" rule |  |  |  | 0 | 0 | 0 | ⌛ 2019-02-22 |
 | [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | ⌛ 2019-02-18 |
 | [#11318](https://github.com/eslint/eslint/issues/11318) | Support regex literal for config properties that accept regex string |  |  |  | 0 | 0 | 5 | ⌛ 2019-02-18 |
@@ -123,5 +124,5 @@ Nothing.
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 7 | ⌛ 2019-02-07 |
 | [#10768](https://github.com/eslint/eslint/issues/10768) | eslint-recommended changes in eslint v6.0.0 |  |  |  | 0 | 0 | 3 | ⌛ 2018-09-06 |
 
-Total: 8
+Total: 9
 
