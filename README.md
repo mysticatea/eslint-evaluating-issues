@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-10 14:09 (UTC)
+- 2019-03-11 14:10 (UTC)
 
 **Legend:**
 
@@ -65,9 +65,9 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 0 | 0 | 0 | 2019-04-01 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
-| [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 2 | 2019-03-24 |
-| [#11469](https://github.com/eslint/eslint/issues/11469) | Improve handling of plugins with only one rule |  |  |  | 0 | 0 | 3 | 2019-03-24 |
+| [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
 | [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | 2019-03-15 |
 | [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | 2019-03-14 |
@@ -110,8 +110,7 @@ Nothing.
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 3 | 0 | 1 | ⌛ 2019-02-22 |
 | [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 1 | 0 | 8 | ⌛ 2019-03-09 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-05 |
-| [#11319](https://github.com/eslint/eslint/issues/11319) | use checksum instead of mtime for caching to enable CI caching |  |  |  | 0 | 0 | 4 | ⌛ 2019-02-18 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 7 | ⌛ 2019-02-07 |
 
-Total: 5
+Total: 4
 
