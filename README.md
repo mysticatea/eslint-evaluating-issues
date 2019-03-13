@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-12 14:10 (UTC)
+- 2019-03-13 14:11 (UTC)
 
 **Legend:**
 
@@ -56,16 +56,17 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11382](https://github.com/eslint/eslint/issues/11382) | Rule proposal: Use regex Unicode property escapes |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 1 | ⌛ 2019-03-05 |
+| [#11499](https://github.com/eslint/eslint/issues/11499) | Prefer small-scope rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-04-02 |
 | [#11488](https://github.com/eslint/eslint/issues/11488) | allowAfterThisConstructor for no-underscore-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-03-28 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-04 |
 
-Total: 3
+Total: 4
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 0 | 0 | 0 | 2019-04-01 |
+| [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 0 | 0 | 1 | 2019-04-01 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
 | [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
