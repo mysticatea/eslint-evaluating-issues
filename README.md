@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-15 14:12 (UTC)
+- 2019-03-16 14:12 (UTC)
 
 **Legend:**
 
@@ -37,11 +37,12 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 35 | 0 | 22 | ⌛ 2017-09-29 |
+| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 2 | 0 | 1 | 2019-04-05 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 
-Total: 4
+Total: 5
 
 ## Needs a champion
 
@@ -66,11 +67,11 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 2 | 0 | 7 | 2019-03-28 |
+| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules regardless of syntax |  |  |  | 0 | 0 | 3 | 2019-04-05 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 0 | 0 | 4 | 2019-04-01 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
 | [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
-| [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-15 |
 
 Total: 6
 
@@ -92,9 +93,8 @@ Total: 2
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 3 | 0 | 9 | ⌛ 2019-01-19 |
-| [#11486](https://github.com/eslint/eslint/issues/11486) | Support Dynamic Import |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> | 5 | 0 | 13 | 2019-03-27 |
 
-Total: 6
+Total: 5
 
 ## Looks opposed
 
@@ -106,10 +106,11 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 4 | 0 | 1 | ⌛ 2019-02-22 |
 | [#11408](https://github.com/eslint/eslint/issues/11408) | Auto fix conflict (implicit-arrow-linebreak and max-len) |  |  |  | 1 | 0 | 8 | ⌛ 2019-03-09 |
+| [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-15 |
 | [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | ⌛ 2019-03-14 |
 | [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | ⌛ 2019-03-11 |
 | [#11383](https://github.com/eslint/eslint/issues/11383) | Allow the option to disable magic number warnings within arrays |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-05 |
 | [#11284](https://github.com/eslint/eslint/issues/11284) | max-len ignorePattern should set 'i' and 'u' flags on the RegEx |  |  |  | 0 | 0 | 7 | ⌛ 2019-02-07 |
 
-Total: 6
+Total: 7
 
