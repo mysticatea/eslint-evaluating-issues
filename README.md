@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-16 14:12 (UTC)
+- 2019-03-17 14:12 (UTC)
 
 **Legend:**
 
@@ -67,8 +67,8 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 2 | 0 | 7 | 2019-03-28 |
+| [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | 2019-04-01 |
 | [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules regardless of syntax |  |  |  | 0 | 0 | 3 | 2019-04-05 |
-| [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 0 | 0 | 4 | 2019-04-01 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
 | [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
