@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-19 14:13 (UTC)
+- 2019-03-20 14:14 (UTC)
 
 **Legend:**
 
@@ -72,7 +72,7 @@ Total: 3
 | [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules regardless of syntax |  |  |  | 0 | 0 | 3 | 2019-04-05 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
 | [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
-| [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | 2019-03-20 |
+| [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-20 |
 
 Total: 6
 
@@ -90,7 +90,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 4 | 0 | 22 | ⌛ 2018-06-01 |
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 13 | 0 | 11 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 14 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#11222](https://github.com/eslint/eslint/issues/11222) | Expose listFilesToProcess() on CLIEngine |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 3 | 0 | 9 | ⌛ 2019-01-19 |
@@ -99,7 +99,11 @@ Total: 5
 
 ## Looks opposed
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11530](https://github.com/eslint/eslint/issues/11530) | Allow number after undercore in CamelCase rule |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 1 | 2019-04-09 |
+
+Total: 1
 
 ## Looks inactive
 
