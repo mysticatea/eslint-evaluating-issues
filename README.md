@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-23 14:15 (UTC)
+- 2019-03-24 14:15 (UTC)
 
 **Legend:**
 
@@ -67,9 +67,9 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 2 | 0 | 7 | 2019-03-28 |
+| [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | 2019-03-28 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | 2019-04-01 |
-| [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 2 | 2019-04-13 |
+| [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 3 | 2019-04-13 |
 | [#11539](https://github.com/eslint/eslint/issues/11539) | Disallow callbacks with errors and object/array deconstructors at the same time |  |  |  | 0 | 0 | 2 | 2019-04-12 |
 | [#11537](https://github.com/eslint/eslint/issues/11537) | Indent that work better with ternary operator |  |  |  | 0 | 0 | 0 | 2019-04-11 |
 | [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 4 | 2019-04-05 |
@@ -102,10 +102,9 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11538](https://github.com/eslint/eslint/issues/11538) | Rule: disable regular expression literal |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 2 | 11 | 2019-04-12 |
-| [#11530](https://github.com/eslint/eslint/issues/11530) | Allow number after undercore in CamelCase rule |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 1 | 2019-04-09 |
+| [#11530](https://github.com/eslint/eslint/issues/11530) | Allow number after undercore in CamelCase rule |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 1 | 1 | 2019-04-09 |
 
-Total: 2
+Total: 1
 
 ## Looks inactive
 
