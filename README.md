@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-24 14:15 (UTC)
+- 2019-03-25 14:16 (UTC)
 
 **Legend:**
 
@@ -70,13 +70,11 @@ Total: 3
 | [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | 2019-03-28 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | 2019-04-01 |
 | [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 3 | 2019-04-13 |
-| [#11539](https://github.com/eslint/eslint/issues/11539) | Disallow callbacks with errors and object/array deconstructors at the same time |  |  |  | 0 | 0 | 2 | 2019-04-12 |
 | [#11537](https://github.com/eslint/eslint/issues/11537) | Indent that work better with ternary operator |  |  |  | 0 | 0 | 0 | 2019-04-11 |
-| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 4 | 2019-04-05 |
+| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 5 | 2019-04-05 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | 2019-03-26 |
-| [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | 2019-03-24 |
 
-Total: 8
+Total: 6
 
 ## Needs consensus
 
@@ -111,10 +109,11 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 4 | 0 | 1 | ⌛ 2019-02-22 |
+| [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | ⌛ 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-20 |
 | [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-15 |
 | [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | ⌛ 2019-03-14 |
 | [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | ⌛ 2019-03-11 |
 
-Total: 5
+Total: 6
 
