@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-27 14:30 (UTC)
+- 2019-03-28 14:32 (UTC)
 
 **Legend:**
 
@@ -19,7 +19,11 @@ Nothing.
 
 ## Needs one more supporter
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#10428](https://github.com/eslint/eslint/issues/10428) | New rule: no-restricted-exports | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-06-22 |
+
+Total: 1
 
 ## Needs two more supporters
 
@@ -59,9 +63,10 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 0 | 2019-04-12 |
 | [#11499](https://github.com/eslint/eslint/issues/11499) | Prefer small-scope rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-04-02 |
+| [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-04-18 |
 | [#11488](https://github.com/eslint/eslint/issues/11488) | allowAfterThisConstructor for no-underscore-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-03-28 |
 
-Total: 3
+Total: 4
 
 ## Needs interest
 
