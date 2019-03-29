@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-03-28 14:32 (UTC)
+- 2019-03-29 14:18 (UTC)
 
 **Legend:**
 
@@ -63,8 +63,8 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 0 | 2019-04-12 |
 | [#11499](https://github.com/eslint/eslint/issues/11499) | Prefer small-scope rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-04-02 |
-| [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-04-18 |
-| [#11488](https://github.com/eslint/eslint/issues/11488) | allowAfterThisConstructor for no-underscore-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-03-28 |
+| [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-04-18 |
+| [#11488](https://github.com/eslint/eslint/issues/11488) | allowAfterThisConstructor for no-underscore-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
 
 Total: 4
 
@@ -72,14 +72,13 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | 2019-03-28 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | 2019-04-01 |
 | [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 3 | 2019-04-13 |
 | [#11537](https://github.com/eslint/eslint/issues/11537) | Indent that work better with ternary operator |  |  |  | 0 | 0 | 0 | 2019-04-11 |
 | [#11523](https://github.com/eslint/eslint/issues/11523) | Allow specifying maxWarnings in the config as well as CLI |  |  |  | 0 | 0 | 9 | 2019-04-08 |
 | [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 5 | 2019-04-05 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -109,13 +108,11 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11344](https://github.com/eslint/eslint/issues/11344) | sort-exports |  |  |  | 4 | 0 | 1 | ⌛ 2019-02-22 |
+| [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | ⌛ 2019-03-28 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-26 |
 | [#11470](https://github.com/eslint/eslint/issues/11470) | Add "arrows" option to "func-name" rule, just like existing "generators" option |  |  |  | 0 | 0 | 3 | ⌛ 2019-03-24 |
 | [#11449](https://github.com/eslint/eslint/issues/11449) | padded blocks should allow single lines. |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-20 |
-| [#11431](https://github.com/eslint/eslint/issues/11431) | Request: `no-extra-parens` option to ignore unary operators |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-15 |
 | [#11421](https://github.com/eslint/eslint/issues/11421) | Enforce RegEx pattern in comment |  |  |  | 0 | 1 | 5 | ⌛ 2019-03-14 |
-| [#11410](https://github.com/eslint/eslint/issues/11410) | object-curly-newline: opt-in relax multiline+minProperties |  |  |  | 0 | 0 | 1 | ⌛ 2019-03-11 |
 
-Total: 7
+Total: 5
 
