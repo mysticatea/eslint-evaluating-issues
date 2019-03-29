@@ -4,7 +4,9 @@
  */
 "use strict"
 
+const toArray = require("@async-generators/to-array").default
 const Octokit = require("@octokit/rest")
+const { version } = require("@octokit/rest/package.json")
 const logger = require("fancy-log")
 const fs = require("fs-extra")
 
@@ -12,73 +14,54 @@ const fs = require("fs-extra")
 // Helpers
 //------------------------------------------------------------------------------
 
-const octokit = new Octokit({
-    headers: {
-        accept:
-            "application/vnd.github.v3+json,application/vnd.github.squirrel-girl-preview+json",
-    },
-})
-
-const theTeam = new Set([
-    // From https://github.com/eslint/eslint.github.io/blob/master/_data/team.json
-    "nzakas",
-    "platinumazure",
-    "ilyavolodin",
-    "btmills",
-    "mysticatea",
-    "gyandeeps",
-    "kaicataldo",
-    "not-an-aardvark",
-    "alberto",
-    "BYK",
-    "lo1tuma",
-    "michaelficarra",
-    "xjamundx",
-    "mikesherov",
-    "hzoo",
-    "vitorbal",
-    "zxqfox",
-    "JamesHenry",
-    "markelog",
-    "faceleg",
-    "soda0289",
-    "VictorHom",
-    "IanVS",
-    "pedrottimark",
-    "aladdin-add",
-    "g-plane",
-])
+const theTeam = new Set(
+    [
+        // From https://github.com/eslint/eslint.github.io/blob/master/_data/team.json
+        "nzakas",
+        "platinumazure",
+        "ilyavolodin",
+        "btmills",
+        "mysticatea",
+        "gyandeeps",
+        "kaicataldo",
+        "not-an-aardvark",
+        "alberto",
+        "BYK",
+        "lo1tuma",
+        "michaelficarra",
+        "xjamundx",
+        "mikesherov",
+        "hzoo",
+        "vitorbal",
+        "zxqfox",
+        "JamesHenry",
+        "markelog",
+        "faceleg",
+        "soda0289",
+        "VictorHom",
+        "IanVS",
+        "pedrottimark",
+        "aladdin-add",
+        "g-plane",
+    ].map(username => username.toLowerCase()),
+)
 
 /**
- * Get items from a given data object.
- * @param {any} responseData The data object to get items.
+ * Get items.
+ * @param {Octokit} octokit The octokit to get items.
+ * @param {Endpoint} endpoint The endpoint to get items.
  * @returns {any[]} Items.
  */
-function getItems(responseData) {
-    if (Array.isArray(responseData)) {
-        return responseData
+async function* paginate(octokit, endpoint) {
+    for (const response of await octokit.paginate(endpoint)) {
+        if (Array.isArray(response.items)) {
+            yield* response.items
+        } else if (Array.isArray(response)) {
+            yield* response
+        } else {
+            yield response
+        }
     }
-    if (Array.isArray(responseData.items)) {
-        return responseData.items
-    }
-    throw new Error(`Couldn't get items from ${JSON.stringify(responseData)}`)
-}
-
-/**
- * Get all data with pagination.
- * @param {Promise<Octokit.AnyResponse>} responsePromise The response to get all data.
- * @returns {any[]} The all data.
- */
-async function pagenate(responsePromise) {
-    let response = await responsePromise
-    const data = [...getItems(response.data)]
-
-    while (octokit.hasNextPage(response)) {
-        response = await octokit.getNextPage(response)
-        data.push(...getItems(response.data))
-    }
-
-    return data
 }
 
 //------------------------------------------------------------------------------
@@ -91,13 +74,19 @@ async function pagenate(responsePromise) {
         process.env.ATOKEN ||
         (await fs.readFile(".access-token", "utf8")).trim()
 
-    octokit.authenticate({ type: "token", token: ACCESS_TOKEN })
+    logger.info("Setup Octokit...")
+    const octokit = new Octokit({
+        auth: `token ${ACCESS_TOKEN}`,
+        previews: ["squirrel-girl"],
+        userAgent: `octokit/rest.js v${version}`,
+    })
 
     logger.info("Getting issues...")
     const issues = []
 
-    for (const issue of await pagenate(
-        octokit.search.issues({
+    for await (const issue of paginate(
+        octokit,
+        octokit.search.issuesAndPullRequests.endpoint.merge({
             q: "repo:eslint/eslint type:issue is:open label:evaluating",
             per_page: 100,
         }),
@@ -106,7 +95,7 @@ async function pagenate(responsePromise) {
         const url = issue.html_url
         const title = issue.title
         const labels = issue.labels.map(label => label.name)
-        const champion = issue.assignee && issue.assignee.login
+        const champion = issue.assignee && issue.assignee.login.toLowerCase()
         const numComments = issue.comments
         const createdTime = issue.created_at
 
@@ -115,20 +104,23 @@ async function pagenate(responsePromise) {
         }
 
         logger.info(`Processing issue ${id}...`)
-        const reactions = await pagenate(
-            octokit.reactions.getForIssue({
-                owner: "eslint",
-                repo: "eslint",
-                number: id,
-                per_page: 100,
-            }),
+        const reactions = await toArray(
+            paginate(
+                octokit,
+                octokit.reactions.listForIssue.endpoint.merge({
+                    owner: "eslint",
+                    repo: "eslint",
+                    number: id,
+                    per_page: 100,
+                }),
+            ),
         )
         const upvoters = reactions
             .filter(reaction => reaction.content === "+1")
-            .map(reaction => reaction.user.login)
+            .map(reaction => reaction.user.login.toLowerCase())
         const downvoters = reactions
             .filter(reaction => reaction.content === "-1")
-            .map(reaction => reaction.user.login)
+            .map(reaction => reaction.user.login.toLowerCase())
 
         const supporters = upvoters.filter(
             username => username !== champion && theTeam.has(username),
