@@ -20,33 +20,33 @@ const octokit = new Octokit({
 })
 
 const theTeam = new Set([
-    // TSC
+    // From https://github.com/eslint/eslint.github.io/blob/master/_data/team.json
     "nzakas",
+    "platinumazure",
     "ilyavolodin",
     "btmills",
-    "gyandeeps",
     "mysticatea",
-    "alberto",
+    "gyandeeps",
     "kaicataldo",
     "not-an-aardvark",
-    "platinumazure",
-
-    // Committers
+    "alberto",
+    "BYK",
     "lo1tuma",
-    "xjamundx",
-    "ianvs",
     "michaelficarra",
-    "pedrottimark",
-    "markelog",
+    "xjamundx",
     "mikesherov",
     "hzoo",
-    "mdevils",
-    "zxqfox",
     "vitorbal",
+    "zxqfox",
     "JamesHenry",
+    "markelog",
+    "faceleg",
     "soda0289",
-    "Aladdin-ADD",
     "VictorHom",
+    "IanVS",
+    "pedrottimark",
+    "aladdin-add",
+    "g-plane",
 ])
 
 /**
