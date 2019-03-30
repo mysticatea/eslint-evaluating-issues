@@ -125,35 +125,29 @@ function isOld(issue) {
 //------------------------------------------------------------------------------
 
 ;(async () => {
-    const issues = await fs.readJson("issues.json")
-    const zeroIssues = issues.filter(
-        i => !i.champion && i.supporters.length === 0 && i.against.length === 0,
-    )
-    const coreIssues = issues.filter(
-        i =>
-            (i.labels.includes("core") || i.labels.includes("cli")) &&
-            !zeroIssues.includes(i),
-    )
-    const champIssues = issues.filter(
-        i =>
-            i.champion &&
-            i.against.length === 0 &&
-            !zeroIssues.includes(i) &&
-            !coreIssues.includes(i),
-    )
-    const niceIssues = issues.filter(
-        i =>
-            !i.champion &&
-            i.against.length === 0 &&
-            !zeroIssues.includes(i) &&
-            !coreIssues.includes(i),
-    )
-    const toughIssues = issues.filter(
-        i =>
-            i.against.length > 0 &&
-            !zeroIssues.includes(i) &&
-            !coreIssues.includes(i),
-    )
+    const prsForClosedIssues = []
+    const coreIssues = []
+    const championedIssues = []
+    const niceIssues = []
+    const toughIssues = []
+    const zeroIssues = []
+
+    for (const i of await fs.readJson("issues.json")) {
+        if (i.issueClosed) {
+            prsForClosedIssues.push(i)
+        } else if (i.labels.includes("core") || i.labels.includes("cli")) {
+            coreIssues.push(i)
+        } else if (i.against.length > 0) {
+            toughIssues.push(i)
+        } else if (i.champion) {
+            championedIssues.push(i)
+        } else if (i.supporters.length > 0) {
+            niceIssues.push(i)
+        } else {
+            zeroIssues.push(i)
+        }
+    }
+
     const content = `# ESLint Features in Evaluating [![Build Status](https://travis-ci.com/mysticatea/eslint-evaluating-issues.svg?branch=master)](https://travis-ci.com/mysticatea/eslint-evaluating-issues)
 
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
@@ -174,31 +168,19 @@ This page is a summary of feature issues.
 
 ## Accepted (needs to update labels)
 
-${renderTable(champIssues.filter(i => i.supporters.length >= 3))}
+${renderTable(championedIssues.filter(i => i.supporters.length >= 3))}
 
-## Needs one more supporter
+## Needs supporters
 
-${renderTable(champIssues.filter(i => i.supporters.length === 2))}
-
-## Needs two more supporters
-
-${renderTable(champIssues.filter(i => i.supporters.length === 1))}
-
-## Needs three supporters
-
-${renderTable(champIssues.filter(i => i.supporters.length === 0))}
+${renderTable(championedIssues.filter(i => i.supporters.length < 3))}
 
 ## Needs a champion
 
 ${renderTable(niceIssues.filter(i => i.supporters.length >= 3))}
 
-## Needs a champion and one more supporter
+## Needs a champion and supporters
 
-${renderTable(niceIssues.filter(i => i.supporters.length === 2))}
-
-## Needs a champion and two more supporters
-
-${renderTable(niceIssues.filter(i => i.supporters.length === 1))}
+${renderTable(niceIssues.filter(i => i.supporters.length < 3))}
 
 ## Needs interest
 
@@ -221,6 +203,10 @@ ${renderTable(
 ## Looks inactive
 
 ${renderTable(zeroIssues.filter(isOld))}
+
+## Pull requests for closed issue
+
+${renderTable(prsForClosedIssues.filter(isOld))}
 
 `
 
