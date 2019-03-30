@@ -178,7 +178,8 @@ async function processPullRequest(octokit, prData, prs, issues) {
         )
         return res.data.state
     })
-    const closed = issueStates.every(state => state !== "open")
+    const closed =
+        issueStates.length > 0 && issueStates.every(state => state !== "open")
     const pr = await normalizePullRequest(octokit, prData, closed)
 
     prs.set(pr.id, pr)
