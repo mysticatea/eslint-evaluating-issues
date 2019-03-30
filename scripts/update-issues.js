@@ -86,7 +86,10 @@ function getReactions(octokit, issue) {
 async function normalizeIssueOrPullRequest(octokit, issue) {
     const id = issue.number
     const url = issue.html_url
-    const title = issue.title
+    const title = issue.title.replace(
+        /#(\d+)/gu,
+        "[#$1](https://github.com/eslint/eslint/issues/$1)",
+    )
     const labels = issue.labels.map(label => label.name)
     const champion = issue.assignee && issue.assignee.login.toLowerCase()
     const numComments = issue.comments
@@ -251,7 +254,12 @@ async function processPullRequest(octokit, prData, prs, issues) {
     // Add the linked PRs to title.
     for (const issue of issues.values()) {
         if (issue.prs.length > 0) {
-            const prLinks = issue.prs.map(pr => `(PR #${pr})`).join("")
+            const prLinks = issue.prs
+                .map(
+                    pr =>
+                        `(PR [#${pr}](https://github.com/eslint/eslint/pull/${pr}))`,
+                )
+                .join("")
             issue.title += ` ${prLinks}`
         }
         delete issue.prs
