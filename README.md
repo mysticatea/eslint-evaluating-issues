@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-02 14:20 (UTC)
+- 2019-04-03 14:20 (UTC)
 
 **Legend:**
 
@@ -57,11 +57,10 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11574](https://github.com/eslint/eslint/pull/11574) | Fix: do not require backticks in type annotations |  |  |  | 0 | 0 | 1 | 2019-04-22 |
 | [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 3 | 2019-04-13 |
 | [#11537](https://github.com/eslint/eslint/issues/11537) | Indent that work better with ternary operator |  |  |  | 0 | 0 | 0 | 2019-04-11 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
