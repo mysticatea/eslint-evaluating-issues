@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-05 14:22 (UTC)
+- 2019-04-06 14:21 (UTC)
 
 **Legend:**
 
@@ -17,7 +17,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-04-05 |
+| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-05 |
 
 Total: 1
 
@@ -87,7 +87,7 @@ Total: 3
 | [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | ⌛ 2019-03-28 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | ⌛ 2019-04-01 |
 | [#11523](https://github.com/eslint/eslint/issues/11523) | Allow specifying maxWarnings in the config as well as CLI |  |  |  | 0 | 0 | 9 | 2019-04-08 |
-| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 5 | 2019-04-05 |
+| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 8 | ⌛ 2019-04-05 |
 | [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-26 |
 
 Total: 10
