@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-06 14:21 (UTC)
+- 2019-04-07 14:21 (UTC)
 
 **Legend:**
 
@@ -87,10 +87,9 @@ Total: 3
 | [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 3 | 0 | 7 | ⌛ 2019-03-28 |
 | [#11494](https://github.com/eslint/eslint/issues/11494) | AST-based auto fixing |  |  |  | 1 | 0 | 4 | ⌛ 2019-04-01 |
 | [#11523](https://github.com/eslint/eslint/issues/11523) | Allow specifying maxWarnings in the config as well as CLI |  |  |  | 0 | 0 | 9 | 2019-04-08 |
-| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 8 | ⌛ 2019-04-05 |
-| [#11481](https://github.com/eslint/eslint/issues/11481) | Insert semicolons automatically when running fixers (to prevent generating invalid code with ASI failures) |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-26 |
+| [#11514](https://github.com/eslint/eslint/issues/11514) | ESLint should adhere to ignore rules that wrap import() and import.meta |  |  |  | 0 | 0 | 9 | ⌛ 2019-04-05 |
 
-Total: 10
+Total: 9
 
 ## Looks opposed
 
