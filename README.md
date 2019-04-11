@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-10 14:23 (UTC)
+- 2019-04-11 14:23 (UTC)
 
 **Legend:**
 
@@ -58,9 +58,9 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 1 | 0 | 3 | 2019-04-13 |
 | [#11588](https://github.com/eslint/eslint/issues/11588) | New Rule Proposal: no-use-object-member-before-assign |  |  |  | 0 | 0 | 2 | 2019-04-25 |
 | [#11583](https://github.com/eslint/eslint/issues/11583) | Add exceptBeforeSingleLine to lines-between-class-members |  |  |  | 0 | 0 | 1 | 2019-04-25 |
-| [#11542](https://github.com/eslint/eslint/issues/11542) | sort-import does not auto fix |  |  |  | 0 | 0 | 3 | 2019-04-13 |
 | [#11537](https://github.com/eslint/eslint/issues/11537) | Indent that work better with ternary operator |  |  |  | 0 | 0 | 0 | 2019-04-11 |
 
 Total: 4
