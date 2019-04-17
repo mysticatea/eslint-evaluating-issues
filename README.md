@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-13 14:25 (UTC)
+- 2019-04-17 14:27 (UTC)
 
 **Legend:**
 
@@ -46,12 +46,14 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11624](https://github.com/eslint/eslint/issues/11624) | Proposal: minimum number of keys option for sort-keys |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-07 |
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-04-12 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-02-06 |
 | [#11581](https://github.com/eslint/eslint/issues/11581) | Add size parameter to prefer-destructuring  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 2 | 0 | 2 | 2019-04-24 |
+| [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-05-06 |
 | [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules (PR [#11563](https://github.com/eslint/eslint/pull/11563)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-04-18 |
 
-Total: 4
+Total: 6
 
 ## Needs interest
 
@@ -76,18 +78,17 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 25 | 0 | 30 | ⌛ 2018-07-31 |
+| [#10587](https://github.com/eslint/eslint/issues/10587) | Add an option to not throw an error on an unmatched pattern | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 26 | 0 | 30 | ⌛ 2018-07-31 |
 | [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 4 | 0 | 22 | ⌛ 2018-06-01 |
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 18 | 0 | 11 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 19 | 0 | 11 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
-| [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 0 | 2019-05-04 |
+| [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 0 | 2019-05-04 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
-| [#11490](https://github.com/eslint/eslint/issues/11490) | Provide users with a way to customize how changes to files are detected for caching purposes |  |  |  | 4 | 0 | 7 | ⌛ 2019-03-28 |
 | [#11605](https://github.com/eslint/eslint/issues/11605) | Can eslint include JSON files like package.json? |  |  |  | 0 | 0 | 1 | 2019-04-30 |
 | [#11523](https://github.com/eslint/eslint/issues/11523) | Allow specifying maxWarnings in the config as well as CLI |  |  |  | 0 | 0 | 9 | ⌛ 2019-04-08 |
 
-Total: 10
+Total: 9
 
 ## Looks opposed
 
@@ -108,7 +109,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11379](https://github.com/eslint/eslint/pull/11379) | Update: Add never option for new-parens (refs [#10034](https://github.com/eslint/eslint/issues/10034)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-03-05 |
-| [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 3 | 0 | 8 | ⌛ 2019-03-28 |
+| [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 4 | 0 | 8 | ⌛ 2019-03-28 |
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-28 |
 | [#11409](https://github.com/eslint/eslint/pull/11409) | Update: Add --no-warn-ignored CLI option to suppress ignored file warnings (fixes [#9977](https://github.com/eslint/eslint/issues/9977)) |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-10 |
 | [#11186](https://github.com/eslint/eslint/pull/11186) | Breaking: allow comments after no-fallthrough (fixes [#10608](https://github.com/eslint/eslint/issues/10608)) |  |  |  | 0 | 0 | 3 | ⌛ 2019-01-01 |
