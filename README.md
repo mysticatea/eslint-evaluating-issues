@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-17 14:27 (UTC)
+- 2019-04-18 14:28 (UTC)
 
 **Legend:**
 
@@ -26,6 +26,7 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10428](https://github.com/eslint/eslint/issues/10428) | New rule: no-restricted-exports | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-06-22 |
+| [#11629](https://github.com/eslint/eslint/issues/11629) | Add endColumn to no-useless-escape | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-09 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-02-03 |
@@ -36,7 +37,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
-Total: 10
+Total: 11
 
 ## Needs a champion
 
@@ -47,11 +48,11 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11624](https://github.com/eslint/eslint/issues/11624) | Proposal: minimum number of keys option for sort-keys |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-07 |
-| [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-04-12 |
+| [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-12 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-02-06 |
 | [#11581](https://github.com/eslint/eslint/issues/11581) | Add size parameter to prefer-destructuring  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 2 | 0 | 2 | 2019-04-24 |
-| [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-05-06 |
-| [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules (PR [#11563](https://github.com/eslint/eslint/pull/11563)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-04-18 |
+| [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | 2019-05-06 |
+| [#11562](https://github.com/eslint/eslint/issues/11562) | Add an `ignoreComments` option to `no-tabs` rules (PR [#11563](https://github.com/eslint/eslint/pull/11563)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-04-18 |
 
 Total: 6
 
@@ -59,10 +60,11 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  |  |  | 0 | 0 | 1 | 2019-05-08 |
 | [#11588](https://github.com/eslint/eslint/issues/11588) | New Rule Proposal: no-use-object-member-before-assign |  |  |  | 0 | 0 | 2 | 2019-04-25 |
 | [#11583](https://github.com/eslint/eslint/issues/11583) | Add exceptBeforeSingleLine to lines-between-class-members |  |  |  | 0 | 0 | 1 | 2019-04-25 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
