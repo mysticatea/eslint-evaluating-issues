@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-04-30 14:32 (UTC)
+- 2019-05-01 14:35 (UTC)
 
 **Legend:**
 
@@ -88,7 +88,7 @@ Total: 3
 | [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 0 | 2019-05-04 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
-| [#11605](https://github.com/eslint/eslint/issues/11605) | Can eslint include JSON files like package.json? |  |  |  | 0 | 0 | 1 | 2019-04-30 |
+| [#11605](https://github.com/eslint/eslint/issues/11605) | Can eslint include JSON files like package.json? |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-30 |
 | [#9505](https://github.com/eslint/eslint/issues/9505) | should throw an error when disabling a non-existent rule |  |  |  | 0 | 0 | 28 | ⌛ 2017-11-13 |
 
 Total: 8
