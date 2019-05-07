@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-06 14:35 (UTC)
+- 2019-05-07 14:39 (UTC)
 
 **Legend:**
 
@@ -25,8 +25,8 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11629](https://github.com/eslint/eslint/issues/11629) | Add endColumn to no-useless-escape | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-05-09 |
 | [#10428](https://github.com/eslint/eslint/issues/10428) | New rule: no-restricted-exports | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 10 | ⌛ 2018-06-22 |
-| [#11629](https://github.com/eslint/eslint/issues/11629) | Add endColumn to no-useless-escape | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-09 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-02-03 |
@@ -53,7 +53,7 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-16 |
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-12 |
-| [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-02-06 |
+| [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-05-06 |
 | [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-05-08 |
 
@@ -61,11 +61,7 @@ Total: 5
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11655](https://github.com/eslint/eslint/pull/11655) | Docs: replace `var` with `const` in code examples |  |  |  | 0 | 0 | 1 | 2019-05-17 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
