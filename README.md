@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-09 14:36 (UTC)
+- 2019-05-10 14:36 (UTC)
 
 **Legend:**
 
@@ -55,9 +55,10 @@ Total: 1
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-12 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-05-06 |
+| [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 | [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-05-08 |
 
-Total: 5
+Total: 6
 
 ## Needs interest
 
@@ -84,10 +85,8 @@ Total: 3
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 1 | 2019-05-23 |
-| [#11605](https://github.com/eslint/eslint/issues/11605) | Can eslint include JSON files like package.json? |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-30 |
-| [#9505](https://github.com/eslint/eslint/issues/9505) | should throw an error when disabling a non-existent rule |  |  |  | 0 | 0 | 28 | ⌛ 2017-11-13 |
 
-Total: 9
+Total: 7
 
 ## Looks opposed
 
@@ -113,7 +112,6 @@ Total: 1
 | [#11186](https://github.com/eslint/eslint/pull/11186) | Breaking: allow comments after no-fallthrough (fixes [#10608](https://github.com/eslint/eslint/issues/10608)) |  |  |  | 0 | 0 | 3 | ⌛ 2019-01-01 |
 | [#11184](https://github.com/eslint/eslint/pull/11184) |  Update: Identify multi-case statements (fixes [#11178](https://github.com/eslint/eslint/issues/11178)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-01 |
 | [#10998](https://github.com/eslint/eslint/pull/10998) | New: List target files (fixes [#11005](https://github.com/eslint/eslint/issues/11005)) |  |  |  | 0 | 0 | 4 | ⌛ 2018-11-10 |
-| [#10928](https://github.com/eslint/eslint/pull/10928) | Update: replace stacktrace by a clear message when invalid plugins are provided (fixes [#10927](https://github.com/eslint/eslint/issues/10927)) |  |  |  | 0 | 0 | 8 | ⌛ 2018-10-27 |
 
-Total: 9
+Total: 8
 
