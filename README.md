@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-14 14:39 (UTC)
+- 2019-05-17 14:41 (UTC)
 
 **Legend:**
 
@@ -53,18 +53,21 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-05-31 |
-| [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-16 |
+| [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-05-16 |
 | [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-12 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
-| [#11620](https://github.com/eslint/eslint/issues/11620) | missing option for proper formatting import statements with multiple members |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-05-06 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 | [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-05-08 |
 
-Total: 7
+Total: 6
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
+
+Total: 1
 
 ## Needs consensus
 
@@ -86,9 +89,10 @@ Total: 3
 | [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 0 | ⌛ 2019-05-04 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
+| [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | 2019-06-06 |
 | [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 1 | 2019-05-23 |
 
-Total: 7
+Total: 8
 
 ## Looks opposed
 
