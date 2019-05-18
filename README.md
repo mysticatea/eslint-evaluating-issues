@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-17 14:41 (UTC)
+- 2019-05-18 14:41 (UTC)
 
 **Legend:**
 
@@ -43,23 +43,21 @@ Total: 11
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11624](https://github.com/eslint/eslint/issues/11624) | Proposal: minimum number of keys option for sort-keys (PR [#11625](https://github.com/eslint/eslint/pull/11625)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-05-07 |
 | [#11695](https://github.com/eslint/eslint/pull/11695) | Update: Uniform messages for the rules in "complexity" section |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-05-30 |
 
-Total: 2
+Total: 1
 
 ## Needs a champion and supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-05-31 |
+| [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-31 |
 | [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-05-16 |
-| [#11540](https://github.com/eslint/eslint/issues/11540) | New Rule Proposal: class-members-in-constructor |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-04-12 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 | [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-05-08 |
 
-Total: 6
+Total: 5
 
 ## Needs interest
 
@@ -111,6 +109,7 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11379](https://github.com/eslint/eslint/pull/11379) | Update: Add never option for new-parens (refs [#10034](https://github.com/eslint/eslint/issues/10034)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-03-05 |
+| [#11625](https://github.com/eslint/eslint/pull/11625) | Update: introduce minKeys option to sort-keys rule (fixes [#11624](https://github.com/eslint/eslint/issues/11624)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-05-08 |
 | [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 5 | 0 | 8 | ⌛ 2019-03-28 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-28 |
@@ -119,5 +118,5 @@ Total: 1
 | [#11184](https://github.com/eslint/eslint/pull/11184) |  Update: Identify multi-case statements (fixes [#11178](https://github.com/eslint/eslint/issues/11178)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-01 |
 | [#10998](https://github.com/eslint/eslint/pull/10998) | New: List target files (fixes [#11005](https://github.com/eslint/eslint/issues/11005)) |  |  |  | 0 | 0 | 4 | ⌛ 2018-11-10 |
 
-Total: 8
+Total: 9
 
