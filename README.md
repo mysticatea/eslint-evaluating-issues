@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-18 14:41 (UTC)
+- 2019-05-19 14:41 (UTC)
 
 **Legend:**
 
@@ -43,29 +43,30 @@ Total: 11
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-05-31 |
 | [#11695](https://github.com/eslint/eslint/pull/11695) | Update: Uniform messages for the rules in "complexity" section |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-05-30 |
 
-Total: 1
+Total: 2
 
 ## Needs a champion and supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-31 |
 | [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-05-16 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 | [#11626](https://github.com/eslint/eslint/issues/11626) | [padding-line-between-statements] Support multiline and singleline imports |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-05-08 |
 
-Total: 5
+Total: 4
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 12 | 2019-06-05 |
 | [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
