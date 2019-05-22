@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-21 14:43 (UTC)
+- 2019-05-22 14:44 (UTC)
 
 **Legend:**
 
@@ -63,11 +63,12 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 16 | 2019-06-05 |
+| [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 0 | 2019-06-12 |
+| [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | 2019-06-05 |
 | [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
 | [#11715](https://github.com/eslint/eslint/issues/11715) | Require "secure" cookies |  |  |  | 0 | 0 | 0 | 2019-06-03 |
 
-Total: 3
+Total: 4
 
 ## Needs consensus
 
