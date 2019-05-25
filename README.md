@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-24 14:44 (UTC)
+- 2019-05-25 14:44 (UTC)
 
 **Legend:**
 
@@ -57,12 +57,13 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11765](https://github.com/eslint/eslint/pull/11765) | Docs: add table of contents in readme |  |  |  | 0 | 0 | 0 | 2019-06-14 |
 | [#11756](https://github.com/eslint/eslint/pull/11756) | Chore: improve perf test |  |  |  | 0 | 0 | 0 | 2019-06-13 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 1 | 2019-06-12 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | 2019-06-05 |
 | [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
@@ -84,18 +85,15 @@ Total: 3
 | [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 0 | ⌛ 2019-05-04 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
+| [#11757](https://github.com/eslint/eslint/issues/11757) | Improve cache location |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 1 | 0 | 7 | 2019-06-13 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | 2019-06-06 |
 | [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 1 | ⌛ 2019-05-23 |
 
-Total: 8
+Total: 9
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11715](https://github.com/eslint/eslint/issues/11715) | Require "secure" cookies |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 6 | 2019-06-03 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
