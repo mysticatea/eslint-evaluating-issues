@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-25 14:44 (UTC)
+- 2019-05-26 14:44 (UTC)
 
 **Legend:**
 
@@ -47,23 +47,20 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11651](https://github.com/eslint/eslint/issues/11651) | `no-multi-space` exception for re-export statement  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-05-16 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 
-Total: 3
+Total: 2
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11765](https://github.com/eslint/eslint/pull/11765) | Docs: add table of contents in readme |  |  |  | 0 | 0 | 0 | 2019-06-14 |
-| [#11756](https://github.com/eslint/eslint/pull/11756) | Chore: improve perf test |  |  |  | 0 | 0 | 0 | 2019-06-13 |
-| [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 1 | 2019-06-12 |
+| [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | 2019-06-12 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | 2019-06-05 |
 | [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
 
-Total: 5
+Total: 3
 
 ## Needs consensus
 
@@ -108,15 +105,12 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11379](https://github.com/eslint/eslint/pull/11379) | Update: Add never option for new-parens (refs [#10034](https://github.com/eslint/eslint/issues/10034)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-03-05 |
+| [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
 | [#11625](https://github.com/eslint/eslint/pull/11625) | Update: introduce minKeys option to sort-keys rule (fixes [#11624](https://github.com/eslint/eslint/issues/11624)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-05-08 |
 | [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 5 | 0 | 8 | ⌛ 2019-03-28 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
-| [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  |  |  | 0 | 0 | 0 | ⌛ 2019-03-28 |
-| [#11409](https://github.com/eslint/eslint/pull/11409) | Update: Add --no-warn-ignored CLI option to suppress ignored file warnings (fixes [#9977](https://github.com/eslint/eslint/issues/9977)) |  |  |  | 0 | 0 | 2 | ⌛ 2019-03-10 |
 | [#11186](https://github.com/eslint/eslint/pull/11186) | Breaking: allow comments after no-fallthrough (fixes [#10608](https://github.com/eslint/eslint/issues/10608)) |  |  |  | 0 | 0 | 3 | ⌛ 2019-01-01 |
 | [#11184](https://github.com/eslint/eslint/pull/11184) |  Update: Identify multi-case statements (fixes [#11178](https://github.com/eslint/eslint/issues/11178)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-01-01 |
-| [#10998](https://github.com/eslint/eslint/pull/10998) | New: List target files (fixes [#11005](https://github.com/eslint/eslint/issues/11005)) |  |  |  | 0 | 0 | 4 | ⌛ 2018-11-10 |
 
-Total: 9
+Total: 6
 
