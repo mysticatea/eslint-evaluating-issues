@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-27 14:45 (UTC)
+- 2019-05-28 14:46 (UTC)
 
 **Legend:**
 
@@ -99,7 +99,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11665](https://github.com/eslint/eslint/issues/11665) | Add top-level option for noInlineConfig or allowInlineConfig |  |  |  | 0 | 0 | 2 | ⌛ 2019-05-21 |
-| [#10477](https://github.com/eslint/eslint/pull/10477) | Update: fix several `id-match` bugs and add more custom options |  |  |  | 0 | 0 | 6 | ⌛ 2018-07-05 |
+| [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 8 | ⌛ 2018-07-05 |
 
 Total: 2
 
