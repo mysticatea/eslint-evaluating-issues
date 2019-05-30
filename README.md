@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-29 14:46 (UTC)
+- 2019-05-30 14:47 (UTC)
 
 **Legend:**
 
@@ -17,7 +17,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-04-05 |
+| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-04-05 |
 | [#11704](https://github.com/eslint/eslint/issues/11704) | Warn about mixing logical and ternary operators | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-05-31 |
 
 Total: 2
@@ -32,7 +32,7 @@ Total: 2
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-03 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 38 | 0 | 23 | ⌛ 2017-09-29 |
-| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2018-12-18 |
+| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
 Total: 8
@@ -49,22 +49,25 @@ Nothing.
 | [#11702](https://github.com/eslint/eslint/issues/11702) | "padded-blocks" rule: add the option "consistent" |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-31 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-05-30 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
+| [#11786](https://github.com/eslint/eslint/issues/11786) | Change one-var to support TSLint's "ignore-for-loop" |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-06-19 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11783](https://github.com/eslint/eslint/issues/11783) | New rule proposal: TSLint's no-default-export |  |  |  | 0 | 0 | 1 | 2019-06-19 |
+| [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | 2019-06-19 |
+| [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 0 | 2019-06-19 |
 | [#11779](https://github.com/eslint/eslint/issues/11779) | New rule proposal: max-accessor-depth |  |  |  | 0 | 0 | 2 | 2019-06-18 |
 | [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | 2019-06-16 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | 2019-06-12 |
 | [#11745](https://github.com/eslint/eslint/issues/11745) | [lines-between-class-members] separate config for class member variables |  |  |  | 0 | 0 | 1 | 2019-06-10 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | 2019-06-05 |
 | [#11716](https://github.com/eslint/eslint/issues/11716) | camelcase rule should ignore global variables by default |  |  |  | 0 | 0 | 2 | 2019-06-04 |
+| [#11692](https://github.com/eslint/eslint/issues/11692) | "object-property-newline" rule: add option to allow shorthand properties on the same line |  |  |  | 0 | 0 | 1 | 2019-05-30 |
 
-Total: 7
+Total: 9
 
 ## Needs consensus
 
@@ -80,14 +83,14 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10341](https://github.com/eslint/eslint/issues/10341) | do not ignore files started with `.` by default | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 5 | 0 | 22 | ⌛ 2018-06-01 |
-| [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-05-04 |
+| [#11615](https://github.com/eslint/eslint/issues/11615) | RuleTester should report syntax error of fixed code | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-05-04 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 26 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
+| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  |  |  | 0 | 0 | 1 | 2019-06-20 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | 2019-06-06 |
-| [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-05-23 |
+| [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 7 | ⌛ 2019-05-23 |
 | [#11640](https://github.com/eslint/eslint/issues/11640) | Autofix for no-unused-vars "caughtErrors: all" |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-13 |
 
 Total: 9
@@ -112,7 +115,6 @@ Total: 2
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
 | [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 5 | 0 | 8 | ⌛ 2019-03-28 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
-| [#11186](https://github.com/eslint/eslint/pull/11186) | Breaking: allow comments after no-fallthrough (fixes [#10608](https://github.com/eslint/eslint/issues/10608)) |  |  |  | 0 | 0 | 3 | ⌛ 2019-01-01 |
 
-Total: 4
+Total: 3
 
