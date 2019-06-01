@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-05-31 14:48 (UTC)
+- 2019-06-01 14:48 (UTC)
 
 **Legend:**
 
@@ -32,11 +32,10 @@ Total: 2
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-03 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 38 | 0 | 23 | ⌛ 2017-09-29 |
-| [#11794](https://github.com/eslint/eslint/issues/11794) | no-octal rule on NonOctalDecimalIntegerLiterals | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-06-21 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
-Total: 9
+Total: 8
 
 ## Needs a champion
 
@@ -60,7 +59,7 @@ Total: 5
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | 2019-06-20 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | 2019-06-19 |
-| [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 2 | 2019-06-19 |
+| [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 3 | 2019-06-19 |
 | [#11779](https://github.com/eslint/eslint/issues/11779) | New rule proposal: max-accessor-depth |  |  |  | 0 | 0 | 2 | 2019-06-18 |
 | [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | 2019-06-16 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | 2019-06-12 |
