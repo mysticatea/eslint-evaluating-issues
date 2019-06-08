@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-07 14:52 (UTC)
+- 2019-06-08 14:52 (UTC)
 
 **Legend:**
 
@@ -51,9 +51,10 @@ Total: 1
 | [#11770](https://github.com/eslint/eslint/issues/11770) | "indent" should use smart tabs when using "first" and "tab" |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-06-16 |
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-05-30 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
+| [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-06-19 |
 | [#11786](https://github.com/eslint/eslint/issues/11786) | Change one-var to support TSLint's "ignore-for-loop" |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-06-19 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
@@ -62,13 +63,12 @@ Total: 4
 | [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument |  |  |  | 0 | 0 | 6 | 2019-06-27 |
 | [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | 2019-06-20 |
-| [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | 2019-06-19 |
 | [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 4 | 2019-06-19 |
 | [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | 2019-06-16 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | 2019-06-12 |
 | [#11745](https://github.com/eslint/eslint/issues/11745) | [lines-between-class-members] separate config for class member variables |  |  |  | 0 | 0 | 1 | 2019-06-10 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
@@ -89,10 +89,10 @@ Total: 3
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-06-28 |
-| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-06-20 |
+| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-06-20 |
 | [#11806](https://github.com/eslint/eslint/issues/11806) | Allow explanation of eslint-disable |  |  |  | 0 | 0 | 3 | 2019-06-25 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
-| [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 13 | ⌛ 2019-05-23 |
+| [#11668](https://github.com/eslint/eslint/issues/11668) | no-unused-vars removal option |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 14 | ⌛ 2019-05-23 |
 | [#11640](https://github.com/eslint/eslint/issues/11640) | Autofix for no-unused-vars "caughtErrors: all" |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-13 |
 
 Total: 10
@@ -122,7 +122,7 @@ Total: 5
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
-| [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 5 | 0 | 8 | ⌛ 2019-03-28 |
+| [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 5 | 0 | 9 | ⌛ 2019-03-28 |
 | [#11726](https://github.com/eslint/eslint/pull/11726) | New: Added new force cli option ( refs [#6882](https://github.com/eslint/eslint/issues/6882) ) |  |  |  | 0 | 0 | 4 | ⌛ 2019-06-05 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
 
