@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-16 14:56 (UTC)
+- 2019-06-17 14:57 (UTC)
 
 **Legend:**
 
@@ -50,11 +50,12 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11690](https://github.com/eslint/eslint/issues/11690) | "indent" rule: add more flexibility for the alignment of chained method calls |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 4 | ⌛ 2019-05-30 |
-| [#11770](https://github.com/eslint/eslint/issues/11770) | "indent" should use smart tabs when using "first" and "tab" |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-06-16 |
+| [#11770](https://github.com/eslint/eslint/issues/11770) | "indent" should use smart tabs when using "first" and "tab" |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-16 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 3 | 2019-06-19 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-07-06 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
@@ -66,9 +67,8 @@ Total: 4
 | [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | 2019-06-20 |
 | [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | 2019-06-19 |
-| [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | 2019-06-16 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -90,7 +90,7 @@ Total: 3
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-06-28 |
 | [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-06-20 |
-| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 3 | 0 | 3 | 2019-07-06 |
+| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 4 | 0 | 3 | 2019-07-06 |
 | [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | 2019-06-30 |
 | [#11806](https://github.com/eslint/eslint/issues/11806) | Allow explanation of eslint-disable |  |  |  | 0 | 0 | 3 | 2019-06-25 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
@@ -111,6 +111,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-16 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-12 |
 | [#11745](https://github.com/eslint/eslint/issues/11745) | [lines-between-class-members] separate config for class member variables |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-10 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | ⌛ 2019-06-05 |
@@ -119,7 +120,7 @@ Total: 2
 | [#11665](https://github.com/eslint/eslint/issues/11665) | Add top-level option for noInlineConfig or allowInlineConfig |  |  |  | 0 | 0 | 2 | ⌛ 2019-05-21 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 7
+Total: 8
 
 ## Pull requests for closed issue
 
