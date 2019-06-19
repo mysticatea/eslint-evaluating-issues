@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-18 14:57 (UTC)
+- 2019-06-19 15:03 (UTC)
 
 **Legend:**
 
@@ -66,9 +66,8 @@ Total: 5
 | [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | 2019-06-27 |
 | [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | 2019-06-20 |
-| [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | 2019-06-19 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -112,6 +111,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | ⌛ 2019-06-19 |
 | [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-16 |
 | [#11753](https://github.com/eslint/eslint/issues/11753) | Array.push is 945x faster than Array.concat |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-12 |
 | [#11745](https://github.com/eslint/eslint/issues/11745) | [lines-between-class-members] separate config for class member variables |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-10 |
@@ -121,7 +121,7 @@ Total: 2
 | [#11665](https://github.com/eslint/eslint/issues/11665) | Add top-level option for noInlineConfig or allowInlineConfig |  |  |  | 0 | 0 | 2 | ⌛ 2019-05-21 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 8
+Total: 9
 
 ## Pull requests for closed issue
 
