@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-22 14:57 (UTC)
+- 2019-06-23 14:57 (UTC)
 
 **Legend:**
 
@@ -40,7 +40,7 @@ Total: 8
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11796](https://github.com/eslint/eslint/pull/11796) | Update: Separate pattern/expression options for array-element-newline |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-06-23 |
+| [#11796](https://github.com/eslint/eslint/pull/11796) | Update: Separate pattern/expression options for array-element-newline |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-23 |
 | [#11702](https://github.com/eslint/eslint/issues/11702) | "padded-blocks" rule: add the option "consistent" |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-05-31 |
 
 Total: 2
@@ -120,10 +120,9 @@ Total: 2
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | ⌛ 2019-06-05 |
 | [#11692](https://github.com/eslint/eslint/issues/11692) | "object-property-newline" rule: add option to allow shorthand properties on the same line |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-30 |
 | [#11686](https://github.com/eslint/eslint/issues/11686) | Replace or extend object-shorthand ignoreConstructors option with something more powerful |  |  |  | 0 | 0 | 6 | ⌛ 2019-05-29 |
-| [#11665](https://github.com/eslint/eslint/issues/11665) | Add top-level option for noInlineConfig or allowInlineConfig |  |  |  | 0 | 0 | 2 | ⌛ 2019-05-21 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
