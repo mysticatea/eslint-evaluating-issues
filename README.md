@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-23 14:57 (UTC)
+- 2019-06-24 14:59 (UTC)
 
 **Legend:**
 
@@ -54,8 +54,9 @@ Total: 2
 | [#11770](https://github.com/eslint/eslint/issues/11770) | "indent" should use smart tabs when using "first" and "tab" |  | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-16 |
 | [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 3 | ⌛ 2019-06-19 |
+| [#11883](https://github.com/eslint/eslint/issues/11883) | Allow excluding class expressions in max-classes-per-file |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-07-14 |
 
-Total: 5
+Total: 6
 
 ## Needs interest
 
@@ -66,7 +67,7 @@ Total: 5
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | 2019-07-04 |
 | [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | 2019-06-27 |
 | [#11804](https://github.com/eslint/eslint/issues/11804) | Docs: clarify that `plugins` is not required when `extends` is used |  |  |  | 0 | 0 | 2 | 2019-06-25 |
-| [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | 2019-06-24 |
+| [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-24 |
 
 Total: 6
 
