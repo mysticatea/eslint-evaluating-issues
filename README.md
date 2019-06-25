@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-24 14:59 (UTC)
+- 2019-06-25 14:59 (UTC)
 
 **Legend:**
 
@@ -62,12 +62,12 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11863](https://github.com/eslint/eslint/issues/11863) | `multiline-comment-style`: add option to allow mutliline line comments when `starred-block` or `bare-block` is set |  |  |  | 0 | 0 | 2 | 2019-07-11 |
 | [#11860](https://github.com/eslint/eslint/issues/11860) | "workspaces" enhancement for no-restricted-imports |  |  |  | 0 | 0 | 2 | 2019-07-10 |
 | [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | 2019-07-07 |
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | 2019-07-04 |
 | [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | 2019-06-27 |
-| [#11804](https://github.com/eslint/eslint/issues/11804) | Docs: clarify that `plugins` is not required when `extends` is used |  |  |  | 0 | 0 | 2 | 2019-06-25 |
-| [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-24 |
+| [#11804](https://github.com/eslint/eslint/issues/11804) | Docs: clarify that `plugins` is not required when `extends` is used |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-25 |
 
 Total: 6
 
@@ -87,6 +87,7 @@ Total: 3
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 29 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
+| [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 3 | 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-06-28 |
@@ -98,7 +99,7 @@ Total: 3
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 | [#11640](https://github.com/eslint/eslint/issues/11640) | Autofix for no-unused-vars "caughtErrors: all" |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-13 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
@@ -113,6 +114,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | ⌛ 2019-06-19 |
 | [#11772](https://github.com/eslint/eslint/issues/11772) | "computed-property-spacing" option "operators" |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-16 |
@@ -123,7 +125,7 @@ Total: 2
 | [#11686](https://github.com/eslint/eslint/issues/11686) | Replace or extend object-shorthand ignoreConstructors option with something more powerful |  |  |  | 0 | 0 | 6 | ⌛ 2019-05-29 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
