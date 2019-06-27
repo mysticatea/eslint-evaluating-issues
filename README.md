@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-26 15:00 (UTC)
+- 2019-06-27 15:02 (UTC)
 
 **Legend:**
 
@@ -61,14 +61,13 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11878](https://github.com/eslint/eslint/issues/11878) | Documentation of "no-return-await" |  |  |  | 0 | 0 | 8 | 2019-07-13 |
 | [#11863](https://github.com/eslint/eslint/issues/11863) | `multiline-comment-style`: add option to allow mutliline line comments when `starred-block` or `bare-block` is set |  |  |  | 0 | 0 | 2 | 2019-07-11 |
 | [#11860](https://github.com/eslint/eslint/issues/11860) | "workspaces" enhancement for no-restricted-imports |  |  |  | 0 | 0 | 2 | 2019-07-10 |
 | [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | 2019-07-07 |
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | 2019-07-04 |
-| [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | 2019-06-27 |
+| [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | ⌛ 2019-06-27 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -84,28 +83,29 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 29 | 0 | 12 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 30 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
+| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | 2019-07-18 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-06-28 |
 | [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-06-20 |
-| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 9 | 0 | 3 | 2019-07-06 |
+| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 10 | 0 | 3 | 2019-07-06 |
 | [#11853](https://github.com/eslint/eslint/issues/11853) | Add a git-ratchet formatter |  |  |  | 0 | 0 | 4 | 2019-07-09 |
 | [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | 2019-06-30 |
 | [#11806](https://github.com/eslint/eslint/issues/11806) | Allow explanation of eslint-disable |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-25 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 | [#11640](https://github.com/eslint/eslint/issues/11640) | Autofix for no-unused-vars "caughtErrors: all" |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-13 |
 
-Total: 13
+Total: 14
 
 ## Looks opposed
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11823](https://github.com/eslint/eslint/issues/11823) | sort-keys - include/exclude objects by name |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-07-01 |
-| [#11808](https://github.com/eslint/eslint/issues/11808) | Allow `npm_config_*`-style params for `no-process-env` |  |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | 0 | 0 | 4 | 2019-06-27 |
+| [#11808](https://github.com/eslint/eslint/issues/11808) | Allow `npm_config_*`-style params for `no-process-env` |  |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2019-06-27 |
 
 Total: 2
 
