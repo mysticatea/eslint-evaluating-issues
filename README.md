@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-28 15:00 (UTC)
+- 2019-06-29 15:01 (UTC)
 
 **Legend:**
 
@@ -96,9 +96,8 @@ Total: 3
 | [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | 2019-06-30 |
 | [#11806](https://github.com/eslint/eslint/issues/11806) | Allow explanation of eslint-disable |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-25 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
-| [#11640](https://github.com/eslint/eslint/issues/11640) | Autofix for no-unused-vars "caughtErrors: all" |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-13 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
@@ -118,22 +117,22 @@ Total: 2
 | [#11797](https://github.com/eslint/eslint/issues/11797) | `id-match` requires separate config for property name |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | ⌛ 2019-06-19 |
-| [#11745](https://github.com/eslint/eslint/issues/11745) | [lines-between-class-members] separate config for class member variables |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-10 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | ⌛ 2019-06-05 |
 | [#11692](https://github.com/eslint/eslint/issues/11692) | "object-property-newline" rule: add option to allow shorthand properties on the same line |  |  |  | 0 | 0 | 4 | ⌛ 2019-05-30 |
 | [#11686](https://github.com/eslint/eslint/issues/11686) | Replace or extend object-shorthand ignoreConstructors option with something more powerful |  |  |  | 0 | 0 | 6 | ⌛ 2019-05-29 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
+| [#11817](https://github.com/eslint/eslint/pull/11817) | Update: in quote-props rule allow consistent-as-needed with numbers option (fixes [#8093](https://github.com/eslint/eslint/issues/8093)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-06-28 |
 | [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 6 | 0 | 9 | ⌛ 2019-03-28 |
 | [#11726](https://github.com/eslint/eslint/pull/11726) | New: Added new force cli option ( refs [#6882](https://github.com/eslint/eslint/issues/6882) ) |  |  |  | 0 | 0 | 4 | ⌛ 2019-06-05 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
 
-Total: 4
+Total: 5
 
