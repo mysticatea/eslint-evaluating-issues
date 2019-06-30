@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-29 15:01 (UTC)
+- 2019-06-30 15:01 (UTC)
 
 **Legend:**
 
@@ -85,6 +85,7 @@ Total: 3
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 30 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
+| [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-07-20 |
 | [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 13 | 2019-07-18 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
@@ -93,11 +94,11 @@ Total: 3
 | [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-06-20 |
 | [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 10 | 0 | 3 | 2019-07-06 |
 | [#11853](https://github.com/eslint/eslint/issues/11853) | Add a git-ratchet formatter |  |  |  | 0 | 0 | 4 | 2019-07-09 |
-| [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | 2019-06-30 |
+| [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-30 |
 | [#11806](https://github.com/eslint/eslint/issues/11806) | Allow explanation of eslint-disable |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-25 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
-Total: 13
+Total: 14
 
 ## Looks opposed
 
