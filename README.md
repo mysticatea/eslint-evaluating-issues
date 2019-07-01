@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-06-30 15:01 (UTC)
+- 2019-07-01 15:02 (UTC)
 
 **Legend:**
 
@@ -104,7 +104,7 @@ Total: 14
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11823](https://github.com/eslint/eslint/issues/11823) | sort-keys - include/exclude objects by name |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-07-01 |
+| [#11823](https://github.com/eslint/eslint/issues/11823) | sort-keys - include/exclude objects by name |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | ⌛ 2019-07-01 |
 | [#11808](https://github.com/eslint/eslint/issues/11808) | Allow `npm_config_*`-style params for `no-process-env` |  |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2019-06-27 |
 
 Total: 2
