@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-07-01 15:02 (UTC)
+- 2019-07-02 15:37 (UTC)
 
 **Legend:**
 
@@ -62,12 +62,13 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11930](https://github.com/eslint/eslint/issues/11930) | In the Docs - provide enable and disable examples with every rule |  |  |  | 0 | 0 | 1 | 2019-07-22 |
 | [#11863](https://github.com/eslint/eslint/issues/11863) | `multiline-comment-style`: add option to allow mutliline line comments when `starred-block` or `bare-block` is set |  |  |  | 0 | 0 | 2 | 2019-07-11 |
 | [#11860](https://github.com/eslint/eslint/issues/11860) | "workspaces" enhancement for no-restricted-imports |  |  |  | 0 | 0 | 2 | 2019-07-10 |
 | [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | 2019-07-07 |
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | 2019-07-04 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
@@ -86,8 +87,8 @@ Total: 3
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 30 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-07-20 |
-| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 13 | 2019-07-18 |
-| [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | 2019-07-16 |
+| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 16 | 2019-07-18 |
+| [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 9 | 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-06-28 |
