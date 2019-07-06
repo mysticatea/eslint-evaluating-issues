@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-07-05 15:05 (UTC)
+- 2019-07-06 15:03 (UTC)
 
 **Legend:**
 
@@ -62,11 +62,12 @@ Total: 4
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11941](https://github.com/eslint/eslint/pull/11941) | Update: Add for-in and for-of checks for props in no-param-reassign |  |  |  | 0 | 0 | 2 | 2019-07-25 |
 | [#11930](https://github.com/eslint/eslint/issues/11930) | In the Docs - provide enable and disable examples with every rule |  |  |  | 0 | 0 | 3 | 2019-07-22 |
+| [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 3 | 2019-07-16 |
 | [#11863](https://github.com/eslint/eslint/issues/11863) | `multiline-comment-style`: add option to allow mutliline line comments when `starred-block` or `bare-block` is set |  |  |  | 0 | 0 | 2 | 2019-07-11 |
 | [#11860](https://github.com/eslint/eslint/issues/11860) | "workspaces" enhancement for no-restricted-imports |  |  |  | 0 | 0 | 2 | 2019-07-10 |
 | [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | 2019-07-07 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
@@ -92,12 +93,11 @@ Total: 3
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-06-28 |
 | [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-06-20 |
 | [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 10 | 0 | 3 | 2019-07-06 |
-| [#11948](https://github.com/eslint/eslint/issues/11948) | Provide an option to insert eslint-disable(-next)-line for specific rules |  |  |  | 0 | 0 | 2 | 2019-07-26 |
 | [#11853](https://github.com/eslint/eslint/issues/11853) | Add a git-ratchet formatter |  |  |  | 0 | 0 | 4 | 2019-07-09 |
 | [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-30 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
@@ -115,13 +115,14 @@ Total: 2
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-04 |
 | [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | ⌛ 2019-06-27 |
 | [#11804](https://github.com/eslint/eslint/issues/11804) | Docs: clarify that `plugins` is not required when `extends` is used |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-25 |
+| [#11800](https://github.com/eslint/eslint/issues/11800) | no-irregular-whitespace add additional chars |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#11781](https://github.com/eslint/eslint/issues/11781) | [no-irregular-whitespace] add option for allow ignore check on some char |  |  |  | 0 | 0 | 8 | ⌛ 2019-06-19 |
 | [#11721](https://github.com/eslint/eslint/issues/11721) | "semi-spacing" rule doesn't work after "while" |  |  |  | 0 | 0 | 20 | ⌛ 2019-06-05 |
 | [#11686](https://github.com/eslint/eslint/issues/11686) | Replace or extend object-shorthand ignoreConstructors option with something more powerful |  |  |  | 0 | 0 | 6 | ⌛ 2019-05-29 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 8
+Total: 9
 
 ## Pull requests for closed issue
 
