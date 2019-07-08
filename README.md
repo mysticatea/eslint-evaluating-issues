@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-07-07 15:03 (UTC)
+- 2019-07-08 15:05 (UTC)
 
 **Legend:**
 
@@ -49,8 +49,8 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 0 | ⌛ 2019-07-06 |
-| [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-02-06 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 0 | ⌛ 2019-07-06 |
+| [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-02-06 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 3 | ⌛ 2019-06-19 |
 | [#11883](https://github.com/eslint/eslint/issues/11883) | Allow excluding class expressions in max-classes-per-file |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-07-14 |
 
@@ -62,12 +62,11 @@ Total: 4
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11941](https://github.com/eslint/eslint/pull/11941) | Update: Add for-in and for-of checks for props in no-param-reassign |  |  |  | 0 | 0 | 2 | 2019-07-25 |
 | [#11930](https://github.com/eslint/eslint/issues/11930) | In the Docs - provide enable and disable examples with every rule |  |  |  | 0 | 0 | 3 | 2019-07-22 |
-| [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 3 | 2019-07-16 |
+| [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | 2019-07-16 |
 | [#11863](https://github.com/eslint/eslint/issues/11863) | `multiline-comment-style`: add option to allow mutliline line comments when `starred-block` or `bare-block` is set |  |  |  | 0 | 0 | 2 | 2019-07-11 |
 | [#11860](https://github.com/eslint/eslint/issues/11860) | "workspaces" enhancement for no-restricted-imports |  |  |  | 0 | 0 | 2 | 2019-07-10 |
-| [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-07 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -90,15 +89,14 @@ Total: 3
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 9 | 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
-| [#11958](https://github.com/eslint/eslint/issues/11958) | [cli]: Have a dedicated option to show up local environment information |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-07-27 |
-| [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-06-28 |
-| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-06-20 |
-| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 10 | 0 | 3 | ⌛ 2019-07-06 |
+| [#11958](https://github.com/eslint/eslint/issues/11958) | [cli]: Have a dedicated option to show up local environment information |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-07-27 |
+| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-06-20 |
+| [#11844](https://github.com/eslint/eslint/issues/11844) | [Feature Request:] add support for config file name => eslint.config.js |  |  |  | 11 | 0 | 3 | ⌛ 2019-07-06 |
 | [#11853](https://github.com/eslint/eslint/issues/11853) | Add a git-ratchet formatter |  |  |  | 0 | 0 | 4 | 2019-07-09 |
 | [#11821](https://github.com/eslint/eslint/issues/11821) | Disable rule at a line from another line |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-30 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
@@ -112,8 +110,8 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11846](https://github.com/eslint/eslint/issues/11846) | New rule proposal for disallow the usage of export * from when there is another named export |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-07 |
 | [#11831](https://github.com/eslint/eslint/issues/11831) | Disallow empty lines in object curly, array bracket, or function params |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-04 |
-| [#11810](https://github.com/eslint/eslint/issues/11810) | `no-new-object` to allow argument (PR [#11811](https://github.com/eslint/eslint/pull/11811)) |  |  |  | 0 | 0 | 6 | ⌛ 2019-06-27 |
 | [#11804](https://github.com/eslint/eslint/issues/11804) | Docs: clarify that `plugins` is not required when `extends` is used |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-25 |
 | [#11800](https://github.com/eslint/eslint/issues/11800) | no-irregular-whitespace add additional chars |  |  |  | 0 | 0 | 2 | ⌛ 2019-06-24 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
@@ -130,8 +128,9 @@ Total: 8
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-03-28 |
 | [#11817](https://github.com/eslint/eslint/pull/11817) | Update: in quote-props rule allow consistent-as-needed with numbers option (fixes [#8093](https://github.com/eslint/eslint/issues/8093)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-06-28 |
 | [#11487](https://github.com/eslint/eslint/pull/11487) | New: Add `--cache-strategy` CLI option (refs [#11319](https://github.com/eslint/eslint/issues/11319)) |  |  |  | 6 | 0 | 9 | ⌛ 2019-03-28 |
+| [#11811](https://github.com/eslint/eslint/pull/11811) | Breaking: Let `no-new-object` pass with arguments (fixes [#11810](https://github.com/eslint/eslint/issues/11810)) |  |  |  | 0 | 0 | 0 | ⌛ 2019-06-27 |
 | [#11726](https://github.com/eslint/eslint/pull/11726) | New: Added new force cli option ( refs [#6882](https://github.com/eslint/eslint/issues/6882) ) |  |  |  | 0 | 0 | 4 | ⌛ 2019-06-05 |
 | [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
 
-Total: 5
+Total: 6
 
