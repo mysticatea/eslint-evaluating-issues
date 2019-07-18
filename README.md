@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-07-17 15:10 (UTC)
+- 2019-07-18 15:10 (UTC)
 
 **Legend:**
 
@@ -25,6 +25,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 3 | 0 | 2 | ⌛ 2019-07-06 |
 | [#10482](https://github.com/eslint/eslint/issues/10482) | New Rule: no-math-pow | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 10 | ⌛ 2018-07-06 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 4 | ⌛ 2018-08-09 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-03-04 |
@@ -34,7 +35,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
-Total: 8
+Total: 9
 
 ## Needs a champion
 
@@ -50,24 +51,22 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 0 | ⌛ 2019-07-06 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 5 | ⌛ 2019-06-19 |
 | [#11969](https://github.com/eslint/eslint/issues/11969) | Rule that checks if you remembered to call super.method() |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-07-30 |
 | [#11883](https://github.com/eslint/eslint/issues/11883) | Allow excluding class expressions in max-classes-per-file |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-07-14 |
 
-Total: 4
+Total: 3
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | 2019-08-06 |
-| [#11981](https://github.com/eslint/eslint/pull/11981) | New: no-lexical-globals rule |  |  |  | 0 | 0 | 4 | 2019-08-03 |
 | [#11968](https://github.com/eslint/eslint/issues/11968) | window.myFunction = function() triggers no-undef |  |  |  | 0 | 0 | 3 | 2019-07-29 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | 2019-07-29 |
 | [#11930](https://github.com/eslint/eslint/issues/11930) | In the Docs - provide enable and disable examples with every rule |  |  |  | 0 | 0 | 3 | 2019-07-22 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -87,12 +86,12 @@ Total: 3
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 34 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-07-20 |
-| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 19 | 2019-07-18 |
+| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 19 | ⌛ 2019-07-18 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 9 | ⌛ 2019-07-16 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2019-06-28 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
-| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | 2019-08-05 |
+| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 7 | 2019-08-05 |
 | [#11988](https://github.com/eslint/eslint/issues/11988) | Allow snapshot test |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-08-04 |
 | [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-06-20 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | 2019-08-04 |
