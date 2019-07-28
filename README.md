@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-07-27 15:13 (UTC)
+- 2019-07-28 15:13 (UTC)
 
 **Legend:**
 
@@ -51,8 +51,8 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-16 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 6 | ⌛ 2019-06-19 |
-| [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-16 |
 | [#11969](https://github.com/eslint/eslint/issues/11969) | Rule that checks if you remembered to call super.method() |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-07-30 |
 
 Total: 3
@@ -61,12 +61,13 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12033](https://github.com/eslint/eslint/issues/12033) | Prevent confusing if-statement usage with padding-line-between-statements |  |  |  | 0 | 0 | 2 | 2019-08-18 |
 | [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | 2019-08-15 |
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | 2019-08-06 |
 | [#11968](https://github.com/eslint/eslint/issues/11968) | window.myFunction = function() triggers no-undef |  |  |  | 0 | 0 | 8 | 2019-07-29 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | 2019-07-29 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
