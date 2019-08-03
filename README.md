@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-02 15:16 (UTC)
+- 2019-08-03 15:17 (UTC)
 
 **Legend:**
 
@@ -83,7 +83,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 39 | 0 | 12 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 40 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 7 | ⌛ 2019-06-28 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | ⌛ 2019-07-20 |
