@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-09 15:19 (UTC)
+- 2019-08-10 15:19 (UTC)
 
 **Legend:**
 
@@ -100,10 +100,10 @@ Total: 3
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-08-05 |
 | [#12014](https://github.com/eslint/eslint/issues/12014) | Warn when ESLint directives which expect to be used in block level comments are used in inline comments |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-08-12 |
 | [#11988](https://github.com/eslint/eslint/issues/11988) | Allow snapshot test |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-08-04 |
-| [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 1 | 17 | 2019-08-29 |
+| [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 2 | 2019-08-30 |
+| [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | 2019-08-29 |
 | [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
-| [#11971](https://github.com/eslint/eslint/issues/11971) | Move some functions outside of the "create"? |  |  |  | 0 | 0 | 5 | ⌛ 2019-07-30 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
 Total: 16
