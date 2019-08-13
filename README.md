@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-12 15:21 (UTC)
+- 2019-08-13 15:20 (UTC)
 
 **Legend:**
 
@@ -56,10 +56,11 @@ Total: 3
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-08-24 |
 | [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-16 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 6 | ⌛ 2019-06-19 |
+| [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-09-03 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-22 |
 | [#12042](https://github.com/eslint/eslint/issues/12042) | [prefer-template] Add "allow-single-concat" option |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-08-21 |
 
-Total: 5
+Total: 6
 
 ## Needs interest
 
@@ -89,7 +90,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 41 | 0 | 12 | ⌛ 2018-09-24 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 42 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 7 | ⌛ 2019-06-28 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | ⌛ 2019-07-20 |
@@ -98,7 +99,7 @@ Total: 3
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-08-05 |
-| [#12014](https://github.com/eslint/eslint/issues/12014) | Warn when ESLint directives which expect to be used in block level comments are used in inline comments |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-08-12 |
+| [#12014](https://github.com/eslint/eslint/issues/12014) | Warn when ESLint directives which expect to be used in block level comments are used in inline comments |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-08-12 |
 | [#11988](https://github.com/eslint/eslint/issues/11988) | Allow snapshot test |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-08-04 |
 | [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 4 | 2019-08-30 |
 | [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | 2019-08-29 |
