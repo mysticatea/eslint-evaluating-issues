@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-14 15:21 (UTC)
+- 2019-08-15 15:23 (UTC)
 
 **Legend:**
 
@@ -56,11 +56,12 @@ Total: 3
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-08-24 |
 | [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-16 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 6 | ⌛ 2019-06-19 |
+| [#12097](https://github.com/eslint/eslint/issues/12097) | Warn against identical left and right hand ternary expressions (no-identical-ternary-expressions) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-09-04 |
 | [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-09-03 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-22 |
 | [#12042](https://github.com/eslint/eslint/issues/12042) | [prefer-template] Add "allow-single-concat" option |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-08-21 |
 
-Total: 6
+Total: 7
 
 ## Needs interest
 
@@ -72,7 +73,7 @@ Total: 6
 | [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | 2019-08-26 |
 | [#12059](https://github.com/eslint/eslint/issues/12059) | Improve visualstudio formatter styling |  |  |  | 0 | 0 | 6 | 2019-08-24 |
 | [#12034](https://github.com/eslint/eslint/issues/12034) | Automatically fix strict configured as "global" |  |  |  | 0 | 0 | 1 | 2019-08-18 |
-| [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | 2019-08-15 |
+| [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | ⌛ 2019-08-15 |
 
 Total: 7
 
@@ -103,7 +104,7 @@ Total: 3
 | [#11988](https://github.com/eslint/eslint/issues/11988) | Allow snapshot test |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-08-04 |
 | [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 4 | 2019-08-30 |
 | [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | 2019-08-29 |
-| [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | 2019-08-15 |
+| [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
