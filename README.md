@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-15 15:23 (UTC)
+- 2019-08-16 15:23 (UTC)
 
 **Legend:**
 
@@ -54,9 +54,9 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-08-24 |
-| [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-16 |
+| [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-08-16 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 6 | ⌛ 2019-06-19 |
-| [#12097](https://github.com/eslint/eslint/issues/12097) | Warn against identical left and right hand ternary expressions (no-identical-ternary-expressions) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-09-04 |
+| [#12097](https://github.com/eslint/eslint/issues/12097) | Warn against identical left and right hand ternary expressions (no-identical-ternary-expressions) (PR [#12102](https://github.com/eslint/eslint/pull/12102)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-09-04 |
 | [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-09-03 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-08-22 |
 | [#12042](https://github.com/eslint/eslint/issues/12042) | [prefer-template] Add "allow-single-concat" option |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-08-21 |
@@ -73,9 +73,8 @@ Total: 7
 | [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | 2019-08-26 |
 | [#12059](https://github.com/eslint/eslint/issues/12059) | Improve visualstudio formatter styling |  |  |  | 0 | 0 | 6 | 2019-08-24 |
 | [#12034](https://github.com/eslint/eslint/issues/12034) | Automatically fix strict configured as "global" |  |  |  | 0 | 0 | 1 | 2019-08-18 |
-| [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | ⌛ 2019-08-15 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -91,7 +90,8 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 42 | 0 | 12 | ⌛ 2018-09-24 |
+| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-06-20 |
+| [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 43 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 7 | ⌛ 2019-06-28 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | ⌛ 2019-07-20 |
@@ -101,7 +101,6 @@ Total: 3
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-08-05 |
 | [#12014](https://github.com/eslint/eslint/issues/12014) | Warn when ESLint directives which expect to be used in block level comments are used in inline comments |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-08-12 |
-| [#11988](https://github.com/eslint/eslint/issues/11988) | Allow snapshot test |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-08-04 |
 | [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 4 | 2019-08-30 |
 | [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | 2019-08-29 |
 | [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
@@ -118,6 +117,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | ⌛ 2019-08-15 |
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-06 |
 | [#11968](https://github.com/eslint/eslint/issues/11968) | window.myFunction = function() triggers no-undef |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-29 |
@@ -125,7 +125,7 @@ Nothing.
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 6
+Total: 7
 
 ## Pull requests for closed issue
 
