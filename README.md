@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-17 15:23 (UTC)
+- 2019-08-18 15:23 (UTC)
 
 **Legend:**
 
@@ -68,7 +68,7 @@ Total: 7
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12070](https://github.com/eslint/eslint/issues/12070) | Compare computed keys by tokens in no-dupe-keys |  |  |  | 1 | 0 | 4 | 2019-08-27 |
-| [#12033](https://github.com/eslint/eslint/issues/12033) | Prevent confusing if-statement usage with padding-line-between-statements |  |  |  | 1 | 0 | 3 | 2019-08-18 |
+| [#12109](https://github.com/eslint/eslint/issues/12109) | Prevent unnecessary parent-child traversal in require |  |  |  | 0 | 0 | 1 | 2019-09-07 |
 | [#12074](https://github.com/eslint/eslint/issues/12074) | Change commentPattern option of no-fallthrough to be case insensitive |  |  |  | 0 | 0 | 3 | 2019-08-28 |
 | [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | 2019-08-26 |
 | [#12059](https://github.com/eslint/eslint/issues/12059) | Improve visualstudio formatter styling |  |  |  | 0 | 0 | 6 | 2019-08-24 |
@@ -90,7 +90,6 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11789](https://github.com/eslint/eslint/issues/11789) | Support TypeScript in configuration initializer. | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-06-20 |
 | [#10828](https://github.com/eslint/eslint/issues/10828) | Support specifying extensions in the config | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  |  | 43 | 0 | 12 | ⌛ 2018-09-24 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directive should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 1 | 0 | 7 | ⌛ 2019-06-28 |
@@ -107,7 +106,7 @@ Total: 3
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
-Total: 16
+Total: 15
 
 ## Looks opposed
 
@@ -117,6 +116,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12033](https://github.com/eslint/eslint/issues/12033) | Prevent confusing if-statement usage with padding-line-between-statements |  |  |  | 1 | 0 | 3 | ⌛ 2019-08-18 |
 | [#12020](https://github.com/eslint/eslint/issues/12020) | [function-documentation] Add rule for documenting class methods |  |  |  | 0 | 0 | 3 | ⌛ 2019-08-15 |
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-06 |
 | [#11968](https://github.com/eslint/eslint/issues/11968) | window.myFunction = function() triggers no-undef |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
@@ -125,7 +125,7 @@ Nothing.
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 7
+Total: 8
 
 ## Pull requests for closed issue
 
