@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-25 15:28 (UTC)
+- 2019-08-26 15:29 (UTC)
 
 **Legend:**
 
@@ -73,8 +73,8 @@ Total: 9
 | [#12129](https://github.com/eslint/eslint/issues/12129) | enhance "quotes" fixer to take "avoidEscape" into consideration |  |  |  | 1 | 0 | 5 | 2019-09-10 |
 | [#12070](https://github.com/eslint/eslint/issues/12070) | Compare computed keys by tokens in no-dupe-keys |  |  |  | 1 | 0 | 4 | 2019-08-27 |
 | [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  |  |  | 1 | 0 | 1 | 2019-08-26 |
+| [#12168](https://github.com/eslint/eslint/issues/12168) | Rule proposal: no-redundant-array-map |  |  |  | 0 | 0 | 1 | 2019-09-16 |
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
-| [#12149](https://github.com/eslint/eslint/issues/12149) | no-dupe-args: Accept a argsIgnorePattern, like no-unused-vars |  |  |  | 0 | 0 | 2 | 2019-09-12 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
 | [#12130](https://github.com/eslint/eslint/issues/12130) | Autofix (--fix) violations of `argsIgnorePattern` |  |  |  | 0 | 0 | 8 | 2019-09-10 |
 | [#12110](https://github.com/eslint/eslint/pull/12110) | Update: Add checkMethods option to no-useless-computed-key |  |  |  | 0 | 0 | 1 | 2019-09-08 |
@@ -125,7 +125,11 @@ Total: 19
 
 ## Looks opposed
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12149](https://github.com/eslint/eslint/issues/12149) | no-dupe-args: Accept a argsIgnorePattern, like no-unused-vars |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-09-12 |
+
+Total: 1
 
 ## Looks inactive
 
