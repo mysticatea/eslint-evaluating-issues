@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-26 15:29 (UTC)
+- 2019-08-27 15:29 (UTC)
 
 **Legend:**
 
@@ -32,7 +32,7 @@ Total: 1
 | [#11270](https://github.com/eslint/eslint/issues/11270) | Feature: no-inline-comments: Allow exception inside JSX | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-02-03 |
 | [#12049](https://github.com/eslint/eslint/issues/12049) | computed-property-spacing new option for class members | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-08-23 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 45 | 0 | 26 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 45 | 0 | 27 | ⌛ 2017-09-29 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
@@ -56,15 +56,14 @@ Total: 5
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12156](https://github.com/eslint/eslint/issues/12156) | Redesign `quotes` options |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 2 | 0 | 1 | 2019-09-13 |
 | [#12163](https://github.com/eslint/eslint/issues/12163) | New option in no-unsafe-negation to report ! a < b  |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-09-15 |
-| [#12097](https://github.com/eslint/eslint/issues/12097) | Warn against identical left and right hand ternary expressions (no-identical-ternary-expressions) (PR [#12102](https://github.com/eslint/eslint/pull/12102)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-09-04 |
+| [#12157](https://github.com/eslint/eslint/pull/12157) | Fix: Remove autofixer for no-unsafe-negation |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-09-14 |
+| [#12097](https://github.com/eslint/eslint/issues/12097) | Warn against identical left and right hand ternary expressions (no-identical-ternary-expressions) (PR [#12102](https://github.com/eslint/eslint/pull/12102)) |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-09-04 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
-| [#12025](https://github.com/eslint/eslint/issues/12025) | Improve `padding-line-between-statements` for `delete` operator |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-08-16 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 6 | ⌛ 2019-06-19 |
-| [#12157](https://github.com/eslint/eslint/pull/12157) | Fix: Remove autofixer for no-unsafe-negation |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-09-14 |
-| [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-08-22 |
+| [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
 | [#12042](https://github.com/eslint/eslint/issues/12042) | [prefer-template] Add "allow-single-concat" option |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-08-21 |
 
-Total: 9
+Total: 8
 
 ## Needs interest
 
@@ -72,20 +71,17 @@ Total: 9
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12129](https://github.com/eslint/eslint/issues/12129) | enhance "quotes" fixer to take "avoidEscape" into consideration |  |  |  | 1 | 0 | 5 | 2019-09-10 |
 | [#12070](https://github.com/eslint/eslint/issues/12070) | Compare computed keys by tokens in no-dupe-keys |  |  |  | 1 | 0 | 4 | 2019-08-27 |
-| [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  |  |  | 1 | 0 | 1 | 2019-08-26 |
 | [#12168](https://github.com/eslint/eslint/issues/12168) | Rule proposal: no-redundant-array-map |  |  |  | 0 | 0 | 1 | 2019-09-16 |
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
-| [#12130](https://github.com/eslint/eslint/issues/12130) | Autofix (--fix) violations of `argsIgnorePattern` |  |  |  | 0 | 0 | 8 | 2019-09-10 |
 | [#12110](https://github.com/eslint/eslint/pull/12110) | Update: Add checkMethods option to no-useless-computed-key |  |  |  | 0 | 0 | 1 | 2019-09-08 |
 | [#12106](https://github.com/eslint/eslint/pull/12106) | Update: Add enforceForSwitchCase option to use-isnan |  |  |  | 0 | 0 | 0 | 2019-09-07 |
 | [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 3 | 2019-09-06 |
 | [#12080](https://github.com/eslint/eslint/issues/12080) | Report '\08' and '\09' in no-octal-escape |  |  |  | 0 | 0 | 0 | 2019-08-30 |
 | [#12079](https://github.com/eslint/eslint/pull/12079) | Update: fix no-octal-escape false negatives after \0 |  |  |  | 0 | 0 | 4 | 2019-08-30 |
 | [#12074](https://github.com/eslint/eslint/issues/12074) | Change commentPattern option of no-fallthrough to be case insensitive |  |  |  | 0 | 0 | 4 | 2019-08-28 |
-| [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | 2019-08-26 |
 
-Total: 14
+Total: 11
 
 ## Needs consensus
 
@@ -93,7 +89,7 @@ Total: 14
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 4 | 6 | 42 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 10 | ⌛ 2018-05-02 |
-| [#9826](https://github.com/eslint/eslint/pull/9826) | Update: Brace style for `import` statements |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 1 | 0 | 18 | ⌛ 2018-01-29 |
+| [#9826](https://github.com/eslint/eslint/pull/9826) | Update: Brace style for `import` statements |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 1 | 0 | 19 | ⌛ 2018-01-29 |
 
 Total: 3
 
@@ -128,24 +124,26 @@ Total: 19
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12149](https://github.com/eslint/eslint/issues/12149) | no-dupe-args: Accept a argsIgnorePattern, like no-unused-vars |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-09-12 |
+| [#12130](https://github.com/eslint/eslint/issues/12130) | Autofix (--fix) violations of `argsIgnorePattern` |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 8 | 2019-09-10 |
 
-Total: 1
+Total: 2
 
 ## Looks inactive
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  |  |  | 1 | 0 | 1 | ⌛ 2019-08-26 |
 | [#12033](https://github.com/eslint/eslint/issues/12033) | Prevent confusing if-statement usage with padding-line-between-statements |  |  |  | 1 | 0 | 3 | ⌛ 2019-08-18 |
+| [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-26 |
 | [#12059](https://github.com/eslint/eslint/issues/12059) | Improve visualstudio formatter styling |  |  |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12034](https://github.com/eslint/eslint/issues/12034) | Automatically fix strict configured as "global" |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-18 |
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-06 |
-| [#11968](https://github.com/eslint/eslint/issues/11968) | window.myFunction = function() triggers no-undef |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-29 |
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
