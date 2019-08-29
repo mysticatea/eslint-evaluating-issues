@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-08-28 15:29 (UTC)
+- 2019-08-29 15:30 (UTC)
 
 **Legend:**
 
@@ -69,7 +69,7 @@ Total: 8
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12129](https://github.com/eslint/eslint/issues/12129) | enhance "quotes" fixer to take "avoidEscape" into consideration |  |  |  | 1 | 0 | 5 | 2019-09-10 |
+| [#12129](https://github.com/eslint/eslint/issues/12129) | enhance "quotes" fixer to take "avoidEscape" into consideration |  |  |  | 2 | 0 | 5 | 2019-09-10 |
 | [#12168](https://github.com/eslint/eslint/issues/12168) | Rule proposal: no-redundant-array-map |  |  |  | 0 | 0 | 1 | 2019-09-16 |
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
@@ -78,9 +78,8 @@ Total: 8
 | [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 3 | 2019-09-06 |
 | [#12080](https://github.com/eslint/eslint/issues/12080) | Report '\08' and '\09' in no-octal-escape |  |  |  | 0 | 0 | 0 | 2019-08-30 |
 | [#12079](https://github.com/eslint/eslint/pull/12079) | Update: fix no-octal-escape false negatives after \0 |  |  |  | 0 | 0 | 4 | 2019-08-30 |
-| [#12074](https://github.com/eslint/eslint/issues/12074) | Change commentPattern option of no-fallthrough to be case insensitive |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-28 |
 
-Total: 10
+Total: 9
 
 ## Needs consensus
 
@@ -100,7 +99,7 @@ Total: 3
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 7 | ⌛ 2019-06-28 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 5 | ⌛ 2018-05-17 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | ⌛ 2019-07-20 |
-| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 29 | ⌛ 2019-07-18 |
+| [#11914](https://github.com/eslint/eslint/issues/11914) | Personal config (~/.eslintrc) doesn't load global-installed configs/parsers/plugins | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2019-07-18 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 10 | ⌛ 2019-07-16 |
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
@@ -111,7 +110,7 @@ Total: 3
 | [#12140](https://github.com/eslint/eslint/issues/12140) | Support the ?? operator for Code Path Analysis |  |  |  | 0 | 0 | 1 | 2019-09-11 |
 | [#12138](https://github.com/eslint/eslint/issues/12138) | Support regex for globals in config |  |  |  | 0 | 0 | 7 | 2019-09-11 |
 | [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 4 | 2019-08-30 |
-| [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | 2019-08-29 |
+| [#12078](https://github.com/eslint/eslint/issues/12078) | Support .eslintrc.ts |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 0 | 2 | 19 | ⌛ 2019-08-29 |
 | [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
@@ -133,9 +132,9 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12070](https://github.com/eslint/eslint/issues/12070) | Compare computed keys by tokens in no-dupe-keys |  |  |  | 1 | 0 | 4 | ⌛ 2019-08-27 |
 | [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  |  |  | 1 | 0 | 1 | ⌛ 2019-08-26 |
+| [#12074](https://github.com/eslint/eslint/issues/12074) | Change commentPattern option of no-fallthrough to be case insensitive |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-28 |
 | [#12064](https://github.com/eslint/eslint/issues/12064) | No nested template/string literals |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-26 |
 | [#12059](https://github.com/eslint/eslint/issues/12059) | Improve visualstudio formatter styling |  |  |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
-| [#12034](https://github.com/eslint/eslint/issues/12034) | Automatically fix strict configured as "global" |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-18 |
 | [#11996](https://github.com/eslint/eslint/pull/11996) | Update: Add 'lexicalBindings' to no-implicit-globals and change messages |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-06 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-29 |
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
