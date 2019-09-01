@@ -148,7 +148,7 @@ function isOld(issue) {
         }
     }
 
-    const content = `# ESLint Features in Evaluating [![Build Status](https://travis-ci.com/mysticatea/eslint-evaluating-issues.svg?branch=master)](https://travis-ci.com/mysticatea/eslint-evaluating-issues)
+    const content = `# ESLint Features in Evaluating [![Build Status](https://github.com/mysticatea/eslint-evaluating-issues/workflows/Build/badge.svg)](https://github.com/mysticatea/eslint-evaluating-issues/actions)
 
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
 This page is a summary of feature issues.

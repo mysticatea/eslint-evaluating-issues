@@ -1,0 +1,36 @@
+name: Build
+on:
+  push:
+    branches:
+    - master
+  schedule:
+  - cron: 0 */3 * * *
+
+jobs:
+  readme:
+    name: README.md
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 1
+    - name: Install Packages
+      run: npm install
+    - name: Fetch Issue Data
+      run: node scripts/update-issues
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Update README.md
+      run: node scripts/update-table
+    - name: Push
+      run: |
+        if ! git diff --exit-code --quiet
+        then
+          git config user.email "public@mysticatea.dev"
+          git config user.name "Toru Nagashima"
+          git add .
+          git commit -m "📝 update README.md"
+          git push origin HEAD:master
+        fi

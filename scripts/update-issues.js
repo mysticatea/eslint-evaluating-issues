@@ -17,7 +17,7 @@ const matchAll = require("string.prototype.matchall")
 
 const theTeam = new Set(
     [
-        // From https://github.com/eslint/eslint.github.io/blob/master/_data/team.json
+        // From https://github.com/eslint/website/blob/master/_data/team.json
         "nzakas",
         "platinumazure",
         "ilyavolodin",
@@ -44,6 +44,7 @@ const theTeam = new Set(
         "pedrottimark",
         "aladdin-add",
         "g-plane",
+        "mdjermanovic",
     ].map(username => username.toLowerCase()),
 )
 
@@ -76,7 +77,7 @@ function getReactions(octokit, issue) {
             octokit.reactions.listForIssue.endpoint.merge({
                 owner: "eslint",
                 repo: "eslint",
-                number: issue.number,
+                issue_number: issue.number,
                 per_page: 100,
             }),
         ),
@@ -172,7 +173,11 @@ async function processPullRequest(octokit, prData, prs, issues) {
     // Check issues if closed or not.
     const actualIssueRess = await Promise.all(
         fixIssueIds.map(number =>
-            octokit.issues.get({ number, owner: "eslint", repo: "eslint" }),
+            octokit.issues.get({
+                issue_number: number,
+                owner: "eslint",
+                repo: "eslint",
+            }),
         ),
     )
     const issueStates = actualIssueRess.map(res => {
@@ -194,13 +199,13 @@ async function processPullRequest(octokit, prData, prs, issues) {
 
 ;(async () => {
     logger.info("Setup access token...")
-    const ACCESS_TOKEN =
-        process.env.ATOKEN ||
+    const GITHUB_TOKEN =
+        process.env.GITHUB_TOKEN ||
         (await fs.readFile(".access-token", "utf8")).trim()
 
     logger.info("Setup Octokit...")
     const octokit = new Octokit({
-        auth: `token ${ACCESS_TOKEN}`,
+        auth: `token ${GITHUB_TOKEN}`,
         previews: ["symmetra", "squirrel-girl"],
         userAgent: `octokit/rest.js v${version}`,
     })
