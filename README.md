@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-01 12:01 (UTC)
+- 2019-09-01 15:01 (UTC)
 
 **Legend:**
 
@@ -116,7 +116,7 @@ Total: 19
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12177](https://github.com/eslint/eslint/issues/12177) | Rule proposal: no-null (revisited) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 3 | 0 | 5 | 2019-09-18 |
+| [#12177](https://github.com/eslint/eslint/issues/12177) | Rule proposal: no-null (revisited) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 4 | 0 | 5 | 2019-09-18 |
 | [#12149](https://github.com/eslint/eslint/issues/12149) | no-dupe-args: Accept a argsIgnorePattern, like no-unused-vars |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-09-12 |
 | [#12130](https://github.com/eslint/eslint/issues/12130) | Autofix (--fix) violations of `argsIgnorePattern` |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 8 | 2019-09-10 |
 
