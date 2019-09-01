@@ -1,8 +1,5 @@
 name: Build
 on:
-  push:
-    branches:
-    - master
   schedule:
   - cron: 0 */3 * * *
 
@@ -32,5 +29,7 @@ jobs:
           git config user.name "Toru Nagashima"
           git add .
           git commit -m "📝 update README.md"
-          git push origin HEAD:master
+          git push https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git HEAD:master
         fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
