@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-06 00:02 (UTC)
+- 2019-09-06 03:01 (UTC)
 
 **Legend:**
 
@@ -72,7 +72,7 @@ Total: 7
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
 | [#12106](https://github.com/eslint/eslint/pull/12106) | Update: Add enforceForSwitchCase option to use-isnan |  |  |  | 0 | 0 | 0 | 2019-09-07 |
-| [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 3 | 2019-09-06 |
+| [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-06 |
 
 Total: 6
 
