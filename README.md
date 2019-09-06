@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-06 12:02 (UTC)
+- 2019-09-06 15:01 (UTC)
 
 **Legend:**
 
@@ -72,9 +72,8 @@ Total: 7
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
 | [#12106](https://github.com/eslint/eslint/pull/12106) | Update: Add enforceForSwitchCase option to use-isnan |  |  |  | 0 | 0 | 0 | 2019-09-07 |
-| [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-06 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -127,6 +126,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12070](https://github.com/eslint/eslint/issues/12070) | Compare computed keys by tokens in no-dupe-keys |  |  |  | 1 | 0 | 4 | ⌛ 2019-08-27 |
+| [#12105](https://github.com/eslint/eslint/pull/12105) | Update: Fix handling of property names in no-self-assign |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-06 |
 | [#12080](https://github.com/eslint/eslint/issues/12080) | Report '\08' and '\09' in no-octal-escape |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-30 |
 | [#12079](https://github.com/eslint/eslint/pull/12079) | Update: fix no-octal-escape false negatives after \0 |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-30 |
 | [#12074](https://github.com/eslint/eslint/issues/12074) | Change commentPattern option of no-fallthrough to be case insensitive |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-28 |
@@ -136,7 +136,7 @@ Total: 2
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
