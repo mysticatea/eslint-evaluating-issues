@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-07 00:02 (UTC)
+- 2019-09-07 03:01 (UTC)
 
 **Legend:**
 
@@ -59,20 +59,21 @@ Total: 3
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 7 | ⌛ 2019-06-19 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
+| [#12234](https://github.com/eslint/eslint/issues/12234) | no-obj-calls should report Atomics() |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-09-27 |
 | [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-08-26 |
 
-Total: 7
+Total: 8
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12129](https://github.com/eslint/eslint/issues/12129) | enhance "quotes" fixer to take "avoidEscape" into consideration |  |  |  | 2 | 0 | 5 | 2019-09-10 |
-| [#12234](https://github.com/eslint/eslint/issues/12234) | no-obj-calls should report Atomics() |  |  |  | 0 | 0 | 0 | 2019-09-27 |
+| [#12235](https://github.com/eslint/eslint/issues/12235) | array-callback-return should report .flatMap() |  |  |  | 0 | 0 | 0 | 2019-09-28 |
 | [#12168](https://github.com/eslint/eslint/issues/12168) | Rule proposal: no-redundant-array-map |  |  |  | 0 | 0 | 2 | 2019-09-16 |
 | [#12152](https://github.com/eslint/eslint/issues/12152) | Suggestion: setting for `no-restricted-imports` to allow renames |  |  |  | 0 | 0 | 4 | 2019-09-13 |
 | [#12141](https://github.com/eslint/eslint/issues/12141) | array-bracket-spacing for empty array (and object-curly-spacing, space-in-parens) |  |  |  | 0 | 0 | 0 | 2019-09-11 |
-| [#12106](https://github.com/eslint/eslint/pull/12106) | Update: Add enforceForSwitchCase option to use-isnan |  |  |  | 0 | 0 | 0 | 2019-09-07 |
+| [#12106](https://github.com/eslint/eslint/pull/12106) | Update: Add enforceForSwitchCase option to use-isnan |  |  |  | 0 | 0 | 0 | ⌛ 2019-09-07 |
 
 Total: 6
 
