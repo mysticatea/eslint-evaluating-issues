@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-10 06:01 (UTC)
+- 2019-09-10 09:01 (UTC)
 
 **Legend:**
 
@@ -107,12 +107,11 @@ Total: 3
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | 2019-09-12 |
 | [#12140](https://github.com/eslint/eslint/issues/12140) | Support the ?? operator for Code Path Analysis |  |  |  | 0 | 0 | 1 | 2019-09-11 |
 | [#12138](https://github.com/eslint/eslint/issues/12138) | Support regex for globals in config |  |  |  | 0 | 0 | 7 | 2019-09-11 |
-| [#12081](https://github.com/eslint/eslint/issues/12081) | Loading global plugins for CLI usage |  |  |  | 0 | 0 | 4 | ⌛ 2019-08-30 |
 | [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 | [#11733](https://github.com/eslint/eslint/pull/11733) | New: Add events in CLIEngine (fileVerify) |  |  |  | 0 | 0 | 3 | ⌛ 2019-06-06 |
 
-Total: 19
+Total: 18
 
 ## Looks opposed
 
