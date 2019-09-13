@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-13 06:01 (UTC)
+- 2019-09-13 09:01 (UTC)
 
 **Legend:**
 
@@ -19,9 +19,8 @@ This page is a summary of feature issues.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-04-05 |
 | [#12235](https://github.com/eslint/eslint/issues/12235) | array-callback-return should report .flatMap() | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 3 | 2019-09-28 |
-| [#12234](https://github.com/eslint/eslint/issues/12234) | no-obj-calls should report Atomics() | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-09-27 |
 
-Total: 3
+Total: 2
 
 ## Needs supporters
 
