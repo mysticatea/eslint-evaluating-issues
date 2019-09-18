@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-18 00:02 (UTC)
+- 2019-09-18 03:01 (UTC)
 
 **Legend:**
 
@@ -33,9 +33,9 @@ Total: 2
 | [#12163](https://github.com/eslint/eslint/issues/12163) | New option in no-unsafe-negation to report ! a < b  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-09-15 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 5 | ⌛ 2018-08-09 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-03-04 |
+| [#12277](https://github.com/eslint/eslint/issues/12277) | New rule proposal: compact-accessor | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-08 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 48 | 0 | 32 | ⌛ 2017-09-29 |
-| [#12277](https://github.com/eslint/eslint/issues/12277) | New rule proposal: compact-accessor | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 0 | 2019-10-08 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
@@ -61,14 +61,15 @@ Total: 3
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 7 | 0 | 7 | ⌛ 2019-06-19 |
 | [#12065](https://github.com/eslint/eslint/issues/12065) | Allow syntax-based ordering for memberSyntaxSortOrder in sort-imports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-26 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
+| [#12279](https://github.com/eslint/eslint/pull/12279) | Update: no-self-assign should detect member expression with this |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-08 |
+| [#12273](https://github.com/eslint/eslint/issues/12273) | [no-array-constructor] should report error when passing a non-number to Array constructor |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-08 |
 
-Total: 6
+Total: 8
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12279](https://github.com/eslint/eslint/pull/12279) | Update: no-self-assign should detect member expression with this |  |  |  | 0 | 0 | 1 | 2019-10-08 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  |  |  | 0 | 0 | 0 | 2019-09-30 |
 | [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  |  | 0 | 0 | 0 | 2019-09-29 |
@@ -76,7 +77,7 @@ Total: 6
 | [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | 2019-09-26 |
 | [#12213](https://github.com/eslint/eslint/issues/12213) | max-len: comments: ignores JSX |  |  |  | 0 | 0 | 4 | 2019-09-25 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
