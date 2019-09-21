@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-21 18:02 (UTC)
+- 2019-09-21 21:02 (UTC)
 
 **Legend:**
 
@@ -71,6 +71,8 @@ Total: 8
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12297](https://github.com/eslint/eslint/pull/12297) | New: Add no-floating-promise rule |  |  |  | 0 | 0 | 1 | 2019-10-12 |
+| [#12296](https://github.com/eslint/eslint/pull/12296) | update globals to v12.1.0 |  |  |  | 0 | 0 | 2 | 2019-10-12 |
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 0 | 0 | 2 | 2019-10-09 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  |  | 0 | 0 | 3 | 2019-10-05 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
@@ -80,7 +82,7 @@ Total: 8
 | [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | 2019-09-26 |
 | [#12213](https://github.com/eslint/eslint/issues/12213) | max-len: comments: ignores JSX |  |  |  | 0 | 0 | 4 | 2019-09-25 |
 
-Total: 8
+Total: 10
 
 ## Needs consensus
 
