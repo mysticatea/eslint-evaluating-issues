@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-23 15:02 (UTC)
+- 2019-09-23 18:02 (UTC)
 
 **Legend:**
 
@@ -73,7 +73,7 @@ Total: 7
 | [#12275](https://github.com/eslint/eslint/issues/12275) | Add option for groups to `sort-keys` |  |  |  | 3 | 0 | 2 | 2019-10-08 |
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 2 | 2019-10-09 |
 | [#12301](https://github.com/eslint/eslint/issues/12301) | no-useless-rename should also report pattern properties with default values |  |  |  | 0 | 0 | 1 | 2019-10-13 |
-| [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 4 | 2019-10-09 |
+| [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 5 | 2019-10-09 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  |  | 0 | 0 | 3 | 2019-10-05 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  |  |  | 0 | 0 | 0 | 2019-09-30 |
@@ -107,13 +107,14 @@ Total: 3
 | [#10981](https://github.com/eslint/eslint/issues/10981) | Allow use node version >8 | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 0 | 0 | 30 | ⌛ 2018-11-05 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2018-02-11 |
 | [#12133](https://github.com/eslint/eslint/issues/12133) | Add `context.isFile` for rules |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-09-10 |
+| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 12 | ⌛ 2019-08-05 |
 | [#12206](https://github.com/eslint/eslint/issues/12206) | Add CLI Option to Ignore Passed File Paths in case they are Ignored by eslintignore  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-09-24 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-11 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 | [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
