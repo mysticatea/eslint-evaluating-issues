@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-26 18:02 (UTC)
+- 2019-09-26 21:02 (UTC)
 
 **Legend:**
 
@@ -31,10 +31,10 @@ Total: 2
 | [#12163](https://github.com/eslint/eslint/issues/12163) | New option in no-unsafe-negation to report ! a < b  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-09-15 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 3 | 0 | 5 | ⌛ 2018-08-09 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-03-04 |
+| [#12315](https://github.com/eslint/eslint/issues/12315) | Improve report location of no-trailing-spaces by specifying end location | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-17 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 48 | 0 | 32 | ⌛ 2017-09-29 |
-| [#12315](https://github.com/eslint/eslint/issues/12315) | Improve report location of no-trailing-spaces by specifying end location | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-10-17 |
-| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2018-12-18 |
+| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
 Total: 10
@@ -69,6 +69,7 @@ Total: 8
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12275](https://github.com/eslint/eslint/issues/12275) | Add option for groups to `sort-keys` |  |  |  | 3 | 0 | 2 | 2019-10-08 |
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 2 | 2019-10-09 |
+| [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` |  |  |  | 0 | 0 | 4 | 2019-10-17 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 2 | 2019-10-16 |
 | [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex |  |  |  | 0 | 0 | 2 | 2019-10-15 |
 | [#12301](https://github.com/eslint/eslint/issues/12301) | no-useless-rename should also report pattern properties with default values |  |  |  | 0 | 0 | 1 | 2019-10-13 |
@@ -77,9 +78,9 @@ Total: 8
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  |  |  | 0 | 0 | 0 | 2019-09-30 |
 | [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | 2019-09-28 |
-| [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | 2019-09-26 |
+| [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | ⌛ 2019-09-26 |
 
-Total: 11
+Total: 12
 
 ## Needs consensus
 
@@ -118,7 +119,7 @@ Total: 16
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 1 | 1 | 5 | 2019-09-29 |
+| [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 1 | 1 | 6 | 2019-09-29 |
 
 Total: 1
 
