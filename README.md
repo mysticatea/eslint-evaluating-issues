@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-26 15:02 (UTC)
+- 2019-09-26 18:02 (UTC)
 
 **Legend:**
 
@@ -118,7 +118,7 @@ Total: 16
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 1 | 1 | 3 | 2019-09-29 |
+| [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 1 | 1 | 5 | 2019-09-29 |
 
 Total: 1
 
