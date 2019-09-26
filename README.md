@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-26 12:02 (UTC)
+- 2019-09-26 15:02 (UTC)
 
 **Legend:**
 
@@ -33,10 +33,11 @@ Total: 2
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-03-04 |
 | [#11371](https://github.com/eslint/eslint/issues/11371) | Proposal: option for consistent-return to not treat return in generator functions as error | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@not-an-aardvark" src="https://github.com/not-an-aardvark.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-03 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 48 | 0 | 32 | ⌛ 2017-09-29 |
-| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-12-18 |
+| [#12315](https://github.com/eslint/eslint/issues/12315) | Improve report location of no-trailing-spaces by specifying end location | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 1 | 2019-10-17 |
+| [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2018-11-03 |
 
-Total: 9
+Total: 10
 
 ## Needs a champion
 
@@ -44,9 +45,8 @@ Total: 9
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-09-03 |
 | [#11796](https://github.com/eslint/eslint/pull/11796) | Update: Separate pattern/expression options for array-element-newline |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-23 |
-| [#11275](https://github.com/eslint/eslint/pull/11275) | Update: Allow regex in no-param-reassign ignore option array |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-02-06 |
 
-Total: 3
+Total: 2
 
 ## Needs a champion and supporters
 
