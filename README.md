@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-27 03:02 (UTC)
+- 2019-09-27 06:02 (UTC)
 
 **Legend:**
 
@@ -69,9 +69,9 @@ Total: 7
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12275](https://github.com/eslint/eslint/issues/12275) | Add option for groups to `sort-keys` |  |  |  | 3 | 0 | 2 | 2019-10-08 |
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 2 | 2019-10-09 |
-| [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 0 | 0 | 4 | 2019-10-17 |
+| [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 0 | 0 | 6 | 2019-10-17 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 3 | 2019-10-16 |
-| [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex |  |  |  | 0 | 0 | 2 | 2019-10-15 |
+| [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex |  |  |  | 0 | 0 | 3 | 2019-10-15 |
 | [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 6 | 2019-10-09 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  |  | 0 | 0 | 3 | 2019-10-05 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
