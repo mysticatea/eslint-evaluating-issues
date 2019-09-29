@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-29 09:02 (UTC)
+- 2019-09-29 12:02 (UTC)
 
 **Legend:**
 
@@ -80,9 +80,8 @@ Total: 8
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  |  | 0 | 0 | 3 | 2019-10-05 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  |  |  | 0 | 0 | 0 | 2019-09-30 |
-| [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
 
-Total: 10
+Total: 9
 
 ## Needs consensus
 
@@ -130,6 +129,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
 | [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | ⌛ 2019-09-26 |
 | [#12213](https://github.com/eslint/eslint/issues/12213) | max-len: comments: ignores JSX |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-25 |
 | [#12195](https://github.com/eslint/eslint/pull/12195) | Update: fix func-names for unnamed export default (fixes [#12194](https://github.com/eslint/eslint/issues/12194)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-21 |
@@ -140,7 +140,7 @@ Total: 1
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
