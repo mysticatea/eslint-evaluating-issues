@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-09-30 03:02 (UTC)
+- 2019-09-30 06:02 (UTC)
 
 **Legend:**
 
@@ -62,7 +62,7 @@ Total: 5
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
 | [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-20 |
 | [#12296](https://github.com/eslint/eslint/pull/12296) | update globals to v12.1.0 |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-10-12 |
-| [#12273](https://github.com/eslint/eslint/issues/12273) | [no-array-constructor] should report error when passing a non-number to Array constructor |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-10-08 |
+| [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-09-30 |
 
 Total: 9
@@ -76,11 +76,9 @@ Total: 9
 | [#12326](https://github.com/eslint/eslint/issues/12326) | `prefer-named-capture-group` should be disabled when using `.test()` or `.replace()` |  |  |  | 0 | 0 | 7 | 2019-10-18 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 3 | 2019-10-16 |
 | [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 6 | 2019-10-09 |
-| [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  |  | 0 | 0 | 3 | 2019-10-05 |
-| [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  |  |  | 0 | 0 | 0 | 2019-10-02 |
 | [#12250](https://github.com/eslint/eslint/issues/12250) | Add new brace-style option supporting long multi-line declarations |  |  |  | 0 | 0 | 1 | 2019-09-30 |
 
-Total: 8
+Total: 6
 
 ## Needs consensus
 
@@ -89,8 +87,9 @@ Total: 8
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 6 | 44 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 10 | ⌛ 2018-05-02 |
 | [#9826](https://github.com/eslint/eslint/pull/9826) | Update: Brace style for `import` statements |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 2 | 0 | 19 | ⌛ 2018-01-29 |
+| [#12273](https://github.com/eslint/eslint/issues/12273) | [no-array-constructor] should report error when passing a non-number to Array constructor |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2019-10-08 |
 
-Total: 3
+Total: 4
 
 ## Needs approval in a TSC meeting
 
@@ -121,8 +120,9 @@ Total: 17
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 1 | 1 | 7 | ⌛ 2019-09-29 |
+| [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2019-10-05 |
 
-Total: 1
+Total: 2
 
 ## Looks inactive
 
