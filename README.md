@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-08 09:03 (UTC)
+- 2019-10-08 12:03 (UTC)
 
 **Legend:**
 
@@ -116,10 +116,9 @@ Total: 4
 | [#12363](https://github.com/eslint/eslint/issues/12363) | eslint --changedSince |  |  |  | 0 | 0 | 1 | 2019-10-24 |
 | [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | 2019-10-14 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
-| [#12021](https://github.com/eslint/eslint/pull/12021) | Chore: pass cwd from cli engine |  |  |  | 0 | 0 | 1 | ⌛ 2019-08-15 |
 | [#11987](https://github.com/eslint/eslint/pull/11987) | New: Enable snapshot test for rule tester |  |  |  | 0 | 0 | 0 | ⌛ 2019-08-04 |
 
-Total: 17
+Total: 16
 
 ## Looks opposed
 
