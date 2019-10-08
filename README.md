@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-08 03:02 (UTC)
+- 2019-10-08 06:02 (UTC)
 
 **Legend:**
 
@@ -77,7 +77,7 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 4 | 2019-10-09 |
-| [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 1 | 2019-10-28 |
+| [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | 2019-10-28 |
 | [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  |  |  | 0 | 0 | 0 | 2019-10-26 |
 | [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | 2019-10-25 |
 | [#12326](https://github.com/eslint/eslint/issues/12326) | `prefer-named-capture-group` should be disabled when using `.test()` or `.replace()` |  |  |  | 0 | 0 | 7 | 2019-10-18 |
