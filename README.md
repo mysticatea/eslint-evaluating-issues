@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-08 12:03 (UTC)
+- 2019-10-08 15:02 (UTC)
 
 **Legend:**
 
@@ -56,7 +56,7 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12275](https://github.com/eslint/eslint/issues/12275) | Add option for groups to `sort-keys` |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 3 | 0 | 4 | 2019-10-08 |
+| [#12275](https://github.com/eslint/eslint/issues/12275) | Add option for groups to `sort-keys` |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 3 | 0 | 4 | ⌛ 2019-10-08 |
 | [#12364](https://github.com/eslint/eslint/pull/12364) | Update: improve report location for no-space-in-parens |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-24 |
 | [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-20 |
 | [#12324](https://github.com/eslint/eslint/pull/12324) | Update: improve report location for space-infix-ops |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-18 |
@@ -140,13 +140,12 @@ Total: 3
 | [#12213](https://github.com/eslint/eslint/issues/12213) | max-len: comments: ignores JSX |  |  |  | 0 | 0 | 5 | ⌛ 2019-09-25 |
 | [#12195](https://github.com/eslint/eslint/pull/12195) | Update: fix func-names for unnamed export default (fixes [#12194](https://github.com/eslint/eslint/issues/12194)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-21 |
 | [#12168](https://github.com/eslint/eslint/issues/12168) | Rule proposal: no-redundant-array-map |  |  |  | 0 | 0 | 3 | ⌛ 2019-09-16 |
-| [#12152](https://github.com/eslint/eslint/issues/12152) | `no-restricted-imports`: setting to to allow renames |  |  |  | 0 | 0 | 5 | ⌛ 2019-09-13 |
 | [#11965](https://github.com/eslint/eslint/pull/11965) | Chore: export checkBinary in space-infix-ops |  |  |  | 0 | 0 | 0 | ⌛ 2019-07-29 |
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 11
+Total: 10
 
 ## Pull requests for closed issue
 
