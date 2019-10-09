@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-09 18:03 (UTC)
+- 2019-10-09 21:03 (UTC)
 
 **Legend:**
 
@@ -113,11 +113,12 @@ Total: 4
 | [#12206](https://github.com/eslint/eslint/issues/12206) | Add CLI Option to Ignore Passed File Paths in case they are Ignored by eslintignore  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-09-24 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-11 |
 | [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 7 | 2019-10-17 |
+| [#12395](https://github.com/eslint/eslint/pull/12395) | Update: measure plugin loading time and output in debug message |  |  |  | 0 | 0 | 3 | 2019-10-30 |
 | [#12363](https://github.com/eslint/eslint/issues/12363) | eslint --changedSince |  |  |  | 0 | 0 | 1 | 2019-10-24 |
 | [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | 2019-10-14 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 15
+Total: 16
 
 ## Looks opposed
 
