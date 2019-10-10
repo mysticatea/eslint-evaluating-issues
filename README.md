@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-10 03:03 (UTC)
+- 2019-10-10 06:03 (UTC)
 
 **Legend:**
 
@@ -82,9 +82,8 @@ Total: 13
 | [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | 2019-10-25 |
 | [#12326](https://github.com/eslint/eslint/issues/12326) | `prefer-named-capture-group` should be disabled when using `.test()` or `.replace()` |  |  |  | 0 | 0 | 7 | 2019-10-18 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 3 | 2019-10-16 |
-| [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 6 | ⌛ 2019-10-09 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -135,6 +134,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 4 | ⌛ 2019-10-09 |
+| [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 6 | ⌛ 2019-10-09 |
 | [#12250](https://github.com/eslint/eslint/issues/12250) | Add new brace-style option supporting long multi-line declarations |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-30 |
 | [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
 | [#12228](https://github.com/eslint/eslint/issues/12228) | Add semi option to strengthen beforeStatementContinuationChars |  |  |  | 0 | 0 | 25 | ⌛ 2019-09-26 |
@@ -145,7 +145,7 @@ Total: 3
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 10
+Total: 11
 
 ## Pull requests for closed issue
 
