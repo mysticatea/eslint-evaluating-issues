@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-14 15:03 (UTC)
+- 2019-10-14 18:03 (UTC)
 
 **Legend:**
 
@@ -88,9 +88,9 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12428](https://github.com/eslint/eslint/issues/12428) | [no-extra-parens] Allow an exception for (new X()).y | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 2 | 0 | 2 | 2019-11-04 |
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 6 | 44 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 10 | ⌛ 2018-05-02 |
-| [#12428](https://github.com/eslint/eslint/issues/12428) | [no-extra-parens] Allow an exception for (new X()).y |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 2 | 0 | 1 | 2019-11-04 |
 | [#9826](https://github.com/eslint/eslint/pull/9826) | Update: Brace style for `import` statements |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 2 | 0 | 19 | ⌛ 2018-01-29 |
 | [#12273](https://github.com/eslint/eslint/issues/12273) | [no-array-constructor] should report error when passing a non-number to Array constructor |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-10-08 |
 
@@ -113,7 +113,7 @@ Total: 5
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 8 | 2019-10-17 |
 | [#12363](https://github.com/eslint/eslint/issues/12363) | eslint --changedSince |  |  |  | 0 | 0 | 1 | 2019-10-24 |
-| [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | 2019-10-14 |
+| [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-14 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
 Total: 15
