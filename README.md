@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-14 18:03 (UTC)
+- 2019-10-14 21:02 (UTC)
 
 **Legend:**
 
@@ -88,13 +88,12 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12428](https://github.com/eslint/eslint/issues/12428) | [no-extra-parens] Allow an exception for (new X()).y | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 2 | 0 | 2 | 2019-11-04 |
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 6 | 44 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@michaelficarra" src="https://github.com/michaelficarra.png" width="32px" height="32px"> | 0 | 1 | 10 | ⌛ 2018-05-02 |
 | [#9826](https://github.com/eslint/eslint/pull/9826) | Update: Brace style for `import` statements |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 2 | 0 | 19 | ⌛ 2018-01-29 |
 | [#12273](https://github.com/eslint/eslint/issues/12273) | [no-array-constructor] should report error when passing a non-number to Array constructor |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-10-08 |
 
-Total: 5
+Total: 4
 
 ## Needs approval in a TSC meeting
 
