@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-15 21:02 (UTC)
+- 2019-10-16 00:05 (UTC)
 
 **Legend:**
 
@@ -75,6 +75,11 @@ Total: 11
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
+| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 1 | 2019-11-04 |
+| [#12427](https://github.com/eslint/eslint/issues/12427) | Indent for binary operators |  |  |  | 0 | 0 | 1 | 2019-11-04 |
+| [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | 2019-11-03 |
+| [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | 2019-11-03 |
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 0 | 0 | 5 | 2019-10-29 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | 2019-10-28 |
 | [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  |  |  | 0 | 0 | 0 | 2019-10-26 |
@@ -82,7 +87,7 @@ Total: 11
 | [#12326](https://github.com/eslint/eslint/issues/12326) | `prefer-named-capture-group` should be disabled when using `.test()` or `.replace()` |  |  |  | 0 | 0 | 7 | 2019-10-18 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 3 | 2019-10-16 |
 
-Total: 6
+Total: 11
 
 ## Needs consensus
 
@@ -122,10 +127,11 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 2 | 1 | 7 | ⌛ 2019-09-29 |
+| [#12424](https://github.com/eslint/eslint/issues/12424) | [space-in-parens] add some options for handling common exception cases |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | 2019-11-03 |
 | [#12355](https://github.com/eslint/eslint/issues/12355) | propose 'no-reassign-property' |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-10-22 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 11 | ⌛ 2019-10-05 |
 
-Total: 3
+Total: 4
 
 ## Looks inactive
 
