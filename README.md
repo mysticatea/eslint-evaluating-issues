@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-17 15:03 (UTC)
+- 2019-10-17 18:03 (UTC)
 
 **Legend:**
 
@@ -27,6 +27,7 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 9 | 0 | 3 | ⌛ 2019-07-06 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-03-04 |
+| [#12329](https://github.com/eslint/eslint/pull/12329) | Update: improve report location for no-multi-spaces | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-19 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | 0 | 4 | 2019-10-18 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 6 | ⌛ 2018-08-09 |
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-10-24 |
@@ -38,7 +39,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2018-11-03 |
 
-Total: 12
+Total: 13
 
 ## Needs a champion
 
@@ -46,12 +47,11 @@ Total: 12
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 7 | 0 | 10 | ⌛ 2019-06-19 |
 | [#12364](https://github.com/eslint/eslint/pull/12364) | Update: improve report location for no-space-in-parens |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-24 |
-| [#12329](https://github.com/eslint/eslint/pull/12329) | Update: improve report location for no-multi-spaces |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-19 |
 | [#12328](https://github.com/eslint/eslint/pull/12328) | Update: improve report location for no-mixed-operators |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-18 |
 | [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-09-03 |
 | [#11796](https://github.com/eslint/eslint/pull/11796) | Update: Separate pattern/expression options for array-element-newline |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-23 |
 
-Total: 6
+Total: 5
 
 ## Needs a champion and supporters
 
@@ -139,7 +139,6 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12280](https://github.com/eslint/eslint/pull/12280) | Fix: false positives on newlines in object/array arguments |  |  |  | 1 | 0 | 4 | ⌛ 2019-10-09 |
 | [#12311](https://github.com/eslint/eslint/issues/12311) | Wrong line number on `no-unused-vars` error |  |  |  | 0 | 0 | 3 | ⌛ 2019-10-16 |
 | [#12284](https://github.com/eslint/eslint/issues/12284) | brace-style 1tbs with allowSingleLine should not allow else on separate line |  |  |  | 0 | 0 | 6 | ⌛ 2019-10-09 |
 | [#12250](https://github.com/eslint/eslint/issues/12250) | Add new brace-style option supporting long multi-line declarations |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-30 |
@@ -151,7 +150,7 @@ Total: 4
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 | [#10477](https://github.com/eslint/eslint/pull/10477) | Update: add propertiesPattern for id-match rule |  |  |  | 0 | 0 | 10 | ⌛ 2018-07-05 |
 
-Total: 11
+Total: 10
 
 ## Pull requests for closed issue
 
