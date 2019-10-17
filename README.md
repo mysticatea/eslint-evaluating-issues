@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-17 18:03 (UTC)
+- 2019-10-17 21:03 (UTC)
 
 **Legend:**
 
@@ -27,7 +27,6 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 9 | 0 | 3 | ⌛ 2019-07-06 |
 | [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-03-04 |
-| [#12329](https://github.com/eslint/eslint/pull/12329) | Update: improve report location for no-multi-spaces | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-10-19 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | 0 | 4 | 2019-10-18 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 6 | ⌛ 2018-08-09 |
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-10-24 |
@@ -39,7 +38,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 12
 
 ## Needs a champion
 
@@ -116,7 +115,7 @@ Total: 4
 | [#12446](https://github.com/eslint/eslint/pull/12446) | Update: add react plugin config for eslint init |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-11-06 |
 | [#12395](https://github.com/eslint/eslint/pull/12395) | Update: measure plugin loading time and output in debug message |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-30 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
-| [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 9 | 2019-10-17 |
+| [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 9 | ⌛ 2019-10-17 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 1 | 2019-11-06 |
 | [#12363](https://github.com/eslint/eslint/issues/12363) | eslint --changedSince |  |  |  | 0 | 0 | 1 | 2019-10-24 |
 | [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-14 |
