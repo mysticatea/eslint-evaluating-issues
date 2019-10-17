@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-17 00:05 (UTC)
+- 2019-10-17 03:02 (UTC)
 
 **Legend:**
 
@@ -77,7 +77,6 @@ Total: 11
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
-| [#12427](https://github.com/eslint/eslint/issues/12427) | Indent for binary operators |  |  |  | 0 | 0 | 2 | 2019-11-04 |
 | [#12422](https://github.com/eslint/eslint/issues/12422) | [object-curly-spacing] add exception for imports and destructuring |  |  |  | 0 | 0 | 1 | 2019-11-03 |
 | [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | 2019-11-03 |
 | [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | 2019-11-03 |
@@ -88,7 +87,7 @@ Total: 11
 | [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | 2019-10-25 |
 | [#12326](https://github.com/eslint/eslint/issues/12326) | `prefer-named-capture-group` should be disabled when using `.test()` or `.replace()` |  |  |  | 0 | 0 | 7 | 2019-10-18 |
 
-Total: 12
+Total: 11
 
 ## Needs consensus
 
