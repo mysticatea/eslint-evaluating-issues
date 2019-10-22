@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-22 15:03 (UTC)
+- 2019-10-22 18:03 (UTC)
 
 **Legend:**
 
@@ -131,7 +131,7 @@ Total: 18
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12246](https://github.com/eslint/eslint/issues/12246) | Remove `no-return-await` rule |  |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | 2 | 1 | 7 | ⌛ 2019-09-29 |
 | [#12424](https://github.com/eslint/eslint/issues/12424) | [space-in-parens] add some options for handling common exception cases |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | 2019-11-03 |
-| [#12355](https://github.com/eslint/eslint/issues/12355) | propose 'no-reassign-property' |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2019-10-22 |
+| [#12355](https://github.com/eslint/eslint/issues/12355) | propose 'no-reassign-property' |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | ⌛ 2019-10-22 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | ⌛ 2019-10-05 |
 
 Total: 4
