@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-21 21:03 (UTC)
+- 2019-10-22 00:06 (UTC)
 
 **Legend:**
 
@@ -32,7 +32,7 @@ Total: 1
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 6 | ⌛ 2018-08-09 |
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-10-24 |
 | [#12469](https://github.com/eslint/eslint/issues/12469) | New rule proposal: no-dupe-else-if | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-11-10 |
-| [#12465](https://github.com/eslint/eslint/pull/12465) | Update: Report assignment expression location in no-cond-assign | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-11-09 |
+| [#12465](https://github.com/eslint/eslint/pull/12465) | Update: Report assignment expression location in no-cond-assign | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-11-09 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-10-26 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-10-25 |
 | [#12315](https://github.com/eslint/eslint/issues/12315) | Improve report location of no-trailing-spaces by specifying end location | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-10-17 |
