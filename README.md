@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-26 12:05 (UTC)
+- 2019-10-26 15:03 (UTC)
 
 **Legend:**
 
@@ -79,7 +79,6 @@ Total: 10
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 4 | 2019-11-10 |
-| [#12461](https://github.com/eslint/eslint/issues/12461) | New rule proposal: new-line-after-foreign-import |  |  |  | 0 | 0 | 2 | 2019-11-09 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 0 | 0 | 5 | 2019-11-05 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
@@ -90,7 +89,7 @@ Total: 10
 | [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | 2019-10-30 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | 2019-10-28 |
 
-Total: 15
+Total: 14
 
 ## Needs consensus
 
