@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-26 06:03 (UTC)
+- 2019-10-26 09:03 (UTC)
 
 **Legend:**
 
@@ -63,7 +63,7 @@ Total: 4
 | [#12255](https://github.com/eslint/eslint/issues/12255) | indent doesn't apply to expressions split across multiple lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | 0 | 1 | ⌛ 2019-10-02 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 4 | ⌛ 2019-09-30 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
-| [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-10-26 |
+| [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-10-26 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-22 |
 | [#12296](https://github.com/eslint/eslint/pull/12296) | update globals to v12.1.0 |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-10-12 |
 | [#12261](https://github.com/eslint/eslint/issues/12261) | `no-restricted-imports`: defer errors when using namespace imports |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-10-02 |
@@ -79,7 +79,7 @@ Total: 10
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 4 | 2019-11-10 |
-| [#12461](https://github.com/eslint/eslint/issues/12461) | New rule proposal: new-line-after-foreign-import |  |  |  | 0 | 0 | 1 | 2019-11-09 |
+| [#12461](https://github.com/eslint/eslint/issues/12461) | New rule proposal: new-line-after-foreign-import |  |  |  | 0 | 0 | 2 | 2019-11-09 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 0 | 0 | 5 | 2019-11-05 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
