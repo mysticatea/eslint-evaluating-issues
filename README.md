@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-27 00:07 (UTC)
+- 2019-10-27 03:03 (UTC)
 
 **Legend:**
 
@@ -75,6 +75,7 @@ Total: 10
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | 2019-10-29 |
+| [#12495](https://github.com/eslint/eslint/pull/12495) | Update: Check member expressions with `this` in operator-assignment |  |  |  | 0 | 0 | 0 | 2019-11-17 |
 | [#12491](https://github.com/eslint/eslint/pull/12491) | Fix: sourceCode#isSpaceBetweenTokens() checks non-adjacent tokens |  |  |  | 0 | 0 | 1 | 2019-11-14 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
@@ -89,7 +90,7 @@ Total: 10
 | [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | 2019-10-30 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | 2019-10-28 |
 
-Total: 14
+Total: 15
 
 ## Needs consensus
 
