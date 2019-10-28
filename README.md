@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-28 18:12 (UTC)
+- 2019-10-28 21:03 (UTC)
 
 **Legend:**
 
@@ -162,7 +162,7 @@ Total: 11
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11489](https://github.com/eslint/eslint/pull/11489) | New: allowAfterConstructor for no-underscore-dangle (fixes [#11488](https://github.com/eslint/eslint/issues/11488)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-03-28 |
-| [#11817](https://github.com/eslint/eslint/pull/11817) | Update: in quote-props rule allow consistent-as-needed with numbers option (fixes [#8093](https://github.com/eslint/eslint/issues/8093)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 4 | ⌛ 2019-06-28 |
+| [#11817](https://github.com/eslint/eslint/pull/11817) | Update: in quote-props rule allow consistent-as-needed with numbers option (fixes [#8093](https://github.com/eslint/eslint/issues/8093)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2019-06-28 |
 | [#11811](https://github.com/eslint/eslint/pull/11811) | Breaking: Let `no-new-object` pass with arguments (fixes [#11810](https://github.com/eslint/eslint/issues/11810)) |  |  |  | 1 | 0 | 0 | ⌛ 2019-06-27 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | 0 | 3 | ⌛ 2019-09-05 |
 | [#11966](https://github.com/eslint/eslint/pull/11966) | New: Fix for "no-useless-constructor" (fixes [#11693](https://github.com/eslint/eslint/issues/11693)) |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
