@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-28 03:03 (UTC)
+- 2019-10-28 06:03 (UTC)
 
 **Legend:**
 
@@ -78,7 +78,7 @@ Total: 10
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | 2019-10-29 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
-| [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 4 | 2019-11-10 |
+| [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 5 | 2019-11-10 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 0 | 0 | 5 | 2019-11-05 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
