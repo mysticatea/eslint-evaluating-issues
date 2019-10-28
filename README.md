@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-28 09:03 (UTC)
+- 2019-10-28 12:04 (UTC)
 
 **Legend:**
 
@@ -87,7 +87,7 @@ Total: 10
 | [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | 2019-11-03 |
 | [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | 2019-11-03 |
 | [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | 2019-10-30 |
-| [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | 2019-10-28 |
+| [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-28 |
 
 Total: 13
 
