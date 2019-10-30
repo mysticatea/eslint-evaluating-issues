@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-30 15:02 (UTC)
+- 2019-10-30 18:04 (UTC)
 
 **Legend:**
 
@@ -84,9 +84,8 @@ Total: 10
 | [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | 2019-11-03 |
 | [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | 2019-11-03 |
 | [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | 2019-11-03 |
-| [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | ⌛ 2019-10-30 |
 
-Total: 11
+Total: 10
 
 ## Needs consensus
 
@@ -140,6 +139,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | ⌛ 2019-10-29 |
+| [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | ⌛ 2019-10-30 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-28 |
 | [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-25 |
 | [#12250](https://github.com/eslint/eslint/issues/12250) | Add new brace-style option supporting long multi-line declarations |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-30 |
@@ -150,7 +150,7 @@ Total: 3
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 10
+Total: 11
 
 ## Pull requests for closed issue
 
