@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-10-30 00:07 (UTC)
+- 2019-10-30 03:03 (UTC)
 
 **Legend:**
 
@@ -74,7 +74,6 @@ Total: 10
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | ⌛ 2019-10-29 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 5 | 2019-11-10 |
@@ -87,7 +86,7 @@ Total: 10
 | [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | 2019-11-03 |
 | [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | 2019-10-30 |
 
-Total: 12
+Total: 11
 
 ## Needs consensus
 
@@ -140,6 +139,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | ⌛ 2019-10-29 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-28 |
 | [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-25 |
 | [#12250](https://github.com/eslint/eslint/issues/12250) | Add new brace-style option supporting long multi-line declarations |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-30 |
@@ -150,7 +150,7 @@ Total: 3
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
