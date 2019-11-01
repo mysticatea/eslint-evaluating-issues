@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-01 03:02 (UTC)
+- 2019-11-01 06:02 (UTC)
 
 **Legend:**
 
@@ -113,7 +113,7 @@ Total: 2
 | [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | 2019-11-08 |
 | [#12453](https://github.com/eslint/eslint/issues/12453) | extend eslint:all to include plugins |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 7 | 2019-11-07 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | 2019-11-06 |
-| [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | 2019-11-01 |
+| [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-01 |
 | [#12363](https://github.com/eslint/eslint/issues/12363) | eslint --changedSince |  |  |  | 0 | 0 | 1 | ⌛ 2019-10-24 |
 | [#12304](https://github.com/eslint/eslint/issues/12304) | Add reportDisableDirectives config/CLI option |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-14 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
