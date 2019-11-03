@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-03 18:03 (UTC)
+- 2019-11-03 21:03 (UTC)
 
 **Legend:**
 
@@ -77,10 +77,10 @@ Total: 5
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 8 | 2019-11-10 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
-| [#12422](https://github.com/eslint/eslint/issues/12422) | [object-curly-spacing] add exception for imports and destructuring |  |  |  | 0 | 0 | 1 | 2019-11-03 |
-| [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | 2019-11-03 |
-| [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | 2019-11-03 |
-| [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | 2019-11-03 |
+| [#12422](https://github.com/eslint/eslint/issues/12422) | [object-curly-spacing] add exception for imports and destructuring |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
+| [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
+| [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-03 |
+| [#12417](https://github.com/eslint/eslint/issues/12417) | [arrow-body-style] add exception for class arrow methods |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-03 |
 
 Total: 10
 
@@ -124,7 +124,7 @@ Total: 20
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12424](https://github.com/eslint/eslint/issues/12424) | [space-in-parens] add some options for handling common exception cases |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | 2019-11-03 |
+| [#12424](https://github.com/eslint/eslint/issues/12424) | [space-in-parens] add some options for handling common exception cases |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | ⌛ 2019-11-03 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | ⌛ 2019-10-05 |
 
 Total: 2
