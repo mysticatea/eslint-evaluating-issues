@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-04 15:02 (UTC)
+- 2019-11-04 18:02 (UTC)
 
 **Legend:**
 
@@ -33,14 +33,15 @@ Total: 1
 | [#12465](https://github.com/eslint/eslint/pull/12465) | Update: Report assignment expression location in no-cond-assign | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-11-09 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-10-26 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-25 |
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 49 | 0 | 41 | ⌛ 2017-09-29 |
+| [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-10-20 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 49 | 0 | 42 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 5 | ⌛ 2019-09-30 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | 2019-11-05 |
 | [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2019-10-15 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 14
+Total: 15
 
 ## Needs a champion
 
@@ -72,7 +73,7 @@ Total: 3
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 8 | 2019-11-10 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
-| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | 2019-11-04 |
+| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-04 |
 
 Total: 6
 
