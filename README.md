@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-04 21:02 (UTC)
+- 2019-11-05 00:06 (UTC)
 
 **Legend:**
 
@@ -32,11 +32,11 @@ Total: 1
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-10-24 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-10-26 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-25 |
+| [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-10-20 |
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 49 | 0 | 43 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 49 | 0 | 45 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 5 | ⌛ 2019-09-30 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | 2019-11-05 |
-| [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2019-10-15 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
@@ -71,8 +71,8 @@ Total: 3
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 5 | 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
-| [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 11 | 2019-11-10 |
-| [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | 2019-11-04 |
+| [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 12 | 2019-11-10 |
+| [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | ⌛ 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-04 |
 
 Total: 6
@@ -133,13 +133,12 @@ Total: 2
 | [#12406](https://github.com/eslint/eslint/pull/12406) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | ⌛ 2019-11-01 |
 | [#12393](https://github.com/eslint/eslint/issues/12393) | The "sort-imports" rule does not handle module-specifier-only imports. |  |  |  | 0 | 0 | 9 | ⌛ 2019-10-30 |
 | [#12385](https://github.com/eslint/eslint/issues/12385) | no-process-env rule bypassed with require("process") |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-28 |
-| [#12373](https://github.com/eslint/eslint/issues/12373) | max-statements ignoreTopLevelFunctions doesn't work with UMD factories |  |  |  | 0 | 0 | 2 | ⌛ 2019-10-25 |
 | [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
 | [#12195](https://github.com/eslint/eslint/pull/12195) | Update: fix func-names for unnamed export default (fixes [#12194](https://github.com/eslint/eslint/issues/12194)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-09-21 |
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 13
+Total: 12
 
 ## Pull requests for closed issue
 
