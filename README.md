@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-05 09:02 (UTC)
+- 2019-11-05 12:03 (UTC)
 
 **Legend:**
 
@@ -47,12 +47,11 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12481](https://github.com/eslint/eslint/issues/12481) | Rule proposal: no-constructor-return |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-11-13 |
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 7 | 0 | 10 | ⌛ 2019-06-19 |
 | [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-09-03 |
 | [#11796](https://github.com/eslint/eslint/pull/11796) | Update: Separate pattern/expression options for array-element-newline |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-06-23 |
 
-Total: 4
+Total: 3
 
 ## Needs a champion and supporters
 
@@ -73,9 +72,8 @@ Total: 3
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 13 | 2019-11-10 |
-| [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | ⌛ 2019-11-04 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -126,6 +124,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | ⌛ 2019-10-29 |
+| [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | ⌛ 2019-11-04 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-04 |
 | [#12422](https://github.com/eslint/eslint/issues/12422) | [object-curly-spacing] add exception for imports and destructuring |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
 | [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
@@ -139,7 +138,7 @@ Total: 2
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 13
+Total: 14
 
 ## Pull requests for closed issue
 
