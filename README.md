@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-06 00:08 (UTC)
+- 2019-11-06 03:02 (UTC)
 
 **Legend:**
 
@@ -98,13 +98,13 @@ Total: 2
 | [#12446](https://github.com/eslint/eslint/pull/12446) | Update: add react plugin config for eslint init |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-11-06 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 14 | ⌛ 2019-08-05 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
-| [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 12 | 0 | 19 | 2019-11-09 |
+| [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 13 | 0 | 20 | 2019-11-09 |
 | [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 9 | ⌛ 2019-10-17 |
 | [#12519](https://github.com/eslint/eslint/pull/12519) | Update: deprecate sourceCode#isSpaceBetweenTokens() |  |  |  | 0 | 0 | 1 | 2019-11-22 |
 | [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
 | [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | 2019-11-08 |
 | [#12453](https://github.com/eslint/eslint/issues/12453) | extend eslint:all to include plugins |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 7 | 2019-11-07 |
-| [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | 2019-11-06 |
+| [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-01 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
@@ -125,7 +125,7 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12390](https://github.com/eslint/eslint/issues/12390) | Add option to disable class-methods-use-this on inheritance |  |  |  | 1 | 0 | 5 | ⌛ 2019-10-29 |
 | [#12434](https://github.com/eslint/eslint/issues/12434) | [func-names] add an exception for IIFEs |  |  |  | 0 | 0 | 6 | ⌛ 2019-11-04 |
-| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-04 |
+| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 0 | 0 | 3 | ⌛ 2019-11-04 |
 | [#12422](https://github.com/eslint/eslint/issues/12422) | [object-curly-spacing] add exception for imports and destructuring |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
 | [#12420](https://github.com/eslint/eslint/issues/12420) | [lines-between-class-members] add exception for non-method members |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-03 |
 | [#12418](https://github.com/eslint/eslint/issues/12418) | [func-call-spacing] add exception for single-character functions |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-03 |
