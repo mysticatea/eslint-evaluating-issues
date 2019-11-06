@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-06 12:04 (UTC)
+- 2019-11-06 15:03 (UTC)
 
 **Legend:**
 
@@ -26,13 +26,12 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 11 | 0 | 3 | ⌛ 2019-07-06 |
-| [#11377](https://github.com/eslint/eslint/issues/11377) | Rule change request: indent: allow "off" for "outerIIFEBody" | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 3 | 0 | 11 | ⌛ 2019-03-04 |
+| [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | 0 | 4 | ⌛ 2019-10-18 |
 | [#10627](https://github.com/eslint/eslint/issues/10627) | quotes: avoidEscape option allow the usage of template string | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 6 | ⌛ 2018-08-09 |
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-10-24 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-10-26 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-25 |
-| [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-10-20 |
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 49 | 0 | 46 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 5 | ⌛ 2019-09-30 |
@@ -43,7 +42,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 17
+Total: 16
 
 ## Needs a champion
 
