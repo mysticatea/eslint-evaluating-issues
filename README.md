@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-07 18:03 (UTC)
+- 2019-11-07 21:03 (UTC)
 
 **Legend:**
 
@@ -70,14 +70,15 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  |  | 0 | 0 | 14 | 2019-11-28 |
+| [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 1 | 2019-11-28 |
+| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  |  | 0 | 0 | 15 | 2019-11-28 |
 | [#12536](https://github.com/eslint/eslint/issues/12536) | eslint semi, omitLastInOneLineBlock: true for JSX statements |  |  |  | 0 | 0 | 1 | 2019-11-27 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
 | [#12466](https://github.com/eslint/eslint/issues/12466) | Allowing escaped placeholders in template strings when using rule "quotes" with option "single" or "double" |  |  |  | 0 | 0 | 13 | 2019-11-10 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
