@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-07 15:03 (UTC)
+- 2019-11-07 18:03 (UTC)
 
 **Legend:**
 
@@ -62,14 +62,15 @@ Total: 3
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
 | [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-10-26 |
+| [#12042](https://github.com/eslint/eslint/issues/12042) | [prefer-template] Add "allow-single-concat" option |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-21 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  |  | 0 | 0 | 2 | 2019-11-28 |
+| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  |  | 0 | 0 | 14 | 2019-11-28 |
 | [#12536](https://github.com/eslint/eslint/issues/12536) | eslint semi, omitLastInOneLineBlock: true for JSX statements |  |  |  | 0 | 0 | 1 | 2019-11-27 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
