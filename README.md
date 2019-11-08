@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-08 12:04 (UTC)
+- 2019-11-08 15:03 (UTC)
 
 **Legend:**
 
@@ -70,7 +70,7 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 2 | 2019-11-28 |
-| [#12536](https://github.com/eslint/eslint/issues/12536) | eslint semi, omitLastInOneLineBlock: true for JSX statements |  |  |  | 0 | 0 | 1 | 2019-11-27 |
+| [#12536](https://github.com/eslint/eslint/issues/12536) | eslint semi, omitLastInOneLineBlock: true for JSX statements |  |  |  | 0 | 0 | 2 | 2019-11-27 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | 2019-11-14 |
@@ -118,7 +118,7 @@ Total: 20
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 16 | 2019-11-28 |
+| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 17 | 2019-11-28 |
 | [#12424](https://github.com/eslint/eslint/issues/12424) | [space-in-parens] add some options for handling common exception cases |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | ⌛ 2019-11-03 |
 | [#12269](https://github.com/eslint/eslint/issues/12269) | no-unnecessary-mapfilter |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 12 | ⌛ 2019-10-05 |
 
