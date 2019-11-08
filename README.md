@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-08 09:03 (UTC)
+- 2019-11-08 12:04 (UTC)
 
 **Legend:**
 
@@ -106,7 +106,7 @@ Total: 2
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | 2019-11-26 |
 | [#12519](https://github.com/eslint/eslint/pull/12519) | Update: deprecate sourceCode#isSpaceBetweenTokens() |  |  |  | 0 | 0 | 1 | 2019-11-22 |
 | [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
-| [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | 2019-11-08 |
+| [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-08 |
 | [#12453](https://github.com/eslint/eslint/issues/12453) | extend eslint:all to include plugins |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 7 | ⌛ 2019-11-07 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-01 |
