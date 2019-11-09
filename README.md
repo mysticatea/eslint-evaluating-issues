@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-09 03:03 (UTC)
+- 2019-11-09 06:03 (UTC)
 
 **Legend:**
 
@@ -104,7 +104,6 @@ Total: 2
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 14 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 9 | ⌛ 2019-10-17 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | 2019-11-26 |
-| [#12519](https://github.com/eslint/eslint/pull/12519) | Update: deprecate sourceCode#isSpaceBetweenTokens() |  |  |  | 0 | 0 | 1 | 2019-11-22 |
 | [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
 | [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-08 |
 | [#12453](https://github.com/eslint/eslint/issues/12453) | extend eslint:all to include plugins |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 7 | ⌛ 2019-11-07 |
@@ -112,7 +111,7 @@ Total: 2
 | [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-01 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 20
+Total: 19
 
 ## Looks opposed
 
