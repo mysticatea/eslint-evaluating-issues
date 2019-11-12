@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-12 12:04 (UTC)
+- 2019-11-12 15:02 (UTC)
 
 **Legend:**
 
@@ -25,7 +25,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 12 | 0 | 3 | ⌛ 2019-07-06 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 13 | 0 | 3 | ⌛ 2019-07-06 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-11-04 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | 0 | 4 | ⌛ 2019-10-18 |
