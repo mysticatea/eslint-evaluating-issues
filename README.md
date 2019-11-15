@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-15 15:04 (UTC)
+- 2019-11-15 18:04 (UTC)
 
 **Legend:**
 
@@ -102,6 +102,7 @@ Total: 2
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 16 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12319](https://github.com/eslint/eslint/issues/12319) | `ERR_REQUIRE_ESM` when requiring `.eslintrc.js` (PR [#12333](https://github.com/eslint/eslint/pull/12333))(PR [#12321](https://github.com/eslint/eslint/pull/12321)) |  |  |  | 1 | 0 | 9 | ⌛ 2019-10-17 |
+| [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 9 | 2019-12-05 |
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 0 | 0 | 3 | 2019-11-29 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | 2019-11-26 |
 | [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
@@ -111,7 +112,7 @@ Total: 2
 | [#12403](https://github.com/eslint/eslint/issues/12403) | new Configuration option to specify rules directory |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-01 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 19
+Total: 20
 
 ## Looks opposed
 
