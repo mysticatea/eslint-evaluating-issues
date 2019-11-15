@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-14 21:03 (UTC)
+- 2019-11-15 00:11 (UTC)
 
 **Legend:**
 
@@ -60,7 +60,7 @@ Total: 3
 | [#12535](https://github.com/eslint/eslint/issues/12535) | [no-magic-numbers] Computed constant values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-11-27 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
-| [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-11-28 |
+| [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-11-28 |
 | [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-10-26 |
 
 Total: 5
@@ -75,7 +75,7 @@ Total: 5
 | [#12550](https://github.com/eslint/eslint/issues/12550) | "no-unexpected-multiline": add support for chained method calls named by a symbol |  |  |  | 0 | 0 | 7 | 2019-11-30 |
 | [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 2 | 2019-11-28 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | 2019-11-23 |
-| [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | 2019-11-14 |
+| [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | ⌛ 2019-11-14 |
 | [#12488](https://github.com/eslint/eslint/issues/12488) | Rule Proposal: require-code-point-escape |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-14 |
 
 Total: 8
