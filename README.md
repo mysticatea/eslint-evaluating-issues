@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-17 18:04 (UTC)
+- 2019-11-17 21:04 (UTC)
 
 **Legend:**
 
@@ -62,7 +62,7 @@ Total: 3
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12556](https://github.com/eslint/eslint/pull/12556) | New: Add offsetTernaryExpressions option for indent rule |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | 0 | 19 | 2019-12-02 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
-| [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2019-10-26 |
+| [#12380](https://github.com/eslint/eslint/pull/12380) | Update: improve location for semi and comma-dangle |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-10-26 |
 
 Total: 5
 
@@ -102,7 +102,7 @@ Total: 2
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 16 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | 2019-11-29 |
-| [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 16 | 2019-12-05 |
+| [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | 2019-12-05 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | 2019-11-26 |
 | [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
 | [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-08 |
