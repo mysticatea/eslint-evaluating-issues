@@ -5,7 +5,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- 2019-11-18 09:05 (UTC)
+- [See the last commit time](https://github.com/mysticatea/eslint-evaluating-issues/commits/master/README.md)
 
 **Legend:**
 
@@ -18,14 +18,14 @@ This page is a summary of feature issues.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-04-05 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 13 | 0 | 3 | ⌛ 2019-07-06 |
 
-Total: 1
+Total: 2
 
 ## Needs supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 13 | 0 | 3 | ⌛ 2019-07-06 |
 | [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 9 | 2019-11-28 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-11-04 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-10-26 |
@@ -42,7 +42,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 15
 
 ## Needs a champion
 
@@ -70,7 +70,7 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12577](https://github.com/eslint/eslint/issues/12577) | Use case where newline-per-chained-call doesn't work well |  |  |  | 0 | 0 | 4 | 2019-12-09 |
-| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 1 | 2019-12-08 |
+| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 2 | 2019-12-08 |
 | [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | 2019-12-08 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | 2019-12-03 |
 | [#12557](https://github.com/eslint/eslint/issues/12557) | enforce replaceAll over replace with regex global |  |  |  | 0 | 0 | 1 | 2019-12-02 |
