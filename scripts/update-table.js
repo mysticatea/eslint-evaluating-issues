@@ -155,10 +155,7 @@ This page is a summary of feature issues.
 
 **Last updated:**
 
-- ${new Date()
-        .toISOString()
-        .replace("T", " ")
-        .slice(0, -8)} (UTC)
+- [See the last commit time](https://github.com/mysticatea/eslint-evaluating-issues/commits/master/README.md)
 
 **Legend:**
 
