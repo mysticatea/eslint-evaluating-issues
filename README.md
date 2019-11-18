@@ -70,7 +70,7 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12577](https://github.com/eslint/eslint/issues/12577) | Use case where newline-per-chained-call doesn't work well |  |  |  | 0 | 0 | 4 | 2019-12-09 |
-| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 2 | 2019-12-08 |
+| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 3 | 2019-12-08 |
 | [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | 2019-12-08 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | 2019-12-03 |
 | [#12557](https://github.com/eslint/eslint/issues/12557) | enforce replaceAll over replace with regex global |  |  |  | 0 | 0 | 1 | 2019-12-02 |
@@ -106,7 +106,7 @@ Total: 2
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | 2019-11-29 |
 | [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | 2019-12-05 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | 2019-11-26 |
-| [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | 2019-11-18 |
+| [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-18 |
 | [#12456](https://github.com/eslint/eslint/issues/12456) | Ignore `eslint-disable` comments when the rule after it was missing. |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-08 |
 | [#12453](https://github.com/eslint/eslint/issues/12453) | extend eslint:all to include plugins |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 7 | ⌛ 2019-11-07 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
