@@ -150,8 +150,6 @@ Total: 10
 | [#12321](https://github.com/eslint/eslint/pull/12321) | Fix: ES module compatibility (fixes [#12319](https://github.com/eslint/eslint/issues/12319)) |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-18 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | 0 | 3 | ⌛ 2019-09-05 |
 | [#11966](https://github.com/eslint/eslint/pull/11966) | New: Fix for "no-useless-constructor" (fixes [#11693](https://github.com/eslint/eslint/issues/11693)) |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
-| [#11726](https://github.com/eslint/eslint/pull/11726) | New: Added new force cli option ( refs [#6882](https://github.com/eslint/eslint/issues/6882) ) |  |  |  | 0 | 0 | 4 | ⌛ 2019-06-05 |
-| [#11563](https://github.com/eslint/eslint/pull/11563) | Update: added ignoreTabsOnComments option to no-tabs rule (fixes [#11562](https://github.com/eslint/eslint/issues/11562)) |  |  |  | 0 | 0 | 1 | ⌛ 2019-04-18 |
 
-Total: 7
+Total: 5
 
