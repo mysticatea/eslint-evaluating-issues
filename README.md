@@ -147,7 +147,7 @@ Total: 10
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11817](https://github.com/eslint/eslint/pull/11817) | Update: in quote-props rule allow consistent-as-needed with numbers option (fixes [#8093](https://github.com/eslint/eslint/issues/8093)) | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 5 | ⌛ 2019-06-28 |
-| [#12333](https://github.com/eslint/eslint/pull/12333) | Fix: Load CommonJS .eslintrc.js files within a "type": "module" package scope (fixes [#12319](https://github.com/eslint/eslint/issues/12319)) |  |  |  | 0 | 0 | 9 | ⌛ 2019-10-19 |
+| [#12333](https://github.com/eslint/eslint/pull/12333) | Fix: Load CommonJS .eslintrc.js files within a "type": "module" package scope (fixes [#12319](https://github.com/eslint/eslint/issues/12319)) |  |  |  | 0 | 0 | 10 | ⌛ 2019-10-19 |
 | [#12321](https://github.com/eslint/eslint/pull/12321) | Fix: ES module compatibility (fixes [#12319](https://github.com/eslint/eslint/issues/12319)) |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-18 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | 0 | 3 | ⌛ 2019-09-05 |
 | [#11966](https://github.com/eslint/eslint/pull/11966) | New: Fix for "no-useless-constructor" (fixes [#11693](https://github.com/eslint/eslint/issues/11693)) |  |  |  | 0 | 0 | 8 | ⌛ 2019-07-29 |
