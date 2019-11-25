@@ -63,14 +63,14 @@ Total: 3
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
+| [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-13 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access |  |  |  | 0 | 0 | 2 | 2019-12-13 |
 | [#12577](https://github.com/eslint/eslint/issues/12577) | Use case where newline-per-chained-call doesn't work well |  |  |  | 0 | 0 | 4 | 2019-12-09 |
 | [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 4 | 2019-12-08 |
 | [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | 2019-12-08 |
@@ -79,7 +79,7 @@ Total: 4
 | [#12550](https://github.com/eslint/eslint/issues/12550) | "no-unexpected-multiline": add support for chained method calls named by a symbol |  |  |  | 0 | 0 | 7 | 2019-11-30 |
 | [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 2 | 2019-11-28 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
