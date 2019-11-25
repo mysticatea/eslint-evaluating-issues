@@ -60,10 +60,10 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12535](https://github.com/eslint/eslint/issues/12535) | [no-magic-numbers] Computed constant values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-11-27 |
+| [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-12-13 |
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
-| [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2019-12-13 |
 
 Total: 5
 
@@ -94,6 +94,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12602](https://github.com/eslint/eslint/pull/12602) | Fix: improve suggestion testing experience | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-12-16 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 2 | 0 | 8 | ⌛ 2019-06-28 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 2 | 0 | 6 | ⌛ 2018-05-17 |
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | ⌛ 2019-07-20 |
@@ -113,7 +114,7 @@ Total: 2
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 18
+Total: 19
 
 ## Looks opposed
 
