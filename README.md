@@ -121,7 +121,7 @@ Total: 19
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 17 | 2019-11-28 |
+| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 17 | ⌛ 2019-11-28 |
 
 Total: 1
 
