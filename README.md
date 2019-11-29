@@ -27,7 +27,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12556](https://github.com/eslint/eslint/pull/12556) | New: Add offsetTernaryExpressions option for indent rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 4 | 0 | 28 | 2019-12-02 |
-| [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 9 | 2019-11-28 |
+| [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-11-28 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-11-04 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-10-26 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
@@ -110,12 +110,11 @@ Total: 2
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | 2019-11-29 |
 | [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | 2019-12-05 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-26 |
-| [#12500](https://github.com/eslint/eslint/issues/12500) | Detect file in merge conflict |  |  |  | 0 | 0 | 1 | ⌛ 2019-11-18 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12321](https://github.com/eslint/eslint/pull/12321) | Fix: ES module compatibility |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-18 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 19
+Total: 18
 
 ## Looks opposed
 
