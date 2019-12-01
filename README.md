@@ -78,9 +78,8 @@ Total: 6
 | [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | 2019-12-08 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | 2019-12-03 |
 | [#12557](https://github.com/eslint/eslint/issues/12557) | enforce replaceAll over replace with regex global |  |  |  | 0 | 0 | 1 | 2019-12-02 |
-| [#12550](https://github.com/eslint/eslint/issues/12550) | "no-unexpected-multiline": add support for chained method calls named by a symbol |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-30 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -129,6 +128,7 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12342](https://github.com/eslint/eslint/pull/12342) | Update: rule 'lines-around-comment' - add 'false' options |  |  |  | 1 | 0 | 0 | ⌛ 2019-10-20 |
+| [#12550](https://github.com/eslint/eslint/issues/12550) | "no-unexpected-multiline": add support for chained method calls named by a symbol |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-30 |
 | [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-28 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | ⌛ 2019-11-14 |
@@ -139,7 +139,7 @@ Total: 1
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 10
+Total: 11
 
 ## Pull requests for closed issue
 
