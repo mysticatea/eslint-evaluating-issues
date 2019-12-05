@@ -27,6 +27,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11788](https://github.com/eslint/eslint/pull/11788) | Update: rule 'padding-line-between-statements' - add number of lines | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 7 | 0 | 12 | ⌛ 2019-06-19 |
+| [#12640](https://github.com/eslint/eslint/issues/12640) | Disallow returning value from Promise executor | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2019-12-25 |
 | [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-11-28 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-11-04 |
 | [#12381](https://github.com/eslint/eslint/issues/12381) | New rule proposal: no-unreachable-loop | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-10-26 |
@@ -45,7 +46,7 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 18
+Total: 19
 
 ## Needs a champion
 
@@ -73,7 +74,7 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 2 | 2019-12-21 |
+| [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 3 | 2019-12-21 |
 | [#12615](https://github.com/eslint/eslint/pull/12615) | Docs: Update no-multi-assign explanation |  |  |  | 0 | 0 | 0 | 2019-12-19 |
 | [#12577](https://github.com/eslint/eslint/issues/12577) | Use case where newline-per-chained-call doesn't work well |  |  |  | 0 | 0 | 4 | 2019-12-09 |
 | [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 4 | 2019-12-08 |
