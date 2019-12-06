@@ -100,7 +100,6 @@ Total: 2
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | ⌛ 2019-07-20 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
-| [#12582](https://github.com/eslint/eslint/pull/12582) | New: Include node version in cache |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-11 |
 | [#12561](https://github.com/eslint/eslint/issues/12561) | support disabling specific rule fixes |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 4 | ⌛ 2019-12-04 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 16 | 0 | 21 | ⌛ 2019-11-09 |
@@ -113,7 +112,7 @@ Total: 2
 | [#12321](https://github.com/eslint/eslint/pull/12321) | Fix: ES module compatibility |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-18 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 18
+Total: 17
 
 ## Looks opposed
 
