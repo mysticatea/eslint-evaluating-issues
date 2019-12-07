@@ -61,12 +61,12 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12535](https://github.com/eslint/eslint/issues/12535) | [no-magic-numbers] Computed constant values |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-11-27 |
+| [#12649](https://github.com/eslint/eslint/issues/12649) | The radix rule should provide fixers |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-27 |
 | [#12613](https://github.com/eslint/eslint/pull/12613) | Update: no-void add an option to allow void as a statement |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-12-18 |
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2019-08-22 |
-| [#12649](https://github.com/eslint/eslint/issues/12649) | The radix rule should provide fixers |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-12-27 |
 
 Total: 7
 
@@ -108,13 +108,14 @@ Total: 2
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | ⌛ 2019-11-29 |
 | [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 4 | 2019-12-23 |
 | [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | 2019-12-23 |
+| [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | ⌛ 2019-12-05 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-26 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12321](https://github.com/eslint/eslint/pull/12321) | Fix: ES module compatibility |  |  |  | 0 | 0 | 5 | ⌛ 2019-10-18 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 18
+Total: 19
 
 ## Looks opposed
 
