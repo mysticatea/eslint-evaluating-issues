@@ -76,8 +76,8 @@ Total: 6
 | [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 3 | 2019-12-21 |
 | [#12615](https://github.com/eslint/eslint/pull/12615) | Docs: Update no-multi-assign explanation |  |  |  | 0 | 0 | 0 | 2019-12-19 |
 | [#12577](https://github.com/eslint/eslint/issues/12577) | Use case where newline-per-chained-call doesn't work well |  |  |  | 0 | 0 | 4 | 2019-12-09 |
-| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 4 | 2019-12-08 |
-| [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | 2019-12-08 |
+| [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 4 | ⌛ 2019-12-08 |
+| [#12575](https://github.com/eslint/eslint/issues/12575) | Prevent variables from being used if not guaranteed initialization. |  |  |  | 0 | 0 | 4 | ⌛ 2019-12-08 |
 
 Total: 5
 
@@ -101,7 +101,7 @@ Total: 2
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
 | [#12561](https://github.com/eslint/eslint/issues/12561) | support disabling specific rule fixes |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 4 | ⌛ 2019-12-04 |
-| [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2019-12-27 |
+| [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-27 |
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 16 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | ⌛ 2019-11-29 |
