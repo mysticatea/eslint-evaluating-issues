@@ -60,7 +60,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12649](https://github.com/eslint/eslint/issues/12649) | The radix rule should provide fixers |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2019-12-27 |
+| [#12649](https://github.com/eslint/eslint/issues/12649) | The radix rule should provide fixers |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-12-27 |
 | [#12613](https://github.com/eslint/eslint/pull/12613) | Update: no-void add an option to allow void as a statement |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2019-12-18 |
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12056](https://github.com/eslint/eslint/pull/12056) | Update: Handle locally unsupported regex in computed property keys |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-08-24 |
@@ -103,7 +103,7 @@ Total: 2
 | [#12294](https://github.com/eslint/eslint/pull/12294) | Fix: Added extends value in initializer for react |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2019-10-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 16 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | ⌛ 2019-11-29 |
-| [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 4 | 2019-12-23 |
+| [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 5 | 2019-12-23 |
 | [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | 2019-12-23 |
 | [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | 2019-12-10 |
 | [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | ⌛ 2019-12-05 |
