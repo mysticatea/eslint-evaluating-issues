@@ -114,11 +114,7 @@ Total: 18
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12540](https://github.com/eslint/eslint/issues/12540) | symbol-description: allow feature identifier tagging |  |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | 0 | 0 | 17 | ⌛ 2019-11-28 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
@@ -131,7 +127,6 @@ Total: 1
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | ⌛ 2019-12-03 |
 | [#12557](https://github.com/eslint/eslint/issues/12557) | enforce replaceAll over replace with regex global |  |  |  | 0 | 0 | 1 | ⌛ 2019-12-02 |
 | [#12550](https://github.com/eslint/eslint/issues/12550) | "no-unexpected-multiline": add support for chained method calls named by a symbol |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-30 |
-| [#12541](https://github.com/eslint/eslint/issues/12541) | no-unused-vars: Count JSDoc comments and type annotations as using variables |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-28 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 | [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | ⌛ 2019-11-14 |
 | [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
@@ -140,7 +135,7 @@ Total: 1
 | [#11907](https://github.com/eslint/eslint/pull/11907) | Update: Disallow gremlin chars in no-irregular-whitespace |  |  |  | 0 | 0 | 4 | ⌛ 2019-07-16 |
 | [#11793](https://github.com/eslint/eslint/pull/11793) | Update: Support ignore in no-irregular-whitespace |  |  |  | 0 | 0 | 1 | ⌛ 2019-06-20 |
 
-Total: 15
+Total: 14
 
 ## Pull requests for closed issue
 
