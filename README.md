@@ -104,13 +104,14 @@ Total: 2
 | [#12549](https://github.com/eslint/eslint/issues/12549) | Add merge strategy for 'no-restricted-imports/modules` rule, so we can multiple ones in overrides |  |  |  | 1 | 0 | 3 | ⌛ 2019-11-29 |
 | [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | 2019-12-23 |
 | [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | 2019-12-23 |
-| [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | 2019-12-10 |
+| [#12612](https://github.com/eslint/eslint/pull/12612) | Update: Allow $schema in config |  |  |  | 0 | 0 | 5 | 2019-12-18 |
+| [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | ⌛ 2019-12-10 |
 | [#12568](https://github.com/eslint/eslint/issues/12568) | Error: Unexpected end of JSON input when using empty package.json |  |  |  | 0 | 0 | 17 | ⌛ 2019-12-05 |
 | [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-26 |
 | [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-12 |
 
-Total: 18
+Total: 19
 
 ## Looks opposed
 
