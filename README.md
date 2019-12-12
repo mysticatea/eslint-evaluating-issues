@@ -72,11 +72,10 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12658](https://github.com/eslint/eslint/issues/12658) | Disallow Event constructor for IE compatibility (no-event-constructor) |  |  |  | 0 | 0 | 1 | 2020-01-02 |
 | [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 3 | 2019-12-21 |
 | [#12615](https://github.com/eslint/eslint/pull/12615) | Docs: Update no-multi-assign explanation |  |  |  | 0 | 0 | 0 | 2019-12-19 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
@@ -114,7 +113,11 @@ Total: 18
 
 ## Looks opposed
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12658](https://github.com/eslint/eslint/issues/12658) | Disallow Event constructor for IE compatibility (no-event-constructor) |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2020-01-02 |
+
+Total: 1
 
 ## Looks inactive
 
