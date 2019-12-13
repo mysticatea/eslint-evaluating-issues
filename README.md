@@ -112,11 +112,7 @@ Total: 17
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12658](https://github.com/eslint/eslint/issues/12658) | Disallow Event constructor for IE compatibility (no-event-constructor) |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | 2020-01-02 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
