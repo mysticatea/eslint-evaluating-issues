@@ -47,11 +47,7 @@ Total: 16
 
 ## Needs a champion
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12094](https://github.com/eslint/eslint/pull/12094) | New: Add switch-final-break rule |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | ⌛ 2019-09-03 |
-
-Total: 1
+Nothing.
 
 ## Needs a champion and supporters
 
