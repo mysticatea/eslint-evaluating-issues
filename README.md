@@ -26,7 +26,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12673](https://github.com/eslint/eslint/issues/12673) | New rule proposal: no-useless-backreference | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2020-01-06 |
+| [#12673](https://github.com/eslint/eslint/issues/12673) | New rule proposal: no-useless-backreference | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2020-01-06 |
 | [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-11-28 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-11-04 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
@@ -67,8 +67,8 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 1 | 2020-01-06 |
-| [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 3 | 2020-01-06 |
+| [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 3 | 2020-01-06 |
+| [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 1 | 2020-01-05 |
 | [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 3 | 2019-12-21 |
 | [#12615](https://github.com/eslint/eslint/pull/12615) | Docs: Update no-multi-assign explanation |  |  |  | 0 | 0 | 0 | 2019-12-19 |
