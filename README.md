@@ -40,11 +40,10 @@ Total: 2
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 50 | 0 | 46 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 5 | ⌛ 2019-09-30 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2019-11-05 |
-| [#12305](https://github.com/eslint/eslint/pull/12305) | New: Rule class-methods-use-this option exceptMethods accepts regex | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 8 | ⌛ 2019-10-15 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 17
+Total: 16
 
 ## Needs a champion
 
@@ -68,7 +67,7 @@ Total: 7
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 4 | 0 | 1 | 2020-01-09 |
+| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 7 | 0 | 1 | 2020-01-09 |
 | [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 3 | 2020-01-05 |
@@ -95,6 +94,7 @@ Total: 2
 | [#11922](https://github.com/eslint/eslint/issues/11922) | remove no-useless-escape from eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 2 | ⌛ 2019-07-20 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
+| [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-11-06 |
 | [#12666](https://github.com/eslint/eslint/issues/12666) | Run single rule *without* using `--no-eslintrc` |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2020-01-05 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-12-27 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
@@ -102,11 +102,9 @@ Total: 2
 | [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | 2019-12-23 |
 | [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | 2019-12-23 |
 | [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | ⌛ 2019-12-10 |
-| [#12532](https://github.com/eslint/eslint/pull/12532) | Allow $schema property in configuration |  |  |  | 0 | 0 | 2 | ⌛ 2019-11-26 |
-| [#12443](https://github.com/eslint/eslint/pull/12443) | New: Allow mocking the cwd in rule tester |  |  |  | 0 | 0 | 8 | ⌛ 2019-11-06 |
-| [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 5 | ⌛ 2019-09-12 |
+| [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-12 |
 
-Total: 16
+Total: 15
 
 ## Looks opposed
 
@@ -121,20 +119,17 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12576](https://github.com/eslint/eslint/issues/12576) | [no-await-in-loop] should check for `await` keyword inside `forEach` loop |  |  |  | 0 | 0 | 4 | ⌛ 2019-12-08 |
-| [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 0 | ⌛ 2019-12-03 |
+| [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 1 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
-| [#12490](https://github.com/eslint/eslint/pull/12490) | Update: Check assignment targets in no-extra-parens |  |  |  | 0 | 0 | 0 | ⌛ 2019-11-14 |
-| [#12240](https://github.com/eslint/eslint/pull/12240) | New: add rule no-unexpected-start |  |  |  | 0 | 0 | 21 | ⌛ 2019-09-28 |
 | [#12195](https://github.com/eslint/eslint/pull/12195) | Update: fix func-names for unnamed export default (fixes [#12194](https://github.com/eslint/eslint/issues/12194)) |  |  |  | 0 | 0 | 2 | ⌛ 2019-09-21 |
 
-Total: 6
+Total: 4
 
 ## Pull requests for closed issue
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12333](https://github.com/eslint/eslint/pull/12333) | Fix: Load CommonJS .eslintrc.js files within a "type": "module" package scope (fixes [#12319](https://github.com/eslint/eslint/issues/12319)) |  |  |  | 0 | 0 | 12 | ⌛ 2019-10-19 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | 0 | 4 | ⌛ 2019-09-05 |
 
-Total: 2
+Total: 1
 
