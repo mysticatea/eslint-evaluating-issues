@@ -66,7 +66,7 @@ Total: 6
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 10 | 0 | 1 | 2020-01-09 |
+| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 11 | 0 | 1 | 2020-01-09 |
 | [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 3 | 2020-01-05 |
@@ -97,8 +97,8 @@ Total: 2
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2019-12-27 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12675](https://github.com/eslint/eslint/issues/12675) | .mjs and .cjs files should override sourceType |  |  |  | 0 | 0 | 1 | 2020-01-06 |
-| [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | 2019-12-23 |
-| [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | 2019-12-23 |
+| [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | ⌛ 2019-12-23 |
+| [#12630](https://github.com/eslint/eslint/issues/12630) | Allow plugins and parsers to initialize configuration |  |  |  | 0 | 0 | 1 | ⌛ 2019-12-23 |
 | [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | ⌛ 2019-12-10 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-12 |
 
