@@ -59,7 +59,7 @@ Nothing.
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 3 | ⌛ 2019-08-22 |
 | [#12684](https://github.com/eslint/eslint/issues/12684) | Defaults of Rule no-underscore-dangle contradict themselves |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-01-08 |
-| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-12-24 |
+| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-12-24 |
 
 Total: 7
 
