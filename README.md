@@ -59,8 +59,9 @@ Nothing.
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 3 | ⌛ 2019-08-22 |
 | [#12684](https://github.com/eslint/eslint/issues/12684) | Defaults of Rule no-underscore-dangle contradict themselves |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-01-08 |
+| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2019-12-24 |
 
-Total: 6
+Total: 7
 
 ## Needs interest
 
@@ -72,8 +73,9 @@ Total: 6
 | [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 3 | 2020-01-05 |
+| [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | 2020-01-04 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
@@ -120,9 +122,8 @@ Total: 1
 | [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 3 | ⌛ 2019-12-21 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
-| [#12195](https://github.com/eslint/eslint/pull/12195) | Update: fix func-names for unnamed export default (fixes [#12194](https://github.com/eslint/eslint/issues/12194)) |  |  |  | 0 | 0 | 2 | ⌛ 2019-09-21 |
 
-Total: 4
+Total: 3
 
 ## Pull requests for closed issue
 
