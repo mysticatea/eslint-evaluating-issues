@@ -74,7 +74,7 @@ Total: 6
 | [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 3 | 2020-01-05 |
-| [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | 2020-01-04 |
+| [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 1 | ⌛ 2020-01-04 |
 
 Total: 9
 
