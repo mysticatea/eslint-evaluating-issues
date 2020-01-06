@@ -72,7 +72,7 @@ Total: 6
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 3 | 2020-01-19 |
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 2 | 2020-01-13 |
 | [#12682](https://github.com/eslint/eslint/issues/12682) | no-extra-parens: Allow brackets in expressions that depend on operator precedence |  |  |  | 0 | 0 | 3 | 2020-01-08 |
-| [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | 2020-01-06 |
+| [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-06 |
 
 Total: 8
@@ -100,7 +100,7 @@ Total: 2
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-12-27 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 0 | 0 | 5 | 2020-01-12 |
-| [#12675](https://github.com/eslint/eslint/issues/12675) | .mjs and .cjs files should override sourceType |  |  |  | 0 | 0 | 1 | 2020-01-06 |
+| [#12675](https://github.com/eslint/eslint/issues/12675) | .mjs and .cjs files should override sourceType |  |  |  | 0 | 0 | 1 | ⌛ 2020-01-06 |
 | [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | ⌛ 2019-12-23 |
 | [#12578](https://github.com/eslint/eslint/issues/12578) | Eslint is still using the cache when an eslint plugin is updated but the .eslintrc file remain the same |  |  |  | 0 | 0 | 3 | ⌛ 2019-12-10 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-12 |
