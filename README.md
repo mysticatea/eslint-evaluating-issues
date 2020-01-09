@@ -75,9 +75,8 @@ Total: 8
 | [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 20 | 2020-01-23 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 3 | 2020-01-19 |
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 2 | 2020-01-13 |
-| [#12682](https://github.com/eslint/eslint/issues/12682) | no-extra-parens: Allow brackets in expressions that depend on operator precedence |  |  |  | 0 | 0 | 3 | ⌛ 2020-01-08 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
@@ -122,6 +121,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12682](https://github.com/eslint/eslint/issues/12682) | no-extra-parens: Allow brackets in expressions that depend on operator precedence |  |  |  | 0 | 0 | 3 | ⌛ 2020-01-08 |
 | [#12674](https://github.com/eslint/eslint/issues/12674) | Please include the ability to configure indent on conditional expressions |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-06 |
 | [#12672](https://github.com/eslint/eslint/issues/12672) | Max nesting/indentation |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-06 |
 | [#12667](https://github.com/eslint/eslint/issues/12667) | Disallowing assignment and passing by value. |  |  |  | 0 | 0 | 3 | ⌛ 2020-01-05 |
@@ -130,7 +130,7 @@ Total: 3
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 7
+Total: 8
 
 ## Pull requests for closed issue
 
