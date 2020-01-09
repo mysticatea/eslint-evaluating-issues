@@ -59,24 +59,24 @@ Nothing.
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-08-22 |
 | [#12759](https://github.com/eslint/eslint/issues/12759) | Add `ignore-blank-lines` option to `sort-keys` rule |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-01-29 |
+| [#12754](https://github.com/eslint/eslint/issues/12754) | prefer-typeof-undefined rule proposal |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-01-28 |
 | [#12684](https://github.com/eslint/eslint/issues/12684) | Defaults of Rule no-underscore-dangle contradict themselves |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2020-01-08 |
 | [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-12-24 |
 
-Total: 8
+Total: 9
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 13 | 0 | 1 | 2020-01-09 |
+| [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 13 | 0 | 1 | ⌛ 2020-01-09 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  |  |  | 0 | 0 | 3 | 2020-01-28 |
-| [#12754](https://github.com/eslint/eslint/issues/12754) | prefer-typeof-undefined rule proposal |  |  |  | 0 | 0 | 4 | 2020-01-28 |
 | [#12743](https://github.com/eslint/eslint/pull/12743) | Update: fix no-extra-parens CallExpression#callee false negatives |  |  |  | 0 | 0 | 1 | 2020-01-26 |
 | [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 20 | 2020-01-23 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 3 | 2020-01-19 |
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 2 | 2020-01-13 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -112,10 +112,11 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12748](https://github.com/eslint/eslint/issues/12748) | `prefer-for-of` should include some Array methods (forEach, reduce) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 2 | 1 | 19 | 2020-01-27 |
+| [#12764](https://github.com/eslint/eslint/issues/12764) | Disallow timers |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 0 | 2 | 2020-01-30 |
 | [#12683](https://github.com/eslint/eslint/issues/12683) | Ignore no-unused-var variables that are valid when using ts-check |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 1 | ⌛ 2020-01-08 |
 | [#12626](https://github.com/eslint/eslint/issues/12626) | Add an option to check multiline template literals with `no-trailing-spaces` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-12-22 |
 
-Total: 3
+Total: 4
 
 ## Looks inactive
 
