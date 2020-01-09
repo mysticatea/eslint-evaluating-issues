@@ -112,11 +112,10 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12748](https://github.com/eslint/eslint/issues/12748) | `prefer-for-of` should include some Array methods (forEach, reduce) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 2 | 1 | 19 | 2020-01-27 |
-| [#12764](https://github.com/eslint/eslint/issues/12764) | Disallow timers |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 0 | 1 | 5 | 2020-01-30 |
 | [#12683](https://github.com/eslint/eslint/issues/12683) | Ignore no-unused-var variables that are valid when using ts-check |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 1 | ⌛ 2020-01-08 |
 | [#12626](https://github.com/eslint/eslint/issues/12626) | Add an option to check multiline template literals with `no-trailing-spaces` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-12-22 |
 
-Total: 4
+Total: 3
 
 ## Looks inactive
 
