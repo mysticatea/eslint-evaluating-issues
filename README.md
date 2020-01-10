@@ -27,6 +27,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-11-28 |
+| [#12759](https://github.com/eslint/eslint/issues/12759) | Add `ignore-blank-lines` option to `sort-keys` rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2020-01-29 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 1 | 6 | ⌛ 2019-11-04 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-10-22 |
 | [#12334](https://github.com/eslint/eslint/issues/12334) | Vscode and atom highlight locations are unexpected when end location is not provided | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 9 | ⌛ 2019-10-20 |
@@ -43,15 +44,11 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 17
 
 ## Needs a champion
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12759](https://github.com/eslint/eslint/issues/12759) | Add `ignore-blank-lines` option to `sort-keys` rule |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2020-01-29 |
-
-Total: 1
+Nothing.
 
 ## Needs a champion and supporters
 
@@ -71,13 +68,14 @@ Total: 7
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12768](https://github.com/eslint/eslint/issues/12768) | no-empty-function false positive |  |  |  | 0 | 0 | 3 | 2020-01-31 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  |  |  | 0 | 0 | 4 | 2020-01-28 |
 | [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 21 | 2020-01-23 |
 | [#12718](https://github.com/eslint/eslint/issues/12718) | Allow default parameters in no-empty-function |  |  |  | 0 | 0 | 4 | 2020-01-20 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 4 | 2020-01-19 |
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 3 | 2020-01-13 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
