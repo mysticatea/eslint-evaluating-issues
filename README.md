@@ -53,28 +53,27 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12758](https://github.com/eslint/eslint/issues/12758) | [no-duplicate-imports] Treat namespace imports as different |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2020-01-28 |
+| [#12759](https://github.com/eslint/eslint/issues/12759) | Add `ignore-blank-lines` option to `sort-keys` rule |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-01-29 |
 | [#12687](https://github.com/eslint/eslint/issues/12687) | no-shadow: allow a declaration's body to reuse the declared variable's name |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2020-01-09 |
-| [#12649](https://github.com/eslint/eslint/issues/12649) | The radix rule should provide fixers |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2019-12-27 |
-| [#12758](https://github.com/eslint/eslint/issues/12758) | [no-duplicate-imports] Treat namespace imports as different |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 4 | 2020-01-28 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-08-22 |
-| [#12759](https://github.com/eslint/eslint/issues/12759) | Add `ignore-blank-lines` option to `sort-keys` rule |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-01-29 |
-| [#12754](https://github.com/eslint/eslint/issues/12754) | prefer-typeof-undefined rule proposal |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2020-01-28 |
+| [#12754](https://github.com/eslint/eslint/issues/12754) | prefer-typeof-undefined rule proposal |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2020-01-28 |
 | [#12684](https://github.com/eslint/eslint/issues/12684) | Defaults of Rule no-underscore-dangle contradict themselves |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2020-01-08 |
-| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | ⌛ 2019-12-24 |
+| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-12-24 |
 
-Total: 9
+Total: 8
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12688](https://github.com/eslint/eslint/issues/12688) | `no-void` should have an option to allow void arrow functions or void async IIFEs |  |  |  | 13 | 0 | 1 | ⌛ 2020-01-09 |
-| [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  |  |  | 0 | 0 | 3 | 2020-01-28 |
-| [#12743](https://github.com/eslint/eslint/pull/12743) | Update: fix no-extra-parens CallExpression#callee false negatives |  |  |  | 0 | 0 | 1 | 2020-01-26 |
-| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 20 | 2020-01-23 |
-| [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 3 | 2020-01-19 |
-| [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 2 | 2020-01-13 |
+| [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  |  |  | 0 | 0 | 4 | 2020-01-28 |
+| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 21 | 2020-01-23 |
+| [#12718](https://github.com/eslint/eslint/issues/12718) | Allow default parameters in no-empty-function |  |  |  | 0 | 0 | 4 | 2020-01-20 |
+| [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 4 | 2020-01-19 |
+| [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 3 | 2020-01-13 |
 
 Total: 6
 
@@ -102,10 +101,9 @@ Total: 2
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 0 | 0 | 5 | 2020-01-12 |
 | [#12675](https://github.com/eslint/eslint/issues/12675) | .mjs and .cjs files should override sourceType |  |  |  | 0 | 0 | 1 | ⌛ 2020-01-06 |
-| [#12631](https://github.com/eslint/eslint/issues/12631) | Add `ConfigArrayFactory` and `CascadingConfigArrayFactory` to the public API |  |  |  | 0 | 0 | 6 | ⌛ 2019-12-23 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-12 |
 
-Total: 13
+Total: 12
 
 ## Looks opposed
 
