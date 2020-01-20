@@ -18,7 +18,7 @@ This page is a summary of feature issues.
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-04-05 |
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 16 | 0 | 3 | ⌛ 2019-07-06 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 17 | 0 | 3 | ⌛ 2019-07-06 |
 
 Total: 2
 
@@ -75,7 +75,7 @@ Total: 8
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | 2020-02-06 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  |  |  | 0 | 0 | 4 | 2020-01-28 |
 | [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 22 | 2020-01-23 |
-| [#12718](https://github.com/eslint/eslint/issues/12718) | Allow default parameters in no-empty-function |  |  |  | 0 | 0 | 4 | 2020-01-20 |
+| [#12718](https://github.com/eslint/eslint/issues/12718) | Allow default parameters in no-empty-function |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-20 |
 
 Total: 6
 
@@ -100,9 +100,9 @@ Total: 2
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
+| [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 1 | 0 | 6 | ⌛ 2020-01-12 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 2 | 2020-02-07 |
 | [#12783](https://github.com/eslint/eslint/issues/12783) | Enhancement of sort-keys |  |  |  | 0 | 0 | 3 | 2020-02-03 |
-| [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-12 |
 | [#12143](https://github.com/eslint/eslint/pull/12143) | Automatically remove `eslint-plugin-` from ruleId's in linter.js |  |  |  | 0 | 0 | 6 | ⌛ 2019-09-12 |
 
 Total: 12
