@@ -76,7 +76,7 @@ Total: 9
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 0 | 0 | 0 | 2020-02-10 |
 | [#12809](https://github.com/eslint/eslint/issues/12809) | `no-new-object`: warns on non-global Object instantiation |  |  |  | 0 | 0 | 5 | 2020-02-09 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | 2020-02-06 |
-| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 22 | 2020-01-23 |
+| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 22 | ⌛ 2020-01-23 |
 
 Total: 6
 
