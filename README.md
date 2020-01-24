@@ -38,7 +38,7 @@ Total: 2
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-12-10 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-02-11 |
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 50 | 0 | 46 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 50 | 0 | 47 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 5 | ⌛ 2019-09-30 |
 | [#12808](https://github.com/eslint/eslint/issues/12808) | Check statically known computed names in no-dupe-class-members | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 0 | 0 | 2020-02-09 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | ⌛ 2019-11-05 |
@@ -76,9 +76,8 @@ Total: 9
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 0 | 0 | 0 | 2020-02-10 |
 | [#12809](https://github.com/eslint/eslint/issues/12809) | `no-new-object`: warns on non-global Object instantiation |  |  |  | 0 | 0 | 5 | 2020-02-09 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | 2020-02-06 |
-| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 22 | ⌛ 2020-01-23 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -121,6 +120,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12736](https://github.com/eslint/eslint/issues/12736) | Request option for array-bracket-newline to only enforce adding line breaks, not removing of line breaks |  |  |  | 0 | 0 | 22 | ⌛ 2020-01-23 |
 | [#12718](https://github.com/eslint/eslint/issues/12718) | Allow default parameters in no-empty-function |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-20 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-19 |
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-13 |
@@ -130,7 +130,7 @@ Total: 2
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 8
+Total: 9
 
 ## Pull requests for closed issue
 
