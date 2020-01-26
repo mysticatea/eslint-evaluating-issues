@@ -57,7 +57,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12758](https://github.com/eslint/eslint/issues/12758) | [no-duplicate-imports] Treat namespace imports as different |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | 2020-01-28 |
 | [#12687](https://github.com/eslint/eslint/issues/12687) | no-shadow: allow a declaration's body to reuse the declared variable's name |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2020-01-09 |
-| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-12-24 |
+| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2019-12-24 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-08-22 |
 | [#12794](https://github.com/eslint/eslint/issues/12794) | function-call-argument-newline work when function goes across multiple lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-02-06 |
@@ -72,12 +72,13 @@ Total: 9
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 4 | 2020-02-03 |
+| [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports |  |  |  | 0 | 0 | 1 | 2020-02-15 |
 | [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | 2020-02-11 |
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 0 | 0 | 0 | 2020-02-10 |
 | [#12809](https://github.com/eslint/eslint/issues/12809) | `no-new-object`: warns on non-global Object instantiation |  |  |  | 0 | 0 | 5 | 2020-02-09 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | 2020-02-06 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
