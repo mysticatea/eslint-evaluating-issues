@@ -72,7 +72,7 @@ Total: 9
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 4 | 2020-02-03 |
-| [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports |  |  |  | 0 | 0 | 1 | 2020-02-15 |
+| [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports |  |  |  | 0 | 0 | 2 | 2020-02-15 |
 | [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | 2020-02-11 |
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 0 | 0 | 0 | 2020-02-10 |
 | [#12809](https://github.com/eslint/eslint/issues/12809) | `no-new-object`: warns on non-global Object instantiation |  |  |  | 0 | 0 | 5 | 2020-02-09 |
