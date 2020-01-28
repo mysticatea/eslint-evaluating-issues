@@ -99,7 +99,7 @@ Total: 2
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 11 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
-| [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 4 | ⌛ 2020-01-17 |
+| [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 5 | ⌛ 2020-01-17 |
 | [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 1 | 0 | 6 | ⌛ 2020-01-12 |
 | [#12835](https://github.com/eslint/eslint/issues/12835) | Deprecate Node-specific core rules |  |  |  | 0 | 0 | 0 | 2020-02-17 |
 | [#12828](https://github.com/eslint/eslint/issues/12828) | eslint does not invalidate cache when updating a plugin |  |  |  | 0 | 0 | 1 | 2020-02-15 |
