@@ -54,13 +54,13 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12758](https://github.com/eslint/eslint/issues/12758) | [no-duplicate-imports] Treat namespace imports as different |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | 2020-01-28 |
+| [#12758](https://github.com/eslint/eslint/issues/12758) | [no-duplicate-imports] Treat namespace imports as different |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 8 | ⌛ 2020-01-28 |
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | 2020-02-15 |
 | [#12687](https://github.com/eslint/eslint/issues/12687) | no-shadow: allow a declaration's body to reuse the declared variable's name |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2020-01-09 |
 | [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-12-24 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 5 | ⌛ 2019-08-22 |
-| [#12840](https://github.com/eslint/eslint/issues/12840) | prefer-regex-literals: should report regex literals passed to RegExp constructor |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-02-18 |
+| [#12840](https://github.com/eslint/eslint/issues/12840) | prefer-regex-literals: should report regex literals passed to RegExp constructor |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-02-18 |
 | [#12794](https://github.com/eslint/eslint/issues/12794) | function-call-argument-newline work when function goes across multiple lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-02-06 |
 | [#12768](https://github.com/eslint/eslint/issues/12768) | no-empty-function false positive |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-01-31 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-01-28 |
@@ -101,7 +101,7 @@ Total: 2
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
 | [#12835](https://github.com/eslint/eslint/issues/12835) | Deprecate Node-specific core rules |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2020-02-17 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 17 | 0 | 21 | ⌛ 2019-11-09 |
-| [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 6 | ⌛ 2020-01-17 |
+| [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 7 | ⌛ 2020-01-17 |
 | [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 1 | 0 | 6 | ⌛ 2020-01-12 |
 | [#12828](https://github.com/eslint/eslint/issues/12828) | eslint does not invalidate cache when updating a plugin |  |  |  | 0 | 0 | 1 | 2020-02-15 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 2 | 2020-02-07 |
