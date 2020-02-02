@@ -103,7 +103,7 @@ Total: 2
 | [#12835](https://github.com/eslint/eslint/issues/12835) | Deprecate Node-specific core rules |  | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2020-02-17 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 7 | ⌛ 2020-01-17 |
-| [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 1 | 0 | 6 | ⌛ 2020-01-12 |
+| [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 2 | 0 | 6 | ⌛ 2020-01-12 |
 | [#12828](https://github.com/eslint/eslint/issues/12828) | eslint does not invalidate cache when updating a plugin |  |  |  | 0 | 0 | 1 | 2020-02-15 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 4 | 2020-02-07 |
 | [#12783](https://github.com/eslint/eslint/issues/12783) | Enhancement of sort-keys |  |  |  | 0 | 0 | 3 | 2020-02-03 |
