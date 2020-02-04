@@ -50,7 +50,7 @@ Total: 17
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12863](https://github.com/eslint/eslint/issues/12863) | `yoda` overlooks template literal  |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2020-02-23 |
+| [#12863](https://github.com/eslint/eslint/issues/12863) | `yoda` overlooks template literal  |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2020-02-23 |
 
 Total: 1
 
@@ -123,9 +123,8 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12748](https://github.com/eslint/eslint/issues/12748) | `prefer-for-of` should include some Array methods (forEach, reduce) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 2 | 1 | 19 | ⌛ 2020-01-27 |
-| [#12626](https://github.com/eslint/eslint/issues/12626) | Add an option to check multiline template literals with `no-trailing-spaces` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 3 | ⌛ 2019-12-22 |
 
-Total: 2
+Total: 1
 
 ## Looks inactive
 
