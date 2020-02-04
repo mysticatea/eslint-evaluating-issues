@@ -77,7 +77,7 @@ Total: 10
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | 2020-02-10 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 2 | 2020-02-24 |
-| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 1 | 2020-02-23 |
+| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | 2020-02-23 |
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 2 | 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 0 | 0 | 2 | 2020-02-20 |
