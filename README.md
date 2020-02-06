@@ -81,7 +81,7 @@ Total: 12
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 0 | 0 | 2 | 2020-02-20 |
 | [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | 2020-02-11 |
-| [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | 2020-02-06 |
+| [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | ⌛ 2020-02-06 |
 
 Total: 9
 
