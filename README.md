@@ -63,7 +63,7 @@ Nothing.
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 2 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-08-22 |
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2020-02-26 |
-| [#12794](https://github.com/eslint/eslint/issues/12794) | function-call-argument-newline work when function goes across multiple lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-02-06 |
+| [#12794](https://github.com/eslint/eslint/issues/12794) | function-call-argument-newline work when function goes across multiple lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 3 | ⌛ 2020-02-06 |
 | [#12768](https://github.com/eslint/eslint/issues/12768) | no-empty-function false positive |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2020-01-31 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-01-28 |
 
@@ -135,11 +135,10 @@ Total: 1
 | [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-13 |
 | [#12682](https://github.com/eslint/eslint/issues/12682) | no-extra-parens: Allow brackets in expressions that depend on operator precedence |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-08 |
 | [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 3 | ⌛ 2020-01-04 |
-| [#12624](https://github.com/eslint/eslint/pull/12624) | Disable `functions` option if used object option, and `ecmaVersion: 5` |  |  |  | 0 | 0 | 5 | ⌛ 2019-12-21 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
