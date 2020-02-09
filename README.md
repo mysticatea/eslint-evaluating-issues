@@ -119,11 +119,7 @@ Total: 13
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12748](https://github.com/eslint/eslint/issues/12748) | `prefer-for-of` should include some Array methods (forEach, reduce) |  |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 2 | 1 | 19 | ⌛ 2020-01-27 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
