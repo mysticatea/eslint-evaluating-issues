@@ -74,7 +74,7 @@ Total: 12
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | 2020-02-10 |
+| [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | ⌛ 2020-02-10 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 1 | 2020-02-29 |
 | [#12872](https://github.com/eslint/eslint/issues/12872) | [no-magic-numbers] - Add an option to omit numbers check in array declaration |  |  |  | 0 | 0 | 9 | 2020-02-25 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
