@@ -60,7 +60,6 @@ Nothing.
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 7 | 2020-02-15 |
 | [#12892](https://github.com/eslint/eslint/issues/12892) | [no-magic-numbers] - false error report on array destructuring declaration |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2020-02-29 |
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2020-02-26 |
-| [#12754](https://github.com/eslint/eslint/issues/12754) | prefer-typeof-undefined rule proposal |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2020-01-28 |
 | [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-12-24 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-12-18 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
@@ -68,7 +67,7 @@ Nothing.
 | [#12768](https://github.com/eslint/eslint/issues/12768) | no-empty-function false positive |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2020-01-31 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-01-28 |
 
-Total: 12
+Total: 11
 
 ## Needs interest
 
