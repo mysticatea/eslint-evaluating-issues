@@ -50,7 +50,7 @@ Total: 18
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 21 | 0 | 7 | ⌛ 2019-07-06 |
+| [#11843](https://github.com/eslint/eslint/issues/11843) | Support for "message" with "patterns" in `no-restricted-imports` |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 21 | 0 | 8 | ⌛ 2019-07-06 |
 
 Total: 1
 
@@ -75,13 +75,14 @@ Total: 8
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | 2020-02-20 |
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  |  |  | 0 | 0 | 7 | 2020-03-05 |
+| [#12908](https://github.com/eslint/eslint/pull/12908) | Update: no-sequences requires parens in assignment position |  |  |  | 0 | 0 | 3 | 2020-03-05 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | 2020-02-29 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
 | [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | 2020-02-23 |
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 4 | 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 
-Total: 7
+Total: 8
 
 ## Needs consensus
 
