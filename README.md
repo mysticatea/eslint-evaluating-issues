@@ -75,7 +75,6 @@ Total: 8
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | 2020-02-20 |
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  |  |  | 0 | 0 | 7 | 2020-03-05 |
-| [#12908](https://github.com/eslint/eslint/pull/12908) | Update: no-sequences requires parens in assignment position |  |  |  | 0 | 0 | 3 | 2020-03-05 |
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | 2020-02-29 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
@@ -83,7 +82,7 @@ Total: 8
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 4 | 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 
-Total: 9
+Total: 8
 
 ## Needs consensus
 
@@ -108,12 +107,13 @@ Total: 2
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 7 | ⌛ 2020-01-17 |
 | [#12703](https://github.com/eslint/eslint/issues/12703) | Allow "reportUnusedDisableDirectives" option to "error" |  |  |  | 2 | 0 | 6 | ⌛ 2020-01-12 |
+| [#12917](https://github.com/eslint/eslint/issues/12917) | More configurable `ignorePatterns`. |  |  |  | 0 | 0 | 1 | 2020-03-06 |
 | [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | 2020-03-03 |
 | [#12828](https://github.com/eslint/eslint/issues/12828) | eslint does not invalidate cache when updating a plugin |  |  |  | 0 | 0 | 1 | ⌛ 2020-02-15 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 6 | ⌛ 2020-02-07 |
 | [#12783](https://github.com/eslint/eslint/issues/12783) | Enhancement of sort-keys |  |  |  | 0 | 0 | 3 | ⌛ 2020-02-03 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
