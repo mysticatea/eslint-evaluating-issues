@@ -76,13 +76,14 @@ Total: 8
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | 2020-02-20 |
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  |  |  | 0 | 0 | 7 | 2020-03-05 |
 | [#12908](https://github.com/eslint/eslint/pull/12908) | Update: no-sequences requires parens in assignment position |  |  |  | 0 | 0 | 3 | 2020-03-05 |
+| [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | 2020-02-29 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
 | [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | 2020-02-23 |
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 4 | 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 
-Total: 8
+Total: 9
 
 ## Needs consensus
 
@@ -131,13 +132,12 @@ Total: 1
 | [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | ⌛ 2020-02-11 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | ⌛ 2020-02-06 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 7 | ⌛ 2020-01-19 |
-| [#12705](https://github.com/eslint/eslint/issues/12705) | Add constructor option to space-before-function-paren |  |  |  | 0 | 0 | 5 | ⌛ 2020-01-13 |
 | [#12682](https://github.com/eslint/eslint/issues/12682) | no-extra-parens: Allow brackets in expressions that depend on operator precedence |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-08 |
 | [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-04 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
