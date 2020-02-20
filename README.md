@@ -74,7 +74,6 @@ Total: 8
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
-| [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | ⌛ 2020-02-20 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 1 | 2020-03-05 |
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
@@ -84,7 +83,7 @@ Total: 8
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 4 | 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | 2020-02-21 |
 
-Total: 10
+Total: 9
 
 ## Needs consensus
 
@@ -127,6 +126,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | ⌛ 2020-02-20 |
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | ⌛ 2020-02-10 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 9 | ⌛ 2020-02-03 |
 | [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | ⌛ 2020-02-11 |
@@ -137,7 +137,7 @@ Total: 1
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 9
+Total: 10
 
 ## Pull requests for closed issue
 
