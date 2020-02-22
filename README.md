@@ -74,7 +74,7 @@ Total: 7
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
-| [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 1 | 2020-03-12 |
+| [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 2 | 2020-03-05 |
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
