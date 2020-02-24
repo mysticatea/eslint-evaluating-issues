@@ -81,9 +81,8 @@ Total: 8
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | 2020-02-29 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
-| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | ⌛ 2020-02-23 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
@@ -126,6 +125,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 1 | 0 | 2 | ⌛ 2020-02-23 |
 | [#12846](https://github.com/eslint/eslint/issues/12846) | Is no-irregular-whitespace fixable? |  |  |  | 1 | 0 | 2 | ⌛ 2020-02-20 |
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | ⌛ 2020-02-10 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 9 | ⌛ 2020-02-03 |
@@ -137,7 +137,7 @@ Total: 1
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 10
+Total: 11
 
 ## Pull requests for closed issue
 
