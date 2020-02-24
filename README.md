@@ -81,7 +81,7 @@ Total: 8
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | 2020-02-29 |
 | [#12868](https://github.com/eslint/eslint/issues/12868) | Require initialValue for .reduce() |  |  |  | 0 | 0 | 4 | 2020-02-24 |
-| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | 2020-02-23 |
+| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() |  |  |  | 0 | 0 | 2 | ⌛ 2020-02-23 |
 
 Total: 8
 
@@ -131,14 +131,13 @@ Total: 1
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 9 | ⌛ 2020-02-03 |
 | [#12856](https://github.com/eslint/eslint/issues/12856) | no-useless-escape: Special case for RexExp literal character sets. |  |  |  | 0 | 0 | 4 | ⌛ 2020-02-22 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | ⌛ 2020-02-21 |
-| [#12819](https://github.com/eslint/eslint/issues/12819) | even smarter unused-var detection |  |  |  | 0 | 0 | 1 | ⌛ 2020-02-11 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | 0 | 3 | ⌛ 2020-02-06 |
 | [#12716](https://github.com/eslint/eslint/issues/12716) | New rule proposal: prefer-ternary |  |  |  | 0 | 0 | 7 | ⌛ 2020-01-19 |
 | [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines |  |  |  | 0 | 0 | 4 | ⌛ 2020-01-04 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 11
+Total: 10
 
 ## Pull requests for closed issue
 
