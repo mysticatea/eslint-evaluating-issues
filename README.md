@@ -65,7 +65,7 @@ Total: 1
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | 2020-02-26 |
 | [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-12-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
-| [#12951](https://github.com/eslint/eslint/issues/12951) | [sort-imports] Allow the users to group their imports in a simple way (PR [#12956](https://github.com/eslint/eslint/pull/12956)) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 0 | 2020-03-14 |
+| [#12951](https://github.com/eslint/eslint/issues/12951) | [sort-imports] Allow the users to group their imports in a simple way (PR [#12956](https://github.com/eslint/eslint/pull/12956)) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2020-03-14 |
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 9 | 2020-03-05 |
 
 Total: 8
