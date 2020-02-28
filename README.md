@@ -66,7 +66,7 @@ Total: 1
 | [#12871](https://github.com/eslint/eslint/issues/12871) | no-unused-vars should warn on the offending assignment instead of declaration |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 15 | ⌛ 2020-02-25 |
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2020-02-26 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
-| [#12970](https://github.com/eslint/eslint/issues/12970) | Missing control for chained calls (compared to other rules) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-19 |
+| [#12970](https://github.com/eslint/eslint/issues/12970) | Missing control for chained calls (compared to other rules) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-03-19 |
 
 Total: 7
 
