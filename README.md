@@ -65,8 +65,8 @@ Total: 1
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 11 | 2020-03-05 |
 | [#12871](https://github.com/eslint/eslint/issues/12871) | no-unused-vars should warn on the offending assignment instead of declaration |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 15 | ⌛ 2020-02-25 |
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2020-02-26 |
-| [#12634](https://github.com/eslint/eslint/issues/12634) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 0 | 9 | ⌛ 2019-12-24 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
+| [#12970](https://github.com/eslint/eslint/issues/12970) | Missing control for chained calls (compared to other rules) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-19 |
 
 Total: 7
 
@@ -108,10 +108,9 @@ Total: 2
 | [#12714](https://github.com/eslint/eslint/issues/12714) | Expose ast-utils in the api |  |  |  | 4 | 0 | 7 | ⌛ 2020-01-17 |
 | [#12949](https://github.com/eslint/eslint/issues/12949) | Parser in extended configuration isn't resolved relatively to current directory, opposite to plugins |  |  |  | 0 | 0 | 1 | 2020-03-14 |
 | [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | 2020-03-03 |
-| [#12828](https://github.com/eslint/eslint/issues/12828) | eslint does not invalidate cache when updating a plugin |  |  |  | 0 | 0 | 1 | ⌛ 2020-02-15 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 6 | ⌛ 2020-02-07 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
