@@ -66,23 +66,23 @@ Total: 1
 | [#12871](https://github.com/eslint/eslint/issues/12871) | no-unused-vars should warn on the offending assignment instead of declaration |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 15 | ⌛ 2020-02-25 |
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2020-02-26 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
+| [#12982](https://github.com/eslint/eslint/pull/12982) | Added auto-fix to multiline-ternary |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-03-20 |
 | [#12970](https://github.com/eslint/eslint/issues/12970) | Missing control for chained calls (compared to other rules) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2020-03-19 |
 
-Total: 7
+Total: 8
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
-| [#12982](https://github.com/eslint/eslint/pull/12982) | Added auto-fix to multiline-ternary |  |  |  | 0 | 0 | 2 | 2020-03-20 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 9 | 2020-03-20 |
 | [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | 2020-03-05 |
 | [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
