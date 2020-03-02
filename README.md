@@ -61,13 +61,13 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12951](https://github.com/eslint/eslint/issues/12951) | [sort-imports] Allow the users to group their imports in a simple way (PR [#12956](https://github.com/eslint/eslint/pull/12956)) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 6 | 2020-03-14 |
+| [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2020-02-26 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 6 | ⌛ 2019-12-18 |
 | [#12982](https://github.com/eslint/eslint/pull/12982) | Added auto-fix to multiline-ternary |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-03-20 |
+| [#12979](https://github.com/eslint/eslint/issues/12979) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-20 |
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 11 | 2020-03-05 |
 | [#12871](https://github.com/eslint/eslint/issues/12871) | no-unused-vars should warn on the offending assignment instead of declaration |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 0 | 0 | 15 | ⌛ 2020-02-25 |
-| [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 1 | ⌛ 2020-02-26 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
-| [#12979](https://github.com/eslint/eslint/issues/12979) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-20 |
 | [#12970](https://github.com/eslint/eslint/issues/12970) | Missing control for chained calls (compared to other rules) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 5 | 2020-03-19 |
 
 Total: 9
@@ -81,7 +81,7 @@ Total: 9
 | [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | 2020-03-05 |
-| [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | 2020-03-02 |
+| [#12899](https://github.com/eslint/eslint/issues/12899) | callback-return not working for calls immediately preceding returns |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-02 |
 
 Total: 6
 
