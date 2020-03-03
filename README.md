@@ -108,7 +108,7 @@ Total: 2
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 3 | 2020-03-20 |
 | [#12949](https://github.com/eslint/eslint/issues/12949) | Parser in extended configuration isn't resolved relatively to current directory, opposite to plugins |  |  |  | 0 | 0 | 1 | 2020-03-14 |
-| [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | 2020-03-03 |
+| [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-03 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 6 | ⌛ 2020-02-07 |
 
 Total: 13
