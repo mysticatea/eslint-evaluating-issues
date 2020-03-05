@@ -77,13 +77,15 @@ Total: 9
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
+| [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed |  |  |  | 0 | 0 | 1 | 2020-03-25 |
+| [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  |  |  | 0 | 0 | 5 | 2020-03-25 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 7 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
 | [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
-| [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | 2020-03-05 |
+| [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-05 |
 
-Total: 6
+Total: 8
 
 ## Needs consensus
 
@@ -107,7 +109,7 @@ Total: 2
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
 | [#12941](https://github.com/eslint/eslint/issues/12941) | Support querying for nodes using the eslint node selector syntax from an individual node |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-03-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
-| [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 4 | 2020-03-20 |
+| [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | 2020-03-20 |
 | [#12949](https://github.com/eslint/eslint/issues/12949) | Parser in extended configuration isn't resolved relatively to current directory, opposite to plugins |  |  |  | 0 | 0 | 1 | 2020-03-14 |
 | [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-03 |
 | [#12802](https://github.com/eslint/eslint/issues/12802) | enable Cache by default |  |  |  | 0 | 0 | 6 | ⌛ 2020-02-07 |
