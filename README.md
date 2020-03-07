@@ -100,7 +100,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 17 | ⌛ 2019-08-05 |
+| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 1 | 0 | 18 | ⌛ 2019-08-05 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 3 | 0 | 8 | ⌛ 2019-06-28 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 3 | 0 | 7 | ⌛ 2018-05-17 |
