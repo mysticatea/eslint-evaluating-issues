@@ -68,23 +68,23 @@ Total: 1
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 11 | ⌛ 2020-03-05 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
 | [#12999](https://github.com/eslint/eslint/issues/12999) | no-tabs: Add an ignoreComments option |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-26 |
+| [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-03-25 |
+| [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | 2020-03-25 |
 | [#12970](https://github.com/eslint/eslint/issues/12970) | newline-per-chained-call not working as expected (PR [#13001](https://github.com/eslint/eslint/pull/13001)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 19 | 2020-03-19 |
 
-Total: 8
+Total: 10
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
-| [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed |  |  |  | 0 | 0 | 2 | 2020-03-25 |
-| [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  |  |  | 0 | 0 | 7 | 2020-03-25 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
 | [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
-| [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | 2020-03-08 |
+| [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-08 |
 
-Total: 7
+Total: 5
 
 ## Needs consensus
 
