@@ -78,7 +78,7 @@ Total: 10
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  |  |  | 1 | 0 | 1 | 2020-03-30 |
+| [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  |  |  | 1 | 0 | 2 | 2020-03-30 |
 | [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | 2020-03-10 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
