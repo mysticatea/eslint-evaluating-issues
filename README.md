@@ -120,10 +120,11 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 1 | 2020-03-26 |
 | [#12948](https://github.com/eslint/eslint/issues/12948) | [padding-line-between-statements] Add an option for padding object elements |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2020-03-13 |
 | [#12872](https://github.com/eslint/eslint/issues/12872) | [no-magic-numbers] - Add an option to omit numbers check in array declaration |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 9 | ⌛ 2020-02-25 |
 
-Total: 2
+Total: 3
 
 ## Looks inactive
 
