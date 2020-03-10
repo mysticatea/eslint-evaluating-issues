@@ -79,12 +79,11 @@ Total: 10
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  |  |  | 1 | 0 | 2 | 2020-03-30 |
-| [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | ⌛ 2020-03-10 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
 | [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | 2020-03-12 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -130,6 +129,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12931](https://github.com/eslint/eslint/issues/12931) | Categorized Changelog |  |  |  | 1 | 0 | 1 | ⌛ 2020-03-10 |
 | [#12813](https://github.com/eslint/eslint/pull/12813) | Update: Improve report location for template-curly-spacing |  |  |  | 1 | 0 | 0 | ⌛ 2020-02-10 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 11 | ⌛ 2020-02-03 |
 | [#12924](https://github.com/eslint/eslint/issues/12924) | arrow-body-style no braces for one-liner |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-08 |
@@ -143,7 +143,7 @@ Total: 2
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 12
+Total: 13
 
 ## Pull requests for closed issue
 
