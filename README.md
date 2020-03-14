@@ -113,7 +113,7 @@ Total: 2
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | 0 | 12 | 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 2 | 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | 2020-03-20 |
-| [#12949](https://github.com/eslint/eslint/issues/12949) | Parser in extended configuration isn't resolved relatively to current directory, opposite to plugins |  |  |  | 0 | 0 | 1 | 2020-03-14 |
+| [#12949](https://github.com/eslint/eslint/issues/12949) | Parser in extended configuration isn't resolved relatively to current directory, opposite to plugins |  |  |  | 0 | 0 | 1 | ⌛ 2020-03-14 |
 | [#12904](https://github.com/eslint/eslint/issues/12904) | Cache is not invalidated when package.json changes |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-03 |
 
 Total: 16
