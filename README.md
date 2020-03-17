@@ -78,14 +78,15 @@ Total: 10
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  |  |  | 3 | 0 | 3 | 2020-03-30 |
-| [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  |  | 0 | 0 | 4 | 2020-04-07 |
+| [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  |  | 0 | 0 | 5 | 2020-04-07 |
+| [#13047](https://github.com/eslint/eslint/issues/13047) | no-return-assignment ignore arrow function |  |  |  | 0 | 0 | 3 | 2020-04-05 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  |  | 0 | 0 | 3 | 2020-04-02 |
 | [#12997](https://github.com/eslint/eslint/issues/12997) | padded-blocks: add an option: maxStatements |  |  |  | 0 | 0 | 4 | 2020-03-25 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | 0 | 5 | 2020-03-20 |
 
-Total: 7
+Total: 8
 
 ## Needs consensus
 
