@@ -107,7 +107,7 @@ Total: 2
 | [#13003](https://github.com/eslint/eslint/issues/13003) | Typescript `eslint --init` false positives |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-26 |
 | [#12941](https://github.com/eslint/eslint/issues/12941) | Support querying for nodes using the eslint node selector syntax from an individual node |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-03-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
-| [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 2 | 0 | 7 | 2020-03-26 |
+| [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 3 | 0 | 7 | 2020-03-26 |
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | 0 | 12 | 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 2 | 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | 2020-03-20 |
