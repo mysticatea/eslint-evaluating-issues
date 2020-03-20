@@ -80,7 +80,7 @@ Total: 11
 | [#12997](https://github.com/eslint/eslint/issues/12997) | padded-blocks: add an option: maxStatements |  |  |  | 0 | 0 | 6 | 2020-03-25 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | 2020-03-25 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | 2020-03-20 |
-| [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | 0 | 5 | 2020-03-20 |
+| [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | 0 | 5 | ⌛ 2020-03-20 |
 
 Total: 7
 
