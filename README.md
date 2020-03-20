@@ -64,12 +64,11 @@ Nothing.
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 11 | ⌛ 2020-03-05 |
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 0 | 3 | 2020-03-30 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
-| [#13033](https://github.com/eslint/eslint/issues/13033) | Support whitelist with `no-implicit-globals` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-04-02 |
 | [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | 2020-03-25 |
 | [#12970](https://github.com/eslint/eslint/issues/12970) | newline-per-chained-call not working as expected (PR [#13001](https://github.com/eslint/eslint/pull/13001)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 19 | ⌛ 2020-03-19 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2020-03-13 |
 
-Total: 12
+Total: 11
 
 ## Needs interest
 
@@ -91,8 +90,9 @@ Total: 7
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 7 | 44 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 1 | 2 | 11 | ⌛ 2018-05-02 |
+| [#13033](https://github.com/eslint/eslint/issues/13033) | Support whitelist with `no-implicit-globals` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | 2020-04-02 |
 
-Total: 2
+Total: 3
 
 ## Needs approval in a TSC meeting
 
@@ -108,7 +108,7 @@ Total: 2
 | [#12941](https://github.com/eslint/eslint/issues/12941) | Support querying for nodes using the eslint node selector syntax from an individual node |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-03-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
 | [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 3 | 0 | 7 | 2020-03-26 |
-| [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | 0 | 1 | 2020-04-01 |
+| [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | 0 | 2 | 2020-04-01 |
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | 0 | 12 | 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 3 | 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | 2020-03-20 |
@@ -122,7 +122,7 @@ Total: 15
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 9 | 2020-04-07 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | 2020-04-02 |
-| [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 3 | 2020-03-26 |
+| [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | 2020-03-26 |
 | [#12948](https://github.com/eslint/eslint/issues/12948) | [padding-line-between-statements] Add an option for padding object elements |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | ⌛ 2020-03-13 |
 
 Total: 4
