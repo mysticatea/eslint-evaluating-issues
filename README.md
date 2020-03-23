@@ -64,11 +64,12 @@ Nothing.
 | [#12909](https://github.com/eslint/eslint/pull/12909) | Update: Report constructor calls in no-obj-calls |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 14 | ⌛ 2020-03-05 |
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 0 | 3 | 2020-03-30 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
+| [#13070](https://github.com/eslint/eslint/issues/13070) | [Change Request: space-in-parens] Allow Space Before `!` Operator |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2020-04-12 |
 | [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 8 | 2020-03-25 |
 | [#12970](https://github.com/eslint/eslint/issues/12970) | newline-per-chained-call not working as expected (PR [#13001](https://github.com/eslint/eslint/pull/13001)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 19 | ⌛ 2020-03-19 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 0 | ⌛ 2020-03-13 |
 
-Total: 11
+Total: 12
 
 ## Needs interest
 
