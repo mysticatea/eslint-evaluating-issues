@@ -137,7 +137,6 @@ Total: 5
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | ⌛ 2020-03-20 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | 0 | 5 | ⌛ 2020-03-20 |
 | [#12969](https://github.com/eslint/eslint/issues/12969) | Instead of no-extra-parens, I'd like to enforce extra parens |  |  |  | 0 | 0 | 6 | ⌛ 2020-03-19 |
-| [#12942](https://github.com/eslint/eslint/issues/12942) | [padding-line-between-statements] add option for statements containing yield  |  |  |  | 0 | 0 | 2 | ⌛ 2020-03-12 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-05 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | 0 | 2 | ⌛ 2020-02-29 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | 0 | 5 | ⌛ 2020-02-21 |
@@ -146,7 +145,7 @@ Total: 5
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 12
+Total: 11
 
 ## Pull requests for closed issue
 
