@@ -87,7 +87,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 7 | 47 | ⌛ 2018-05-17 |
+| [#10264](https://github.com/eslint/eslint/issues/10264) | Proposal: no-optional-catch-binding rule | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | 4 | 7 | 49 | ⌛ 2018-05-17 |
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 1 | 2 | 11 | ⌛ 2018-05-02 |
 
 Total: 2
@@ -102,7 +102,7 @@ Total: 2
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 3 | 0 | 7 | ⌛ 2018-05-17 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | 0 | 12 | ⌛ 2018-02-11 |
-| [#13003](https://github.com/eslint/eslint/issues/13003) | Typescript `eslint --init` false positives |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | 2020-03-26 |
+| [#13003](https://github.com/eslint/eslint/issues/13003) | Typescript `eslint --init` false positives |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2020-03-26 |
 | [#12941](https://github.com/eslint/eslint/issues/12941) | Support querying for nodes using the eslint node selector syntax from an individual node |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2020-03-11 |
 | [#13071](https://github.com/eslint/eslint/issues/13071) | Detect if .eslintrc file exists with API / use `baseConfig` only if an .eslintrc file does not exist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 1 | 2020-04-13 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 18 | 0 | 21 | ⌛ 2019-11-09 |
@@ -121,21 +121,22 @@ Total: 17
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12948](https://github.com/eslint/eslint/issues/12948) | [padding-line-between-statements] Add an option for padding object elements |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 1 | 0 | 2 | ⌛ 2020-03-13 |
+| [#13098](https://github.com/eslint/eslint/issues/13098) | Warn when sort is called with no arguments on array of non-string types |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 7 | 2020-04-16 |
 | [#13069](https://github.com/eslint/eslint/issues/13069) | Hard-coded Date should be created in UTC |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 1 | 3 | 2020-04-11 |
 | [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 9 | 2020-04-07 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | 2020-04-02 |
 | [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2020-03-26 |
 
-Total: 5
+Total: 6
 
 ## Looks inactive
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 1 | 0 | 10 | ⌛ 2020-03-20 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 11 | ⌛ 2020-02-03 |
 | [#12997](https://github.com/eslint/eslint/issues/12997) | padded-blocks: add an option: maxStatements |  |  |  | 0 | 0 | 6 | ⌛ 2020-03-25 |
 | [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | 0 | 13 | ⌛ 2020-03-25 |
-| [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 0 | 0 | 10 | ⌛ 2020-03-20 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | 0 | 5 | ⌛ 2020-03-20 |
 | [#12969](https://github.com/eslint/eslint/issues/12969) | Instead of no-extra-parens, I'd like to enforce extra parens |  |  |  | 0 | 0 | 6 | ⌛ 2020-03-19 |
 | [#12907](https://github.com/eslint/eslint/issues/12907) | [spaced-comment] require two (N) spaces before a line comment? |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-05 |
