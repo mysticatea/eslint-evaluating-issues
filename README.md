@@ -40,14 +40,13 @@ Total: 1
 | [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 0 | 5 | ⌛ 2019-12-13 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars | <img alt="@ilyavolodin" src="https://github.com/ilyavolodin.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2019-02-11 |
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 56 | 0 | 48 | ⌛ 2017-09-29 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 3 | 0 | 5 | ⌛ 2019-09-30 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | 0 | 6 | ⌛ 2019-11-05 |
 | [#13029](https://github.com/eslint/eslint/pull/13029) | Update: Add filtering to no-inline-comments and allow Webpack magic comments  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | 0 | 6 | 2020-04-01 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 14 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 0 | 0 | 7 | ⌛ 2018-11-03 |
 
-Total: 21
+Total: 20
 
 ## Needs a champion
 
@@ -65,7 +64,7 @@ Nothing.
 | [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | ⌛ 2020-03-25 |
 | [#12979](https://github.com/eslint/eslint/issues/12979) | Update: rule 'padding-line-between-statements' - add number of lines |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 2 | ⌛ 2020-03-20 |
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 0 | 3 | ⌛ 2020-03-30 |
-| [#13119](https://github.com/eslint/eslint/issues/13119) | Rule to enforce consistent spacing after if statement parens when no braces are present |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 4 | 2020-04-19 |
+| [#13119](https://github.com/eslint/eslint/issues/13119) | Rule to enforce consistent spacing after if statement parens when no braces are present |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 5 | 2020-04-19 |
 | [#13070](https://github.com/eslint/eslint/issues/13070) | [Change Request: space-in-parens] Allow Space Before `!` Operator |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 0 | 3 | 2020-04-12 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 0 | 7 | ⌛ 2019-08-22 |
 | [#13033](https://github.com/eslint/eslint/issues/13033) | Support whitelist with `no-implicit-globals` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 6 | 2020-04-02 |
@@ -79,11 +78,12 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 0 | 2 | 2020-04-17 |
+| [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 0 | 1 | 2020-04-20 |
+| [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 0 | 4 | 2020-04-17 |
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | 0 | 4 | 2020-04-06 |
 | [#13047](https://github.com/eslint/eslint/issues/13047) | no-return-assignment ignore arrow function |  |  |  | 0 | 0 | 3 | 2020-04-05 |
 
-Total: 3
+Total: 4
 
 ## Needs consensus
 
@@ -99,6 +99,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 18 | ⌛ 2019-08-05 |
+| [#13120](https://github.com/eslint/eslint/pull/13120) | Chore: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 3 | 2020-04-19 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 3 | 0 | 8 | ⌛ 2019-06-28 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 3 | 0 | 7 | ⌛ 2018-05-17 |
@@ -116,7 +117,7 @@ Total: 2
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | ⌛ 2020-03-20 |
 
-Total: 17
+Total: 18
 
 ## Looks opposed
 
@@ -134,6 +135,7 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 56 | 0 | 52 | ⌛ 2017-09-29 |
 | [#12980](https://github.com/eslint/eslint/issues/12980) | Rule proposal: `no-unused-return-value` |  |  |  | 1 | 0 | 10 | ⌛ 2020-03-20 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | 0 | 11 | ⌛ 2020-02-03 |
 | [#12997](https://github.com/eslint/eslint/issues/12997) | padded-blocks: add an option: maxStatements |  |  |  | 0 | 0 | 6 | ⌛ 2020-03-25 |
@@ -147,7 +149,7 @@ Total: 5
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | 0 | 2 | ⌛ 2019-12-03 |
 | [#12522](https://github.com/eslint/eslint/pull/12522) | New: baseIndent option for indent rule |  |  |  | 0 | 0 | 7 | ⌛ 2019-11-23 |
 
-Total: 12
+Total: 13
 
 ## Pull requests for closed issue
 
