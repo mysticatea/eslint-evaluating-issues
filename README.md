@@ -98,8 +98,8 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+| [#13120](https://github.com/eslint/eslint/pull/13120) | Update: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-04-19 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 18 | ⌛ 2019-08-05 |
-| [#13120](https://github.com/eslint/eslint/pull/13120) | Update: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-04-19 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 3 | 0 | 8 | ⌛ 2019-06-28 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  |  | 3 | 0 | 7 | ⌛ 2018-05-17 |
@@ -111,7 +111,7 @@ Total: 2
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | 0 | 21 | ⌛ 2019-11-09 |
 | [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 3 | 0 | 7 | ⌛ 2020-03-26 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  |  | 0 | 0 | 1 | 2020-04-17 |
-| [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 0 | 4 | 2020-04-14 |
+| [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 0 | 6 | 2020-04-14 |
 | [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | 0 | 4 | 2020-04-01 |
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | 0 | 12 | ⌛ 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-27 |
