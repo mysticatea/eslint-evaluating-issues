@@ -111,7 +111,7 @@ Total: 2
 | [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 3 | 0 | 7 | ⌛ 2020-03-26 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  |  | 0 | 0 | 1 | 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 0 | 8 | 2020-04-14 |
-| [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | 0 | 4 | 2020-04-01 |
+| [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | 0 | 4 | ⌛ 2020-04-01 |
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | 0 | 12 | ⌛ 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | ⌛ 2020-03-20 |
