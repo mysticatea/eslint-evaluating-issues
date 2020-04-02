@@ -98,7 +98,6 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#13120](https://github.com/eslint/eslint/pull/13120) | Update: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 1 | 0 | 4 | 2020-04-19 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 18 | ⌛ 2019-08-05 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 3 | 0 | 8 | ⌛ 2019-06-28 |
@@ -117,7 +116,7 @@ Total: 2
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-27 |
 | [#12975](https://github.com/eslint/eslint/issues/12975) | Allow an `/* eslint */` alternative to apply until overridden by another such directive (or if disabled) |  |  |  | 0 | 0 | 7 | ⌛ 2020-03-20 |
 
-Total: 18
+Total: 17
 
 ## Looks opposed
 
