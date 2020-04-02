@@ -127,9 +127,8 @@ Total: 17
 | [#13069](https://github.com/eslint/eslint/issues/13069) | Hard-coded Date should be created in UTC |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 1 | 3 | 2020-04-11 |
 | [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 9 | 2020-04-07 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 5 | 2020-04-02 |
-| [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2020-03-26 |
 
-Total: 6
+Total: 5
 
 ## Looks inactive
 
@@ -156,8 +155,7 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 0 | 4 | ⌛ 2020-02-03 |
-| [#12956](https://github.com/eslint/eslint/pull/12956) | Update: Allows for grouped sort-imports (fixes [#12951](https://github.com/eslint/eslint/issues/12951)) |  |  |  | 0 | 0 | 3 | ⌛ 2020-03-15 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | 0 | 5 | ⌛ 2019-09-05 |
 
-Total: 3
+Total: 2
 
