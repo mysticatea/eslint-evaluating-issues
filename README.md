@@ -77,7 +77,7 @@ Total: 14
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#13129](https://github.com/eslint/eslint/issues/13129) | Consider all arguments used if `arguments` is used. |  |  |  | 0 | 0 | 2 | 2020-04-22 |
+| [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | 0 | 1 | 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 0 | 3 | 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 0 | 5 | 2020-04-17 |
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | 0 | 4 | 2020-04-06 |
@@ -124,12 +124,13 @@ Total: 18
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#12948](https://github.com/eslint/eslint/issues/12948) | [padding-line-between-statements] Add an option for padding object elements |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 1 | 0 | 3 | ⌛ 2020-03-13 |
+| [#13129](https://github.com/eslint/eslint/issues/13129) | Consider all arguments used if `arguments` is used. |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 2 | 2020-04-22 |
 | [#13069](https://github.com/eslint/eslint/issues/13069) | Hard-coded Date should be created in UTC |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 1 | 3 | 2020-04-11 |
 | [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 0 | 9 | 2020-04-07 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 5 | 2020-04-02 |
 | [#13002](https://github.com/eslint/eslint/pull/13002) | Update: add checking static value in no-throw-literal |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 0 | 4 | ⌛ 2020-03-26 |
 
-Total: 5
+Total: 6
 
 ## Looks inactive
 
