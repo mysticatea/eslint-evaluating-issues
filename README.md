@@ -79,7 +79,7 @@ Total: 14
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
 | [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | 0 | 1 | 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 0 | 3 | 2020-04-20 |
-| [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 0 | 5 | 2020-04-17 |
+| [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 0 | 6 | 2020-04-17 |
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | 0 | 4 | 2020-04-06 |
 | [#13047](https://github.com/eslint/eslint/issues/13047) | no-return-assignment ignore arrow function |  |  |  | 0 | 0 | 3 | 2020-04-05 |
 
@@ -98,7 +98,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
-| [#13120](https://github.com/eslint/eslint/pull/13120) | Update: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 0 | 4 | 2020-04-19 |
+| [#13120](https://github.com/eslint/eslint/pull/13120) | Update: Improve error message for fatal fixer errors | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 1 | 0 | 4 | 2020-04-19 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@platinumazure" src="https://github.com/platinumazure.png" width="32px" height="32px"> |  | 2 | 0 | 18 | ⌛ 2019-08-05 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 0 | 8 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 3 | 0 | 8 | ⌛ 2019-06-28 |
