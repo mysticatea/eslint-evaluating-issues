@@ -4,10 +4,10 @@
  */
 "use strict"
 
+const { promises: fs } = require("fs")
 const addDays = require("date-fns/add_days")
 const isAfter = require("date-fns/is_after")
 const logger = require("fancy-log")
-const fs = require("fs-extra")
 
 //------------------------------------------------------------------------------
 // Helpers
@@ -125,14 +125,17 @@ function isOld(issue) {
 //------------------------------------------------------------------------------
 
 ;(async () => {
+    logger.info("Reading issues and pull requests...")
+    const issues = JSON.parse(await fs.readFile("issues.json", "utf8"))
+
+    logger.info("Classifying issues and pull requests...")
     const prsForClosedIssues = []
     const coreIssues = []
     const championedIssues = []
     const niceIssues = []
     const toughIssues = []
     const zeroIssues = []
-
-    for (const i of await fs.readJson("issues.json")) {
+    for (const i of issues) {
         if (i.issueClosed) {
             prsForClosedIssues.push(i)
         } else if (i.labels.includes("core") || i.labels.includes("cli")) {
@@ -148,6 +151,7 @@ function isOld(issue) {
         }
     }
 
+    logger.info("Creating README.md...")
     const content = `# ESLint Features in Evaluating [![Build Status](https://github.com/mysticatea/eslint-evaluating-issues/workflows/Build/badge.svg)](https://github.com/mysticatea/eslint-evaluating-issues/actions)
 
 ESLint needs a champion and three supporters from [the team](https://github.com/eslint/eslint#team) in order to accept new features.
@@ -207,7 +211,10 @@ ${renderTable(prsForClosedIssues.filter(isOld))}
 
 `
 
+    logger.info("Writing README.md...")
     await fs.writeFile("README.md", content)
+
+    logger.info("All process completed.")
 })().catch(error => {
     logger.error(error.stack)
     process.exitCode = 1

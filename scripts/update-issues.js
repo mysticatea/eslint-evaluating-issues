@@ -4,33 +4,15 @@
  */
 "use strict"
 
+const { promises: fs } = require("fs")
 const toArray = require("@async-generators/to-array").default
 const Octokit = require("@octokit/rest")
 const { version } = require("@octokit/rest/package.json")
 const logger = require("fancy-log")
-const fs = require("fs-extra")
-const matchAll = require("string.prototype.matchall")
 
 //------------------------------------------------------------------------------
 // Helpers
 //------------------------------------------------------------------------------
-
-const theTeam = new Set(
-    [
-        // From https://github.com/eslint/website/blob/master/_data/team.json
-        "nzakas",
-        "platinumazure",
-        "ilyavolodin",
-        "btmills",
-        "mysticatea",
-        "gyandeeps",
-        "not-an-aardvark",
-        "kaicataldo",
-        "aladdin-add",
-        "g-plane",
-        "mdjermanovic",
-    ].map(username => username.toLowerCase()),
-)
 
 async function* paginate(octokit, endpoint) {
     for await (const response of octokit.paginate.iterator(endpoint)) {
@@ -68,7 +50,7 @@ function getReactions(octokit, issue) {
     )
 }
 
-async function normalizeIssueOrPullRequest(octokit, issue) {
+async function normalizeIssueOrPullRequest(octokit, team, issue) {
     const id = issue.number
     const url = issue.html_url
     const title = issue.title.replace(
@@ -76,27 +58,28 @@ async function normalizeIssueOrPullRequest(octokit, issue) {
         "[#$1](https://github.com/eslint/eslint/issues/$1)",
     )
     const labels = issue.labels.map(label => label.name)
-    const champion = issue.assignee && issue.assignee.login.toLowerCase()
+    const championCandidate = issue.assignee && issue.assignee.login
+    const champion = team.has(championCandidate) ? championCandidate : null
     const numComments = issue.comments
     const createdTime = issue.created_at
     const reactions = await getReactions(octokit, issue)
     const upvoters = reactions
         .filter(reaction => reaction.content === "+1")
-        .map(reaction => reaction.user.login.toLowerCase())
+        .map(reaction => reaction.user.login)
     const downvoters = reactions
         .filter(reaction => reaction.content === "-1")
-        .map(reaction => reaction.user.login.toLowerCase())
+        .map(reaction => reaction.user.login)
     const supporters = upvoters.filter(
-        username => username !== champion && theTeam.has(username),
+        username => username !== champion && team.has(username),
     )
     const against = downvoters.filter(
-        username => username !== champion && theTeam.has(username),
+        username => username !== champion && team.has(username),
     )
     const numUpvotes = upvoters.filter(
-        username => username !== champion && !theTeam.has(username),
+        username => username !== champion && !team.has(username),
     ).length
     const numDownvotes = downvoters.filter(
-        username => username !== champion && !theTeam.has(username),
+        username => username !== champion && !team.has(username),
     ).length
 
     return {
@@ -114,30 +97,30 @@ async function normalizeIssueOrPullRequest(octokit, issue) {
     }
 }
 
-async function normalizeIssue(octokit, issueData) {
-    const issue = await normalizeIssueOrPullRequest(octokit, issueData)
+async function normalizeIssue(octokit, team, issueData) {
+    const issue = await normalizeIssueOrPullRequest(octokit, team, issueData)
     issue.kind = "issue"
     issue.prs = []
 
     return issue
 }
 
-async function normalizePullRequest(octokit, prData, closed) {
-    const pr = await normalizeIssueOrPullRequest(octokit, prData)
+async function normalizePullRequest(octokit, team, prData, closed) {
+    const pr = await normalizeIssueOrPullRequest(octokit, team, prData)
     pr.kind = "pr"
     pr.issueClosed = closed
 
     return pr
 }
 
-async function processIssue(octokit, issueData, issues) {
-    const issue = await normalizeIssue(octokit, issueData)
+async function processIssue(octokit, team, issueData, issues) {
+    const issue = await normalizeIssue(octokit, team, issueData)
     issues.set(issue.id, issue)
 }
 
-async function processPullRequest(octokit, prData, prs, issues) {
+async function processPullRequest(octokit, team, prData, prs, issues) {
     const fixIssueIds = Array.from(
-        matchAll(prData.title, /(?:fixe|ref)s\s+#(\d+)/gu),
+        prData.title.matchAll(/(?:fixe|ref)s\s+#(\d+)/gu),
     ).map(m => Number(m[1]))
     const fixIssues = fixIssueIds.map(id => issues.get(id)).filter(Boolean)
 
@@ -172,7 +155,7 @@ async function processPullRequest(octokit, prData, prs, issues) {
     })
     const closed =
         issueStates.length > 0 && issueStates.every(state => state !== "open")
-    const pr = await normalizePullRequest(octokit, prData, closed)
+    const pr = await normalizePullRequest(octokit, team, prData, closed)
 
     prs.set(pr.id, pr)
 }
@@ -182,12 +165,15 @@ async function processPullRequest(octokit, prData, prs, issues) {
 //------------------------------------------------------------------------------
 
 ;(async () => {
-    logger.info("Setup access token...")
+    logger.info("Reading access token...")
     const GITHUB_TOKEN =
         process.env.GITHUB_TOKEN ||
         (await fs.readFile(".access-token", "utf8")).trim()
 
-    logger.info("Setup Octokit...")
+    logger.info("Reading the team...")
+    const team = new Set(JSON.parse(await fs.readFile("team.json", "utf8")))
+
+    logger.info("Setting up Octokit...")
     const octokit = new Octokit({
         auth: `token ${GITHUB_TOKEN}`,
         previews: ["symmetra", "squirrel-girl"],
@@ -205,7 +191,7 @@ async function processPullRequest(octokit, prData, prs, issues) {
         logger.info(
             `Processing feature issue #${issue.number} "${issue.title}"`,
         )
-        await processIssue(octokit, issue, issues)
+        await processIssue(octokit, team, issue, issues)
     }
     for await (const issue of search(
         octokit,
@@ -214,7 +200,7 @@ async function processPullRequest(octokit, prData, prs, issues) {
         logger.info(
             `Processing enhance issue #${issue.number} "${issue.title}"`,
         )
-        await processIssue(octokit, issue, issues)
+        await processIssue(octokit, team, issue, issues)
     }
     logger.info(`${issues.size} issues were found.`)
 
@@ -227,7 +213,7 @@ async function processPullRequest(octokit, prData, prs, issues) {
         logger.info(
             `Processing feature pull request #${pr.number} "${pr.title}"`,
         )
-        await processPullRequest(octokit, pr, prs, issues)
+        await processPullRequest(octokit, team, pr, prs, issues)
     }
     for await (const pr of search(
         octokit,
@@ -236,7 +222,7 @@ async function processPullRequest(octokit, prData, prs, issues) {
         logger.info(
             `Processing enhance pull request #${pr.number} "${pr.title}"`,
         )
-        await processPullRequest(octokit, pr, prs, issues)
+        await processPullRequest(octokit, team, pr, prs, issues)
     }
     logger.info(`${prs.size} pull requests were found.`)
 
@@ -255,13 +241,15 @@ async function processPullRequest(octokit, prData, prs, issues) {
     }
 
     logger.info("Saving issues and pull requests...")
-    await fs.writeJson(
+    await fs.writeFile(
         "issues.json",
-        [...issues.values(), ...prs.values()].sort((a, b) => a.id - b.id),
+        JSON.stringify(
+            [...issues.values(), ...prs.values()].sort((a, b) => a.id - b.id),
+        ),
     )
 
     logger.info("All process completed.")
 })().catch(error => {
-    logger.error(error.stack)
     process.exitCode = 1
+    logger.error(error.stack)
 })

@@ -1,4 +1,5 @@
 /node_modules
 /.access-token
 /issues.json
+/team.json
 /test.*

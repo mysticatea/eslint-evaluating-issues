@@ -14,7 +14,9 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 1
     - name: Install Packages
-      run: npm install
+      run: npm install --production
+    - name: Fetch Team Data
+      run: node scripts/update-team
     - name: Fetch Issue Data
       run: node scripts/update-issues
       env:
