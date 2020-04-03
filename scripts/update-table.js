@@ -64,15 +64,13 @@ function renderTableRow({
     supporters,
     against,
     numUpvotes,
-    numDownvotes,
-    numComments,
     createdTime,
 }) {
     const championAvatar = renderAvatar(champion)
     const supporterAvatars = supporters.map(renderAvatar).join(" ")
     const againstAvatars = against.map(renderAvatar).join(" ")
     const time = renderDateTime(createdTime)
-    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${numDownvotes} | ${numComments} | ${time} |`
+    return `| [#${id}](${url}) | ${title} | ${championAvatar} | ${supporterAvatars} | ${againstAvatars} | ${numUpvotes} | ${time} |`
 }
 
 /**
@@ -84,8 +82,8 @@ function renderTable(issues) {
     if (issues.length === 0) {
         return "Nothing."
     }
-    return `| # | Title | Champ. | Supporters | Against | 👍 | 👎 | 📣 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|---:|---:|:--:|
+    return `| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
 ${issues
         .sort(compare)
         .map(renderTableRow)
@@ -164,7 +162,6 @@ This page is a summary of feature issues.
 **Legend:**
 
 - The 👍 column is the number of upvotes which came from outside of the team. Each table is sorted by this column.
-- The 📣 column is the number of comments in the issue.
 - The 🕙 column is the time to close the issue based on the [When to Close an Issue](https://eslint.org/docs/maintainer-guide/issues#when-to-close-an-issue) section.
 
 ## Accepted (needs to update labels)
