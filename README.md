@@ -53,6 +53,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-03-30 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-18 |
+| [#13132](https://github.com/eslint/eslint/issues/13132) | no-import-assign should include opt-in restriction for modifying properties on an import |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-04-22 |
 | [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern (PR [#13099](https://github.com/eslint/eslint/pull/13099)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-04-15 |
 | [#13041](https://github.com/eslint/eslint/issues/13041) | Camelcase rule change for [#9470](https://github.com/eslint/eslint/issues/9470) (PR [#12777](https://github.com/eslint/eslint/pull/12777)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-03 |
 | [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-25 |
@@ -66,19 +67,20 @@ Nothing.
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 14
+Total: 15
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
 | [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 2020-04-17 |
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | 2020-04-06 |
 | [#13047](https://github.com/eslint/eslint/issues/13047) | no-return-assignment ignore arrow function |  |  |  | 0 | 2020-04-05 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
