@@ -45,11 +45,7 @@ Total: 16
 
 ## Needs a champion
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#12982](https://github.com/eslint/eslint/pull/12982) | Added auto-fix to multiline-ternary |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-20 |
-
-Total: 1
+Nothing.
 
 ## Needs a champion and supporters
 
