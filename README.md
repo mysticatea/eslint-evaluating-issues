@@ -73,6 +73,7 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13148](https://github.com/eslint/eslint/issues/13148) | Force values to use double quotes on attributes with non-templated text |  |  |  | 0 | 2020-04-27 |
 | [#13144](https://github.com/eslint/eslint/issues/13144) | Rule proposal: declare variables before/after usage |  |  |  | 0 | 2020-04-26 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
 | [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | 2020-04-22 |
@@ -80,7 +81,7 @@ Total: 15
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 2020-04-17 |
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | ⌛ 2020-04-06 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
