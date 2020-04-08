@@ -63,12 +63,11 @@ Nothing.
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
 | [#13033](https://github.com/eslint/eslint/issues/13033) | Support whitelist with `no-implicit-globals` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-02 |
 | [#12993](https://github.com/eslint/eslint/issues/12993) | `padded-blocks`: Add "iife" object option |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-25 |
-| [#12970](https://github.com/eslint/eslint/issues/12970) | newline-per-chained-call not working as expected (PR [#13001](https://github.com/eslint/eslint/pull/13001)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-19 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-13 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 16
+Total: 15
 
 ## Needs interest
 
@@ -134,7 +133,6 @@ Total: 6
 | [#13053](https://github.com/eslint/eslint/issues/13053) | Can quote-props: as-needed respect camelCase with properties: always? |  |  |  | 0 | ⌛ 2020-04-06 |
 | [#13047](https://github.com/eslint/eslint/issues/13047) | no-return-assignment ignore arrow function |  |  |  | 0 | ⌛ 2020-04-05 |
 | [#12997](https://github.com/eslint/eslint/issues/12997) | padded-blocks: add an option: maxStatements |  |  |  | 0 | ⌛ 2020-03-25 |
-| [#12992](https://github.com/eslint/eslint/issues/12992) | Prevent `let` and/or `const` from being used at too high of a scope |  |  |  | 0 | ⌛ 2020-03-25 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | ⌛ 2020-03-20 |
 | [#12969](https://github.com/eslint/eslint/issues/12969) | Instead of no-extra-parens, I'd like to enforce extra parens |  |  |  | 0 | ⌛ 2020-03-19 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | ⌛ 2020-02-29 |
@@ -146,14 +144,15 @@ Total: 6
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 15
 
 ## Pull requests for closed issue
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-03 |
+| [#13001](https://github.com/eslint/eslint/pull/13001) | Update: added max depth option to newline-per-chained-call (fixes [#12970](https://github.com/eslint/eslint/issues/12970)) |  |  |  | 0 | ⌛ 2020-03-26 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | ⌛ 2019-09-05 |
 
-Total: 2
+Total: 3
 
