@@ -73,6 +73,7 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13171](https://github.com/eslint/eslint/issues/13171) | Require padding depending on line count |  |  |  | 0 | 2020-04-30 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
 | [#13167](https://github.com/eslint/eslint/issues/13167) | Change report location of prefer-const to that of the `let` keyword |  |  |  | 0 | 2020-04-30 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
@@ -80,7 +81,7 @@ Total: 15
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 2020-04-17 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
