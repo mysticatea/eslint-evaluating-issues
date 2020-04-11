@@ -104,7 +104,6 @@ Total: 2
 | [#12941](https://github.com/eslint/eslint/issues/12941) | Support querying for nodes using the eslint node selector syntax from an individual node |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-11 |
 | [#13071](https://github.com/eslint/eslint/issues/13071) | Detect if .eslintrc file exists with API / use `baseConfig` only if an .eslintrc file does not exist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-04-13 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | ⌛ 2019-11-09 |
-| [#13000](https://github.com/eslint/eslint/issues/13000) | Enhancement: Allow a watch or incremental lint mode |  |  |  | 3 | ⌛ 2020-03-26 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 2020-04-14 |
@@ -112,7 +111,7 @@ Total: 2
 | [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | ⌛ 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | ⌛ 2020-03-27 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
