@@ -108,10 +108,9 @@ Total: 2
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 2020-04-14 |
 | [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | ⌛ 2020-04-01 |
-| [#13013](https://github.com/eslint/eslint/issues/13013) | Note if `/* exported */` applies when using `--no-inline-config` |  |  |  | 0 | ⌛ 2020-03-28 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | ⌛ 2020-03-27 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
