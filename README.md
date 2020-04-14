@@ -73,6 +73,7 @@ Total: 15
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13175](https://github.com/eslint/eslint/issues/13175) | [block-spacing]: new option 'consistent' |  |  |  | 0 | 2020-05-03 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
 | [#13171](https://github.com/eslint/eslint/issues/13171) | Require padding depending on line count |  |  |  | 0 | 2020-04-30 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
@@ -82,7 +83,7 @@ Total: 15
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 2020-04-17 |
 
-Total: 8
+Total: 9
 
 ## Needs consensus
 
@@ -106,12 +107,13 @@ Total: 2
 | [#13071](https://github.com/eslint/eslint/issues/13071) | Detect if .eslintrc file exists with API / use `baseConfig` only if an .eslintrc file does not exist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-13 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | ⌛ 2019-11-09 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13104](https://github.com/eslint/eslint/issues/13104) | reportUnusedDisableDirectives should probably be a regular rule |  |  |  | 0 | 2020-04-17 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 2020-04-14 |
 | [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | ⌛ 2020-04-01 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | ⌛ 2020-03-27 |
 
-Total: 13
+Total: 14
 
 ## Looks opposed
 
