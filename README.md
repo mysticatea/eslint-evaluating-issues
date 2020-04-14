@@ -109,7 +109,7 @@ Total: 2
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13104](https://github.com/eslint/eslint/issues/13104) | reportUnusedDisableDirectives should probably be a regular rule |  |  |  | 0 | 2020-04-17 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-04-17 |
-| [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | 2020-04-14 |
+| [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 | [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | ⌛ 2020-04-01 |
 | [#13008](https://github.com/eslint/eslint/issues/13008) | Default .eslintrc.js files to node environment |  |  |  | 0 | ⌛ 2020-03-27 |
 
