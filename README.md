@@ -32,7 +32,7 @@ Total: 1
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 3 | ⌛ 2019-09-30 |
 | [#12579](https://github.com/eslint/eslint/issues/12579) | no-underscore-dangle to check function params | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-12-10 |
 | [#12545](https://github.com/eslint/eslint/issues/12545) | no-multi-assign option only when declaring variables. | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-11-28 |
-| [#13088](https://github.com/eslint/eslint/issues/13088) | use astUtils.getStaticPropertyName in no-prototype-builtins | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | 2020-04-15 |
+| [#13088](https://github.com/eslint/eslint/issues/13088) | use astUtils.getStaticPropertyName in no-prototype-builtins | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-04-15 |
 | [#12368](https://github.com/eslint/eslint/issues/12368) | New rule proposal: no-undef-default | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-10-24 |
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-15 |
 | [#12755](https://github.com/eslint/eslint/issues/12755) | no-inline-comments exception for istanbul ignore comments | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-01-28 |
@@ -74,7 +74,6 @@ Total: 15
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
-| [#13171](https://github.com/eslint/eslint/issues/13171) | Require padding depending on line count |  |  |  | 0 | 2020-04-30 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
 | [#13167](https://github.com/eslint/eslint/issues/13167) | Change report location of prefer-const to that of the `let` keyword |  |  |  | 0 | 2020-04-30 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
@@ -82,7 +81,7 @@ Total: 15
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | 2020-04-17 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
@@ -119,12 +118,13 @@ Total: 14
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12948](https://github.com/eslint/eslint/issues/12948) | [padding-line-between-statements] Add an option for padding object elements |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 1 | ⌛ 2020-03-13 |
+| [#13171](https://github.com/eslint/eslint/issues/13171) | Require padding depending on line count |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-04-30 |
 | [#13129](https://github.com/eslint/eslint/issues/13129) | Consider all arguments used if `arguments` is used. |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-04-22 |
 | [#13069](https://github.com/eslint/eslint/issues/13069) | Hard-coded Date should be created in UTC |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-04-11 |
 | [#13057](https://github.com/eslint/eslint/issues/13057) | Enabling globals only for part of a file |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | ⌛ 2020-04-07 |
 | [#13040](https://github.com/eslint/eslint/issues/13040) | New option for `no-nested-ternary` to allow nested ternary if wrapped in parens |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-04-02 |
 
-Total: 5
+Total: 6
 
 ## Looks inactive
 
