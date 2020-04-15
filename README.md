@@ -51,7 +51,6 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13020](https://github.com/eslint/eslint/issues/13020) | [no-void]: allow void arrow functions |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-03-30 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-18 |
 | [#13132](https://github.com/eslint/eslint/issues/13132) | no-import-assign should include opt-in restriction for modifying properties on an import |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-04-22 |
 | [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern (PR [#13099](https://github.com/eslint/eslint/pull/13099)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-04-15 |
@@ -67,7 +66,7 @@ Nothing.
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 15
+Total: 14
 
 ## Needs interest
 
