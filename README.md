@@ -80,9 +80,8 @@ Total: 15
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
-| [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | ⌛ 2020-04-22 |
 
-Total: 7
+Total: 6
 
 ## Needs consensus
 
@@ -97,7 +96,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13208](https://github.com/eslint/eslint/issues/13208) | Package size seems big | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 1 | 2020-05-13 |
+| [#13208](https://github.com/eslint/eslint/issues/13208) | Package size seems big | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 2 | 2020-05-13 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 4 | ⌛ 2019-06-28 |
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 3 | ⌛ 2019-08-05 |
@@ -132,6 +131,7 @@ Total: 4
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 57 | ⌛ 2017-09-29 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
+| [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | ⌛ 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | ⌛ 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | ⌛ 2020-04-17 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | ⌛ 2020-03-20 |
@@ -145,7 +145,7 @@ Total: 4
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 14
+Total: 15
 
 ## Pull requests for closed issue
 
