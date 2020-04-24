@@ -54,7 +54,6 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-18 |
 | [#13132](https://github.com/eslint/eslint/issues/13132) | no-import-assign should include opt-in restriction for modifying properties on an import |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-22 |
-| [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern (PR [#13099](https://github.com/eslint/eslint/pull/13099)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-15 |
 | [#13041](https://github.com/eslint/eslint/issues/13041) | Camelcase rule change for [#9470](https://github.com/eslint/eslint/issues/9470) (PR [#12777](https://github.com/eslint/eslint/pull/12777)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-03 |
 | [#13067](https://github.com/eslint/eslint/issues/13067) | [Proposal] : no-useless-else |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-04-10 |
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
@@ -68,7 +67,7 @@ Nothing.
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 15
+Total: 14
 
 ## Needs interest
 
@@ -129,7 +128,7 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 58 | ⌛ 2017-09-29 |
+| [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 59 | ⌛ 2017-09-29 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
 | [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | ⌛ 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | ⌛ 2020-04-20 |
