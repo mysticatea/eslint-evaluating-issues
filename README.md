@@ -66,12 +66,11 @@ Total: 1
 | [#13070](https://github.com/eslint/eslint/issues/13070) | [Change Request: space-in-parens] Allow Space Before `!` Operator |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-04-12 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
 | [#13189](https://github.com/eslint/eslint/issues/13189) | object-property-newline enforce either multiline or single line taking into account braces |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-05-07 |
-| [#13033](https://github.com/eslint/eslint/issues/13033) | Support whitelist with `no-implicit-globals` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-02 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-13 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 14
+Total: 13
 
 ## Needs interest
 
@@ -113,9 +112,8 @@ Total: 2
 | [#13104](https://github.com/eslint/eslint/issues/13104) | reportUnusedDisableDirectives should probably be a regular rule |  |  |  | 0 | ⌛ 2020-04-17 |
 | [#13103](https://github.com/eslint/eslint/issues/13103) | Feature request: apply suggestions fix via API or CLI |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | ⌛ 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
-| [#13028](https://github.com/eslint/eslint/issues/13028) | Set aside CLI option to allow forwarding config options to dynamic .eslintrc(.js/.cjs) files |  |  |  | 0 | ⌛ 2020-04-01 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
