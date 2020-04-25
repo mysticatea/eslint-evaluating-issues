@@ -56,21 +56,22 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13181](https://github.com/eslint/eslint/issues/13181) | [no-unused-vars]: reporter should report the last reference instead of declaration |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 2020-05-06 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-18 |
 | [#13132](https://github.com/eslint/eslint/issues/13132) | no-import-assign should include opt-in restriction for modifying properties on an import |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-22 |
 | [#13041](https://github.com/eslint/eslint/issues/13041) | Camelcase rule change for [#9470](https://github.com/eslint/eslint/issues/9470) (PR [#12777](https://github.com/eslint/eslint/pull/12777)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-03 |
 | [#13067](https://github.com/eslint/eslint/issues/13067) | [Proposal] : no-useless-else |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-04-10 |
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
-| [#13181](https://github.com/eslint/eslint/issues/13181) | [no-unused-vars]: reporter should report the last reference instead of declaration |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 1 | 2020-05-06 |
 | [#13119](https://github.com/eslint/eslint/issues/13119) | Rule to enforce consistent spacing after if statement parens when no braces are present |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-04-19 |
 | [#13070](https://github.com/eslint/eslint/issues/13070) | [Change Request: space-in-parens] Allow Space Before `!` Operator |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-04-12 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
+| [#13226](https://github.com/eslint/eslint/issues/13226) | [new option]: "allow" option for quote-props to allow pattern |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-05-16 |
 | [#13189](https://github.com/eslint/eslint/issues/13189) | object-property-newline enforce either multiline or single line taking into account braces |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-05-07 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-13 |
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 13
+Total: 14
 
 ## Needs interest
 
@@ -81,7 +82,7 @@ Total: 13
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
-| [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | 2020-04-25 |
+| [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | ⌛ 2020-04-25 |
 
 Total: 6
 
