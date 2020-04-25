@@ -46,7 +46,11 @@ Total: 17
 
 ## Needs a champion
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-15 |
+
+Total: 1
 
 ## Needs a champion and supporters
 
