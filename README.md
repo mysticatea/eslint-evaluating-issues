@@ -26,6 +26,7 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-26 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-10-22 |
+| [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern (PR [#13099](https://github.com/eslint/eslint/pull/13099)) | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-15 |
 | [#12840](https://github.com/eslint/eslint/issues/12840) | prefer-regex-literals: should report regex literals passed to RegExp constructor (PR [#12842](https://github.com/eslint/eslint/pull/12842)) | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-18 |
 | [#12759](https://github.com/eslint/eslint/issues/12759) | Add `allowLineSeparatedGroups` option to `sort-keys` rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-01-29 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 6 | ⌛ 2019-10-18 |
@@ -42,15 +43,11 @@ Total: 1
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2019-11-05 |
 | [#13029](https://github.com/eslint/eslint/pull/13029) | Update: Add filtering to no-inline-comments and allow Webpack magic comments  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-04-01 |
 
-Total: 17
+Total: 18
 
 ## Needs a champion
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-15 |
-
-Total: 1
+Nothing.
 
 ## Needs a champion and supporters
 
