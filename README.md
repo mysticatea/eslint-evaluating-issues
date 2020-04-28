@@ -73,13 +73,14 @@ Total: 13
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13183](https://github.com/eslint/eslint/issues/13183) | Parameter "varsIgnorePattern" should ensure that they will never be read |  |  |  | 0 | 2020-05-06 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | 2020-04-30 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
@@ -104,12 +105,13 @@ Total: 2
 | [#13071](https://github.com/eslint/eslint/issues/13071) | Detect if .eslintrc file exists with API / use `baseConfig` only if an .eslintrc file does not exist |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-13 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | ⌛ 2019-11-09 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13232](https://github.com/eslint/eslint/issues/13232) | Support ES6 default exports in 'rulesdir'  |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-05-18 |
+| [#13233](https://github.com/eslint/eslint/issues/13233) | Auto-fix typescript's no-unused-var rule using --init |  |  |  | 0 | 2020-05-19 |
+| [#13232](https://github.com/eslint/eslint/issues/13232) | Support ES6 default exports in 'rulesdir'  |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 0 | 2020-05-18 |
 | [#13212](https://github.com/eslint/eslint/issues/13212) | Add --list-only option to eslint CLI |  |  |  | 0 | 2020-05-13 |
 | [#13104](https://github.com/eslint/eslint/issues/13104) | reportUnusedDisableDirectives should probably be a regular rule |  |  |  | 0 | ⌛ 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
