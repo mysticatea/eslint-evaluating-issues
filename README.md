@@ -56,7 +56,6 @@ Nothing.
 | [#13181](https://github.com/eslint/eslint/issues/13181) | [no-unused-vars]: reporter should report the last reference instead of declaration |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 2020-05-06 |
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-18 |
 | [#13132](https://github.com/eslint/eslint/issues/13132) | no-import-assign should include opt-in restriction for modifying properties on an import |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-22 |
-| [#13041](https://github.com/eslint/eslint/issues/13041) | Camelcase rule change for [#9470](https://github.com/eslint/eslint/issues/9470) (PR [#12777](https://github.com/eslint/eslint/pull/12777)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-03 |
 | [#13067](https://github.com/eslint/eslint/issues/13067) | [Proposal] : no-useless-else |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-04-10 |
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
 | [#13119](https://github.com/eslint/eslint/issues/13119) | Rule to enforce consistent spacing after if statement parens when no braces are present |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-04-19 |
@@ -67,7 +66,7 @@ Nothing.
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 13
+Total: 12
 
 ## Needs interest
 
@@ -151,7 +150,8 @@ Total: 15
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-03 |
 | [#13001](https://github.com/eslint/eslint/pull/13001) | Update: added max depth option to newline-per-chained-call (fixes [#12970](https://github.com/eslint/eslint/issues/12970)) |  |  |  | 0 | ⌛ 2020-03-26 |
+| [#12777](https://github.com/eslint/eslint/pull/12777) | Update: fix camelcase not checking quoted properties (fixes [#13041](https://github.com/eslint/eslint/issues/13041)) |  |  |  | 0 | ⌛ 2020-02-02 |
 | [#12102](https://github.com/eslint/eslint/pull/12102) | New: no-uneeded-conditionals to flag identical ternary and boolean tests (fixes [#12097](https://github.com/eslint/eslint/issues/12097)) (wip) |  |  |  | 0 | ⌛ 2019-09-05 |
 
-Total: 3
+Total: 4
 
