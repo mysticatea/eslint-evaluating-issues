@@ -73,13 +73,14 @@ Total: 12
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | 2020-05-21 |
+| [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | 2020-05-21 |
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13183](https://github.com/eslint/eslint/issues/13183) | Parameter "varsIgnorePattern" should ensure that they will never be read |  |  |  | 0 | 2020-05-06 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | 2020-05-02 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
