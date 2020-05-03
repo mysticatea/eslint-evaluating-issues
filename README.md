@@ -132,7 +132,6 @@ Total: 3
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | ⌛ 2020-05-02 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | ⌛ 2020-04-30 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | ⌛ 2020-04-25 |
-| [#13131](https://github.com/eslint/eslint/issues/13131) | Option to ignore slice indices in no-magic-numbers |  |  |  | 0 | ⌛ 2020-04-22 |
 | [#13123](https://github.com/eslint/eslint/issues/13123) | Website suggestion: add 'Migrating from tslint' like 'Migrating from JSCS' |  |  |  | 0 | ⌛ 2020-04-20 |
 | [#13107](https://github.com/eslint/eslint/issues/13107) | [init-declarations]: new options ignorePattern  |  |  |  | 0 | ⌛ 2020-04-17 |
 | [#12977](https://github.com/eslint/eslint/pull/12977) | Update: Adds ConditionalExpression option to indent rule (fixes [#12968](https://github.com/eslint/eslint/issues/12968)) |  |  |  | 0 | ⌛ 2020-03-20 |
@@ -145,7 +144,7 @@ Total: 3
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 17
+Total: 16
 
 ## Pull requests for closed issue
 
