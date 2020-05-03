@@ -79,9 +79,8 @@ Total: 12
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13183](https://github.com/eslint/eslint/issues/13183) | Parameter "varsIgnorePattern" should ensure that they will never be read |  |  |  | 0 | 2020-05-06 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | 2020-05-05 |
-| [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
@@ -129,6 +128,7 @@ Total: 3
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 59 | ⌛ 2017-09-29 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
+| [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | ⌛ 2020-05-02 |
 | [#13168](https://github.com/eslint/eslint/issues/13168) | Rule proposal: Don't pass default values to functions |  |  |  | 0 | ⌛ 2020-04-30 |
 | [#13141](https://github.com/eslint/eslint/issues/13141) | `func-style` `allowArrowFunctions` option should work with `expression` |  |  |  | 0 | ⌛ 2020-04-25 |
@@ -144,7 +144,7 @@ Total: 3
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 17
 
 ## Pull requests for closed issue
 
