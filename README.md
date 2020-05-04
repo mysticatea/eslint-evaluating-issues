@@ -72,7 +72,7 @@ Total: 12
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 0 | 2020-05-22 |
+| [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | 2020-05-22 |
 | [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | 2020-05-21 |
 | [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | 2020-05-21 |
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | 2020-05-21 |
