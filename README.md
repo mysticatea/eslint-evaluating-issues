@@ -78,7 +78,7 @@ Total: 12
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | 2020-05-21 |
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13183](https://github.com/eslint/eslint/issues/13183) | Parameter "varsIgnorePattern" should ensure that they will never be read |  |  |  | 0 | 2020-05-06 |
-| [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | 2020-05-05 |
+| [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 
 Total: 7
 
