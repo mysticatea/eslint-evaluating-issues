@@ -72,6 +72,7 @@ Total: 10
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | 2020-05-22 |
+| [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
 | [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | 2020-05-21 |
@@ -80,7 +81,7 @@ Total: 10
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | 2020-05-16 |
 
-Total: 8
+Total: 9
 
 ## Needs consensus
 
