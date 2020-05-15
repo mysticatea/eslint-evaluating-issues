@@ -56,6 +56,7 @@ Nothing.
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-12-18 |
 | [#13181](https://github.com/eslint/eslint/issues/13181) | [no-unused-vars]: reporter should report the last reference instead of declaration |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-05-06 |
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
+| [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 2020-06-04 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-05-30 |
 | [#13226](https://github.com/eslint/eslint/issues/13226) | [new option]: "allow" option for quote-props to allow pattern |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-05-16 |
@@ -64,13 +65,14 @@ Nothing.
 | [#12374](https://github.com/eslint/eslint/issues/12374) | New rule proposal: no-one-use-vars |  | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-10-25 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 10
+Total: 11
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | 2020-05-22 |
+| [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | 2020-06-04 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
@@ -80,7 +82,7 @@ Total: 10
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | 2020-05-18 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | 2020-05-16 |
 
-Total: 9
+Total: 10
 
 ## Needs consensus
 
