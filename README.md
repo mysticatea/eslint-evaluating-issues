@@ -27,7 +27,6 @@ Total: 1
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-26 |
 | [#12759](https://github.com/eslint/eslint/issues/12759) | Add `allowLineSeparatedGroups` option to `sort-keys` rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-01-29 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-10-22 |
-| [#13094](https://github.com/eslint/eslint/issues/13094) | id-length exceptions pattern (PR [#13099](https://github.com/eslint/eslint/pull/13099)) | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-04-15 |
 | [#12840](https://github.com/eslint/eslint/issues/12840) | prefer-regex-literals: should report regex literals passed to RegExp constructor (PR [#12842](https://github.com/eslint/eslint/pull/12842)) | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-18 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 6 | ⌛ 2019-10-18 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 6 | ⌛ 2019-09-30 |
@@ -44,7 +43,7 @@ Total: 1
 | [#13029](https://github.com/eslint/eslint/pull/13029) | Update: Add filtering to no-inline-comments and allow Webpack magic comments  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-04-01 |
 | [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-01-04 |
 
-Total: 19
+Total: 18
 
 ## Needs a champion
 
@@ -133,6 +132,7 @@ Total: 3
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | ⌛ 2020-05-02 |
+| [#13099](https://github.com/eslint/eslint/pull/13099) | Update: Add exceptionPatterns to id-length rule (fixes [#13094](https://github.com/eslint/eslint/issues/13094)) |  |  |  | 0 | ⌛ 2020-04-16 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | ⌛ 2020-02-29 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | ⌛ 2020-02-21 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | ⌛ 2020-02-06 |
@@ -141,7 +141,7 @@ Total: 3
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 14
 
 ## Pull requests for closed issue
 
