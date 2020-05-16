@@ -132,7 +132,6 @@ Total: 2
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Chore: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
 | [#13172](https://github.com/eslint/eslint/issues/13172) | bug `no-unused-vars` - is assigned a value but never used |  |  |  | 0 | ⌛ 2020-05-02 |
-| [#13099](https://github.com/eslint/eslint/pull/13099) | Update: Add exceptionPatterns to id-length rule (fixes [#13094](https://github.com/eslint/eslint/issues/13094)) |  |  |  | 0 | ⌛ 2020-04-16 |
 | [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | ⌛ 2020-02-29 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | ⌛ 2020-02-21 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | ⌛ 2020-02-06 |
@@ -141,7 +140,7 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 14
+Total: 13
 
 ## Pull requests for closed issue
 
