@@ -27,7 +27,6 @@ Total: 1
 | [#12875](https://github.com/eslint/eslint/issues/12875) | [max-lines] - add an option to ignore imports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-26 |
 | [#12759](https://github.com/eslint/eslint/issues/12759) | Add `allowLineSeparatedGroups` option to `sort-keys` rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-01-29 |
 | [#12351](https://github.com/eslint/eslint/issues/12351) | More granular config for 'object-shorthand'  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-10-22 |
-| [#12995](https://github.com/eslint/eslint/issues/12995) | Allow JSDoc make arrow parens needed | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-25 |
 | [#12840](https://github.com/eslint/eslint/issues/12840) | prefer-regex-literals: should report regex literals passed to RegExp constructor (PR [#12842](https://github.com/eslint/eslint/pull/12842)) | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-18 |
 | [#12248](https://github.com/eslint/eslint/issues/12248) | indent: add option for multiline [assignment] statement | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 7 | ⌛ 2019-09-30 |
 | [#12327](https://github.com/eslint/eslint/issues/12327) | `no-warning-comments` should include the comment itself in the report (UX only) | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 6 | ⌛ 2019-10-18 |
@@ -43,7 +42,7 @@ Total: 1
 | [#13029](https://github.com/eslint/eslint/pull/13029) | Update: Add filtering to no-inline-comments and allow Webpack magic comments  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-04-01 |
 | [#12663](https://github.com/eslint/eslint/pull/12663) | Update: rule 'padding-line-between-statements' - add number of lines | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-01-04 |
 
-Total: 18
+Total: 17
 
 ## Needs a champion
 
@@ -120,9 +119,8 @@ Total: 14
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13241](https://github.com/eslint/eslint/issues/13241) | add variable ignore list for `block-scoped-var` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-05-21 |
 | [#13206](https://github.com/eslint/eslint/issues/13206) | No Daisy-Chaining .concat() |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-05-13 |
-| [#13129](https://github.com/eslint/eslint/issues/13129) | Consider all arguments used if `arguments` is used. |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-04-22 |
 
-Total: 3
+Total: 2
 
 ## Looks inactive
 
