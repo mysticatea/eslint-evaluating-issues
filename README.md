@@ -78,9 +78,8 @@ Total: 10
 | [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | 2020-05-21 |
 | [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | 2020-05-21 |
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | 2020-05-21 |
-| [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | ⌛ 2020-05-18 |
 
-Total: 11
+Total: 10
 
 ## Needs consensus
 
@@ -127,6 +126,7 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 59 | ⌛ 2017-09-29 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
+| [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | ⌛ 2020-05-18 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | ⌛ 2020-05-16 |
 | [#13183](https://github.com/eslint/eslint/issues/13183) | Parameter "varsIgnorePattern" should ensure that they will never be read |  |  |  | 0 | ⌛ 2020-05-06 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
@@ -139,7 +139,7 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 14
 
 ## Pull requests for closed issue
 
