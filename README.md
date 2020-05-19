@@ -101,6 +101,7 @@ Total: 2
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#13200](https://github.com/eslint/eslint/pull/13200) | Update: added empty error array check for false negative |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-05-11 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | ⌛ 2019-11-09 |
+| [#13234](https://github.com/eslint/eslint/pull/13234) | Fix: Respect --resolve-plugins-relative-to flag for parser. |  |  |  | 3 | ⌛ 2020-05-19 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13232](https://github.com/eslint/eslint/issues/13232) | Support ES6 default exports in 'rulesdir'  |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 1 | ⌛ 2020-05-18 |
 | [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | 2020-05-27 |
@@ -109,7 +110,7 @@ Total: 2
 | [#13104](https://github.com/eslint/eslint/issues/13104) | reportUnusedDisableDirectives should probably be a regular rule |  |  |  | 0 | ⌛ 2020-04-17 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
