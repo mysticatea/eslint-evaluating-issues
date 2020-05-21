@@ -77,9 +77,8 @@ Total: 10
 | [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | 2020-05-28 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
 | [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | ⌛ 2020-05-21 |
-| [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | ⌛ 2020-05-21 |
 
-Total: 10
+Total: 9
 
 ## Needs consensus
 
@@ -115,10 +114,11 @@ Total: 14
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13338](https://github.com/eslint/eslint/issues/13338) | Rule proposal: forced disabling reason |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-06-11 |
 | [#13241](https://github.com/eslint/eslint/issues/13241) | add variable ignore list for `block-scoped-var` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-05-21 |
 | [#13206](https://github.com/eslint/eslint/issues/13206) | No Daisy-Chaining .concat() |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-05-13 |
 
-Total: 2
+Total: 3
 
 ## Looks inactive
 
@@ -126,6 +126,7 @@ Total: 2
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#9259](https://github.com/eslint/eslint/issues/9259) | New rule: destructuring-property-newline |  |  |  | 59 | ⌛ 2017-09-29 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
+| [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | ⌛ 2020-05-21 |
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | ⌛ 2020-05-21 |
 | [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | ⌛ 2020-05-18 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | ⌛ 2020-05-16 |
@@ -138,7 +139,7 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 14
 
 ## Pull requests for closed issue
 
