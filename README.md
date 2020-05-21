@@ -76,7 +76,7 @@ Total: 10
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
 | [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | 2020-05-28 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
-| [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | 2020-05-21 |
+| [#13240](https://github.com/eslint/eslint/issues/13240) | Rule proposal: no unused assignment |  |  |  | 0 | ⌛ 2020-05-21 |
 | [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | ⌛ 2020-05-21 |
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | ⌛ 2020-05-21 |
 
@@ -131,7 +131,6 @@ Total: 2
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | ⌛ 2020-05-16 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
-| [#12889](https://github.com/eslint/eslint/pull/12889) | New: Unsafe integer rule |  |  |  | 0 | ⌛ 2020-02-29 |
 | [#12855](https://github.com/eslint/eslint/pull/12855) | Update: Make `constructor-super` support 'as' casting. |  |  |  | 0 | ⌛ 2020-02-21 |
 | [#12797](https://github.com/eslint/eslint/pull/12797) | make camelcase rule fixable |  |  |  | 0 | ⌛ 2020-02-06 |
 | [#12560](https://github.com/eslint/eslint/pull/12560) | Update: Add consistent option to computed-property-spacing |  |  |  | 0 | ⌛ 2019-12-03 |
@@ -139,7 +138,7 @@ Total: 2
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 12
 
 ## Pull requests for closed issue
 
