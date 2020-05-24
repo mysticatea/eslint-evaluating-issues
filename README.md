@@ -116,9 +116,8 @@ Total: 15
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13338](https://github.com/eslint/eslint/issues/13338) | Rule proposal: forced disabling reason |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-06-11 |
 | [#13241](https://github.com/eslint/eslint/issues/13241) | add variable ignore list for `block-scoped-var` |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-05-21 |
-| [#13206](https://github.com/eslint/eslint/issues/13206) | No Daisy-Chaining .concat() |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | ⌛ 2020-05-13 |
 
-Total: 3
+Total: 2
 
 ## Looks inactive
 
