@@ -56,13 +56,14 @@ Nothing.
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
 | [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 2020-06-04 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
+| [#13315](https://github.com/eslint/eslint/issues/13315) | no-empty-pattern - configure behavior for function parameters |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-06-07 |
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-05-30 |
 | [#13226](https://github.com/eslint/eslint/issues/13226) | [new option]: "allow" option for quote-props to allow pattern |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-05-16 |
 | [#13189](https://github.com/eslint/eslint/issues/13189) | object-property-newline enforce either multiline or single line taking into account braces |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-05-07 |
 | [#12947](https://github.com/eslint/eslint/pull/12947) | Update: curly should check consequent `if` statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-03-13 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 10
+Total: 11
 
 ## Needs interest
 
@@ -70,14 +71,13 @@ Total: 10
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | 2020-06-08 |
-| [#13315](https://github.com/eslint/eslint/issues/13315) | no-empty-pattern - configure behavior for function parameters |  |  |  | 0 | 2020-06-07 |
 | [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | 2020-06-04 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
 | [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | 2020-05-28 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
 
-Total: 8
+Total: 7
 
 ## Needs consensus
 
