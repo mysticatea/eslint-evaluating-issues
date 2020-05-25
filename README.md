@@ -105,10 +105,9 @@ Total: 2
 | [#13340](https://github.com/eslint/eslint/pull/13340) | Update: Drop @typescript-eslint/eslint-recommended from `eslint --init` |  |  |  | 0 | 2020-06-12 |
 | [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | 2020-05-27 |
 | [#13256](https://github.com/eslint/eslint/issues/13256) | Config any rule to only apply to changes after certain git sha/date |  |  |  | 0 | 2020-05-25 |
-| [#13212](https://github.com/eslint/eslint/issues/13212) | Add --list-only option to eslint CLI |  |  |  | 0 | ⌛ 2020-05-13 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
