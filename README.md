@@ -68,6 +68,7 @@ Total: 11
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13358](https://github.com/eslint/eslint/pull/13358) | Update: semi-spacing should check do-while statements |  |  |  | 0 | 2020-06-15 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | 2020-06-08 |
 | [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | 2020-06-04 |
@@ -76,7 +77,7 @@ Total: 11
 | [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | 2020-05-28 |
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | 2020-05-26 |
 
-Total: 7
+Total: 8
 
 ## Needs consensus
 
