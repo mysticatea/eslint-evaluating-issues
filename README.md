@@ -102,7 +102,7 @@ Total: 2
 | [#13232](https://github.com/eslint/eslint/issues/13232) | Support ES6 default exports in 'rulesdir'  |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 1 | ⌛ 2020-05-18 |
 | [#13357](https://github.com/eslint/eslint/pull/13357) | Update: enable es2020 environment in --init |  |  |  | 0 | 2020-06-15 |
 | [#13340](https://github.com/eslint/eslint/pull/13340) | Update: Drop @typescript-eslint/eslint-recommended from `eslint --init` |  |  |  | 0 | 2020-06-12 |
-| [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | 2020-05-27 |
+| [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | ⌛ 2020-05-27 |
 | [#13256](https://github.com/eslint/eslint/issues/13256) | Config any rule to only apply to changes after certain git sha/date |  |  |  | 0 | ⌛ 2020-05-25 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
