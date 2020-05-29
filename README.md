@@ -66,6 +66,7 @@ Total: 10
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13369](https://github.com/eslint/eslint/issues/13369) | [prefer-destructuring] used to reassign variable |  |  |  | 0 | 2020-06-19 |
 | [#13358](https://github.com/eslint/eslint/pull/13358) | Update: semi-spacing should check do-while statements |  |  |  | 0 | 2020-06-15 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | 2020-06-08 |
@@ -73,7 +74,7 @@ Total: 10
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
 
-Total: 6
+Total: 7
 
 ## Needs consensus
 
