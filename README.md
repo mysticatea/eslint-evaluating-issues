@@ -97,14 +97,13 @@ Total: 1
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 19 | ⌛ 2019-11-09 |
 | [#13234](https://github.com/eslint/eslint/pull/13234) | Fix: Respect --resolve-plugins-relative-to flag for parser. |  |  |  | 3 | ⌛ 2020-05-19 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13232](https://github.com/eslint/eslint/issues/13232) | Support ES6 default exports in 'rulesdir'  |  |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | 1 | ⌛ 2020-05-18 |
 | [#13357](https://github.com/eslint/eslint/pull/13357) | Update: enable es2020 environment in --init |  |  |  | 0 | 2020-06-15 |
 | [#13340](https://github.com/eslint/eslint/pull/13340) | Update: Drop @typescript-eslint/eslint-recommended from `eslint --init` |  |  |  | 0 | 2020-06-12 |
 | [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | ⌛ 2020-05-27 |
 | [#13256](https://github.com/eslint/eslint/issues/13256) | Config any rule to only apply to changes after certain git sha/date |  |  |  | 0 | ⌛ 2020-05-25 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
@@ -124,7 +123,6 @@ Total: 1
 | [#13262](https://github.com/eslint/eslint/issues/13262) | Add `multiline-return` STATEMENT_TYPE to padding-line-between-statements rule |  |  |  | 0 | ⌛ 2020-05-26 |
 | [#13239](https://github.com/eslint/eslint/issues/13239) | `no-magic-numbers`: allow numbers in expressions |  |  |  | 0 | ⌛ 2020-05-21 |
 | [#13238](https://github.com/eslint/eslint/issues/13238) | [no-constant-condition] all literal should be treated like boolean literal |  |  |  | 0 | ⌛ 2020-05-21 |
-| [#13229](https://github.com/eslint/eslint/issues/13229) | Bug: `capitalized-comments` yelling about an inline comment |  |  |  | 0 | ⌛ 2020-05-18 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | ⌛ 2020-05-16 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
@@ -135,7 +133,7 @@ Total: 1
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 15
 
 ## Pull requests for closed issue
 
