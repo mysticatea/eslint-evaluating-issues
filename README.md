@@ -70,7 +70,7 @@ Total: 9
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | 2020-06-08 |
 | [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | 2020-06-04 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | 2020-06-03 |
-| [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | 2020-06-02 |
+| [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | ⌛ 2020-06-02 |
 
 Total: 6
 
