@@ -51,7 +51,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-12-18 |
 | [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
-| [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | 2020-06-04 |
+| [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-06-04 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
 | [#13315](https://github.com/eslint/eslint/issues/13315) | no-empty-pattern - configure behavior for function parameters |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-06-07 |
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-05-30 |
@@ -93,13 +93,14 @@ Total: 1
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 20 | ⌛ 2019-11-09 |
 | [#13234](https://github.com/eslint/eslint/pull/13234) | Fix: Respect --resolve-plugins-relative-to flag for parser. |  |  |  | 3 | ⌛ 2020-05-19 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13391](https://github.com/eslint/eslint/issues/13391) | Add `maxWarnings` as a configuration option |  |  |  | 0 | 2020-06-25 |
 | [#13376](https://github.com/eslint/eslint/issues/13376) | Output relative paths rather than absolute paths |  |  |  | 0 | 2020-06-20 |
 | [#13340](https://github.com/eslint/eslint/pull/13340) | Update: Drop @typescript-eslint/eslint-recommended from `eslint --init` |  |  |  | 0 | 2020-06-12 |
 | [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | ⌛ 2020-05-27 |
 | [#13256](https://github.com/eslint/eslint/issues/13256) | Config any rule to only apply to changes after certain git sha/date |  |  |  | 0 | ⌛ 2020-05-25 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
