@@ -65,11 +65,12 @@ Total: 9
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13395](https://github.com/eslint/eslint/pull/13395) | Update: Improve array-callback-return report (explains why) |  |  |  | 0 | 2020-06-26 |
 | [#13358](https://github.com/eslint/eslint/pull/13358) | Update: semi-spacing should check do-while statements |  |  |  | 0 | 2020-06-15 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | 2020-06-08 |
 
-Total: 3
+Total: 4
 
 ## Needs consensus
 
