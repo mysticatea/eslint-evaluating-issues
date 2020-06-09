@@ -68,9 +68,8 @@ Total: 10
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13358](https://github.com/eslint/eslint/pull/13358) | Update: semi-spacing should check do-while statements |  |  |  | 0 | 2020-06-15 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
-| [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | ⌛ 2020-06-08 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
@@ -112,6 +111,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
 | [#12780](https://github.com/eslint/eslint/pull/12780) | Fix: id-match with onlyDeclarations should ignore imports |  |  |  | 1 | ⌛ 2020-02-03 |
+| [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | ⌛ 2020-06-08 |
 | [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | ⌛ 2020-06-04 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | ⌛ 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | ⌛ 2020-06-02 |
@@ -127,7 +127,7 @@ Nothing.
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 16
+Total: 17
 
 ## Pull requests for closed issue
 
