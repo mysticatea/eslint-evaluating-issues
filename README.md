@@ -66,8 +66,8 @@ Total: 10
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | 2020-06-28 |
-| [#13358](https://github.com/eslint/eslint/pull/13358) | Update: semi-spacing should check do-while statements |  |  |  | 0 | 2020-06-15 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | 2020-06-13 |
 
 Total: 3
