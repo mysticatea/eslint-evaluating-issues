@@ -85,8 +85,9 @@ Total: 1
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#13407](https://github.com/eslint/eslint/issues/13407) | Remove use of blacklist and whitelist (PR [#13408](https://github.com/eslint/eslint/pull/13408)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 4 | 2020-07-01 |
 | [#13200](https://github.com/eslint/eslint/pull/13200) | Update: added empty error array check for false negative |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-05-11 |
+| [#13234](https://github.com/eslint/eslint/pull/13234) | Fix: Respect --resolve-plugins-relative-to flag for parser. |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-05-19 |
+| [#13398](https://github.com/eslint/eslint/issues/13398) | Remove ecmascript 6 category for rules |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2020-06-27 |
 | [#12460](https://github.com/eslint/eslint/pull/12460) | New: Add resolveRelativeToConfigFile setting (fixes [#3458](https://github.com/eslint/eslint/issues/3458)) |  |  |  | 20 | ⌛ 2019-11-09 |
-| [#13234](https://github.com/eslint/eslint/pull/13234) | Fix: Respect --resolve-plugins-relative-to flag for parser. |  |  |  | 3 | ⌛ 2020-05-19 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13402](https://github.com/eslint/eslint/issues/13402) | Search for `.eslintignore` from target files in parent directories |  |  |  | 0 | 2020-06-29 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | 2020-06-26 |
@@ -96,7 +97,7 @@ Total: 1
 | [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | ⌛ 2020-05-27 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 17
+Total: 18
 
 ## Looks opposed
 
@@ -123,7 +124,7 @@ Total: 10
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-03 |
+| [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-02-03 |
 | [#12777](https://github.com/eslint/eslint/pull/12777) | Update: fix camelcase not checking quoted properties (fixes [#13041](https://github.com/eslint/eslint/issues/13041)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-02 |
 
 Total: 2
