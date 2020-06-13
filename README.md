@@ -48,14 +48,13 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12611](https://github.com/eslint/eslint/pull/12611) | Fix: Add no-magic-numbers 'ignoreDefaultValues' option |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-12-18 |
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-05-30 |
-| [#13073](https://github.com/eslint/eslint/pull/13073) | Update: new option singleline-if in padding-line-between-statements |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-04-13 |
+| [#13395](https://github.com/eslint/eslint/pull/13395) | Update: Improve array-callback-return report (explains why) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-06-26 |
 | [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-06-04 |
 | [#12044](https://github.com/eslint/eslint/pull/12044) | Update: handle undefined as ambiguous in consistent-return |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-08-22 |
-| [#13395](https://github.com/eslint/eslint/pull/13395) | Update: Improve array-callback-return report (explains why) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2020-06-26 |
 | [#13315](https://github.com/eslint/eslint/issues/13315) | no-empty-pattern - configure behavior for function parameters |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-06-07 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 8
+Total: 7
 
 ## Needs interest
 
@@ -110,24 +109,21 @@ Nothing.
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | ⌛ 2020-06-08 |
 | [#13304](https://github.com/eslint/eslint/issues/13304) | [no-await-in-loop] ignores the await that may not be executed |  |  |  | 0 | ⌛ 2020-06-05 |
-| [#13298](https://github.com/eslint/eslint/pull/13298) | Update: added whitelist to no-warning-comments |  |  |  | 0 | ⌛ 2020-06-04 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | ⌛ 2020-06-03 |
 | [#13287](https://github.com/eslint/eslint/issues/13287) | devdeps: leche has been deprecated |  |  |  | 0 | ⌛ 2020-06-02 |
 | [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | ⌛ 2020-05-28 |
 | [#13225](https://github.com/eslint/eslint/issues/13225) | [Suggestion] Make breaking changes conspicuously |  |  |  | 0 | ⌛ 2020-05-16 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
-| [#13173](https://github.com/eslint/eslint/pull/13173) | New: add `maxDepth` option to `sort-keys` rule |  |  |  | 0 | ⌛ 2020-05-02 |
-| [#12842](https://github.com/eslint/eslint/pull/12842) | Update: prefer-regex-literal detects regex literals passed to RegExp (fixes [#12840](https://github.com/eslint/eslint/issues/12840)) |  |  |  | 0 | ⌛ 2020-02-19 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 13
+Total: 10
 
 ## Pull requests for closed issue
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-03 |
+| [#12782](https://github.com/eslint/eslint/pull/12782) | Update: Add option "ignoreGlobals" to camelcase rule (fixes [#11716](https://github.com/eslint/eslint/issues/11716)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-03 |
 | [#12777](https://github.com/eslint/eslint/pull/12777) | Update: fix camelcase not checking quoted properties (fixes [#13041](https://github.com/eslint/eslint/issues/13041)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-02 |
 
 Total: 2
