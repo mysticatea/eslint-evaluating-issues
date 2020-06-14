@@ -62,9 +62,8 @@ Total: 7
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | 2020-06-28 |
-| [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | ⌛ 2020-06-13 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
@@ -108,6 +107,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treet all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
+| [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | ⌛ 2020-06-13 |
 | [#13323](https://github.com/eslint/eslint/issues/13323) | Enforce 2 (or more) lines not just one [lines-between-class-members] |  |  |  | 0 | ⌛ 2020-06-08 |
 | [#13304](https://github.com/eslint/eslint/issues/13304) | [no-await-in-loop] ignores the await that may not be executed |  |  |  | 0 | ⌛ 2020-06-05 |
 | [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | ⌛ 2020-06-03 |
@@ -118,7 +118,7 @@ Nothing.
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 10
+Total: 11
 
 ## Pull requests for closed issue
 
