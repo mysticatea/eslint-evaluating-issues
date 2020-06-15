@@ -94,10 +94,9 @@ Total: 1
 | [#13391](https://github.com/eslint/eslint/issues/13391) | Add `maxWarnings` as a configuration option |  |  |  | 0 | 2020-06-25 |
 | [#13389](https://github.com/eslint/eslint/issues/13389) | Respect .gitignore files by default? |  |  |  | 0 | 2020-06-25 |
 | [#13376](https://github.com/eslint/eslint/issues/13376) | Output relative paths rather than absolute paths |  |  |  | 0 | 2020-06-20 |
-| [#13264](https://github.com/eslint/eslint/issues/13264) | Inline comment option to warn instead of disable |  |  |  | 0 | ⌛ 2020-05-27 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 18
+Total: 17
 
 ## Looks opposed
 
