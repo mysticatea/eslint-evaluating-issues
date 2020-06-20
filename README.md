@@ -88,7 +88,7 @@ Total: 1
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | 2020-06-26 |
 | [#13391](https://github.com/eslint/eslint/issues/13391) | Add `maxWarnings` as a configuration option |  |  |  | 0 | 2020-06-25 |
 | [#13389](https://github.com/eslint/eslint/issues/13389) | Respect .gitignore files by default? |  |  |  | 0 | 2020-06-25 |
-| [#13376](https://github.com/eslint/eslint/issues/13376) | Output relative paths rather than absolute paths |  |  |  | 0 | 2020-06-20 |
+| [#13376](https://github.com/eslint/eslint/issues/13376) | Output relative paths rather than absolute paths |  |  |  | 0 | ⌛ 2020-06-20 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
 Total: 15
