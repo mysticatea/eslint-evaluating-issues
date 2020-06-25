@@ -47,20 +47,23 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-05-30 |
+| [#13398](https://github.com/eslint/eslint/issues/13398) | Remove ecmascript 6 category for rules |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-06-27 |
 | [#13395](https://github.com/eslint/eslint/pull/13395) | Update: Improve array-callback-return report (explains why) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | 2020-06-26 |
 | [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 4 | ⌛ 2020-06-04 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13426](https://github.com/eslint/eslint/issues/13426) | no-useless-concat should ignore cases where at least one of the concatenated strings contains ` |  |  |  | 0 | 2020-07-10 |
+| [#13422](https://github.com/eslint/eslint/issues/13422) | no-use-before-define - Add option for specific ignores (like useStyles) |  |  |  | 0 | 2020-07-08 |
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | 2020-06-28 |
 
-Total: 2
+Total: 4
 
 ## Needs consensus
 
@@ -79,12 +82,12 @@ Total: 1
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 3 | ⌛ 2019-08-05 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
-| [#13398](https://github.com/eslint/eslint/issues/13398) | Remove ecmascript 6 category for rules |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2020-06-27 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13440](https://github.com/eslint/eslint/issues/13440) | Support ESM config (.eslintrc.mjs) |  |  |  | 0 | 2020-07-14 |
 | [#13434](https://github.com/eslint/eslint/issues/13434) | Add ability to test rule schemas |  |  |  | 0 | 2020-07-13 |
 | [#13402](https://github.com/eslint/eslint/issues/13402) | Search for `.eslintignore` from target files in parent directories |  |  |  | 0 | 2020-06-29 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | 2020-06-26 |
-| [#13391](https://github.com/eslint/eslint/issues/13391) | Add `maxWarnings` as a configuration option |  |  |  | 0 | 2020-06-25 |
+| [#13391](https://github.com/eslint/eslint/issues/13391) | Add `maxWarnings` as a configuration option |  |  |  | 0 | ⌛ 2020-06-25 |
 | [#13389](https://github.com/eslint/eslint/issues/13389) | Respect .gitignore files by default? |  |  |  | 0 | ⌛ 2020-06-25 |
 | [#13376](https://github.com/eslint/eslint/issues/13376) | Output relative paths rather than absolute paths |  |  |  | 0 | ⌛ 2020-06-20 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
