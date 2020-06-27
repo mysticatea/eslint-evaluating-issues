@@ -59,11 +59,10 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13426](https://github.com/eslint/eslint/issues/13426) | no-useless-concat should ignore cases where at least one of the concatenated strings contains ` |  |  |  | 0 | 2020-07-10 |
-| [#13422](https://github.com/eslint/eslint/issues/13422) | no-use-before-define - Add option for specific ignores (like useStyles) |  |  |  | 0 | 2020-07-08 |
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | 2020-06-28 |
 
-Total: 4
+Total: 3
 
 ## Needs consensus
 
