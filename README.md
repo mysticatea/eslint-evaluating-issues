@@ -60,7 +60,7 @@ Total: 4
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13426](https://github.com/eslint/eslint/issues/13426) | no-useless-concat should ignore cases where at least one of the concatenated strings contains ` |  |  |  | 0 | 2020-07-10 |
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | 2020-07-02 |
-| [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | 2020-06-28 |
+| [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | ⌛ 2020-06-28 |
 
 Total: 3
 
