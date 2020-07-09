@@ -48,7 +48,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13278](https://github.com/eslint/eslint/issues/13278) | Support for different keyword-spacing with optional catch binding syntax |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-05-30 |
 | [#13398](https://github.com/eslint/eslint/issues/13398) | Remove ecmascript 6 category for rules |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-06-27 |
-| [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-06-04 |
+| [#13299](https://github.com/eslint/eslint/issues/13299) | [no-void]: allow void arrow functions |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 6 | ⌛ 2020-06-04 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 
 Total: 4
@@ -96,12 +96,12 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 1 | ⌛ 2020-05-28 |
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treat all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | ⌛ 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | ⌛ 2020-06-28 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | ⌛ 2020-06-13 |
 | [#13304](https://github.com/eslint/eslint/issues/13304) | [no-await-in-loop] ignores the await that may not be executed |  |  |  | 0 | ⌛ 2020-06-05 |
-| [#13268](https://github.com/eslint/eslint/pull/13268) | Update: no-void add an option to allow at start of concise arrow functions |  |  |  | 0 | ⌛ 2020-05-28 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
