@@ -57,7 +57,7 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13426](https://github.com/eslint/eslint/issues/13426) | no-useless-concat should ignore cases where at least one of the concatenated strings contains ` |  |  |  | 0 | 2020-07-10 |
+| [#13426](https://github.com/eslint/eslint/issues/13426) | no-useless-concat should ignore cases where at least one of the concatenated strings contains ` |  |  |  | 0 | ⌛ 2020-07-10 |
 
 Total: 1
 
