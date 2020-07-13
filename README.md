@@ -84,10 +84,9 @@ Total: 1
 | [#13434](https://github.com/eslint/eslint/issues/13434) | Add ability to test rule schemas |  |  |  | 0 | 2020-07-13 |
 | [#13402](https://github.com/eslint/eslint/issues/13402) | Search for `.eslintignore` from target files in parent directories |  |  |  | 0 | ⌛ 2020-06-29 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
-| [#13389](https://github.com/eslint/eslint/issues/13389) | Respect .gitignore files by default? |  |  |  | 0 | ⌛ 2020-06-25 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 12
+Total: 11
 
 ## Looks opposed
 
@@ -103,12 +102,11 @@ Nothing.
 | [#13409](https://github.com/eslint/eslint/issues/13409) | no-extra-parens does not allow conditional object spread |  |  |  | 0 | ⌛ 2020-07-02 |
 | [#13400](https://github.com/eslint/eslint/issues/13400) | no-restricted-imports allow patterns to have custom message in config |  |  |  | 0 | ⌛ 2020-06-28 |
 | [#13347](https://github.com/eslint/eslint/issues/13347) | no-unused-vars should have an importIgnorePattern |  |  |  | 0 | ⌛ 2020-06-13 |
-| [#13304](https://github.com/eslint/eslint/issues/13304) | [no-await-in-loop] ignores the await that may not be executed |  |  |  | 0 | ⌛ 2020-06-05 |
 | [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
