@@ -79,7 +79,7 @@ Total: 1
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13440](https://github.com/eslint/eslint/issues/13440) | Support ESM config (.eslintrc.mjs) |  |  |  | 0 | 2020-07-14 |
+| [#13440](https://github.com/eslint/eslint/issues/13440) | Support ESM config (.eslintrc.mjs) |  |  |  | 0 | ⌛ 2020-07-14 |
 | [#13434](https://github.com/eslint/eslint/issues/13434) | Add ability to test rule schemas |  |  |  | 0 | ⌛ 2020-07-13 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
