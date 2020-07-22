@@ -54,9 +54,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | 2020-08-12 |
 | [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  |  |  | 0 | 2020-08-02 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
