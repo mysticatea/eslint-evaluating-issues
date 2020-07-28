@@ -45,8 +45,9 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-02-11 |
+| [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-08-02 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
@@ -56,9 +57,8 @@ Total: 1
 | [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | 2020-08-17 |
 | [#13530](https://github.com/eslint/eslint/pull/13530) | New: Add prefer-inclusive-language |  |  |  | 0 | 2020-08-16 |
 | [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | 2020-08-12 |
-| [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  |  |  | 0 | 2020-08-02 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -78,7 +78,7 @@ Total: 1
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13472](https://github.com/eslint/eslint/issues/13472) | Support directive comment groups |  |  |  | 0 | 2020-07-28 |
+| [#13472](https://github.com/eslint/eslint/issues/13472) | Support directive comment groups |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13440](https://github.com/eslint/eslint/issues/13440) | Support ESM config (.eslintrc.mjs) |  |  |  | 0 | ⌛ 2020-07-14 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
@@ -94,11 +94,10 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treat all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
-| [#13179](https://github.com/eslint/eslint/pull/13179) | Update: added empty string for desc and category check |  |  |  | 0 | ⌛ 2020-05-05 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 4
+Total: 3
 
 ## Pull requests for closed issue
 
