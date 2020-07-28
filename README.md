@@ -53,12 +53,13 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13523](https://github.com/eslint/eslint/issues/13523) | no-promise-executor-return should let pass "void" |  |  |  | 1 | 2020-08-13 |
+| [#13535](https://github.com/eslint/eslint/issues/13535) | Pad nested callbacks with newlines |  |  |  | 0 | 2020-08-18 |
 | [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | 2020-08-17 |
 | [#13530](https://github.com/eslint/eslint/pull/13530) | New: Add prefer-inclusive-language |  |  |  | 0 | 2020-08-16 |
 | [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | 2020-08-12 |
 | [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  |  |  | 0 | 2020-08-02 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
