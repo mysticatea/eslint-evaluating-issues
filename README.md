@@ -45,9 +45,10 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-02-11 |
+| [#13537](https://github.com/eslint/eslint/issues/13537) | eqeqeq rule allow-undefined |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-08-19 |
 | [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-08-02 |
 
-Total: 2
+Total: 3
 
 ## Needs interest
 
