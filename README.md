@@ -17,9 +17,8 @@ This page is a summary of feature issues.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-04-05 |
-| [#12759](https://github.com/eslint/eslint/issues/12759) | Add `allowLineSeparatedGroups` option to `sort-keys` rule | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-01-29 |
 
-Total: 2
+Total: 1
 
 ## Needs supporters
 
@@ -43,9 +42,9 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-08-02 |
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 | [#13523](https://github.com/eslint/eslint/issues/13523) | no-promise-executor-return should let pass "void" |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-08-13 |
-| [#13486](https://github.com/eslint/eslint/issues/13486) | Change `no-unneeded-ternary` rule to comparing tokens |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-08-02 |
 
 Total: 3
 
