@@ -62,7 +62,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 1 | ⌛ 2018-05-02 |
-| [#13537](https://github.com/eslint/eslint/issues/13537) | eqeqeq rule allow-undefined |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> | 0 | 2020-08-19 |
+| [#13537](https://github.com/eslint/eslint/issues/13537) | eqeqeq rule allow-undefined |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-08-19 |
 
 Total: 2
 
