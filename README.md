@@ -53,7 +53,7 @@ Total: 3
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | 2020-08-17 |
-| [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | 2020-08-12 |
+| [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | ⌛ 2020-08-12 |
 
 Total: 2
 
