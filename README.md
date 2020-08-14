@@ -51,9 +51,10 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | 2020-09-04 |
 | [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | 2020-08-17 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
