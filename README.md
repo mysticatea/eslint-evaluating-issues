@@ -75,6 +75,7 @@ Total: 2
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 0 | 2020-09-06 |
 | [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | 2020-08-21 |
 | [#13538](https://github.com/eslint/eslint/issues/13538) | Allow globbing on rule names |  |  |  | 0 | 2020-08-20 |
 | [#13472](https://github.com/eslint/eslint/issues/13472) | Support directive comment groups |  |  |  | 0 | ⌛ 2020-07-28 |
@@ -82,7 +83,7 @@ Total: 2
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
