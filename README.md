@@ -52,9 +52,8 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | 2020-09-04 |
-| [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | ⌛ 2020-08-17 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
@@ -94,11 +93,12 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treat all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
+| [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | ⌛ 2020-08-17 |
 | [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | ⌛ 2020-08-12 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 4
+Total: 5
 
 ## Pull requests for closed issue
 
