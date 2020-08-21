@@ -78,12 +78,11 @@ Total: 1
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 0 | 2020-09-06 |
 | [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | 2020-08-21 |
 | [#13538](https://github.com/eslint/eslint/issues/13538) | Allow globbing on rule names |  |  |  | 0 | ⌛ 2020-08-20 |
-| [#13472](https://github.com/eslint/eslint/issues/13472) | Support directive comment groups |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
