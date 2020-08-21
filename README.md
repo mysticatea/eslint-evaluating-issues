@@ -44,17 +44,19 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
+| [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-10 |
 | [#13523](https://github.com/eslint/eslint/issues/13523) | no-promise-executor-return should let pass "void" |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-08-13 |
 
-Total: 2
+Total: 3
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13599](https://github.com/eslint/eslint/issues/13599) | Make no-dupe-keys compare tokens (like no-duplicate-case does) |  |  |  | 0 | 2020-09-11 |
 | [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | 2020-09-04 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
@@ -76,7 +78,7 @@ Total: 1
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13578](https://github.com/eslint/eslint/issues/13578) | [feature request] Add support for .eslintrc directory |  |  |  | 0 | 2020-09-07 |
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 0 | 2020-09-06 |
-| [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | 2020-08-21 |
+| [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | ⌛ 2020-08-21 |
 | [#13538](https://github.com/eslint/eslint/issues/13538) | Allow globbing on rule names |  |  |  | 0 | ⌛ 2020-08-20 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
