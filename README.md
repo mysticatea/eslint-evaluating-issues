@@ -45,9 +45,8 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#11300](https://github.com/eslint/eslint/issues/11300) | global-require: allow whitelist for require paths |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-02-11 |
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-10 |
-| [#13523](https://github.com/eslint/eslint/issues/13523) | no-promise-executor-return should let pass "void" |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-08-13 |
 
-Total: 3
+Total: 2
 
 ## Needs interest
 
@@ -97,11 +96,10 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treat all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
 | [#13531](https://github.com/eslint/eslint/issues/13531) | [no-unneeded-ternary] add check for duplicates ternary |  |  |  | 0 | ⌛ 2020-08-17 |
-| [#13521](https://github.com/eslint/eslint/issues/13521) | Restrict usage of special replacement patterns ($) in string string argument to `String.prototype.replace` |  |  |  | 0 | ⌛ 2020-08-12 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 5
+Total: 4
 
 ## Pull requests for closed issue
 
