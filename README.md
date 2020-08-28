@@ -76,6 +76,7 @@ Total: 1
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | 2020-09-17 |
 | [#13601](https://github.com/eslint/eslint/issues/13601) | eslint fix return non-success error code when files were modified |  |  |  | 0 | 2020-09-11 |
 | [#13578](https://github.com/eslint/eslint/issues/13578) | [feature request] Add support for .eslintrc directory |  |  |  | 0 | 2020-09-07 |
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 0 | 2020-09-06 |
@@ -85,7 +86,7 @@ Total: 1
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 14
+Total: 15
 
 ## Looks opposed
 
