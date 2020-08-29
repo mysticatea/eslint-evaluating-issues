@@ -51,12 +51,13 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13628](https://github.com/eslint/eslint/pull/13628) | New: Add .pre-commit-hooks.yaml file |  |  |  | 0 | 2020-09-18 |
 | [#13608](https://github.com/eslint/eslint/issues/13608) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13599](https://github.com/eslint/eslint/issues/13599) | Make no-dupe-keys compare tokens (like no-duplicate-case does) |  |  |  | 0 | 2020-09-11 |
 | [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | 2020-09-04 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
@@ -76,6 +77,7 @@ Total: 1
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 2 | 2020-09-15 |
 | [#13631](https://github.com/eslint/eslint/issues/13631) | RuleTester - Add "idempotent" flag for code fixes |  |  |  | 0 | 2020-09-18 |
 | [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | 2020-09-17 |
 | [#13601](https://github.com/eslint/eslint/issues/13601) | eslint fix return non-success error code when files were modified |  |  |  | 0 | 2020-09-11 |
@@ -87,7 +89,7 @@ Total: 1
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 16
+Total: 17
 
 ## Looks opposed
 
