@@ -78,11 +78,11 @@ Total: 1
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 2 | 2020-09-15 |
+| [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 1 | 2020-09-06 |
 | [#13631](https://github.com/eslint/eslint/issues/13631) | RuleTester - Add "idempotent" flag for code fixes |  |  |  | 0 | 2020-09-18 |
 | [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | 2020-09-17 |
 | [#13601](https://github.com/eslint/eslint/issues/13601) | eslint fix return non-success error code when files were modified |  |  |  | 0 | 2020-09-11 |
 | [#13578](https://github.com/eslint/eslint/issues/13578) | [feature request] Add support for .eslintrc directory |  |  |  | 0 | 2020-09-07 |
-| [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 0 | 2020-09-06 |
 | [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | ⌛ 2020-08-21 |
 | [#13538](https://github.com/eslint/eslint/issues/13538) | Allow globbing on rule names |  |  |  | 0 | ⌛ 2020-08-20 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
