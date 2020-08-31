@@ -84,12 +84,11 @@ Total: 1
 | [#13601](https://github.com/eslint/eslint/issues/13601) | eslint fix return non-success error code when files were modified |  |  |  | 0 | 2020-09-11 |
 | [#13578](https://github.com/eslint/eslint/issues/13578) | [feature request] Add support for .eslintrc directory |  |  |  | 0 | 2020-09-07 |
 | [#13541](https://github.com/eslint/eslint/issues/13541) | Please add "extended" config in addition to "recommended" |  |  |  | 0 | ⌛ 2020-08-21 |
-| [#13538](https://github.com/eslint/eslint/issues/13538) | Allow globbing on rule names |  |  |  | 0 | ⌛ 2020-08-20 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 17
+Total: 16
 
 ## Looks opposed
 
