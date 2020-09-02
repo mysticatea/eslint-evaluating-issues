@@ -43,7 +43,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13646](https://github.com/eslint/eslint/issues/13646) | Feature request: [no-shadow] It would really help, if the error message would show where the original identifier has been defined |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-22 |
+| [#13646](https://github.com/eslint/eslint/issues/13646) | Feature request: [no-shadow] It would really help, if the error message would show where the original identifier has been defined |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 2 | 2020-09-22 |
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-10 |
 
 Total: 2
