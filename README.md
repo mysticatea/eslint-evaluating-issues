@@ -77,8 +77,8 @@ Total: 1
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 4 | ⌛ 2019-08-05 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
+| [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 2 | 2020-09-15 |
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 1 | 2020-09-06 |
 | [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | 2020-09-23 |
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | 2020-09-22 |
