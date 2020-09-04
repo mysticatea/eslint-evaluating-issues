@@ -56,7 +56,7 @@ Total: 1
 | [#13608](https://github.com/eslint/eslint/issues/13608) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13599](https://github.com/eslint/eslint/issues/13599) | Make no-dupe-keys compare tokens (like no-duplicate-case does) |  |  |  | 0 | 2020-09-11 |
-| [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | 2020-09-04 |
+| [#13567](https://github.com/eslint/eslint/issues/13567) | Warn when `await` keyword might be missing |  |  |  | 0 | ⌛ 2020-09-04 |
 
 Total: 5
 
