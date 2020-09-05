@@ -44,21 +44,21 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13655](https://github.com/eslint/eslint/issues/13655) | Usefulness of distinct 'single' and 'multiple' styles for sort-imports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-09-26 |
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-10 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13655](https://github.com/eslint/eslint/issues/13655) | Usefulness of distinct 'single' and 'multiple' styles for sort-imports |  |  |  | 0 | 2020-09-26 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | New: Add .pre-commit-hooks.yaml file |  |  |  | 0 | 2020-09-18 |
 | [#13608](https://github.com/eslint/eslint/issues/13608) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13599](https://github.com/eslint/eslint/issues/13599) | Make no-dupe-keys compare tokens (like no-duplicate-case does) |  |  |  | 0 | 2020-09-11 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
