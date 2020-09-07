@@ -53,12 +53,13 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | 2020-09-28 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | New: Add .pre-commit-hooks.yaml file |  |  |  | 0 | 2020-09-18 |
 | [#13608](https://github.com/eslint/eslint/issues/13608) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
 | [#13599](https://github.com/eslint/eslint/issues/13599) | Make no-dupe-keys compare tokens (like no-duplicate-case does) |  |  |  | 0 | 2020-09-11 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
