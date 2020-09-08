@@ -111,5 +111,9 @@ Total: 5
 
 ## Pull requests for closed issue
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13579](https://github.com/eslint/eslint/pull/13579) | Update: Add templateString option in no-implicit-coercion (fixes [#12866](https://github.com/eslint/eslint/issues/12866)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-07 |
+
+Total: 1
 
