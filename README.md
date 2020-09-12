@@ -83,6 +83,7 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 1 | ⌛ 2020-09-06 |
+| [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 0 | 2020-10-02 |
 | [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | 2020-09-23 |
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | 2020-09-22 |
 | [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | 2020-09-17 |
@@ -92,7 +93,7 @@ Total: 1
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 | [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 18
+Total: 19
 
 ## Looks opposed
 
