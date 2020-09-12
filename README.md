@@ -57,7 +57,7 @@ Total: 3
 | [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | 2020-09-28 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | New: Add .pre-commit-hooks.yaml file |  |  |  | 0 | 2020-09-18 |
 | [#13608](https://github.com/eslint/eslint/issues/13608) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
-| [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | 2020-09-12 |
+| [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | ⌛ 2020-09-12 |
 
 Total: 4
 
@@ -82,8 +82,8 @@ Total: 1
 | [#13631](https://github.com/eslint/eslint/issues/13631) | RuleTester - Add "idempotent" flag for code fixes |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-09-18 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 1 | 2020-10-02 |
 | [#13570](https://github.com/eslint/eslint/issues/13570) | Feature: allow lint re-triggering when dependent file changes |  |  |  | 1 | ⌛ 2020-09-06 |
-| [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 0 | 2020-10-02 |
 | [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | 2020-09-23 |
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | 2020-09-22 |
 | [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | 2020-09-17 |
