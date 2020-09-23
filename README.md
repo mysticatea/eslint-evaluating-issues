@@ -55,10 +55,11 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13712](https://github.com/eslint/eslint/pull/13712) | Update: skip keyword check for fns in space-before-blocks (fixes [#13553](https://github.com/eslint/eslint/issues/13553)) |  |  |  | 0 | 2020-10-14 |
 | [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | 2020-10-06 |
 | [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | 2020-09-28 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
