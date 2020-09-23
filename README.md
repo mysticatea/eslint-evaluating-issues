@@ -85,7 +85,7 @@ Total: 1
 | [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 1 | 2020-10-02 |
 | [#13695](https://github.com/eslint/eslint/issues/13695) | Per-rule performance measure and bootstraping costs |  |  |  | 0 | 2020-10-07 |
 | [#13684](https://github.com/eslint/eslint/issues/13684) | Allow for dynamic import() to be used in eslint config file |  |  |  | 0 | 2020-10-02 |
-| [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | 2020-09-23 |
+| [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | ⌛ 2020-09-23 |
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | ⌛ 2020-09-22 |
 | [#13625](https://github.com/eslint/eslint/issues/13625) | RuleTester - Add "debug" flag for valid/invalid code |  |  |  | 0 | ⌛ 2020-09-17 |
 | [#13601](https://github.com/eslint/eslint/issues/13601) | eslint fix return non-success error code when files were modified |  |  |  | 0 | ⌛ 2020-09-11 |
