@@ -82,7 +82,7 @@ Total: 1
 | [#13631](https://github.com/eslint/eslint/issues/13631) | RuleTester - Add "idempotent" flag for code fixes |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-18 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13711](https://github.com/eslint/eslint/issues/13711) | Return exit code 2 when there are fatal errors |  |  |  | 1 | 2020-10-14 |
+| [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 1 | 2020-10-14 |
 | [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 1 | 2020-10-02 |
 | [#13695](https://github.com/eslint/eslint/issues/13695) | Per-rule performance measure and bootstraping costs |  |  |  | 0 | 2020-10-07 |
 | [#13684](https://github.com/eslint/eslint/issues/13684) | Allow for dynamic import() to be used in eslint config file |  |  |  | 0 | 2020-10-02 |
