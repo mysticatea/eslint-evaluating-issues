@@ -56,7 +56,7 @@ Total: 4
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | 2020-10-06 |
-| [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | 2020-09-28 |
+| [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | ⌛ 2020-09-28 |
 
 Total: 2
 
