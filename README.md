@@ -45,11 +45,12 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-10 |
+| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() (PR [#13579](https://github.com/eslint/eslint/pull/13579)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-23 |
 | [#13712](https://github.com/eslint/eslint/pull/13712) | Update: skip keyword check for fns in space-before-blocks (fixes [#13553](https://github.com/eslint/eslint/issues/13553)) |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | 2020-10-14 |
 | [#13678](https://github.com/eslint/eslint/issues/13678) | prefer-destructuring false Positive when casting result |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-09-30 |
 | [#13655](https://github.com/eslint/eslint/issues/13655) | Usefulness of distinct 'single' and 'multiple' styles for sort-imports |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-26 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
@@ -113,9 +114,5 @@ Total: 6
 
 ## Pull requests for closed issue
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13579](https://github.com/eslint/eslint/pull/13579) | Update: Add templateString option in no-implicit-coercion (fixes [#12866](https://github.com/eslint/eslint/issues/12866)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-07 |
-
-Total: 1
+Nothing.
 
