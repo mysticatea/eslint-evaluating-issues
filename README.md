@@ -82,9 +82,9 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | 2020-10-14 |
+| [#13706](https://github.com/eslint/eslint/issues/13706) | Rule auto-fix variable name conflicts |  |  |  | 1 | 2020-10-13 |
 | [#13695](https://github.com/eslint/eslint/issues/13695) | Per-rule performance measure and bootstraping costs |  |  |  | 1 | 2020-10-07 |
 | [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 1 | 2020-10-02 |
-| [#13706](https://github.com/eslint/eslint/issues/13706) | Rule auto-fix variable name conflicts |  |  |  | 0 | 2020-10-13 |
 | [#13684](https://github.com/eslint/eslint/issues/13684) | Allow for dynamic import() to be used in eslint config file |  |  |  | 0 | 2020-10-02 |
 | [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | ⌛ 2020-09-23 |
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | ⌛ 2020-09-22 |
