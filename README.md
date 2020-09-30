@@ -78,6 +78,7 @@ Total: 1
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#13671](https://github.com/eslint/eslint/issues/13671) | Output more rule durations with TIMING environment variable |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-28 |
+| [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-22 |
 | [#13631](https://github.com/eslint/eslint/issues/13631) | RuleTester - Add "idempotent" flag for code fixes |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-18 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 3 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
@@ -87,7 +88,6 @@ Total: 1
 | [#13685](https://github.com/eslint/eslint/issues/13685) | Feature Request: re-enable global installs  |  |  |  | 1 | 2020-10-02 |
 | [#13684](https://github.com/eslint/eslint/issues/13684) | Allow for dynamic import() to be used in eslint config file |  |  |  | 0 | 2020-10-02 |
 | [#13651](https://github.com/eslint/eslint/issues/13651) | feature request: eslint-disable comments are time-boxed (snoozeable) |  |  |  | 0 | ⌛ 2020-09-23 |
-| [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | ⌛ 2020-09-22 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
