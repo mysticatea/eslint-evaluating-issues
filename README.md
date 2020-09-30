@@ -90,9 +90,8 @@ Total: 1
 | [#13645](https://github.com/eslint/eslint/issues/13645) | Add Yarn in eslint --init |  |  |  | 0 | ⌛ 2020-09-22 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
-| [#13079](https://github.com/eslint/eslint/pull/13079) | New: Add a config:off for disabling all rules |  |  |  | 0 | ⌛ 2020-04-14 |
 
-Total: 19
+Total: 18
 
 ## Looks opposed
 
