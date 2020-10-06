@@ -56,7 +56,7 @@ Total: 5
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | 2020-10-06 |
+| [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | ⌛ 2020-10-06 |
 
 Total: 1
 
