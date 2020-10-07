@@ -54,11 +54,7 @@ Total: 4
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | ⌛ 2020-10-06 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
@@ -101,13 +97,14 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13245](https://github.com/eslint/eslint/pull/13245) | Fix: treat all literals like boolean literal in no-constant-condition |  |  |  | 1 | ⌛ 2020-05-22 |
+| [#13693](https://github.com/eslint/eslint/issues/13693) | Enhancement of 'no-else-return' rule |  |  |  | 0 | ⌛ 2020-10-06 |
 | [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | ⌛ 2020-09-28 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | New: Add .pre-commit-hooks.yaml file |  |  |  | 0 | ⌛ 2020-09-18 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | ⌛ 2020-09-12 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 6
+Total: 7
 
 ## Pull requests for closed issue
 
