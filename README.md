@@ -56,9 +56,10 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions |  |  |  | 0 | 2020-10-29 |
 | [#13742](https://github.com/eslint/eslint/issues/13742) | Move no-multi-spaces to "stylistic issues" category |  |  |  | 0 | 2020-10-28 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
