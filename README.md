@@ -29,13 +29,14 @@ Total: 1
 | [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-13 |
 | [#13646](https://github.com/eslint/eslint/issues/13646) | Feature request: [no-shadow] It would really help, if the error message would show where the original identifier has been defined | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-09-22 |
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
+| [#13746](https://github.com/eslint/eslint/issues/13746) | Allow `commentPattern: null` in no-fallthrough | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-10-30 |
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-02-15 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2019-11-04 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2019-11-05 |
 | [#13740](https://github.com/eslint/eslint/issues/13740) | Report "\8" and "\9" in no-octal-escape | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  |  | 0 | 2020-10-27 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-09-10 |
 
-Total: 10
+Total: 11
 
 ## Needs a champion
 
@@ -47,19 +48,19 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-10 |
 | [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() (PR [#13579](https://github.com/eslint/eslint/pull/13579)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-23 |
+| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-10-29 |
 | [#13712](https://github.com/eslint/eslint/pull/13712) | Update: skip keyword check for fns in space-before-blocks (fixes [#13553](https://github.com/eslint/eslint/issues/13553)) |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | 2020-10-14 |
 | [#13678](https://github.com/eslint/eslint/issues/13678) | prefer-destructuring false Positive when casting result |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-30 |
 
-Total: 4
+Total: 5
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions |  |  |  | 0 | 2020-10-29 |
 | [#13742](https://github.com/eslint/eslint/issues/13742) | Move no-multi-spaces to "stylistic issues" category |  |  |  | 0 | 2020-10-28 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
