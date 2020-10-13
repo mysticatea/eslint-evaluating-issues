@@ -49,9 +49,8 @@ Nothing.
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-10 |
 | [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions (PR [#13753](https://github.com/eslint/eslint/pull/13753)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2020-10-29 |
 | [#13712](https://github.com/eslint/eslint/pull/13712) | Update: skip keyword check for fns in space-before-blocks (fixes [#13553](https://github.com/eslint/eslint/issues/13553)) |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | 2020-10-14 |
-| [#13678](https://github.com/eslint/eslint/issues/13678) | prefer-destructuring false Positive when casting result |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-09-30 |
 
-Total: 5
+Total: 4
 
 ## Needs interest
 
