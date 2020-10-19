@@ -47,9 +47,8 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() (PR [#13579](https://github.com/eslint/eslint/pull/13579)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-23 |
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-10 |
-| [#13712](https://github.com/eslint/eslint/pull/13712) | Update: skip keyword check for fns in space-before-blocks (fixes [#13553](https://github.com/eslint/eslint/issues/13553)) |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-10-14 |
 
-Total: 3
+Total: 2
 
 ## Needs interest
 
