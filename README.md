@@ -64,7 +64,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 1 | ⌛ 2018-05-02 |
-| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions (PR [#13753](https://github.com/eslint/eslint/pull/13753)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-10-29 |
+| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-10-29 |
 
 Total: 2
 
