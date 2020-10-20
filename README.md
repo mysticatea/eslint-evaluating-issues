@@ -64,9 +64,8 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 1 | ⌛ 2018-05-02 |
-| [#13744](https://github.com/eslint/eslint/issues/13744) | Add no-dupe-ternary-expressions |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-10-29 |
 
-Total: 2
+Total: 1
 
 ## Needs approval in a TSC meeting
 
@@ -84,19 +83,14 @@ Total: 2
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
 | [#13695](https://github.com/eslint/eslint/issues/13695) | Per-rule performance measure and bootstraping costs |  |  |  | 2 | ⌛ 2020-10-07 |
-| [#13684](https://github.com/eslint/eslint/issues/13684) | Allow for dynamic import() to be used in eslint config file |  |  |  | 0 | ⌛ 2020-10-02 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13754](https://github.com/eslint/eslint/issues/13754) | Add no-unreachable-ternary |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-11-03 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
