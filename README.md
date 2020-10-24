@@ -55,9 +55,10 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | 2020-11-02 |
+| [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 | [#13742](https://github.com/eslint/eslint/issues/13742) | Move no-multi-spaces to "stylistic issues" category |  |  |  | 0 | 2020-10-28 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
