@@ -55,7 +55,7 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | 2020-11-02 |
-| [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` (PR [#13787](https://github.com/eslint/eslint/pull/13787)) |  |  |  | 0 | 2020-11-13 |
+| [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 | [#13742](https://github.com/eslint/eslint/issues/13742) | Move no-multi-spaces to "stylistic issues" category |  |  |  | 0 | 2020-10-28 |
 
 Total: 3
@@ -82,10 +82,11 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
+| [#13791](https://github.com/eslint/eslint/issues/13791) | Allow extending from arbitrarily named scoped package |  |  |  | 0 | 2020-11-15 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
