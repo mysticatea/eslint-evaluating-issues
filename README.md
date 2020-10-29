@@ -55,9 +55,10 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | 2020-11-02 |
+| [#13800](https://github.com/eslint/eslint/issues/13800) | Support STATEMENT_TYPE negation for 'padding-line-between-statements' |  |  |  | 0 | 2020-11-18 |
 | [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
@@ -81,10 +82,11 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
+| [#13795](https://github.com/eslint/eslint/issues/13795) | Support specifying config file format in initialization wizard |  |  |  | 0 | 2020-11-16 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
