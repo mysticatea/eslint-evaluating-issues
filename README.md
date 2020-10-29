@@ -55,10 +55,9 @@ Total: 2
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | 2020-11-02 |
-| [#13800](https://github.com/eslint/eslint/issues/13800) | Support STATEMENT_TYPE negation for 'padding-line-between-statements' |  |  |  | 0 | 2020-11-18 |
 | [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
