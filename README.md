@@ -45,9 +45,10 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() (PR [#13579](https://github.com/eslint/eslint/pull/13579)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-23 |
 | [#13594](https://github.com/eslint/eslint/issues/13594) | Make no-restricted-imports apply to dynamic imports |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-10 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
@@ -107,9 +108,5 @@ Total: 7
 
 ## Pull requests for closed issue
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13579](https://github.com/eslint/eslint/pull/13579) | Update: Add templateString option in no-implicit-coercion (fixes [#12866](https://github.com/eslint/eslint/issues/12866)) |  | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-09-07 |
-
-Total: 1
+Nothing.
 
