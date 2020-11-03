@@ -55,7 +55,7 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | 2020-11-02 |
+| [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | ⌛ 2020-11-02 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | 2020-11-21 |
 | [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 
