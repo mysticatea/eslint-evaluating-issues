@@ -58,12 +58,14 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13820](https://github.com/eslint/eslint/issues/13820) | New option for operator-linebreak |  |  |  | 0 | 2020-11-27 |
+| [#13819](https://github.com/eslint/eslint/issues/13819) | Suggestion (rule change): Add optional chaining support to no-unneeded-ternary |  |  |  | 0 | 2020-11-27 |
 | [#13811](https://github.com/eslint/eslint/issues/13811) | Disallow plain toString calls as part of no-implicit-coercion |  |  |  | 0 | 2020-11-24 |
 | [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | 2020-11-23 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | 2020-11-21 |
 | [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 
-Total: 4
+Total: 6
 
 ## Needs consensus
 
