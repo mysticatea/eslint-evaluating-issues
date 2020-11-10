@@ -40,7 +40,7 @@ Total: 9
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13776](https://github.com/eslint/eslint/issues/13776) | Follow identifiers to their declaration in `no-constant-condition` |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | 2020-11-10 |
+| [#13776](https://github.com/eslint/eslint/issues/13776) | Follow identifiers to their declaration in `no-constant-condition` |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-11-10 |
 
 Total: 1
 
