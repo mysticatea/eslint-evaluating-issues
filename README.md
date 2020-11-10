@@ -40,7 +40,7 @@ Total: 9
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13776](https://github.com/eslint/eslint/issues/13776) | Follow identifiers to their declaration in `no-constant-condition` |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | 2020-11-10 |
+| [#13776](https://github.com/eslint/eslint/issues/13776) | Follow identifiers to their declaration in `no-constant-condition` |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 2 | 2020-11-10 |
 
 Total: 1
 
@@ -57,13 +57,12 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13831](https://github.com/eslint/eslint/issues/13831) | Allow to override warning level per item in no-restricted-syntax |  |  |  | 0 | 2020-12-01 |
 | [#13811](https://github.com/eslint/eslint/issues/13811) | Disallow plain toString calls as part of no-implicit-coercion |  |  |  | 0 | 2020-11-24 |
 | [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | 2020-11-23 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | 2020-11-21 |
 | [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | 2020-11-13 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -86,11 +85,12 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
+| [#13831](https://github.com/eslint/eslint/issues/13831) | Allow to override warning level per item in no-restricted-syntax |  |  |  | 0 | 2020-12-01 |
 | [#13803](https://github.com/eslint/eslint/issues/13803) | eslint --init should offer to save custom configs |  |  |  | 0 | 2020-11-19 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 12
+Total: 13
 
 ## Looks opposed
 
