@@ -60,9 +60,8 @@ Total: 2
 | [#13811](https://github.com/eslint/eslint/issues/13811) | Disallow plain toString calls as part of no-implicit-coercion |  |  |  | 0 | 2020-11-24 |
 | [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | 2020-11-23 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | 2020-11-21 |
-| [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | ⌛ 2020-11-13 |
 
-Total: 4
+Total: 3
 
 ## Needs consensus
 
@@ -105,13 +104,14 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13752](https://github.com/eslint/eslint/issues/13752) | Should we extend no-constant-condition to catch comparisons that are constant due to type mismatch? |  |  |  | 2 | ⌛ 2020-11-02 |
+| [#13785](https://github.com/eslint/eslint/issues/13785) | no-extra-semi should prevent `if (condition);` |  |  |  | 0 | ⌛ 2020-11-13 |
 | [#13668](https://github.com/eslint/eslint/issues/13668) | [no-promise-executor-return]: false positive on arrow function |  |  |  | 0 | ⌛ 2020-09-28 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | Chore: Add .pre-commit-hooks.yaml file |  |  |  | 0 | ⌛ 2020-09-18 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | ⌛ 2020-09-12 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 6
+Total: 7
 
 ## Pull requests for closed issue
 
