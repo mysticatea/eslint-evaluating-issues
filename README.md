@@ -56,7 +56,7 @@ Total: 2
 | [#13874](https://github.com/eslint/eslint/issues/13874) | no-restricted-imports: Allow only certain styles of imports (default / named / namespace) |  |  |  | 0 | 2020-12-13 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | 2020-12-08 |
-| [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | 2020-11-23 |
+| [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | ⌛ 2020-11-23 |
 
 Total: 4
 
