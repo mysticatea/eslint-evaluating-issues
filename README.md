@@ -56,9 +56,8 @@ Total: 2
 | [#13874](https://github.com/eslint/eslint/issues/13874) | no-restricted-imports: Allow only certain styles of imports (default / named / namespace) |  |  |  | 0 | 2020-12-13 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | 2020-12-08 |
-| [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | ⌛ 2020-11-23 |
 
-Total: 4
+Total: 3
 
 ## Needs consensus
 
@@ -101,13 +100,14 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | ⌛ 2020-11-23 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13628](https://github.com/eslint/eslint/pull/13628) | Chore: Add .pre-commit-hooks.yaml file |  |  |  | 0 | ⌛ 2020-09-18 |
 | [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | ⌛ 2020-09-12 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 5
+Total: 6
 
 ## Pull requests for closed issue
 
