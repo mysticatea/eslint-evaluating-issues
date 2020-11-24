@@ -53,11 +53,10 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13874](https://github.com/eslint/eslint/issues/13874) | no-restricted-imports: Allow only certain styles of imports (default / named / namespace) |  |  |  | 0 | 2020-12-13 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | 2020-12-08 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
@@ -92,9 +91,10 @@ Total: 14
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13874](https://github.com/eslint/eslint/issues/13874) | no-restricted-imports: Allow only certain styles of imports (default / named / namespace) |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-12-13 |
 | [#13819](https://github.com/eslint/eslint/issues/13819) | Suggestion (rule change): Add optional chaining support to no-unneeded-ternary |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-11-27 |
 
-Total: 1
+Total: 2
 
 ## Looks inactive
 
