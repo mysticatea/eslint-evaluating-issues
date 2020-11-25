@@ -78,14 +78,13 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
-| [#13851](https://github.com/eslint/eslint/issues/13851) | Allow specifying rules as camelCase strings |  |  |  | 0 | 2020-12-07 |
 | [#13835](https://github.com/eslint/eslint/issues/13835) | Request range formatter for ESLint |  |  |  | 0 | 2020-12-02 |
 | [#13802](https://github.com/eslint/eslint/issues/13802) | Enable getting config array from outside of ESLint |  |  |  | 0 | ⌛ 2020-11-19 |
 | [#13593](https://github.com/eslint/eslint/issues/13593) | The name of a processor code block is prefixed by its index |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
