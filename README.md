@@ -45,7 +45,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12866](https://github.com/eslint/eslint/issues/12866) | Rule proposal: No useless template string, or prefer String() (PR [#13579](https://github.com/eslint/eslint/pull/13579)) |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-02-23 |
-| [#13818](https://github.com/eslint/eslint/issues/13818) | Rule change: array-element-newline default option before multiline |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2020-11-26 |
+| [#13818](https://github.com/eslint/eslint/issues/13818) | Rule change: array-element-newline default option before multiline |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-11-26 |
 
 Total: 2
 
