@@ -92,7 +92,7 @@ Total: 13
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13874](https://github.com/eslint/eslint/issues/13874) | no-restricted-imports: Allow only certain styles of imports (default / named / namespace) |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-12-13 |
-| [#13819](https://github.com/eslint/eslint/issues/13819) | Suggestion (rule change): Add optional chaining support to no-unneeded-ternary |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | 2020-11-27 |
+| [#13819](https://github.com/eslint/eslint/issues/13819) | Suggestion (rule change): Add optional chaining support to no-unneeded-ternary |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | ⌛ 2020-11-27 |
 
 Total: 2
 
