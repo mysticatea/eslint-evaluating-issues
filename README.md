@@ -52,12 +52,13 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | 2020-12-22 |
 | [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | 2020-12-17 |
 | [#13881](https://github.com/eslint/eslint/issues/13881) | Turn off complexity for switch statement. |  |  |  | 0 | 2020-12-15 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | 2020-12-08 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
@@ -76,10 +77,12 @@ Total: 1
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules | <img alt="@kaicataldo" src="https://github.com/kaicataldo.png" width="32px" height="32px"> |  |  | 5 | ⌛ 2019-08-05 |
 | [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
+| [#13897](https://github.com/eslint/eslint/issues/13897) | Consider changing default location of `.eslintcache` to `node_modules/.cache` |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 2 | 2020-12-22 |
 | [#13888](https://github.com/eslint/eslint/issues/13888) | Upgrade to Ajv version 7 |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2020-12-19 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
+| [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | 2020-12-22 |
 | [#13876](https://github.com/eslint/eslint/issues/13876) | Decouple eslint from debug |  |  |  | 0 | 2020-12-14 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | 2020-12-12 |
 | [#13835](https://github.com/eslint/eslint/issues/13835) | Request range formatter for ESLint |  |  |  | 0 | 2020-12-02 |
@@ -88,7 +91,7 @@ Total: 1
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 16
+Total: 18
 
 ## Looks opposed
 
