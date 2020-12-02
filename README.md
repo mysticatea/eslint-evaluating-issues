@@ -82,6 +82,7 @@ Total: 1
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
+| [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | 2020-12-22 |
 | [#13876](https://github.com/eslint/eslint/issues/13876) | Decouple eslint from debug |  |  |  | 0 | 2020-12-14 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | 2020-12-12 |
 | [#13835](https://github.com/eslint/eslint/issues/13835) | Request range formatter for ESLint |  |  |  | 0 | ⌛ 2020-12-02 |
@@ -90,7 +91,7 @@ Total: 1
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 17
+Total: 18
 
 ## Looks opposed
 
