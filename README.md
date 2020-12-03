@@ -82,8 +82,8 @@ Total: 1
 | [#13888](https://github.com/eslint/eslint/issues/13888) | Upgrade to Ajv version 7 |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2020-12-19 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
+| [#13903](https://github.com/eslint/eslint/issues/13903) | Populate context.options with the default values when no options are present |  |  |  | 2 | 2020-12-23 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
-| [#13903](https://github.com/eslint/eslint/issues/13903) | Populate context.options with the default values when no options are present |  |  |  | 0 | 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | 2020-12-22 |
 | [#13876](https://github.com/eslint/eslint/issues/13876) | Decouple eslint from debug |  |  |  | 0 | 2020-12-14 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | 2020-12-12 |
