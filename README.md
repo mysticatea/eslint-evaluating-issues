@@ -95,11 +95,7 @@ Total: 20
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13819](https://github.com/eslint/eslint/issues/13819) | Suggestion (rule change): Add optional chaining support to no-unneeded-ternary |  |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | ⌛ 2020-11-27 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
