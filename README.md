@@ -53,7 +53,7 @@ Total: 1
 | [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | 2020-12-22 |
 | [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | 2020-12-17 |
 | [#13881](https://github.com/eslint/eslint/issues/13881) | Turn off complexity for switch statement. |  |  |  | 0 | 2020-12-15 |
-| [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | 2020-12-09 |
+| [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | ⌛ 2020-12-09 |
 
 Total: 5
 
