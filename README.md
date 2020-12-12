@@ -83,7 +83,7 @@ Total: 1
 | [#13922](https://github.com/eslint/eslint/issues/13922) | Please add "--diff" command line flag that just runs eslint on the diff |  |  |  | 0 | 2021-01-01 |
 | [#13902](https://github.com/eslint/eslint/issues/13902) | default flag |  |  |  | 0 | 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | 2020-12-22 |
-| [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | 2020-12-12 |
+| [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | ⌛ 2020-12-12 |
 | [#13835](https://github.com/eslint/eslint/issues/13835) | Request range formatter for ESLint |  |  |  | 0 | ⌛ 2020-12-02 |
 | [#13802](https://github.com/eslint/eslint/issues/13802) | Enable getting config array from outside of ESLint |  |  |  | 0 | ⌛ 2020-11-19 |
 | [#13593](https://github.com/eslint/eslint/issues/13593) | The name of a processor code block is prefixed by its index |  |  |  | 0 | ⌛ 2020-09-10 |
