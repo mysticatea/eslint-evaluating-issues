@@ -53,9 +53,8 @@ Total: 1
 | [#13926](https://github.com/eslint/eslint/issues/13926) | autofix no-use-before-define |  |  |  | 0 | 2021-01-04 |
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 | [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | 2020-12-22 |
-| [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | ⌛ 2020-12-17 |
 
-Total: 5
+Total: 4
 
 ## Needs consensus
 
@@ -103,6 +102,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 1 | ⌛ 2019-11-05 |
+| [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | ⌛ 2020-12-17 |
 | [#13881](https://github.com/eslint/eslint/issues/13881) | Turn off complexity for switch statement. |  |  |  | 0 | ⌛ 2020-12-15 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | ⌛ 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | ⌛ 2020-12-08 |
@@ -113,7 +113,7 @@ Nothing.
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 11
+Total: 12
 
 ## Pull requests for closed issue
 
