@@ -51,7 +51,7 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 | [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | 2020-12-22 |
-| [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | 2020-12-17 |
+| [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | ⌛ 2020-12-17 |
 
 Total: 3
 
