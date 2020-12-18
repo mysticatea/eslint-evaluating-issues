@@ -39,11 +39,7 @@ Nothing.
 
 ## Needs a champion and supporters
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13818](https://github.com/eslint/eslint/issues/13818) | Rule change: array-element-newline default option before multiline |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-11-26 |
-
-Total: 1
+Nothing.
 
 ## Needs interest
 
@@ -85,13 +81,11 @@ Total: 1
 | [#13902](https://github.com/eslint/eslint/issues/13902) | default flag |  |  |  | 0 | 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | 2020-12-22 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | ⌛ 2020-12-12 |
-| [#13835](https://github.com/eslint/eslint/issues/13835) | Request range formatter for ESLint |  |  |  | 0 | ⌛ 2020-12-02 |
-| [#13802](https://github.com/eslint/eslint/issues/13802) | Enable getting config array from outside of ESLint |  |  |  | 0 | ⌛ 2020-11-19 |
 | [#13593](https://github.com/eslint/eslint/issues/13593) | The name of a processor code block is prefixed by its index |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 22
+Total: 20
 
 ## Looks opposed
 
