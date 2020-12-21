@@ -45,12 +45,13 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  |  |  | 0 | 2021-01-11 |
 | [#13928](https://github.com/eslint/eslint/issues/13928) | Scan threshold |  |  |  | 0 | 2021-01-05 |
 | [#13926](https://github.com/eslint/eslint/issues/13926) | autofix no-use-before-define |  |  |  | 0 | 2021-01-04 |
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 | [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | 2020-12-22 |
 
-Total: 4
+Total: 5
 
 ## Needs consensus
 
