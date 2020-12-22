@@ -102,14 +102,12 @@ Nothing.
 | [#13881](https://github.com/eslint/eslint/issues/13881) | Turn off complexity for switch statement. |  |  |  | 0 | ⌛ 2020-12-15 |
 | [#13862](https://github.com/eslint/eslint/issues/13862) | Rule Proposal: Writing variable without reading |  |  |  | 0 | ⌛ 2020-12-09 |
 | [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | ⌛ 2020-12-08 |
-| [#13809](https://github.com/eslint/eslint/pull/13809) | Update: specify minimum entity length for max-len ignore entities |  |  |  | 0 | ⌛ 2020-11-23 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
-| [#13607](https://github.com/eslint/eslint/pull/13607) | New rule: no-useless-continue |  |  |  | 0 | ⌛ 2020-09-12 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 12
+Total: 10
 
 ## Pull requests for closed issue
 
