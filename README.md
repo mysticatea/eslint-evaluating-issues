@@ -45,13 +45,14 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | 2021-01-12 |
 | [#13951](https://github.com/eslint/eslint/issues/13951) | Cannot fix max-len errors on example for max-len |  |  |  | 0 | 2021-01-12 |
 | [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  |  |  | 0 | 2021-01-11 |
 | [#13928](https://github.com/eslint/eslint/issues/13928) | Scan threshold |  |  |  | 0 | 2021-01-05 |
 | [#13926](https://github.com/eslint/eslint/issues/13926) | autofix no-use-before-define |  |  |  | 0 | 2021-01-04 |
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 
-Total: 5
+Total: 6
 
 ## Needs consensus
 
