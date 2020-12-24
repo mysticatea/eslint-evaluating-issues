@@ -50,12 +50,9 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | 2021-01-12 |
-| [#13951](https://github.com/eslint/eslint/issues/13951) | Cannot fix max-len errors on example for max-len |  |  |  | 0 | 2021-01-12 |
-| [#13928](https://github.com/eslint/eslint/issues/13928) | Scan threshold |  |  |  | 0 | 2021-01-05 |
-| [#13926](https://github.com/eslint/eslint/issues/13926) | autofix no-use-before-define |  |  |  | 0 | 2021-01-04 |
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 
-Total: 5
+Total: 2
 
 ## Needs consensus
 
@@ -82,7 +79,6 @@ Total: 1
 | [#13903](https://github.com/eslint/eslint/issues/13903) | Populate context.options with the default values when no options are present |  |  |  | 2 | ⌛ 2020-12-23 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
 | [#13938](https://github.com/eslint/eslint/issues/13938) | Ability to specify cache configuration in eslintrc files to optimize cache strategy |  |  |  | 0 | 2021-01-07 |
-| [#13922](https://github.com/eslint/eslint/issues/13922) | Please add "--diff" command line flag that just runs eslint on the diff |  |  |  | 0 | 2021-01-01 |
 | [#13902](https://github.com/eslint/eslint/issues/13902) | default flag |  |  |  | 0 | ⌛ 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | ⌛ 2020-12-22 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | ⌛ 2020-12-12 |
@@ -90,7 +86,7 @@ Total: 1
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 20
+Total: 19
 
 ## Looks opposed
 
