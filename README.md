@@ -39,7 +39,11 @@ Nothing.
 
 ## Needs a champion and supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | 2021-01-11 |
+
+Total: 1
 
 ## Needs interest
 
@@ -47,12 +51,11 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | 2021-01-12 |
 | [#13951](https://github.com/eslint/eslint/issues/13951) | Cannot fix max-len errors on example for max-len |  |  |  | 0 | 2021-01-12 |
-| [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  |  |  | 0 | 2021-01-11 |
 | [#13928](https://github.com/eslint/eslint/issues/13928) | Scan threshold |  |  |  | 0 | 2021-01-05 |
 | [#13926](https://github.com/eslint/eslint/issues/13926) | autofix no-use-before-define |  |  |  | 0 | 2021-01-04 |
 | [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
 
-Total: 6
+Total: 5
 
 ## Needs consensus
 
@@ -102,13 +105,12 @@ Nothing.
 | [#13895](https://github.com/eslint/eslint/issues/13895) | When using camelcase rule, can i just ignore property access and still check property definitions? |  |  |  | 0 | ⌛ 2020-12-22 |
 | [#13884](https://github.com/eslint/eslint/issues/13884) | Rule Proposal: Catch no await inside a catch block |  |  |  | 0 | ⌛ 2020-12-17 |
 | [#13881](https://github.com/eslint/eslint/issues/13881) | Turn off complexity for switch statement. |  |  |  | 0 | ⌛ 2020-12-15 |
-| [#13856](https://github.com/eslint/eslint/issues/13856) | no-shadow new option "ignoredGlobals" |  |  |  | 0 | ⌛ 2020-12-08 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 10
+Total: 9
 
 ## Pull requests for closed issue
 
