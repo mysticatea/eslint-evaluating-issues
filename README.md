@@ -83,11 +83,10 @@ Total: 1
 | [#13902](https://github.com/eslint/eslint/issues/13902) | default flag |  |  |  | 0 | ⌛ 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | ⌛ 2020-12-22 |
 | [#13872](https://github.com/eslint/eslint/issues/13872) | Improve error handling of crashing rules |  |  |  | 0 | ⌛ 2020-12-12 |
-| [#13593](https://github.com/eslint/eslint/issues/13593) | The name of a processor code block is prefixed by its index |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 20
+Total: 19
 
 ## Looks opposed
 
