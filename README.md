@@ -50,7 +50,7 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | 2021-01-12 |
-| [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | 2020-12-26 |
+| [#13909](https://github.com/eslint/eslint/issues/13909) | no-param-reassign should trigger loops parameters |  |  |  | 0 | ⌛ 2020-12-26 |
 
 Total: 2
 
