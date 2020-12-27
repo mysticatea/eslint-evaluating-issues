@@ -41,7 +41,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> |  | 0 | 2021-01-11 |
+| [#13946](https://github.com/eslint/eslint/pull/13946) | Update: check logical assignment in no-constant-condition |  | <img alt="@yeonjuan" src="https://github.com/yeonjuan.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2021-01-11 |
 
 Total: 1
 
