@@ -101,7 +101,7 @@ Total: 7
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13579](https://github.com/eslint/eslint/pull/13579) | Update: Add templateString option in no-implicit-coercion (fixes [#12866](https://github.com/eslint/eslint/issues/12866)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 2 | ⌛ 2020-09-07 |
+| [#13579](https://github.com/eslint/eslint/pull/13579) | Update: Add templateString option in no-implicit-coercion (fixes [#12866](https://github.com/eslint/eslint/issues/12866)) |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-09-07 |
 | [#13841](https://github.com/eslint/eslint/pull/13841) | Update: show where the original identifier has been defined (refs [#13](https://github.com/eslint/eslint/issues/13)… |  |  |  | 0 | ⌛ 2020-12-05 |
 
 Total: 2
