@@ -72,12 +72,11 @@ Total: 1
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13903](https://github.com/eslint/eslint/issues/13903) | Populate context.options with the default values when no options are present |  |  |  | 2 | ⌛ 2020-12-23 |
 | [#13938](https://github.com/eslint/eslint/issues/13938) | Ability to specify cache configuration in eslintrc files to optimize cache strategy |  |  |  | 0 | 2021-01-07 |
-| [#13902](https://github.com/eslint/eslint/issues/13902) | default flag |  |  |  | 0 | ⌛ 2020-12-23 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | ⌛ 2020-12-22 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 14
+Total: 13
 
 ## Looks opposed
 
