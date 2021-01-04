@@ -45,9 +45,10 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#13977](https://github.com/eslint/eslint/issues/13977) | Catch spacing if called without argument |  |  |  | 0 | 2021-01-24 |
 | [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | 2021-01-12 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
