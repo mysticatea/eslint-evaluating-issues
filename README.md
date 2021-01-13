@@ -45,9 +45,8 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13977](https://github.com/eslint/eslint/issues/13977) | Catch spacing if called without argument |  |  |  | 0 | 2021-01-24 |
-| [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | ⌛ 2021-01-12 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
@@ -70,12 +69,11 @@ Total: 1
 | [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  |  |  | 6 | ⌛ 2019-08-05 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
-| [#13938](https://github.com/eslint/eslint/issues/13938) | Ability to specify cache configuration in eslintrc files to optimize cache strategy |  |  |  | 0 | ⌛ 2021-01-07 |
 | [#13898](https://github.com/eslint/eslint/issues/13898) | Add the --quiet option (to only output errors and not warnings) to the configuration file |  |  |  | 0 | ⌛ 2020-12-22 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 13
+Total: 12
 
 ## Looks opposed
 
@@ -87,12 +85,13 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 1 | ⌛ 2019-11-05 |
+| [#13952](https://github.com/eslint/eslint/issues/13952) | [meta] Add developer guidance about how to write messages |  |  |  | 0 | ⌛ 2021-01-12 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 6
+Total: 7
 
 ## Pull requests for closed issue
 
