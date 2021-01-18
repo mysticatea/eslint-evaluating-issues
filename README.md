@@ -44,9 +44,10 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14012](https://github.com/eslint/eslint/pull/14012) | Update: no-unused-expression flags unused JSX |  |  |  | 0 | 2021-02-08 |
 | [#13977](https://github.com/eslint/eslint/issues/13977) | Catch spacing if called without argument |  |  |  | 0 | 2021-01-24 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
