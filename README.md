@@ -38,7 +38,11 @@ Nothing.
 
 ## Needs a champion and supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14005](https://github.com/eslint/eslint/issues/14005) | id-match should ignore named imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2021-02-04 |
+
+Total: 1
 
 ## Needs interest
 
