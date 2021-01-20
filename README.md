@@ -41,8 +41,9 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14005](https://github.com/eslint/eslint/issues/14005) | id-match should ignore named imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | 2021-02-04 |
+| [#14019](https://github.com/eslint/eslint/issues/14019) | "Sponsors: Sync README with website (ESLint Jenkins)" in changelog |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2021-02-10 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
