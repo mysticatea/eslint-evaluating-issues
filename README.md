@@ -25,10 +25,10 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13689](https://github.com/eslint/eslint/issues/13689) | New rule: Prefer logical assignment operators | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> |  | 3 | ⌛ 2020-10-05 |
+| [#13746](https://github.com/eslint/eslint/issues/13746) | Allow `commentPattern: null` in no-fallthrough | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-10-30 |
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-15 |
 | [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-13 |
-| [#13746](https://github.com/eslint/eslint/issues/13746) | Allow `commentPattern: null` in no-fallthrough | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-10-30 |
 
 Total: 5
 
