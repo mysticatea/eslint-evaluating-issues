@@ -49,7 +49,11 @@ Total: 4
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  |  | 0 | 2021-02-16 |
+
+Total: 1
 
 ## Needs consensus
 
