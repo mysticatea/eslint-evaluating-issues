@@ -50,10 +50,9 @@ Total: 3
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14063](https://github.com/eslint/eslint/pull/14063) | Docs: Clarify line breaks in object-curly-newline (refs [#14024](https://github.com/eslint/eslint/issues/14024)) |  |  |  | 0 | 2021-02-23 |
 | [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  |  | 0 | 2021-02-16 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
