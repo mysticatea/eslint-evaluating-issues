@@ -49,7 +49,7 @@ Total: 2
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  |  | 0 | 2021-02-16 |
+| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  |  | 0 | ⌛ 2021-02-16 |
 
 Total: 1
 
