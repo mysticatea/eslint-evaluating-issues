@@ -47,7 +47,11 @@ Total: 2
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14184](https://github.com/eslint/eslint/issues/14184) | [no-sequences] does not trigger if comma is used in parentheses as part of a condition |  |  |  | 0 | 2021-03-26 |
+
+Total: 1
 
 ## Needs consensus
 
