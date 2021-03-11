@@ -47,7 +47,11 @@ Total: 2
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14199](https://github.com/eslint/eslint/pull/14199) | Update: add option "allowInParentheses" to no-sequences (fixes [#14197](https://github.com/eslint/eslint/issues/14197)) |  |  |  | 0 | 2021-04-01 |
+
+Total: 1
 
 ## Needs consensus
 
@@ -72,12 +76,11 @@ Total: 1
 | [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13711](https://github.com/eslint/eslint/issues/13711) | Report fatal parsing errors differently than standard errors |  |  |  | 2 | ⌛ 2020-10-14 |
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API |  |  |  | 0 | 2021-03-18 |
-| [#14059](https://github.com/eslint/eslint/pull/14059) | Update: eslint --env-info ouput os info |  |  |  | 0 | ⌛ 2021-02-23 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 0 | ⌛ 2020-06-26 |
 
-Total: 15
+Total: 14
 
 ## Looks opposed
 
