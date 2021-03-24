@@ -47,11 +47,7 @@ Total: 2
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14199](https://github.com/eslint/eslint/pull/14199) | Update: add option "allowInParentheses" to no-sequences (fixes [#14197](https://github.com/eslint/eslint/issues/14197)) |  |  |  | 0 | 2021-04-01 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
