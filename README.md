@@ -52,7 +52,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 3 | ⌛ 2018-05-02 |
+| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 4 | ⌛ 2018-05-02 |
 
 Total: 1
 
