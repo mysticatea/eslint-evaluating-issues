@@ -41,8 +41,9 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14005](https://github.com/eslint/eslint/issues/14005) | id-match should ignore named imports |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2021-02-04 |
+| [#14291](https://github.com/eslint/eslint/pull/14291) | Update: Add automated suggestion to `radix` rule for parsing decimal numbers |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2021-04-23 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
