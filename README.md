@@ -47,7 +47,11 @@ Total: 2
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | 2021-04-29 |
+
+Total: 1
 
 ## Needs consensus
 
