@@ -55,31 +55,23 @@ Total: 1
 
 ## Needs consensus
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#10203](https://github.com/eslint/eslint/issues/10203) | Stricter `no-undef` default | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 4 | ⌛ 2018-05-02 |
-
-Total: 1
+Nothing.
 
 ## Needs approval in a TSC meeting
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#11815](https://github.com/eslint/eslint/issues/11815) | --report-unused-disable-directives should be autofixable | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 9 | ⌛ 2019-06-28 |
 | [#13917](https://github.com/eslint/eslint/issues/13917) | [RuleTester] Test case validation | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-12-31 |
-| [#11903](https://github.com/eslint/eslint/issues/11903) | enable no-use-before-define in eslint:recommended | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | 0 | ⌛ 2019-07-16 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#14027](https://github.com/eslint/eslint/issues/14027) | Provide a specific error for a rule specification missing a plugin prefix |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2021-02-13 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
-| [#11989](https://github.com/eslint/eslint/issues/11989) | Expose true filename to rules |  |  |  | 7 | ⌛ 2019-08-05 |
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
-| [#10272](https://github.com/eslint/eslint/issues/10272) | Validate options passed to CLIEngine API |  |  |  | 3 | ⌛ 2018-05-17 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API |  |  |  | 0 | ⌛ 2021-03-18 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 
-Total: 13
+Total: 9
 
 ## Looks opposed
 
