@@ -48,9 +48,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14336](https://github.com/eslint/eslint/pull/14336) | Docs: update pull request template |  |  |  | 0 | 2021-05-08 |
 | [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | 2021-04-29 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
