@@ -40,7 +40,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14291](https://github.com/eslint/eslint/pull/14291) | Update: Add automated suggestion to `radix` rule for parsing decimal numbers |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-04-23 |
+| [#14291](https://github.com/eslint/eslint/pull/14291) | Update: Add automated suggestion to `radix` rule for parsing decimal numbers |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-04-23 |
 
 Total: 1
 
