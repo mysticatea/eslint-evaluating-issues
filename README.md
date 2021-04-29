@@ -49,9 +49,8 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | 2021-05-13 |
-| [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | ⌛ 2021-04-29 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
@@ -87,12 +86,13 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
+| [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | ⌛ 2021-04-29 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 6
+Total: 7
 
 ## Pull requests for closed issue
 
