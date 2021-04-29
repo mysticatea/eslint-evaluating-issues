@@ -49,7 +49,7 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | 2021-05-13 |
-| [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | 2021-04-29 |
+| [#14302](https://github.com/eslint/eslint/issues/14302) | New rule proposal: `no-invalid-new-target` |  |  |  | 0 | ⌛ 2021-04-29 |
 
 Total: 2
 
