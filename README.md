@@ -44,7 +44,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | 2021-05-13 |
+| [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | ⌛ 2021-05-13 |
 
 Total: 1
 
