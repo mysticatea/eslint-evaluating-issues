@@ -53,6 +53,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13917](https://github.com/eslint/eslint/issues/13917) | [RuleTester] Test case validation | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 0 | ⌛ 2020-12-31 |
+| [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2021-03-18 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#14588](https://github.com/eslint/eslint/issues/14588) | reconsider the defaults of eslint config |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 4 | 2021-06-04 |
 | [#14027](https://github.com/eslint/eslint/issues/14027) | Provide a specific error for a rule specification missing a plugin prefix |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2021-02-13 |
@@ -61,7 +62,6 @@ Nothing.
 | [#13617](https://github.com/eslint/eslint/pull/13617) | New: Add --max-errors flag to CLI |  |  |  | 4 | ⌛ 2020-09-15 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
 | [#14637](https://github.com/eslint/eslint/issues/14637) | do not call the fix functions in no-autofix mode |  |  |  | 0 | 2021-06-17 |
-| [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API |  |  |  | 0 | ⌛ 2021-03-18 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 0 | ⌛ 2020-07-28 |
 
