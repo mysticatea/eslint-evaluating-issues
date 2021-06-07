@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14675](https://github.com/eslint/eslint/pull/14675) | Mention workaround for the regex escape character |  |  |  | 0 | 2021-06-26 |
+
+Total: 1
 
 ## Needs consensus
 
