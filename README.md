@@ -38,7 +38,11 @@ Nothing.
 
 ## Needs a champion and supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2021-06-30 |
+
+Total: 1
 
 ## Needs interest
 
