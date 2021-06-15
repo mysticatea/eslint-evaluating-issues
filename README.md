@@ -48,7 +48,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14675](https://github.com/eslint/eslint/pull/14675) | Mention workaround for the regex escape character |  |  |  | 0 | 2021-06-26 |
+| [#14675](https://github.com/eslint/eslint/pull/14675) | Docs: Mention workaround for escaping the slash character in selectors |  |  |  | 0 | 2021-06-26 |
 
 Total: 1
 
