@@ -47,7 +47,11 @@ Total: 2
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14765](https://github.com/eslint/eslint/pull/14765) | Update: Improving no-mixed-operators to clarify what changes need to be made. |  |  |  | 0 | 2021-07-23 |
+
+Total: 1
 
 ## Needs consensus
 
