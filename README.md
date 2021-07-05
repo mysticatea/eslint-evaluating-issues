@@ -40,10 +40,9 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14721](https://github.com/eslint/eslint/issues/14721) | Rule proposal: `prefer-logical-nullish-assignment` |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 3 | 2021-07-09 |
 | [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-06-30 |
 
-Total: 2
+Total: 1
 
 ## Needs interest
 
