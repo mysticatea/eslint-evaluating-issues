@@ -49,8 +49,9 @@ Total: 1
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14765](https://github.com/eslint/eslint/pull/14765) | Update: Improving no-mixed-operators to clarify what changes need to be made. |  |  |  | 0 | 2021-07-23 |
+| [#14762](https://github.com/eslint/eslint/pull/14762) | Update: Improved error message for no-alert |  |  |  | 0 | 2021-07-23 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
