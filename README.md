@@ -29,7 +29,7 @@ Total: 1
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
 | [#12829](https://github.com/eslint/eslint/issues/12829) | `func-style` "expression" conflicts with ESM named exports | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-02-15 |
 | [#12590](https://github.com/eslint/eslint/issues/12590) | new-parens: add ability to allow chained prop/method access | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2019-12-13 |
-| [#14782](https://github.com/eslint/eslint/issues/14782) | Forgetting "use strict" results in the entire file being underlined (PR [#14779](https://github.com/eslint/eslint/pull/14779)) | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 2021-07-29 |
+| [#14782](https://github.com/eslint/eslint/issues/14782) | Forgetting "use strict" results in the entire file being underlined | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  |  | 0 | 2021-07-29 |
 
 Total: 6
 
@@ -49,11 +49,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14765](https://github.com/eslint/eslint/pull/14765) | Update: Improving no-mixed-operators to clarify what changes need to be made. |  |  |  | 0 | 2021-07-23 |
 | [#14763](https://github.com/eslint/eslint/pull/14763) | Update: In no-restricted-globals allowing the custom message to completely replace the default message |  |  |  | 0 | 2021-07-23 |
 | [#14762](https://github.com/eslint/eslint/pull/14762) | Update: Improved error message for no-alert |  |  |  | 0 | 2021-07-23 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
