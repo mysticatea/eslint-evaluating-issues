@@ -82,7 +82,7 @@ Total: 13
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> | 0 | ⌛ 2021-02-16 |
+| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> | 1 | ⌛ 2021-02-16 |
 
 Total: 1
 
