@@ -48,8 +48,8 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14763](https://github.com/eslint/eslint/pull/14763) | Update: Allow no-restricted-globals to replace the default message |  |  |  | 0 | 2021-07-23 |
-| [#14762](https://github.com/eslint/eslint/pull/14762) | Update: Improved error message for no-alert |  |  |  | 0 | 2021-07-23 |
+| [#14763](https://github.com/eslint/eslint/pull/14763) | Update: Allow no-restricted-globals to replace the default message |  |  |  | 0 | ⌛ 2021-07-23 |
+| [#14762](https://github.com/eslint/eslint/pull/14762) | Update: Improved error message for no-alert |  |  |  | 0 | ⌛ 2021-07-23 |
 
 Total: 2
 
