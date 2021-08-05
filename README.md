@@ -34,16 +34,19 @@ Total: 4
 
 ## Needs a champion
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14860](https://github.com/eslint/eslint/pull/14860) | Fix: `no-new-func` rule catching eval case of `MemberExpression` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 0 | 2021-08-20 |
+
+Total: 1
 
 ## Needs a champion and supporters
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14860](https://github.com/eslint/eslint/pull/14860) | Fix: `no-new-func` rule catching eval case of `MemberExpression` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 2021-08-20 |
 | [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-06-30 |
 
-Total: 2
+Total: 1
 
 ## Needs interest
 
