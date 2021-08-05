@@ -87,16 +87,13 @@ Total: 1
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#14763](https://github.com/eslint/eslint/pull/14763) | Update: Allow no-restricted-globals to replace the default message |  |  |  | 0 | ⌛ 2021-07-23 |
-| [#14762](https://github.com/eslint/eslint/pull/14762) | Update: Improved error message for no-alert |  |  |  | 0 | ⌛ 2021-07-23 |
-| [#14675](https://github.com/eslint/eslint/pull/14675) | Docs: Mention workaround for escaping the slash character in selectors |  |  |  | 0 | ⌛ 2021-06-26 |
 | [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | ⌛ 2021-05-13 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 10
+Total: 7
 
 ## Pull requests for closed issue
 
