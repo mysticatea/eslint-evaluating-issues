@@ -44,9 +44,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14911](https://github.com/eslint/eslint/issues/14911) | Add Module Namespace Exotic Objects Not extensible Lint Rule |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2021-08-31 |
 | [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-06-30 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
