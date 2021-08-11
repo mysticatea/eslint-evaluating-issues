@@ -52,11 +52,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14916](https://github.com/eslint/eslint/pull/14916) | Docs: add an example `Object.assign()` for rule no-import-assign |  |  |  | 0 | 2021-09-01 |
 | [#14900](https://github.com/eslint/eslint/issues/14900) | `prefer-const` does not detect variables declared outside loop |  |  |  | 0 | 2021-08-28 |
 | [#14895](https://github.com/eslint/eslint/pull/14895) | New: Report unused private class members (fixes [#14859](https://github.com/eslint/eslint/issues/14859)) |  |  |  | 0 | 2021-08-27 |
 
-Total: 3
+Total: 2
 
 ## Needs consensus
 
