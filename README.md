@@ -16,7 +16,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13689](https://github.com/eslint/eslint/issues/13689) | New rule: Prefer logical assignment operators | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 5 | ⌛ 2020-10-05 |
+| [#13689](https://github.com/eslint/eslint/issues/13689) | New rule: Prefer logical assignment operators | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 6 | ⌛ 2020-10-05 |
 | [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  | 2 | ⌛ 2019-04-05 |
 
 Total: 2
@@ -44,19 +44,19 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14911](https://github.com/eslint/eslint/issues/14911) | Add Module Namespace Exotic Objects Not extensible Lint Rule |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2021-08-31 |
 | [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-06-30 |
 
-Total: 2
+Total: 1
 
 ## Needs interest
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14916](https://github.com/eslint/eslint/pull/14916) | Docs: add an example `Object.assign()` for rule no-import-assign |  |  |  | 0 | 2021-09-01 |
 | [#14900](https://github.com/eslint/eslint/issues/14900) | `prefer-const` does not detect variables declared outside loop |  |  |  | 0 | 2021-08-28 |
 | [#14895](https://github.com/eslint/eslint/pull/14895) | New: Report unused private class members (fixes [#14859](https://github.com/eslint/eslint/issues/14859)) |  |  |  | 0 | 2021-08-27 |
 
-Total: 2
+Total: 3
 
 ## Needs consensus
 
