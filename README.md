@@ -36,7 +36,7 @@ Total: 4
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14860](https://github.com/eslint/eslint/pull/14860) | Fix: `no-new-func` rule catching eval case of `MemberExpression` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 0 | 2021-08-20 |
+| [#14860](https://github.com/eslint/eslint/pull/14860) | Fix: `no-new-func` rule catching eval case of `MemberExpression` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-08-20 |
 
 Total: 1
 
