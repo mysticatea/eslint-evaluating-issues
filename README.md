@@ -76,10 +76,9 @@ Nothing.
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 1 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
 | [#14727](https://github.com/eslint/eslint/issues/14727) | Allow overrides based on function call |  |  |  | 0 | ⌛ 2021-07-10 |
-| [#14637](https://github.com/eslint/eslint/issues/14637) | do not call the fix functions in no-autofix mode |  |  |  | 0 | ⌛ 2021-06-17 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 
-Total: 13
+Total: 12
 
 ## Looks opposed
 
