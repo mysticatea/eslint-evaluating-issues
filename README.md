@@ -38,11 +38,7 @@ Nothing.
 
 ## Needs a champion and supporters
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14690](https://github.com/eslint/eslint/issues/14690) | Allow multiple non-exported classes in one file |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-06-30 |
-
-Total: 1
+Nothing.
 
 ## Needs interest
 
@@ -69,18 +65,13 @@ Nothing.
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 1 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
-| [#14727](https://github.com/eslint/eslint/issues/14727) | Allow overrides based on function call |  |  |  | 0 | ⌛ 2021-07-10 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 
-Total: 11
+Total: 10
 
 ## Looks opposed
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14037](https://github.com/eslint/eslint/issues/14037) | prefer-nullish-coalescing rule |  |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> | 1 | ⌛ 2021-02-16 |
-
-Total: 1
+Nothing.
 
 ## Looks inactive
 
