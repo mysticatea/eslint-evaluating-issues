@@ -44,7 +44,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14900](https://github.com/eslint/eslint/issues/14900) | `prefer-const` does not detect variables declared outside loop |  |  |  | 0 | 2021-08-28 |
+| [#14900](https://github.com/eslint/eslint/issues/14900) | `prefer-const` does not detect variables declared outside loop |  |  |  | 0 | ⌛ 2021-08-28 |
 
 Total: 1
 
