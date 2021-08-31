@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#14993](https://github.com/eslint/eslint/pull/14993) | Update: add configurable comment behavior to no-empty |  |  |  | 0 | 2021-09-19 |
+
+Total: 1
 
 ## Needs consensus
 
