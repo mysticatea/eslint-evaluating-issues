@@ -83,11 +83,10 @@ Nothing.
 | [#14349](https://github.com/eslint/eslint/pull/14349) | Update: add ignore operators to no-multi-assign |  |  |  | 0 | ⌛ 2021-05-13 |
 | [#13808](https://github.com/eslint/eslint/pull/13808) | Ignore non-returned parts of a sequence expression |  |  |  | 0 | ⌛ 2020-11-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
-| [#13294](https://github.com/eslint/eslint/issues/13294) | Upgrade ignore to 5.x? |  |  |  | 0 | ⌛ 2020-06-03 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 | [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 8
+Total: 7
 
 ## Pull requests for closed issue
 
