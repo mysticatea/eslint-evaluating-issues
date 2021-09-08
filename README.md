@@ -42,12 +42,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15026](https://github.com/eslint/eslint/issues/15026) | `no-undef` reports even though variable exists. |  |  |  | 0 | 2021-09-25 |
-| [#14993](https://github.com/eslint/eslint/pull/14993) | Update: add configurable comment behavior to no-empty |  |  |  | 0 | 2021-09-19 |
-
-Total: 2
+Nothing.
 
 ## Needs consensus
 
