@@ -56,14 +56,13 @@ Nothing.
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2021-03-18 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#14588](https://github.com/eslint/eslint/issues/14588) | reconsider the defaults of eslint config |  | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  | 9 | ⌛ 2021-06-04 |
-| [#14027](https://github.com/eslint/eslint/issues/14027) | Provide a specific error for a rule specification missing a plugin prefix |  | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> |  | 1 | ⌛ 2021-02-13 |
 | [#14731](https://github.com/eslint/eslint/issues/14731) | Support cwd in the top-level CLI |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-07-12 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#13471](https://github.com/eslint/eslint/pull/13471) | add 'inlineConfigGroup' option |  |  |  | 1 | ⌛ 2020-07-28 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 
-Total: 10
+Total: 9
 
 ## Looks opposed
 
