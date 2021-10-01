@@ -44,7 +44,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15077](https://github.com/eslint/eslint/pull/15077) | New: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | 2021-10-08 |
+| [#15077](https://github.com/eslint/eslint/pull/15077) | Update: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | 2021-10-08 |
 
 Total: 1
 
