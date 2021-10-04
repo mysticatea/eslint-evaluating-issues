@@ -44,9 +44,10 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | 2021-10-25 |
 | [#15077](https://github.com/eslint/eslint/pull/15077) | Update: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | 2021-10-08 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
