@@ -80,9 +80,8 @@ Nothing.
 | [#15077](https://github.com/eslint/eslint/pull/15077) | Update: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | ⌛ 2021-10-08 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
-| [#10977](https://github.com/eslint/eslint/issues/10977) | "newline-per-chained-call" doesn't allow first method to start on new line |  |  |  | 0 | ⌛ 2018-11-03 |
 
-Total: 6
+Total: 5
 
 ## Pull requests for closed issue
 
