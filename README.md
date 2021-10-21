@@ -63,9 +63,10 @@ Nothing.
 | [#14731](https://github.com/eslint/eslint/issues/14731) | Support cwd in the top-level CLI |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2021-07-12 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
+| [#15198](https://github.com/eslint/eslint/pull/15198) | Chore: drop minimum node 14 version to 14.16.1 |  |  |  | 0 | 2021-11-11 |
 | [#14028](https://github.com/eslint/eslint/issues/14028) | [Fixer]: new helper for verifying the fix. |  |  |  | 0 | ⌛ 2021-02-13 |
 
-Total: 8
+Total: 9
 
 ## Looks opposed
 
