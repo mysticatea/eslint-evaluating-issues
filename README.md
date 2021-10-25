@@ -42,11 +42,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | ⌛ 2021-10-25 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
@@ -75,11 +71,12 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
+| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | ⌛ 2021-10-25 |
 | [#15077](https://github.com/eslint/eslint/pull/15077) | Update: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | ⌛ 2021-10-08 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 
-Total: 5
+Total: 6
 
 ## Pull requests for closed issue
 
