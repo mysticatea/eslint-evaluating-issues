@@ -44,7 +44,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | 2021-10-25 |
+| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | ⌛ 2021-10-25 |
 
 Total: 1
 
