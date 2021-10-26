@@ -57,7 +57,7 @@ Nothing.
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2021-03-18 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
-| [#13392](https://github.com/eslint/eslint/pull/13392) | Update: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
+| [#13392](https://github.com/eslint/eslint/pull/13392) | feat: pass cwd to formatters (refs eslint/rfcs[#57](https://github.com/eslint/eslint/issues/57)) |  |  |  | 1 | ⌛ 2020-06-26 |
 
 Total: 6
 
@@ -71,8 +71,8 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#15134](https://github.com/eslint/eslint/pull/15134) | Update: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | ⌛ 2021-10-25 |
-| [#15077](https://github.com/eslint/eslint/pull/15077) | Update: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | ⌛ 2021-10-08 |
+| [#15134](https://github.com/eslint/eslint/pull/15134) | feat: report class evaluation TDZ errors in no-use-before-define |  |  |  | 0 | ⌛ 2021-10-25 |
+| [#15077](https://github.com/eslint/eslint/pull/15077) | feat: Suggestions support for `prefer-regex-literals` |  |  |  | 0 | ⌛ 2021-10-08 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 
