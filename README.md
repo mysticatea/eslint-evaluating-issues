@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15439](https://github.com/eslint/eslint/pull/15439) | feat: no-restricted-imports support casing |  |  |  | 0 | 2022-01-09 |
+
+Total: 1
 
 ## Needs consensus
 
