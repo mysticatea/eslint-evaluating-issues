@@ -40,7 +40,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15439](https://github.com/eslint/eslint/pull/15439) | feat: no-restricted-imports support casing |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2022-01-09 |
+| [#15439](https://github.com/eslint/eslint/pull/15439) | feat: no-restricted-imports support casing |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  | 0 | 2022-01-09 |
 
 Total: 1
 
