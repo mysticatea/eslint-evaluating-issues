@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15574](https://github.com/eslint/eslint/pull/15574) | feat: Fix suggestion for "no-template-curly-in-string" |  |  |  | 0 | 2022-02-25 |
+
+Total: 1
 
 ## Needs consensus
 
