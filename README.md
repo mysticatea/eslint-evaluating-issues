@@ -48,9 +48,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | 2022-03-10 |
 | [#15574](https://github.com/eslint/eslint/pull/15574) | feat: Fix suggestion for "no-template-curly-in-string" |  |  |  | 0 | 2022-02-25 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
