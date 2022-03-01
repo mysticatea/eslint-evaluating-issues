@@ -48,9 +48,10 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | 2022-03-21 |
 | [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | 2022-03-10 |
 
-Total: 1
+Total: 2
 
 ## Needs consensus
 
@@ -62,9 +63,11 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
+| [#15654](https://github.com/eslint/eslint/issues/15654) | Change Request: add a typedef for formatter functions |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | 2022-03-21 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
+| [#15656](https://github.com/eslint/eslint/issues/15656) | Change Request: Built-in SARIF format support |  |  |  | 0 | 2022-03-22 |
 
-Total: 3
+Total: 5
 
 ## Looks opposed
 
