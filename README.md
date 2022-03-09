@@ -40,7 +40,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15613](https://github.com/eslint/eslint/pull/15613) | feat: Catch more cases in no-constant-condition |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2022-03-09 |
+| [#15613](https://github.com/eslint/eslint/pull/15613) | feat: Catch more cases in no-constant-condition |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2022-03-09 |
 
 Total: 1
 
