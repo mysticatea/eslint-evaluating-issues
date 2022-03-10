@@ -45,7 +45,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | 2022-03-21 |
-| [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | 2022-03-10 |
+| [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | ⌛ 2022-03-10 |
 
 Total: 2
 
