@@ -45,9 +45,8 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | 2022-03-21 |
-| [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | ⌛ 2022-03-10 |
 
-Total: 2
+Total: 1
 
 ## Needs consensus
 
@@ -74,11 +73,12 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
+| [#15617](https://github.com/eslint/eslint/issues/15617) | Bug: `no-restricted-exports` fails on `export { default, ... } from ...` |  |  |  | 0 | ⌛ 2022-03-10 |
 | [#15574](https://github.com/eslint/eslint/pull/15574) | feat: Fix suggestion for "no-template-curly-in-string" |  |  |  | 0 | ⌛ 2022-02-25 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 
-Total: 5
+Total: 6
 
 ## Pull requests for closed issue
 
