@@ -44,7 +44,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | 2022-03-21 |
+| [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | ⌛ 2022-03-21 |
 
 Total: 1
 
