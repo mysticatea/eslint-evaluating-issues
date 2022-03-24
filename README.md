@@ -54,10 +54,9 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision | <img alt="@mysticatea" src="https://github.com/mysticatea.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2018-02-11 |
-| [#15654](https://github.com/eslint/eslint/issues/15654) | Change Request: add a typedef for formatter functions |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | ⌛ 2022-03-21 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 
-Total: 4
+Total: 3
 
 ## Looks opposed
 
@@ -69,12 +68,11 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#15652](https://github.com/eslint/eslint/issues/15652) | Rule Change: class-methods-use-this error message |  |  |  | 0 | ⌛ 2022-03-21 |
 | [#15574](https://github.com/eslint/eslint/pull/15574) | feat: Fix suggestion for "no-template-curly-in-string" |  |  |  | 0 | ⌛ 2022-02-25 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 
-Total: 6
+Total: 5
 
 ## Pull requests for closed issue
 
