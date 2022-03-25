@@ -38,7 +38,11 @@ Nothing.
 
 ## Needs a champion and supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15724](https://github.com/eslint/eslint/issues/15724) | Rule Change: prevent new-cap from flagging the caller because of third-party modules |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2022-04-15 |
+
+Total: 1
 
 ## Needs interest
 
