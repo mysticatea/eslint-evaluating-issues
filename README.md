@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#15868](https://github.com/eslint/eslint/pull/15868) | fix: Make no-unused-var function the same way in for..of loops as for..in loops |  |  |  | 0 | 2022-06-01 |
+
+Total: 1
 
 ## Needs consensus
 
