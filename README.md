@@ -71,11 +71,10 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12438](https://github.com/eslint/eslint/issues/12438) | [no-tabs] allow exceptions |  |  |  | 2 | ⌛ 2019-11-05 |
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#15868](https://github.com/eslint/eslint/pull/15868) | fix: Make no-unused-var function the same way in for..of loops as for..in loops |  |  |  | 0 | ⌛ 2022-06-01 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 | [#11129](https://github.com/eslint/eslint/issues/11129) | padding-line-between-statements: Missing functionality covered by deprecated lines-around-directive |  |  |  | 0 | ⌛ 2018-12-18 |
 
-Total: 5
+Total: 4
 
 ## Pull requests for closed issue
 
