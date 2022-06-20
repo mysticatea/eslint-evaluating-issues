@@ -16,7 +16,7 @@ This page is a summary of feature issues.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#13689](https://github.com/eslint/eslint/issues/13689) | New rule: Prefer logical assignment operators | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@brettz9" src="https://github.com/brettz9.png" width="32px" height="32px"> |  | 16 | ⌛ 2020-10-05 |
+| [#13689](https://github.com/eslint/eslint/issues/13689) | New rule: Prefer logical assignment operators | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> | <img alt="@anikethsaha" src="https://github.com/anikethsaha.png" width="32px" height="32px"> <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> <img alt="@brettz9" src="https://github.com/brettz9.png" width="32px" height="32px"> |  | 17 | ⌛ 2020-10-05 |
 
 Total: 1
 
