@@ -45,7 +45,11 @@ Total: 1
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#16059](https://github.com/eslint/eslint/pull/16059) | feat: add importNames support for restricted import patterns  |  |  |  | 0 | 2022-07-17 |
+
+Total: 1
 
 ## Needs consensus
 
