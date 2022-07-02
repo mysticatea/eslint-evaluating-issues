@@ -41,7 +41,11 @@ Total: 1
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#16006](https://github.com/eslint/eslint/pull/16006) | feat: disallow destructured variable names |  |  |  | 0 | 2022-07-07 |
+
+Total: 1
 
 ## Needs consensus
 
