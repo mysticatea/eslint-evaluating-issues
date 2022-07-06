@@ -58,9 +58,10 @@ Nothing.
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
 | [#16104](https://github.com/eslint/eslint/issues/16104) | Change Request: Allow processors to report syntax errors |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 1 | 2022-07-27 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
+| [#16105](https://github.com/eslint/eslint/pull/16105) | feat: catch preprocess error for clearer message |  |  |  | 1 | 2022-07-27 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision |  |  |  | 0 | ⌛ 2018-02-11 |
 
-Total: 4
+Total: 5
 
 ## Looks opposed
 
