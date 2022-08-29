@@ -41,7 +41,11 @@ Total: 1
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#16255](https://github.com/eslint/eslint/issues/16255) | Migrate functional-red-black-tree to Js-sdsl OrderedMap |  |  |  | 0 | 2022-09-18 |
+
+Total: 1
 
 ## Needs consensus
 
