@@ -57,9 +57,10 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
+| [#16269](https://github.com/eslint/eslint/pull/16269) | feat: flat config should not ignore dotfiles by default |  |  |  | 0 | 2022-09-22 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision |  |  |  | 0 | ⌛ 2018-02-11 |
 
-Total: 3
+Total: 4
 
 ## Looks opposed
 
