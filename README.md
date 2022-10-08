@@ -37,7 +37,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#16196](https://github.com/eslint/eslint/pull/16196) | feat: `no-restricted-imports` option added `allowImportNames` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2022-09-02 |
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
-| [#16325](https://github.com/eslint/eslint/pull/16325) | feat: Add new rule `no-empty-static-block` |  | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 0 | 2022-10-08 |
+| [#16325](https://github.com/eslint/eslint/pull/16325) | feat: Add new rule `no-empty-static-block` |  | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 0 | ⌛ 2022-10-08 |
 
 Total: 3
 
