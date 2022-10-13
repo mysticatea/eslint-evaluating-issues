@@ -43,7 +43,11 @@ Total: 3
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#16420](https://github.com/eslint/eslint/pull/16420) | fix: check for Object.create() without explicit return value in getter return |  |  |  | 0 | 2022-11-03 |
+
+Total: 1
 
 ## Needs consensus
 
