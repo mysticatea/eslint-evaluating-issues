@@ -53,10 +53,11 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
+| [#16450](https://github.com/eslint/eslint/issues/16450) | Change Request: stop running rules set to "warn" when `--quiet` is used |  | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 5 | 2022-11-11 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision |  |  |  | 0 | ⌛ 2018-02-11 |
 
-Total: 3
+Total: 4
 
 ## Looks opposed
 
@@ -67,10 +68,11 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
+| [#16367](https://github.com/eslint/eslint/issues/16367) | Rule Change: There should be a way to specify ignores for no-param-reassign |  |  |  | 0 | ⌛ 2022-10-21 |
 | [#16006](https://github.com/eslint/eslint/pull/16006) | feat: disallow destructured variable names |  |  |  | 0 | ⌛ 2022-07-07 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 
-Total: 3
+Total: 4
 
 ## Pull requests for closed issue
 
