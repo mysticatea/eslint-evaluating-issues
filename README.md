@@ -69,11 +69,10 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#16367](https://github.com/eslint/eslint/issues/16367) | Rule Change: There should be a way to specify ignores for no-param-reassign |  |  |  | 0 | ⌛ 2022-10-21 |
 | [#16006](https://github.com/eslint/eslint/pull/16006) | feat: disallow destructured variable names |  |  |  | 0 | ⌛ 2022-07-07 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 
-Total: 4
+Total: 3
 
 ## Pull requests for closed issue
 
