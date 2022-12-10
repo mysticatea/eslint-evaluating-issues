@@ -53,12 +53,13 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
+| [#13434](https://github.com/eslint/eslint/issues/13434) | Add ability to test rule schemas | <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-07-13 |
 | [#16450](https://github.com/eslint/eslint/issues/16450) | Change Request: stop running rules set to "warn" when `--quiet` is used |  | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  | 5 | ⌛ 2022-11-11 |
 | [#12650](https://github.com/eslint/eslint/issues/12650) | Handling warnings/errors for configuration and other non-rule issues |  | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  | 0 | ⌛ 2019-12-27 |
 | [#16521](https://github.com/eslint/eslint/issues/16521) | Change Request: Add api support for timing information  |  |  |  | 1 | ⌛ 2022-11-29 |
 | [#9870](https://github.com/eslint/eslint/issues/9870) | Proposal: locale option and meta.messages revision |  |  |  | 0 | ⌛ 2018-02-11 |
 
-Total: 5
+Total: 6
 
 ## Looks opposed
 
