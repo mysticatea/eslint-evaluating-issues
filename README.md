@@ -34,7 +34,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#16196](https://github.com/eslint/eslint/pull/16196) | feat: `no-restricted-imports` option added `allowImportNames` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 3 | ⌛ 2022-09-02 |
+| [#16196](https://github.com/eslint/eslint/pull/16196) | feat: `no-restricted-imports` option added `allowImportNames` |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 4 | ⌛ 2022-09-02 |
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
 
 Total: 2
