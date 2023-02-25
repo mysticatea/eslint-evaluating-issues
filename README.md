@@ -41,7 +41,11 @@ Total: 2
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#16932](https://github.com/eslint/eslint/issues/16932) | add a back to top button on docs page |  |  |  | 0 | 2023-03-18 |
+
+Total: 1
 
 ## Needs consensus
 
