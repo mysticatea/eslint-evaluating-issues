@@ -51,7 +51,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 1 | ⌛ 2021-03-18 |
+| [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
 | [#16968](https://github.com/eslint/eslint/issues/16968) | Change Request: Correct and unify `LintMessage` type | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2023-03-28 |
 | [#13434](https://github.com/eslint/eslint/issues/13434) | Add ability to test rule schemas | <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2020-07-13 |
 | [#16521](https://github.com/eslint/eslint/issues/16521) | Change Request: Add api support for timing information  |  | <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  | 1 | ⌛ 2022-11-29 |
