@@ -40,7 +40,11 @@ Total: 1
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17182](https://github.com/eslint/eslint/pull/17182) | feat: add `skipJSXText` option to `no-irregular-whitespace` rule |  |  |  | 0 | 2023-06-04 |
+
+Total: 1
 
 ## Needs consensus
 
