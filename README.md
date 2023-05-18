@@ -35,16 +35,13 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#13496](https://github.com/eslint/eslint/issues/13496) | Rule Proposal: no-optional-eval-call |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 1 | ⌛ 2020-08-06 |
+| [#17182](https://github.com/eslint/eslint/pull/17182) | feat: add `skipJSXText` option to `no-irregular-whitespace` rule |  | <img alt="@mdjermanovic" src="https://github.com/mdjermanovic.png" width="32px" height="32px"> |  | 0 | 2023-06-04 |
 
-Total: 1
+Total: 2
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17182](https://github.com/eslint/eslint/pull/17182) | feat: add `skipJSXText` option to `no-irregular-whitespace` rule |  |  |  | 0 | 2023-06-04 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
