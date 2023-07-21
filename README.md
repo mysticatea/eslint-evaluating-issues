@@ -42,7 +42,7 @@ Total: 1
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17322](https://github.com/eslint/eslint/pull/17322) | feat: [logical-assignment-operators] flag a few more situations |  |  |  | 0 | 2023-07-21 |
+| [#17322](https://github.com/eslint/eslint/pull/17322) | feat: [logical-assignment-operators] flag a few more situations |  |  |  | 0 | ⌛ 2023-07-21 |
 
 Total: 1
 
