@@ -66,10 +66,9 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#17322](https://github.com/eslint/eslint/pull/17322) | feat: [logical-assignment-operators] flag a few more situations |  |  |  | 0 | ⌛ 2023-07-21 |
 | [#13595](https://github.com/eslint/eslint/issues/13595) | `no-invalid-regexp` relies on parser to catch unsupported RegExp syntax features |  |  |  | 0 | ⌛ 2020-09-10 |
 
-Total: 3
+Total: 2
 
 ## Pull requests for closed issue
 
