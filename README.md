@@ -36,11 +36,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17503](https://github.com/eslint/eslint/pull/17503) | feat: no-fallthrough option checkFinalCase |  |  |  | 0 | 2023-09-16 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
