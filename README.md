@@ -36,7 +36,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17535](https://github.com/eslint/eslint/pull/17535) | feat!: `no-useless-computed-key` consider template literals |  |  |  | 0 | 2023-09-27 |
+
+Total: 1
 
 ## Needs consensus
 
