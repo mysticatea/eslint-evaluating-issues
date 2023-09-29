@@ -38,7 +38,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17546](https://github.com/eslint/eslint/pull/17546) | feat: Add suggestions for no-unused-vars Fixes 17545 |  |  |  | 0 | 2023-09-29 |
+| [#17546](https://github.com/eslint/eslint/pull/17546) | feat: Add suggestions for no-unused-vars Fixes 17545 |  |  |  | 0 | ⌛ 2023-09-29 |
 
 Total: 1
 
