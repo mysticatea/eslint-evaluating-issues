@@ -61,9 +61,8 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-| [#17546](https://github.com/eslint/eslint/pull/17546) | feat: Add suggestions for no-unused-vars Fixes 17545 |  |  |  | 0 | ⌛ 2023-09-29 |
 
-Total: 2
+Total: 1
 
 ## Pull requests for closed issue
 
