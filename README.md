@@ -36,11 +36,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17677](https://github.com/eslint/eslint/pull/17677) | feat: Add suggestion for no-prototype-builtins |  |  |  | 0 | 2023-11-14 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
