@@ -58,11 +58,7 @@ Nothing.
 
 ## Looks inactive
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#12432](https://github.com/eslint/eslint/issues/12432) | "key-spacing" tab alignment |  |  |  | 2 | ⌛ 2019-11-04 |
-
-Total: 1
+Nothing.
 
 ## Pull requests for closed issue
 
