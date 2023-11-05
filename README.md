@@ -36,7 +36,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17711](https://github.com/eslint/eslint/pull/17711) | feat: update `no-array-constructor` rule |  |  |  | 0 | 2023-11-25 |
+
+Total: 1
 
 ## Needs consensus
 
