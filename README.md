@@ -36,7 +36,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17755](https://github.com/eslint/eslint/pull/17755) | feat: for-direction rule add check for condition in reverse order |  |  |  | 0 | 2023-12-04 |
+
+Total: 1
 
 ## Needs consensus
 
