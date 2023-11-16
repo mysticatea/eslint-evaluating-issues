@@ -38,7 +38,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17755](https://github.com/eslint/eslint/pull/17755) | feat: for-direction rule add check for condition in reverse order |  |  |  | 0 | 2023-12-04 |
+| [#17764](https://github.com/eslint/eslint/issues/17764) | Rule Change: Ignore class with Static initialization blocks in no-unused-vars |  |  |  | 0 | 2023-12-06 |
 
 Total: 1
 
