@@ -36,11 +36,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#17764](https://github.com/eslint/eslint/issues/17764) | Rule Change: Ignore class with Static initialization blocks in no-unused-vars |  |  |  | 0 | 2023-12-06 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
