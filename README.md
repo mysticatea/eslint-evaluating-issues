@@ -36,7 +36,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17832](https://github.com/eslint/eslint/pull/17832) | feat: add two more cases to `no-implicit-coercion` |  |  |  | 0 | 2023-12-30 |
+
+Total: 1
 
 ## Needs consensus
 
