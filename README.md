@@ -36,7 +36,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#17996](https://github.com/eslint/eslint/pull/17996) | feat: add suggestions to `use-isnan` in binary expressions |  |  |  | 0 | 2024-02-06 |
+
+Total: 1
 
 ## Needs consensus
 
