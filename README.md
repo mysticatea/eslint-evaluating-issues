@@ -48,7 +48,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#16755](https://github.com/eslint/eslint/issues/16755) | Change Request: Introduce a system to suppress existing errors | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 4 | ⌛ 2023-01-27 |
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
-| [#16521](https://github.com/eslint/eslint/issues/16521) | Change Request: Add api support for timing information  |  | <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  | 2 | ⌛ 2022-11-29 |
+| [#16521](https://github.com/eslint/eslint/issues/16521) | Change Request: Add api support for timing information  |  | <img alt="@bmish" src="https://github.com/bmish.png" width="32px" height="32px"> |  | 3 | ⌛ 2022-11-29 |
 
 Total: 3
 
