@@ -35,7 +35,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#18211](https://github.com/eslint/eslint/pull/18211) | feat: Autofix via user-defined pattern and replacement |  |  |  | 0 | 2024-04-05 |
+
+Total: 1
 
 ## Needs consensus
 
