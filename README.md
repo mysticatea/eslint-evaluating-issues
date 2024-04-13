@@ -35,11 +35,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#18318](https://github.com/eslint/eslint/pull/18318) | feat: add `Intl` in es6 globals |  |  |  | 0 | 2024-05-02 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
