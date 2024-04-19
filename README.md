@@ -47,7 +47,7 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#16755](https://github.com/eslint/eslint/issues/16755) | Change Request: Introduce a system to suppress existing errors | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 6 | ⌛ 2023-01-27 |
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
-| [#18245](https://github.com/eslint/eslint/issues/18245) | Change Request: (Consider moving .eslintcache to node_modules/.cache) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | 2024-04-19 |
+| [#18245](https://github.com/eslint/eslint/issues/18245) | Change Request: (Consider moving .eslintcache to node_modules/.cache) |  | <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 0 | ⌛ 2024-04-19 |
 
 Total: 3
 
