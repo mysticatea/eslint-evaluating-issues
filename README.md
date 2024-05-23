@@ -34,7 +34,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#18489](https://github.com/eslint/eslint/pull/18489) | feat: Allow ignoring rest sibling variables |  |  |  | 0 | 2024-06-13 |
+
+Total: 1
 
 ## Needs consensus
 
