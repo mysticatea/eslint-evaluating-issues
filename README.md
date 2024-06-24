@@ -46,8 +46,9 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#16755](https://github.com/eslint/eslint/issues/16755) | Change Request: Introduce a system to suppress existing errors | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> |  |  | 8 | ⌛ 2023-01-27 |
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
+| [#18618](https://github.com/eslint/eslint/issues/18618) | Change Request: Remove dependency on abandoned  `text-table` dependency |  |  |  | 0 | 2024-07-12 |
 
-Total: 2
+Total: 3
 
 ## Looks opposed
 
