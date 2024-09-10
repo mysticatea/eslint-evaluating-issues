@@ -34,11 +34,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#18861](https://github.com/eslint/eslint/pull/18861) | feat: limit the name given to `ImportSpecifier` in `id-length` |  |  |  | 0 | 2024-09-27 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
