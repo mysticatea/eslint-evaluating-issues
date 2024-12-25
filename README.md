@@ -36,7 +36,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#19210](https://github.com/eslint/eslint/issues/19210) | Rule Change: support i18n attributes for rule's meta.message template |  |  |  | 0 | 2024-12-25 |
+| [#19210](https://github.com/eslint/eslint/issues/19210) | Rule Change: support i18n attributes for rule's meta.message template |  |  |  | 0 | ⌛ 2024-12-25 |
 
 Total: 1
 
