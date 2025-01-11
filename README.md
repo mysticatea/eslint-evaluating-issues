@@ -34,7 +34,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19334](https://github.com/eslint/eslint/pull/19334) | feat: handle 'void 0' shortcut of 'undefined' in `valid-typeof` rule |  |  |  | 0 | 2025-01-31 |
+
+Total: 1
 
 ## Needs consensus
 
