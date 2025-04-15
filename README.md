@@ -34,7 +34,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19621](https://github.com/eslint/eslint/pull/19621) | feat: convert no-array-constructor suggestions to autofixes |  |  |  | 0 | 2025-05-05 |
+
+Total: 1
 
 ## Needs consensus
 
