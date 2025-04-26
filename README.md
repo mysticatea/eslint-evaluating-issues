@@ -34,7 +34,11 @@ Nothing.
 
 ## Needs interest
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19651](https://github.com/eslint/eslint/issues/19651) | Change Request: Add isGlobalReference() to SourceCode |  |  |  | 0 | 2025-05-09 |
+
+Total: 1
 
 ## Needs consensus
 
