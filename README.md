@@ -45,7 +45,7 @@ Nothing.
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
-| [#19651](https://github.com/eslint/eslint/issues/19651) | Change Request: Add isGlobalReference() to SourceCode | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  |  | 0 | 2025-05-09 |
+| [#19651](https://github.com/eslint/eslint/issues/19651) | Change Request: Add isGlobalReference() to SourceCode | <img alt="@snitin315" src="https://github.com/snitin315.png" width="32px" height="32px"> |  |  | 0 | ⌛ 2025-05-09 |
 
 Total: 2
 
