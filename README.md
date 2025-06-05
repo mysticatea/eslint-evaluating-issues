@@ -42,11 +42,7 @@ Nothing.
 
 ## Needs approval in a TSC meeting
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#14139](https://github.com/eslint/eslint/issues/14139) | Plugin initialization API | <img alt="@btmills" src="https://github.com/btmills.png" width="32px" height="32px"> |  |  | 2 | ⌛ 2021-03-18 |
-
-Total: 1
+Nothing.
 
 ## Looks opposed
 
