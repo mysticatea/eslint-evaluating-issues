@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs approval in a TSC meeting
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19904](https://github.com/eslint/eslint/pull/19904) | feat: output full actual location in rule tester if different |  |  |  | 0 | 2025-07-22 |
+
+Total: 1
 
 ## Looks opposed
 
