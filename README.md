@@ -36,7 +36,7 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#19947](https://github.com/eslint/eslint/issues/19947) | New Rule: require explicit return and/or handling for "location" modifications |  |  |  | 0 | 2025-08-05 |
+| [#19947](https://github.com/eslint/eslint/issues/19947) | New Rule: require explicit return and/or handling for "location" modifications |  |  |  | 0 | ⌛ 2025-08-05 |
 
 Total: 1
 
