@@ -42,7 +42,11 @@ Nothing.
 
 ## Needs approval in a TSC meeting
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19990](https://github.com/eslint/eslint/issues/19990) | Change Request: support output to multiple files with different formats |  |  |  | 0 | 2025-08-26 |
+
+Total: 1
 
 ## Looks opposed
 
