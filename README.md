@@ -34,11 +34,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#20000](https://github.com/eslint/eslint/issues/20000) | Rule Change: no-empty rule does not ignore empty switch statements with comments |  |  |  | 0 | 2025-08-30 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
