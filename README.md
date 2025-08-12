@@ -18,7 +18,11 @@ Nothing.
 
 ## Needs supporters
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#11512](https://github.com/eslint/eslint/issues/11512) | Investigating translating documentation | <img alt="@nzakas" src="https://github.com/nzakas.png" width="32px" height="32px"> | <img alt="@g-plane" src="https://github.com/g-plane.png" width="32px" height="32px"> <img alt="@aladdin-add" src="https://github.com/aladdin-add.png" width="32px" height="32px"> |  | 5 | ⌛ 2019-04-05 |
+
+Total: 1
 
 ## Needs a champion
 
@@ -38,7 +42,11 @@ Nothing.
 
 ## Needs approval in a TSC meeting
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19990](https://github.com/eslint/eslint/issues/19990) | Change Request: support output to multiple files with different formats |  |  |  | 0 | 2025-08-26 |
+
+Total: 1
 
 ## Looks opposed
 
@@ -46,7 +54,11 @@ Nothing.
 
 ## Looks inactive
 
-Nothing.
+| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
+|--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#19947](https://github.com/eslint/eslint/issues/19947) | New Rule: require explicit return and/or handling for "location" modifications |  |  |  | 0 | ⌛ 2025-08-05 |
+
+Total: 1
 
 ## Pull requests for closed issue
 
