@@ -34,11 +34,7 @@ Nothing.
 
 ## Needs interest
 
-| # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
-|--:|:------|:------:|:-----------|:--------|---:|:--:|
-| [#20260](https://github.com/eslint/eslint/pull/20260) | feat: update error location of `max-params` rule |  |  |  | 0 | 2025-11-20 |
-
-Total: 1
+Nothing.
 
 ## Needs consensus
 
