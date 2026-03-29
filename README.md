@@ -44,9 +44,10 @@ Nothing.
 
 | # | Title | Champ. | Supporters | Against | 👍 | 🕙 |
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
+| [#20590](https://github.com/eslint/eslint/issues/20590) | Change Request: Export file globs of supported files |  |  |  | 2 | ⌛ 2026-03-27 |
 | [#19990](https://github.com/eslint/eslint/issues/19990) | Change Request: support output to multiple files with different formats |  |  |  | 1 | ⌛ 2025-08-26 |
 
-Total: 1
+Total: 2
 
 ## Looks opposed
 
