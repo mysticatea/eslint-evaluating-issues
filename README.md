@@ -46,8 +46,9 @@ Nothing.
 |--:|:------|:------:|:-----------|:--------|---:|:--:|
 | [#20590](https://github.com/eslint/eslint/issues/20590) | Change Request: Export file globs of supported files |  |  |  | 3 | ⌛ 2026-03-27 |
 | [#19990](https://github.com/eslint/eslint/issues/19990) | Change Request: support output to multiple files with different formats |  |  |  | 2 | ⌛ 2025-08-26 |
+| [#20839](https://github.com/eslint/eslint/issues/20839) | Change Request: OSS-Fuzz integration |  |  |  | 0 | ⌛ 2026-05-25 |
 
-Total: 2
+Total: 3
 
 ## Looks opposed
 
